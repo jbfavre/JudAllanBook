@@ -31,11 +31,69 @@ cela, il vous suffit de:
   - extraire les gravures des photos pour pouvoir, à terme, les réintégrer dans
     l'ouvrage final
 
-## Conventions
+## Syntaxe Markdown
 
 Le texte corrigé doit être formaté avec Markdown. Ceci simplifiera les opérations
 de conversion dans les formats Epub, PDF Texte, HTML, ...
 
+### Largeur de texte
+
+Pour faciliter le travail en "demi-écran", avec l'image d'un côté et
+le texte de l'autre, le texte sera coupé à 80 caractères environ. Les
+mots ne doivent **jamais** être coupés. Un simple retour à la ligne est
+utilisé pour indiqué que le paragraphe n'est pas terminé. Par exemple:
+
+    Pour faciliter le travail en "demi-écran", avec l'image d'un côté et
+    le texte de l'autre, le texte sera coupé à 80 caractères environ. Les
+    mots ne doivent **jamais** être coupés. Un simple retour à la ligne est
+    utilisé pour indiqué que le paragraphe n'est pas terminé. Par exemple:
+
+### Paragraphes
+
+Les paragraphes sont matérialisés par une ligne vide.
+
+Par exemple, voici ce que cela donne:
+
+    Les paragraphes sont matérialisés par une ligne vide.
+    >>> ligne vide
+    Par exemple, voici ce que cela donne:
+
+### Mise en évidence du texte
+
+Un texte italique est encadré de 2 _underscore_ comme ceci:
+
+    Un texte italique est encadré de 2 _underscore_ comme ceci:
+
+Un texte en gras est, lui, encadré de 2 **étoiles**, comme par exemple:
+
+    Un texte en gras est, lui, encadré de 2 **étoiles**, comme par exemple:
+
+### Citations
+
+> Les citations débutent par le signe > suivi d'une espace. Il n'est pas
+nécessaire d'ajouter le signe > à chaque ligne.
+
+> En revanche, il faut le remettre à chaque paragraphe.
+
+    > Les citations débutent par le signe > suivi d'une espace. Il n'est pas
+    nécessaire d'ajouter le signe > à chaque ligne.
+    
+    > En revanche, il faut le remettre à chaque paragraphe.
+
+## Conventions typographiques
+
+### Dialogues
+
+Les dialogues sont précédés d'un tiret cadratin — ( et **pas** d'un trait
+d'union). Le tiret dacratin est plus large que le trait d'union.
+
+    — tiret cadratin
+    - trait d'union
+
+### Guillemets
+
+Les guillemets français « » doivent être préférés à leur équivalent
+anglais "", sauf utilisation explicite dans l'édition numérisée.
 
 [1]: http://www.laquadrature.net/fr
 [2]: https://fr.wikipedia.org/wiki/Paul_d%27Ivoi
