@@ -84,7 +84,7 @@ nécessaire d'ajouter le signe > à chaque ligne.
 ### Dialogues
 
 Les dialogues sont précédés d'un tiret cadratin — ( et **pas** d'un trait
-d'union). Le tiret dacratin est plus large que le trait d'union.
+d'union). Le tiret cadratin est plus large que le trait d'union.
 
     — tiret cadratin
     - trait d'union
