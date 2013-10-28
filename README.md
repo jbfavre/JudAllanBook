@@ -91,8 +91,8 @@ d'union). Le tiret cadratin est plus large que le trait d'union.
 
 ### Guillemets
 
-Les guillemets français « » doivent être préférés à leur équivalent
-anglais "", sauf utilisation explicite dans l'édition numérisée.
+Les guillemets français « et » doivent être préférés à leur équivalent
+anglais " et ", sauf utilisation explicite dans l'édition numérisée.
 
 [1]: http://www.laquadrature.net/fr
 [2]: https://fr.wikipedia.org/wiki/Paul_d%27Ivoi
