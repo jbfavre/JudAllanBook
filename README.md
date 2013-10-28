@@ -41,12 +41,12 @@ de conversion dans les formats Epub, PDF Texte, HTML, ...
 Pour faciliter le travail en "demi-écran", avec l'image d'un côté et
 le texte de l'autre, le texte sera coupé à 80 caractères environ. Les
 mots ne doivent **jamais** être coupés. Un simple retour à la ligne est
-utilisé pour indiqué que le paragraphe n'est pas terminé. Par exemple:
+utilisé pour indiquer que le paragraphe n'est pas terminé. Par exemple:
 
     Pour faciliter le travail en "demi-écran", avec l'image d'un côté et
     le texte de l'autre, le texte sera coupé à 80 caractères environ. Les
     mots ne doivent **jamais** être coupés. Un simple retour à la ligne est
-    utilisé pour indiqué que le paragraphe n'est pas terminé. Par exemple:
+    utilisé pour indiquer que le paragraphe n'est pas terminé. Par exemple:
 
 ### Paragraphes
 
