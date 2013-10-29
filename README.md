@@ -11,7 +11,7 @@ de numérisation seront prochainement disponibles sur les réseaux P2P.
 
 ## Le livre
 
-« Jud Allan, roi des lads » a été écrit par [Paul d'Ivoi](2)
+« Jud Allan, roi des “lads” » a été écrit par [Paul d'Ivoi](2)
 en 1909. Il fait partie des [Voyages excentriques](3)
 qui comptent 21 volumes
 
@@ -92,7 +92,7 @@ d'union). Le tiret cadratin est plus large que le trait d'union.
 ### Guillemets
 
 Les guillemets français « et » doivent être préférés à leur équivalent
-anglais " et ", sauf utilisation explicite dans l'édition numérisée.
+anglais “ et ”, sauf utilisation explicite dans l'édition numérisée.
 
 [1]: http://www.laquadrature.net/fr
 [2]: https://fr.wikipedia.org/wiki/Paul_d%27Ivoi
