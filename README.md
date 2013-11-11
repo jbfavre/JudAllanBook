@@ -111,6 +111,13 @@ d'un trait d'union). Le tiret cadratin est plus large que le trait d'union
     — tiret cadratin
     - trait d'union
 
+Le tiret cadratin est, entre autre, utilisé en incise. Il est alors
+accompagné d'une espace justifiante à l'extérieur et d'une espace insécable
+à l'intérieur.
+Par exemple, ce — texte d'incise — s'écrit:
+
+    `U+2003``U+2014``U+202F`texte d'incise`U+202F``U+2014``U+2003`
+
 [Tiret sur Wikipédia](4)
 
 ### Guillemets & apostrophes
@@ -136,9 +143,12 @@ Il existe également ‘, code `U+2018` mais on préférera en général la prem
 
 Les point de suspension peuvent être obtenus en utilisant le code `U+2026`
 
-### Espaces & espaces insécables
+### Espaces, espaces justifiantes & espaces insécables
 
-Il existe deux types d'espaces insécables:
+L'espace justifiante, code `U+2003`, est utilisée dans les textes d'incise,
+à l'extérieur du tiret cadratin.
+
+En outre, il existe deux types d'espaces insécables:
 
 1. les espaces fines, code `U+202F`
 2. les espaces pleines, code `U+00A0`
@@ -176,6 +186,13 @@ rapidement :
     sed -i 's/\.\.\./…/g' texte/1-page-*.md
     sed -i 's/?\.\./?…/g' texte/1-page-*.md
     sed -i 's/!\.\./!…/g' texte/1-page-*.md
+    sed -i 's/« /« /g' texte/1-page-*.md
+    sed -i 's/ »/ »/g' texte/1-page-*.md
+    sed -i 's/Mme /M^me /g' texte/1-page-*.md
+    sed -i 's/Mmes /M^mes /g' texte/1-page-*.md
+    sed -i 's/Mlle /M^lle /g' texte/1-page-*.md
+    sed -i 's/Mlles /M^lles /g' texte/1-page-*.md
+    sed -i 's/M\. /M\. /g' texte/1-page-*.md
 
 Attention, n'exécutez ces commandes que sur une page **corrigéé** pour limiter
 au maximum les effets de bord.
@@ -185,3 +202,4 @@ au maximum les effets de bord.
 [3]: https://fr.wikipedia.org/wiki/Paul_d%27Ivoi#Les_Voyages_excentriques
 [4]: http://fr.wikipedia.org/wiki/Tiret
 [5]: http://fr.wikipedia.org/wiki/Guillemets
+
