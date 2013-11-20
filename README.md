@@ -193,6 +193,7 @@ rapidement :
     sed -i 's/Mlle /M^lle /g' texte/1-page-*.md
     sed -i 's/Mlles /M^lles /g' texte/1-page-*.md
     sed -i 's/M\. /M\. /g' texte/1-page-*.md
+    sed -i 's/ A / À /g' texte/1-page-*.md
 
 Attention, n'exécutez ces commandes que sur une page **corrigéé** pour limiter
 au maximum les effets de bord.
