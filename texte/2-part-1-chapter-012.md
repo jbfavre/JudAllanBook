@@ -707,6 +707,60 @@ l’Allemand, irrité, lui ayant demandé rudement :
 
 — C’est vous, bégaya son interlocuteur.
 
+— Moi, tu oses le dire ?
+
+— C'est votre faute aussi, avec cette idée de m'écraser d'une pichenette.
+
+— En quoi cela est-il risible ? Douterais-tu de la possibilité de la chose ?
+
+— Je pense bien que j'en doute... Pour m'écraser comme cela, il faudrait vraiment que j'y misse de la bonne volonté.
+
+Tous les bandits regardaient, intéressés par l'aplomb du jeune garçon.
+
+Quant à von Foorberg, son visage était devenu cramoisi.
+
+— Tu sais que je m'appelle Foorberg et uqe la patiense n'a jamais été mon fort.
+
+— Moi non plus, jeta son interlocuteur avec indifférence... Je m'aperçois que,
+pour la conversation, vous n'êtes pas aussi malin que moi, il faut donc que je vous donne la satisfaction de vous battre contre moi.
+
+A ce défi que tous considérèrent comme une plaisanterie, von Foorberg parut prêt à s'élancer sur le railleur. Jetty se jeta entre eux.
+
+— Allons Foorberg, vous n'allez pas brutaliser ce garçon. Souvenez-vous que c'est
+un pupille du Crâne qui veut essayer de faire des élèves...
+
+Mais il ne continua pas. Jud Allan l'avait saisi par le bras.
+
+— Ne vous occupez  donc pas de ça, digne master Jetty ; ce gros gentleman a besoin
+d'une correction. Il l'aura. Venez sur le pont. On vous montrera comment cela se
+joue.
+
+Il y eut un instant de tumulte, les uns riant, Foorberg écumant, devant l'aplomb
+incompréhensible du petit bonhomme.
+
+Vainement, Jetty, et même Tom, essayèrent d'apaiser les esprits. Leurs camarades,
+excités par les clameurs de von Foorberg, auxquelles van Reek faisait écho, ne
+voulurent rien entendre.
+
+— Sur le pont ! Sur le pont ! Au diable le gamin... Il a trop d'audace... Au
+martinet, l'apprenti qui tente de se moquer du maître ouvrier.
+
+Et Jud insistant de son côté, ses deux compagnons d'évasion durent se ranger au
+désir général.
+
+Mais tandis que tous passaient par l'escalier du pont, l'Irlandais retint l'enfant
+en arrière.
+
+— Vous savez, petite chose, il a la main lourde, Foorberg... Aussitôt que vous en
+aurez assez, appelez-moi...; et les couteaux dussent-ils prendre l'air, je vous
+ferai lâcher.
+
+— Bon, murmura Jud, je vous remercie, Jetty... Mais vous oubliez ce que je vous ai dit à Alb-Point ; la force n'est rien, l'adresse est tout.
+
+— C'était donc sérieusement que vous me proposiez de _me tomber_ ?
+
+Jud affirma du geste.
+
 — Seulement, vous êtes un bon vieux garçon, Jetty. Vous m’avez tiré de prison, vous m’avez fait embaucher par le Crâne… Cela m’aurait ennuyé de me battre avec vous !… Tandis que l’autre, ça m’amusera, et je vous
 prouverai tout de même que je vous disais la vérité.
 
