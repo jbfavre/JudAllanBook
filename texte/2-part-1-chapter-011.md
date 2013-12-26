@@ -686,7 +686,7 @@ Ces mots amenèrent un sourire sur les traits de Lilian.
 — Oh ! que me dis-tu là ?
 — La vérité. Il vint à moi, toute interdite de le voir en cet état ; il me regarda fixement, les yeux dans les yeux… Et moi, je sentais un trouble m’envahir, il me semblait que je tombais doucement dans un sommeil hypnotique invincible… Mais brusquement, il détourna son regard de moi, je l’entendis murmurer : « Non, pas elle, pas elle ; il ne faut pas que sa volonté s’accoutume à être l’esclave de la mienne ! »
  
-[Image: "Je m’endormais en le voyant assis, sous la lampe, avec des livres, des cahiers…"](../images/1-page-191.JPG)
+![Image: "Je m’endormais en le voyant assis, sous la lampe, avec des livres, des cahiers…"](../images/1-page-191.JPG)
 
 — Oh! s’exclama Grace, cela est tout à fait impressionnant… Et tu ne
 rêvais pas ?
@@ -792,7 +792,7 @@ Lilian sourit à son interlocutrice.
 
 — Non, je ne pense pas. Je vécus de onze à dix-sept ans, dans une ravissante hacienda, transformée en maison d’éducation. J’aurais été heureuse, si j’avais vu Jud plus souvent ; mais il ne venait qu’à de rares intervalles.
 
-[Image: "Je tirai à la carabine."](../images/1-page-194.JPG)
+![Image: "Je tirai à la carabine."](../images/1-page-194.JPG)
 
 N’importe, présent ou absent, il était toujours là, dans mon esprit et dans
 mon cœur.

@@ -75,7 +75,7 @@ L’Indienne lui toucha le bras.
 
 — De qui parlez-vous, gracieuse Rouge-Fleur ?
 
-[Dessin: "Il le déplia, le secoua au-dessus de la cruche d’eau](../images/1-page-468.JPG)
+![Image: "Il le déplia, le secoua au-dessus de la cruche d’eau"](../images/1-page-468.JPG)
 
 La mignonne créature rougit légèrement, mais presqu’aussitôt redevenue
 maîtresse d’elle-même :
@@ -321,8 +321,9 @@ Il poursuivit :
 > Venez à l’hacienda sans retard. Les forces policières l’envahiront cette
   nuit, je pense, et peut-être ne vous serait-il pas agréable d’entendre
   leurs appréciations sur mon œuvre.
-[Image: "TOUS SONT MORTS."](../images/1-page-473.JPG)
-PAGE VIDE
+
+![Image: "Tous ont morts."](../images/1-page-473.JPG)
+
 > Aussi je vous presse… Vous pourrez me rendre, avant leur arrivée, un
   service que vous n’oserez pas me refuser.
 

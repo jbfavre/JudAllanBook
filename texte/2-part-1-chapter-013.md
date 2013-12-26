@@ -124,7 +124,7 @@ Un instant, il demeura immobile, puis il eut un grand geste de résolution.
 Il sortait du panneau tout en parlant. L’arrière du navire lui apparu
 désert.
 
-[Image: "Jud se laissa glisser dans l’eau."](../images/1-page-224.JPG)
+![Image: "Jud se laissa glisser dans l’eau."](../images/1-page-224.JPG)
 
 Ainsi qu’une ombre, il se glissa jusqu’auprès des palans supportant l’un des canots.
 Une corde déroulée baignait son extrémité dans les flots.
@@ -474,7 +474,7 @@ L’homme élève la voix :
 
 — Garçons, au moment d’agir, je veux, selon la coutume de notre association vous expliquer sans détours le but de notre réunion sur les terres de l’hacienda de Agua Frida.
 
-[Image: "Un nouveau personnage vient d’entrer dans la clairière."](../images/1-page-232.JPG)
+![Image: "Un nouveau personnage vient d’entrer dans la clairière."](../images/1-page-232.JPG)
  
 — Agua Frida, murmure Jud gravant ce nom dans son esprit.
 
@@ -698,7 +698,7 @@ l’enfant qu’elle tenait en ses bras. Puis il regarde le cadavre qui s’écr
 
 Celui dont, en dépit du masque, le gamin connaît à présent deux noms : Le Crâne,  Frey, reprend le chemin qu’il a parcouru tout à l’heure.
 
-[Image: "Avant que le corps de Trina ait roulé à terre."](../images/1-page-238.JPG)
+![Image: "Avant que le corps de Trina ait roulé à terre."](../images/1-page-238.JPG)
 
 Sous son bras, tel un paquet vulgaire, il emporte l’enfant endormie par le
 laudanum.
@@ -800,8 +800,9 @@ quadrupède.
 
 Celui-ci veut se débarrasser du cavalier. Mais le gamin lui scie la bouche
 avec sa cordelette, il lui enfonce ses talons dans les flancs. L’animal a un
-[Image: "VOICI CELLE QUE TU CHERCHES."](../images/1-page-241.JPG)
-PAGE BLANCHE
+
+![Image: "Voici celle que tu cherches."](../images/1-page-241.JPG)
+
 hennissement de douleur, et furieux, affolé, il s’emballe en un galop éperdu.
 
 Soudain une détonation lointaine résonne.
@@ -1015,7 +1016,7 @@ le Crâne.
 
 Un dernier voyage à San-Francisco montre au jeune homme, — il a dix-neuf ans maintenant, — son ennemi plus puissant que jamais.
 
-[Image: "Les sorciers de la tribu lui apprennent tout ce qu’ils savent."](../images/1-page-248.JPG)
+![Image: "Les sorciers de la tribu lui apprennent tout ce qu’ils savent."](../images/1-page-248.JPG)
 
 Frey Jemkins est sénateur ; Frey Jemkins commence à être une force avec
 laquelle les trusts entrent en composition.
@@ -1171,7 +1172,7 @@ plancher une poudre blanche qu’il contenait. Au choc léger produit par sa
 chute, la poudre avait instantanément changé de couleur, tournant à une
 teinte jaunâtre, analogue à celle du bois.
 
-[Image: "Elle avait tiré de sa poche un papier."](../images/1-page-252.JPG)
+![Image: "Elle avait tiré de sa poche un papier."](../images/1-page-252.JPG)
 
 Grace se leva, prit son amie dans ses bras et la baisa au front.
 
@@ -1363,8 +1364,7 @@ Les anciens bandits de Agua Frida ont changé d’allure. L’âge a jeté ses f
 gris dans leur chevelure, a épaissi leur torse. La fortune leur a donné une
 aisance mondaine dans les mouvements. Leur ancienne tenue de coureurs de prairie a cédé la place aux vêtements des gentlemen. Tous se sont créé une _respectabilité_ apparente, qui peut tromper les yeux non prévenus.
 
-[Image: "J’entrai dans la police à cheval."](../images/1-page-257.JPG)
-
+![Image: "J’entrai dans la police à cheval."](../images/1-page-257.JPG)
 
 Le Crâne, puisque tel est le nom conservé par Frey Jemkins parmi ses lieutenants, le Crâne les salue de la tête, serre les mains respectueuses
 tendues vers lui, puis, prenant une chaise libre, il s’assied, invite les assistants à l’imiter.
@@ -1543,7 +1543,7 @@ accepter la main de ma richissime petite cousine !
 — Or, fit Jemkins sans tenir compte de l’interruption, grâce à ce sentiment, que je qualifierai de louable, au moins pour nous, j’ai obtenu de ce
 jeune homme un certain nombre de signatures en blanc sur des feuilles officielles qui seront remplies par mes soins. Ce qui doit y figurer dans l’esprit de ce délicat fiancé, c’est la renonciation aux avantages financiers résultant pour lui de son mariage. Ce qui y figurera en réalité, ce seront les formules de la transaction avec la Société japonaise propriétaire du bail de Agua Frida.
 
-[Image: "Eh bien, il existe quelqu’un qui veut ruiner ce plan."](../images/1-page-262.JPG)
+![Image: "Eh bien, il existe quelqu’un qui veut ruiner ce plan."](../images/1-page-262.JPG)
 
 — Ah ! s’écria Kan-So, ceci est génial. Le mari de miss Linérès, ou Lilian,
 Pariset, traite avec le Japon. Il en a toute la responsabilité ; il est vilipendé, condamné au supplice des traîtres s’il est pris.

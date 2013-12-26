@@ -140,7 +140,7 @@ Le petit chasseur eut un cri de joie.
 
 — Sa préférence instinctive irait au flamand, moins répandu que le français.
 
-[Image: "Et pensif le professeur continua."](../images/1-page-363.JPG)
+![Image: "Et pensif le professeur continua."](../images/1-page-363.JPG)
 
 — Alors, vous concluez que ce vilain personnage a employé cette langue.
 
@@ -325,7 +325,7 @@ La correspondance avec l’extérieur est assurée. Les lettres déposées dans 
 
 Les compagnies américaines ont, en effet, adopté récemment l’appareil d’un inventeur français qui permet d’utiliser les rails pour la transmission des communications électriques.
 
-[Image: "Cette dernière chargée du fantasque zaïmziri Zinka."](../images/1-page-367.JPG)
+![Image: "Cette dernière chargée du fantasque zaïmziri Zinka."](../images/1-page-367.JPG)
 
 Jud Allan dans un pulmann, où avaient également pris place Tril, Suzan et le zaïmziri, roulèrent durant six jours, lurent, prirent leurs repas, dormirent, reçurent diverses dépêches chiffrées, tant de Top et de Fall emportés a quelques heures d’intervalle par le même train que Van Reek, que des lads de San-Francisco, mettant Tril au courant de leurs recherches.
 
@@ -387,9 +387,9 @@ Comme à Washington, comme à Ottawa, le délégué des Lads de San-Francisco ex
 main de l’envoyé.
 
 L’une des curiosités de San-Francisco est sans contredit son quartier
-[Image: "C’EST DANS CETTE MAISON QUE JUD ALLAN ET SES JEUNES COMPAGNONS AVAIENT ÉTÉ CONDUITS."](../images/1-page-369.JPG)
 
-PAGE BLANCHE
+![Image: "C’est dans cette maison que Jud Allan et ses jeunes compagnons avaient été conduits."](../images/1-page-369.JPG)
+
 chinois. C’est un quadrilatère, borné par les rues Stockton, Sacramento, Pacific
 et Kearny, où s’entassent de hautes maisons séparées par d’étroites et malpropres ruelles. Au sortir de la ville saxonne, on se croirait brusquement
 transporté en pays jaune. Boutiques, théâtres, bonzeries, restaurants, lanternes en papier, habitants, sont chinois, et la nuit venue, le blanc est imprudent qui s’aventure en ce quartier, sans être accompagné par un détective.

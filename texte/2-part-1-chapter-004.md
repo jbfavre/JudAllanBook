@@ -178,7 +178,8 @@ Von Foorberg attendait toujours.
 
 — Voyons, reprit-il, n’est-il personne ici qui souhaite le mot d’une énigme de la vie ? Marahi ne lira rien autre. Il arrive, à chaque instant, une chose inexplicable pour qui en est atteint. Ceci n’est point un secret que l’on craigne de voir dévoiler… ; c’est l’x d’un problème que l’on doit désirer connaître.
 
-[Image: "La voyante est une femme âgée, à la peau rouge-brun."](../images/1-page-068.JPG)
+![Image: "La voyante est une femme âgée, à la peau
+rouge-brun."](../images/1-page-068.JPG)
 
 — Moi, j’aurais ce désir.
 
@@ -390,8 +391,9 @@ Mais la jolie pièce était maintenant déserte. Von Foorberg et Marahi avaient 
 Et avec un geste de dépit, elle se laissa choir dans un fauteuil, où elle
 s’immobilisa, la figure rêveuse, le regard vague, se berçant des confidences
 inattendues qui venaient de bouleverser l’orientation morale de sa vie.
-[Image: "Oh ! Murmura la jeune fille, quel froid !"](../images/1-page-073.JPG)
-PAGE BLANCHE
+
+![Image: "Oh ! Murmura la jeune fille, quel froid !"](../images/1-page-073.JPG)
+
 Soudain, Linérès eut l’impresssion qu’un corps opaque s’était interposé
 entre elle et les objets environnants.
 

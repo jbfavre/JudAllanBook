@@ -82,7 +82,10 @@ On venait de frapper légèrement à la porte.
 
 Mais ce fut la posadera Olinda qui se montra, tenant d’une main une écuelle où tremblotait le fromage mou de Cambroseda, et de l’autre une petite corbeille emplie de pommes d’une coloration particulière.
 
-— Voici le dessert du señor Français, susurra la commère en minaudant. Que le señor ne se dérange pas, je vais simplement le poser devant lui. Une section de miquelets (1) va passer la nuit à la posada… Quel travail pour la faiblesse d’une femme !
+— Voici le dessert du señor Français, susurra la commère en minaudant. Que le
+señor ne se dérange pas, je vais simplement le poser devant lui. Une section
+de miquelets [^1] va passer la nuit à la posada… Quel travail pour la
+faiblesse d’une femme !
 
 Tout en parlant, elle disposait fromage et fruits devant le marquis de
 
@@ -270,7 +273,8 @@ Comme il songeait, un chant parvint à ses oreilles.
 C’était un de ces _canzones_ de bergers, lents et doux, comme rythmés sur le
 mouvement paisible des troupeaux au pâturage.
 
-[Image: "La chanteuse était assise sur une pierre, dans un angle."](../images/1-page-027.JPG)
+![Image: "La chanteuse était assise sur une pierre, dans un
+angle."](../images/1-page-027.JPG)
 
 La voix, féminine évidemment, sonnait forte et juste, avec cette ignorance charmeuse des règles de l’art musical, particulière aux chants de plein air.
   
@@ -413,7 +417,8 @@ Ce simple détail est éloquent… La serrure est la précaution de qui possède
 
 Il avait soif de la connaître davantage, et il ne songea même pas à l’indiscrétion de son acte, lorsqu’il fit basculer le loquet et ouvrit la porte.
 
-[Image: "A travers les vitres, il essaya de voir à l’intérieur."](../images/1-page-031.JPG)
+![Image: "A travers les vitres, il essaya de voir à
+l’intérieur."](../images/1-page-031.JPG)
 
 Le logis était celui de pauvres paysans. Des meubles peu nombreux, de sapin verni, remplissant mal deux pièces au carrelage en mauvais état.
 
@@ -933,7 +938,8 @@ Après quoi secouant cordialement la main du Français :
 
 — Que les Saints Anges accompagnent ta marche. Adios !
 
-[Image: "Droit devant toi. La fonda de Salamanca, dirent-ils."](../images/1-page-042.JPG)
+![Image: "Droit devant toi. La fonda de Salamanca,
+dirent-ils."](../images/1-page-042.JPG)
 
 Sans avoir le loisir de répondre, Pierre, entraîné par ses gardiens aussi
 irrésistiblement qu’à l’arrivée, se retrouva dans l’obscurité opaque du sous
@@ -988,4 +994,4 @@ Son compagnon le salue. De nouveau la machine siffle ; la file des wagons s’
 
 -----
 
-(1) Les miquelets sont des miliciens provinciaux concourant avec la gendarmerie à maintenir l’ordre.
+[^1]: Les miquelets sont des miliciens provinciaux concourant avec la gendarmerie à maintenir l’ordre.

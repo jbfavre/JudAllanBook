@@ -257,8 +257,9 @@ commun des criminels.
 
 A la prostration succéda le désir de vaincre la police, cette ennemie contre
 laquelle il avait lutté toute sa vie.
-[Image: "L’ALLURE ÉTAIT TERRIFIANTE."](../images/1-page-381.JPG)
-PAGE BLANCHE
+
+![Image: "L’allure était terrifiante."](../images/1-page-381.JPG)
+
 Il était seul dans un train mené par deux agents.
 
 — Deux agents, murmura-t-il, peu de chose !
@@ -324,7 +325,7 @@ courbes incessantes. À cent mètres en avant ou en arrière, la voie est masqu�
 Lentement Van Reek actionne les freins. Les roues patinent sur les
 rails, la vitesse décroît. Quelques tours de roues et la locomotive s’arrête.
 
-[Image: "Lentement, il se mit à progresser vers l’avant du train."](../images/1-page-384.JPG)
+![Image: "Lentement, il se mit à progresser vers l’avant du train."](../images/1-page-384.JPG)
 
 Sans perdre une seconde, le lieutenant de Frey Jemkins saute sur le ballast. Il court aussi vite qu’il le peut en avant de la locomotive. Il a un cri de joie.
 

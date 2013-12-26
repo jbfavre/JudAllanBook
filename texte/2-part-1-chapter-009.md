@@ -168,7 +168,7 @@ proche pour moi, que mes espoirs de reconnaissance ou d’honneurs se sont
 éteints avec la jeunesse. Parce que, je veux enfin que toi, Rouge-Fleur,
 chère à mon cœur entre toutes, toi qui personnifies ma haine et ma vengeance, tu aies la gloire et le profit… Va !
 
-[Image: "Feuillette ce livre avant de nous séparer. Tu comprendras."](../images/1-page-135.JPG)
+![Image: "Feuillette ce livre avant de nous séparer. Tu comprendras."](../images/1-page-135.JPG)
 
 Et la gracieuse Rouge-Fleur, dominée par son accent, s’éloigne à pas lents, pour s’enfoncer bientôt dans l’une des rues aboutissant au quai.
 
@@ -227,7 +227,7 @@ Surprise ! La baguette est creuse. C’est une sarbacane.
 Sans bruit elle la glisse par la fissure qui, à l’instant, livrait passage à ses
 regards, puis dans l’orifice elle introduit une boulette de papier, elle approche ses lèvres du tube.
 
-[Image: "Elle vise l’inconnu."](../images/1-page-137.JPG)
+![Image: "Elle vise l’inconnu."](../images/1-page-137.JPG)
 
 Elle vise… Elle vise l’inconnu. Ses joues se gonflent. Soudain un bruit
 léger se fait entendre, auquel répond une exclamation étonnée.
@@ -387,7 +387,7 @@ Mais la voiture s’arrête.
 
 Les lourds vantaux de la porte de la maison Frey Jemkins tournent sur leurs gonds, démasquant un concierge chamarré. Le landau passe dans le vestibule dallé avec un bruit de tonnerre et dépose les voyageurs au pied du perron monumental, qui accède aux appartements.
 
-[Image: "Les lourds vantaux démasquent un concierge chamarré."](../images/1-page-141.JPG)
+![Image: "Les lourds vantaux démasquent un concierge chamarré."](../images/1-page-141.JPG)
 
 Plus légèrement qu’on ne l’eût attendu d’un homme de sa corpulence, Frey saute à
 terre. Il tend la main à Linérès interdite.
@@ -550,8 +550,9 @@ La démente, du geste, repoussait l’enfant prosternée à ses pieds.
 
 — Laissez-moi lui parler, interrompit alors Jemkins. J’ai l’habitude de
 converser avec Lily.
-[Image: "Lilian ! Ma fille !"](../images/1-page-145.JPG)
-PAGE VIDE
+
+![Image: "Lilian ! Ma fille !"](../images/1-page-145.JPG)
+
 Puis, appuyant l’index sur l’épaule de la malheureuse :
 
 — Lily, gronda-t-il d’un ton autoritaire, Lily, je veux que vous m’écoutiez.
@@ -726,7 +727,7 @@ Il se retourna tout d’une pièce, montrant à son interlocuteur sa face ironiq
 
 — Présent ! Qu’y a-t-il pour votre agrément, s’il vous plaît ?
 
-[Image: "Tril séloigna en flâneur."](../images/1-page-150.JPG)
+![Image: "Tril séloigna en flâneur."](../images/1-page-150.JPG)
 
 — Te rappeler que le retour à bord est pour ce soir dix heures.
 

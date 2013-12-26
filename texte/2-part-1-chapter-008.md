@@ -98,7 +98,7 @@ Pierre vient de gémir cela, quand on heurte à sa porte. Instinctivement il ré
 
 — Entrez !
 
-[Image: "Je gage que vous m’avez pris pour le vieux Nick."](../images/1-page-127.JPG)
+![Image: "Je gage que vous m’avez pris pour le vieux Nick."](../images/1-page-127.JPG)
 
 Le battant tourne sur ses gonds. Une haute silhouette se dessine dans
 l’encadrement de l’entrée, et le jeune homme se dresse tout droit, stupide à

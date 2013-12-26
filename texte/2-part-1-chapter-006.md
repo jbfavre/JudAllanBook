@@ -207,7 +207,9 @@ Deux minutes plus tard, M. Lerenaud très pâle, une stupeur dans les yeux, qu
 A la moitié de l’étage, il fut arrêté par un monsieur qui, courbé en deux,
 semblait très occupé à retrousser le bas de son pantalon.
 
-[Image: "Il fut arrêté par un monsieur qui semblait très occupé à retrousser le bas de son pantalon."](../images/1-page-091.JPG)
+![Image: "Il fut arrêté par un monsieur qui semblait très occupé à retrousser
+le bas de son pantalon."](../images/1-page-091.JPG)
+
 Avant que le chef de la Sûreté eût pu tourner l’obstacle vivant, celui-ci, sans lever la tète, murmura :
 
 — Me permettrez-vous de vous rejoindre là-bas ?
@@ -445,8 +447,9 @@ comtesse de Armencita, la señorita Linérès et un vieux serviteur que la comte
 présenter une lacune… L’assassin a pu pénétrer ici, puis s’enfuir…
 
 — C’est ce que je me dis… Et voilà pourquoi j’attends que ces malheureuses femmes soient en état de supporter l’interrogatoire dont je ne saurais les dispenser.
-[Image: "QUI À FAIT CELA ?"](../images/1-page-097.JPG)
-PAGE VIDE
+
+![Image: "Qui a fait cela ?"](../images/1-page-097.JPG)
+
 Et hochant la tête, M. Lerenaud continua :
 
 — Quoique, à vrai dire, votre hypothèse me semble bien inacceptable…

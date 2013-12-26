@@ -249,7 +249,7 @@ Puis avec un sourire coquet au délégué :
 
 — Vous m’excuserez de donner des ordres, Señor. Ne Voyez dans mon empressement que le vif désir de sortir d’un imbroglio véritablement trop compliqué pour mon goût.
 
-[Images: "Elle entraîna le Mexicain."](../images/1-page-421.md)
+![Images: "Elle entraîna le Mexicain."](../images/1-page-421.md)
 
 La domestique reparut sur le seuil annonçant :
 
@@ -426,8 +426,9 @@ nom de Linérès de Armencita.
 
 — Ainsi que je le consignerai moi-même sur le contrat et sur le décret
 d’envoi en possession de l’héritière.
-[Image: "ICI NOUS N’AURONS À CRAINDRE AUCUNE OREILLE INDISCRÈTE."](../images/1-page-425.JPG)
-PAGE VIDE
+
+![Image: "Ici nous n’aurons à craindre aucune oreille indiscrète."](../images/1-page-425.JPG)
+
 Mais parmi les fumées des libations, une idée se fit jour dans la cervelle du délégué.
 
 — À propos, je n’ai pas aperçu la comtesse de Armencita, ce soir.
@@ -606,7 +607,7 @@ Tout en marchant, la vieille Indienne chuchotait :
 
 — Jud l’aime, le malheureux. Son délire, là-bas, à Varano, m’a appris l’horrible malheur… Il l’aime, lui, _que le sang sépare d’elle_, lui qui ne saurait l’épouser. Il faut que la vie de dévouement de Jud ne demeure pas inutile. Il faut au moins que l’héritière des Pariset rentre en possession de ce qui lui appartient.
 
-[Image: "D’arbuste en arbuste l’Indienne se glissa."](../images/1-page-431.JPG)
+![Image: "D’arbuste en arbuste l’Indienne se glissa."](../images/1-page-431.JPG)
 
 La vieille femme traça dans l’air un grand geste tragique.
 

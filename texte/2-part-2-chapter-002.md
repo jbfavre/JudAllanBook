@@ -117,7 +117,7 @@ Il prit un temps, comme pour accentuer l’effet de sa conclusion :
 
 Jud chancela sous le coup. Lilian chez Jemkins, chez l’assassin de Pariset. Et dans le désarroi de sa pensée, il sentait peser sur lui le regard cruellement narquois de son ennemi. Celui-ci continuait imperturbablement:
 
-[Image: "Il tira une feuille de papier de son portefeuille et la tendant à Allan :"](../images/1-page-307.md)
+![Image: "Il tira une feuille de papier de son portefeuille et la tendant à Allan :"](../images/1-page-307.md)
 
 — Comment cette jeune dame a été aménée ici, je ne l’ai pu découvrir… Toutefois, je n’ai pas songé un moment à la rendre responsable d’une invasion de mon domicile, dont je la sentais totalement innocente. Je l’ai fait reconduire aussitôt chez Miss Deffling, par une amie de cette dernière.
 
@@ -272,7 +272,7 @@ Eux ne sauraient reconnaître dans l’homme le gamin d’autrefois. Mais ils on
 
 — Eh ! Eh ! ricane Jetty demeuré l’orateur du duo, l’amour de la promenade vous égare, Gentleman… Les salons sont en bas. Redescendez l’escalier, continue Jetty, croyez-moi. Cela sera plus convenable pour vous et pour nous.
 
-[Images: "Tom et Jetty gisent à terre assommés."](../images/1-page-311.JPG)
+![Images: "Tom et Jetty gisent à terre assommés."](../images/1-page-311.JPG)
 
 — Ma foi, riposte enfin le professeur en s’approchant insensiblement de son interlocuteur, je ne pensais pas commettre une faute en venant présenter mes hommages à la parente de mon hôte, à Mistress Pariset.
 
@@ -403,7 +403,7 @@ Soudain, Pierre se dressa sur son séant, avec un cri :
 
 — Mais, saperlotte, c’est une cabine de steamer…! C’est un hublot qui livre passage au soleil… Et cette couchette étroite… Est-ce que les diableries continuent ?
 
-[Image: "D’un bond, le jeune homme fut auprès du hublot, l’ouvrit et demeura médusé"](../images/1-page-315.JPG)
+![Image: "D’un bond, le jeune homme fut auprès du hublot, l’ouvrit et demeura médusé"](../images/1-page-315.JPG)
 
 D’un bond, le jeune homme fut auprès du hublot, l’ouvrit et demeura médusé. Au dehors, il apercevait une large rivière, sur laquelle flottait un bâtiment l’emportant vers une destination inconnue.
 
@@ -547,7 +547,7 @@ Il avait atteint la rive du fleuve Potomac. En face de lui, occupant le milieu d
 
 Jud s’arrêta à l’endroit où la petite rivière appelée Rock-Creek vient se perdre dans le Potomac.
 
-[Image:"Pille, Storm ! Pille !"](../images/1-page-319.JPG)
+![Image:"Pille, Storm ! Pille !"](../images/1-page-319.JPG)
 
 Une voiture stationnait en ce point, attelée d’un vigoureux cheval.
 
@@ -620,8 +620,10 @@ Jud sengage dans le chemin qui lui est tracé.
 
 Les branches se joignent en berceau au-dessus de sa tête. Il compte trois
 fois cinquante pas. De nouveau, il est arrêté par un fourré.
-[Image: "MAIS ALLAN LEVA LA MAIN, TOUS REDEVINRENT MUETS."](../images/1-page-321.JPG)
-PAGE VIDE
+
+![Image: "Mais Allan leva la main, tous redevinrent
+muets."](../images/1-page-321.JPG)
+
 Mais Allan prononce d’un ton ferme
 
 — Le roi appelle.
@@ -885,7 +887,7 @@ L’homme toussa vivement, puis avec sévérité :
 
 — Pas ce mot, malheureux ! À quoi bon me déguiser, me rendre méconnaissable, si ta langue me trahit.
 
-[Image: "Elle les salua…"](../images/1-page-331.JPG)
+![Image: "Elle les salua…"](../images/1-page-331.JPG)
 
 — Je vous demande pardon, je me souviendrai à l’avenir que vous êtes…
 
@@ -1053,7 +1055,7 @@ eût cru qu’ils avalaient le liquide avec effort.
 
 — Heureusement, on a le temps de dormir dans ce souterrain.
 
-[Image: "Les drôles étaient, selon toute apparence, abominablement ivres."](../images/1-page-336.JPG)
+![Image: "Les drôles étaient, selon toute apparence, abominablement ivres."](../images/1-page-336.JPG)
 
 — Parbleu ! C’est une proposition géniale… Dormir, et rêver qu’on va
 bientôt prendre la clef des champs avec une sacoche de trusteur.

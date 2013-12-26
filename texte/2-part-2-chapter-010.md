@@ -26,7 +26,7 @@ C’était la tenue des fiancées de l’état de Sonora.
 
 La veste, la jupe de soie blanche aux broderies bleu et argent, les petits souliers de satin adornés de même et laissant apercevoir les bas soyeux d’un bleu pâle.
 
-[Image: "Lilian était ravissante dans ce costume mexicain."](../images/1-page-436.JPG)
+![Image: "Lilian était ravissante dans ce costume mexicain."](../images/1-page-436.JPG)
 
 Un petit coup léger fut frappé à la porte, et la Chinoise Rouge-Fleur se
 montra presque aussitôt.
@@ -394,7 +394,7 @@ Tout à coup, un pétard mal dirigé vint frapper la jupe de la compagne du marq
 
 — Le feu ! le feu !
 
-[Image: "Une salve retentit stridente."](../images/1-page-445.md)
+![Image: "Une salve retentit stridente."](../images/1-page-445.md)
 
 Les jeunes gens sont séparés, entraînés par des courants humains. Affolé, étourdi, Pierre se trouve transporté à vingt pas de là.
 
@@ -491,7 +491,7 @@ Le délégué approuve du geste, puis il ajoute :
 
 — Ensuite, nous proclamerons l’héritière et la fiancée en face de l’heureuse cohue des invités, qui, à l’heure présente, sont tout à la dégustation du banquet que l’on vient de leur servir.
 
-[Image: "Entre les parties contractantes…"](../images/1-page-448.md)
+![Image: "Entre les parties contractantes…"](../images/1-page-448.md)
 
 Cette fois, Chazelet tressaille avec raison. Les précautions prises l’isolent du reste du monde. Il est entouré de créatures à la solde de Frey Jemkins, et de personne il ne saurait attendre secours.
 

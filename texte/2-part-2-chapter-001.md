@@ -177,7 +177,7 @@ Il domine ses nerfs par un effort surhumain dont tout son être frissonne.
 
 — Je vous prie de m’excuser, fait-il d’un accent assourdi, mais une lettre, qui m’est parvenue ce matin, m’a causé les plus vives alarmes. On m’annonce que ma sœur a quitté la pension.
 
-[Image: "Lilian ! Où est Lilian ? Laissez-moi passer !"](../images/1-page-292.JPG)
+![Image: "Lilian ! Où est Lilian ? Laissez-moi passer !"](../images/1-page-292.JPG)
 
 Miss Deffling a un sourire dédaigneux. Elle jette en avant ses mains osseuses en un geste de dénégation.
 
@@ -302,7 +302,7 @@ animation.
 
 — Je n’aperçois que ces deux causeurs, murmura-t-il… Eux m’aperçoivent aussi. Sont-ce des espions ? Nous allons bien le voir.
 
-[Image: "Sont-ce des espions ? Nous allons bien le voir."](../images/1-page-296.JPG)
+![Image: "Sont-ce des espions ? Nous allons bien le voir."](../images/1-page-296.JPG)
 
 Et sa douleur brusquement apaisée par la volupté de l’action :
 
@@ -437,7 +437,7 @@ Elle fit une légère pause, comme pour triompher d’une dernière hésitation.
 
 — Tril m’a glissé à l’oreille que le moment était venu où l’on pourrait se dévouer pour toi.
 
-[Image: "C’est moi, Roi, fit-elle d’une voix douce."](../images/1-page-300.JPG)
+![Image: "C’est moi, Roi, fit-elle d’une voix douce."](../images/1-page-300.JPG)
 
 — Tril est un affreux bavard, je le gronderai à la première occasion.
 

@@ -159,7 +159,7 @@ Or, le plus pressé pour mener à bien ses projets, était de se trouver dans la
 
 Seulement, la difficulté était d’y arriver, à cette cour.
 
-[Image: "A l’orifice du tuyau de zinc, Jud ne perdait pas un mot de l’entretien.."](../images/1-page-200.JPG)
+![Image: "A l’orifice du tuyau de zinc, Jud ne perdait pas un mot de l’entretien.."](../images/1-page-200.JPG)
 
 Chaque soir, en effet, les jeunes détenus gagnaient leur dortoir que
 fermait une porte solidement verrouillée. Et comme si cet obstacle matériel
@@ -350,8 +350,10 @@ Mais le gamin a un sang-froid que rien ne saurait démonter… Puis, sa vie erra
 compagnon de plus.
 
 Il s’est placé en pleine lumière. Sa taille, sa jeunesse rassurent ses interlocuteurs. Pourtant, Jetty grommelle d’un ton peu rassurant :
-[Image: "DE NOUVEAU UN CORPS NOIR DESCEND AU RAS DU MUR."](../images/1-page-205.JPG)
-PAGE BLANCHE
+
+![Image: "De nouveau un corps noir descend au ras du
+mur."](../images/1-page-205.JPG)
+
 — Nous n’avons aucun besoin de ta compagnie, mon garçon…
 
 — J’en suis certain, reprend aussitôt Jud…; mais moi, j’ai besoin de la vôtre…
@@ -545,7 +547,7 @@ Et se penchant vers le gamin, Jetty ajouta d’un ton bourru :
 
 — Bon, vous n’en aurez pas.
 
-[Image: "Déjà Jud prenait place dans 1a barque…"](../images/1-page-211.JPG)
+![Image: "Déjà Jud prenait place dans 1a barque…"](../images/1-page-211.JPG)
 
 Déjà Jud prenait place dans 1a barque, avec un empressement qui dérida son répondant.
 
@@ -696,7 +698,7 @@ Avec un sourire, le petit riposta aussitôt :
 
 — Eh bien, puisque tu as d’aussi bons yeux, je t’engage à voir que je suis un homme qui t’écraserait d’une pichenette.
 
-[Image: "Je t’engage à voir que je suis un homme qui t’écraserait d’une pichenette."](../images/1-page-215.JPG)
+![Image: "Je t’engage à voir que je suis un homme qui t’écraserait d’une pichenette."](../images/1-page-215.JPG)
 
 S’il avait pensé terrifier son interlocuteur, Foorberg dut être désagréablement déçu par l’événement. Jud se prit à rire aux éclats. Et
 l’Allemand, irrité, lui ayant demandé rudement :
@@ -704,7 +706,7 @@ l’Allemand, irrité, lui ayant demandé rudement :
 — Ah ah ! Qu’est-ce qui te fait rire ainsi, petite vermine?
 
 — C’est vous, bégaya son interlocuteur.
-PAGE ABIMÉE
+
 — Seulement, vous êtes un bon vieux garçon, Jetty. Vous m’avez tiré de prison, vous m’avez fait embaucher par le Crâne… Cela m’aurait ennuyé de me battre avec vous !… Tandis que l’autre, ça m’amusera, et je vous
 prouverai tout de même que je vous disais la vérité.
 
@@ -769,7 +771,7 @@ Alors Jud s’approche de Jetty.
 
 — Vous voyez… Croc-en-jambe et jujitsu rendent la force inutile. C’est comme cela que j’avais tombé les policemen ; seulement ils se sont mis une quinzaine sur moi, ce qui fait que vous m’avez rencontré à Alb-Point.
 
-[Image: "De nouveau le géant silésien est à terre…, mais sur le dos."](../images/1-page-218.JPG)
+![Image: "De nouveau le géant silésien est à terre…, mais sur le dos."](../images/1-page-218.JPG)
 
 Enthousiasmé, l’Irlandais élève l’enfant à bout de bras, puis l’embrasse cordialement. Le bandit est fier de sa « recrue ». Jamais il ne se sentit autant de sympathie pour personne.
 

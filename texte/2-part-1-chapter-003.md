@@ -89,7 +89,8 @@ Enfin, on parvint à Avila, cette jolie petite ville de neuf mille habitants, en
 A travers les chênes, les érables, les pins ou les landes couvertes de
 bruyères, le _coche_ gagna la gare située à plus d’un kilomètre de la cité.
 
-[Image: "Mais il y eut à peine porté les yeux qu’il pâlit."](../images/1-page-046.JPG)
+![Image: "Mais il y eut à peine porté les yeux qu’il
+pâlit."](../images/1-page-046.JPG)
 
 Là, Pierre, s’étant séparé de son voiturier, apprit que le train pour la direction de Médina, Valladolid, Burgos, Venta de Baños, Irun et France, devait passer dans une heure seulement. Une heure à dépenser, ma foi, ce ne serait pas trop de temps pour lire les journaux et se retremper quelque peu dans la vie parisienne.
 
@@ -410,7 +411,8 @@ nouveau le pied parisien.
 Et, par contre-coup, les fumées de légende qui obscurcissaient les aventures
 d’Espagne, se dissipaient, ses idées se clarifiaient en quelque sorte.
 
-[Image: "Dix mille deux cent vingt et un francs, soixante-dix centimes. Les voici."](../images/1-page-053.JPG)
+![Image: "Dix mille deux cent vingt et un francs, soixante-dix centimes. Les
+voici."](../images/1-page-053.JPG)
  
 — Je vais faire appeler une voiture, proposa Morand.
 
@@ -608,7 +610,8 @@ Chazelet considérait l’Américain avec une admiration non déguisée.
 
 Allan s’exprimait avec aisance, en excellent français, qu’agrémentaient sans le déparer quelques inflexions gutturales, et de-ci, de-là, un américanisme.
 
-[Image: "Il ne resta près du socle de pierre que trois gamins dépenaillés."](../images/1-page-057.JPG) 
+![Image: "Il ne resta près du socle de pierre que trois gamins
+dépenaillés."](../images/1-page-057.JPG) 
 
 Mais c’était l’homme lui-même que le marquis, en épris d’art, considérait.
 
@@ -679,7 +682,8 @@ communication ?
 
 Les réponses ne laissèrent aucun doute. Les cohéreurs _non accordés_ n’avaient point signalé le passage des ondes sans fil.
 
-[Image: "Messieurs, si vous 1e permettez, nous allons commencer les expériences."](../images/1-page-059.JPG) 
+![Image: "Messieurs, si vous 1e permettez, nous allons commencer les
+expériences."](../images/1-page-059.JPG) 
 
 Très intéressés, les assistants répétaient l’expérience, chacun s’amusant à
 la manipulation des appareils, guidés par les sapeurs télégraphistes.

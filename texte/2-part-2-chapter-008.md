@@ -1,7 +1,5 @@
 ## CHAPITRE VIII: LE MORT VIVANT
 
-[Image](../images/1-page-405.JPG)
-
 Une heure plus tard, E1 Dieblo sortait par la petite porte s’ouvrant derrière
 l’hacienda, la même qui, seize ans auparavant, avait livré passage à la
 servante Trina portant au Crâne l’enfant de ses maîtres.
@@ -253,7 +251,7 @@ Et la veuve a répondu sans hésiter :
 
 — Je dirai tout mon cœur.
 
-[Image: "Demain, pauvre mère, direz-vous toute la vérité ?"](../images/1-page-410.JPG)
+![Image: "Demain, pauvre mère, direz-vous toute la vérité ?"](../images/1-page-410.JPG)
 
 Rouge-Fleur ne peut soupçonner cela ; mais elle s’inquiète vaguement de
 l’animation soudaine des traits des recluses. L’Indien la rassure aussitôt :
@@ -365,7 +363,7 @@ Le singe et le dogue étaient là devant eux, quémandant des caresses.
 
 — Seuls !… et Suzan ? murmura Tril d’une voix étranglée.
 
-[Image: "Il avait été recueilli blessé par l’indienne Marahi."](../images/1-page-413.JPG)
+![Image: "Il avait été recueilli blessé par l’indienne Marahi."](../images/1-page-413.JPG)
 
 — Me voici, me voici ! répondit l’organe essoufflé de la fillette, qui, presque aussitôt, rejoignait le groupe.
 

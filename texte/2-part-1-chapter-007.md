@@ -316,7 +316,7 @@ au-delà de mes paroles.
 
 Impressionné par la lettre autographe et aussi par l’accent de cet ambassadeur étrange, M. Lerenaud avait promis.
 
-[Image: "Jean trouvé mort au bord de la mer, son revolver à côté de lui."](../images/1-page-115.JPG)
+![Image: "Jean trouvé mort au bord de la mer, son revolver à côté de lui."](../images/1-page-115.JPG)
 
 A cette heure, il s’avouait tout bas qu’il en éprouvait un regret cuisant.
 
@@ -602,7 +602,7 @@ portent vers la petite île de Tortuga, à peu de distance de la côte californi
 la barque à terre, car le patron craint une tempête du nord qui rendrait impossible l’accès de Guaymas, situé sur l’autre rive à quatre-vingts
 kilomètres à peine.
 
-[Image: "Voici, dit-elle, le grand livre de mon existence."](../images/1-page-121.JPG)
+![Image: "Voici, dit-elle, le grand livre de mon existence."](../images/1-page-121.JPG)
 
 Linérès ne perdait pas un mot de cette lecture.
 

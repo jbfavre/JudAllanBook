@@ -171,7 +171,7 @@ Du coup, Pierre se prit la tête à deux mains. Et elle continuait :
 — Cela vous surprend, je le vois. Croyez que je suis plus surprise encore. Mon costume est celui de l’Institution de Miss Deffling, à Kendall Green.
 Hier au soir, je me suis retirée dans ma chambre. Je me souviens parfaitement d’avoir veillé jusqu’à l’extinction des lumières. Après, tout devient vague. J’ai dû m’endormir avant de m’être mise au lit, puisque je me réveille complètement vêtue… Mais par quel prodige suis-je ici, dans cette maison que je ne connais pas… ?
 
-[Image: "Elle le regardait, une crainte dans ses grands yeux."](../images/1-page-271.JPG)
+![Image: "Elle le regardait, une crainte dans ses grands yeux."](../images/1-page-271.JPG)
 
 Et comme frappée par ces derniers mots, elle reprit :
 
@@ -243,7 +243,7 @@ Mais la raison lui démontra aussitôt qu’elle devait dire tout ce que l’on 
 
 Tous sursautèrent et se tournèrent brusquement vers la porte. Dans l’encadrement Frey Jemkins se tenait debout.
 
-[Image: "L’effet de cette confidence fut foudroyant."](../images/1-page-273.JPG)
+![Image: "L’effet de cette confidence fut foudroyant."](../images/1-page-273.JPG)
 
 Et en phrases hachées, avec une expression de crainte dont Chazelet s’étonna à part lui, la comtesse de Armencita mit le milliardaire au courant de l’incident.
 
@@ -506,8 +506,7 @@ Et avec une révérence que n’eût pas désavouée une reine de l’élégance
 
 — Vous avez au moins une certaine audace de me le dire.
 
-[Image: "Je voulais vous parler seul à seul, persifla-t-elle."](../images/1-page-279.JPG)
-
+![Image: "Je voulais vous parler seul à seul, persifla-t-elle."](../images/1-page-279.JPG)
 
 — Cette audace vous démontre, honorable Sénateur, que je suis parvenue à mes fins. Désormais, vous devrez vous plier, je ne dirai pas à mes volontés, ce qui serait une expression désobligeante, mais à la sagesse de mes résolutions.
 
