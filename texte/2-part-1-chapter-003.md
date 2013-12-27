@@ -1,7 +1,7 @@
 ## CHAPITRE III: LE DIABLE S’EN MÊLE
 
 — Ah ! voici 1e señor. Que la journée vous soit bonne, señor. Le _coche_
-(voiture) vous attend.
+  (voiture) vous attend.
 
 Ainsi dame Olinda accueillit le marquis, lorsqu’il franchit le seuil de la
 posada del Cid.
@@ -22,13 +22,14 @@ d’étonnement, les premières paroles de l’opulente Olinda lui apparurent in
 — La voiture vous attend, avait-elle dit.
 
 Quelle voiture ? Tout naturellement, il demanda :
+
 — Un véhicule m’attend. Pourquoi ? à propos de quoi ?
 
 La posadera lui décocha son œillade la plus assassine.
 
 — Pourquoi, señor ? Parce que, hier dans la journée, le padre (prêtre) Montero,
-qui venait bénir 1a vigne de la veuve Domera, m’a donné l’ordre de votre part
-de tenir, ce matin, une voiture à votre disposition.
+  qui venait bénir 1a vigne de la veuve Domera, m’a donné l’ordre de votre part
+  de tenir, ce matin, une voiture à votre disposition.
 
 — Ah ! le padre Montero a fait cela ?
 
@@ -65,26 +66,39 @@ Elle s’agitait, se trémoussait, monologuant lorsque Pierre ne pouvait
 l’entendre :
 
 — Que la Madone protège ce jeune homme. Il est une vraie bénédiction pour ma
-maison. Le muletier, le caporal, le padre, chacun a fait son petit présent à la faible femme que je suis… Qu’il soit récompensé au centuple, ce brave gentilhomme qui fait tomber la pluie d’or dans mes poches.
+  maison. Le muletier, le caporal, le padre, chacun a fait son petit présent
+  à la faible femme que je suis… Qu’il soit récompensé au centuple, ce brave
+  gentilhomme qui fait tomber la pluie d’or dans mes poches.
 
-Cependant, Chazelet prenait place dans la voiture qu’en tout autre pays que l’Espagne, on aurait dénommée charette.
+Cependant, Chazelet prenait place dans la voiture qu’en tout autre pays que
+l’Espagne, on aurait dénommée charette.
 
-Sa valise à ses pieds, ses journaux à la main, il subissait l’averse des adieux, des vœux de l’hôtesse.
+Sa valise à ses pieds, ses journaux à la main, il subissait l’averse des
+adieux, des vœux de l’hôtesse.
 
-Enfin, celle-ci, à bout d’haleine et peut-être d’expression, fit un signe au voiturier assis sur le brancard.
+Enfin, celle-ci, à bout d’haleine et peut-être d’expression, fit un signe au
+voiturier assis sur le brancard.
+
 L’homme excita son cheval ; on partit.
 
-Pierre avait pensé parcourir les journaux de France durant le chemin. Rentrant à Paris, il désirait se remettre au courant des préoccupations de
-la ville Lumière ; mais, après deux ou trois tentatives, il dut y renoncer.
+Pierre avait pensé parcourir les journaux de France durant le chemin.
+Rentrant à Paris, il désirait se remettre au courant des préoccupations de la
+ville Lumière ; mais, après deux ou trois tentatives, il dut y renoncer.
 
 Les cahots lui faisaient exécuter des bonds continuels. Il était projeté
-de droite, de gauche, heurté, bousculé. Allez donc lire au milieu de semblable gymnastique.
+de droite, de gauche, heurté, bousculé. Allez donc lire au milieu de
+semblable gymnastique.
 
-Il faut avoir parcouru les routes espagnoles, avoir été meurtri dans les véhicules primitifs circulant à travers la campagne, pour se rendre compte du nombre des contusions qu’un touriste peut supporter sans que sa santé en soit altérée.
+Il faut avoir parcouru les routes espagnoles, avoir été meurtri dans les
+véhicules primitifs circulant à travers la campagne, pour se rendre compte du
+nombre des contusions qu’un touriste peut supporter sans que sa santé en soit
+altérée.
 
-Le voiturier, stoïque, fumait paisiblement des cigarettes, comme insensible aux cabrioles de l’équipage.
+Le voiturier, stoïque, fumait paisiblement des cigarettes, comme insensible
+aux cabrioles de l’équipage.
 
-Enfin, on parvint à Avila, cette jolie petite ville de neuf mille habitants, entourée d’une ceinture de forêts.
+Enfin, on parvint à Avila, cette jolie petite ville de neuf mille habitants,
+entourée d’une ceinture de forêts.
 
 A travers les chênes, les érables, les pins ou les landes couvertes de
 bruyères, le _coche_ gagna la gare située à plus d’un kilomètre de la cité.
@@ -92,13 +106,20 @@ bruyères, le _coche_ gagna la gare située à plus d’un kilomètre de la cit�
 ![Image: "Mais il y eut à peine porté les yeux qu’il
 pâlit."](../images/1-page-046.JPG)
 
-Là, Pierre, s’étant séparé de son voiturier, apprit que le train pour la direction de Médina, Valladolid, Burgos, Venta de Baños, Irun et France, devait passer dans une heure seulement. Une heure à dépenser, ma foi, ce ne serait pas trop de temps pour lire les journaux et se retremper quelque peu dans la vie parisienne.
+Là, Pierre, s’étant séparé de son voiturier, apprit que le train pour la
+direction de Médina, Valladolid, Burgos, Venta de Baños, Irun et France,
+devait passer dans une heure seulement. Une heure à dépenser, ma foi, ce ne
+serait pas trop de temps pour lire les journaux et se retremper quelque peu
+dans la vie parisienne.
 
-Sur cette réflexion, le jeune homme s’installa commodément dans une
-salle d’attente et déplia l’un des quotidiens de Paris, avec cette satisfaction mêlée de regrets que l’on éprouve à se replonger dans ses préoccupations accoutumées, après les avoir négligées quelque temps.
+Sur cette réflexion, le jeune homme s’installa commodément dans une salle
+d’attente et déplia l’un des quotidiens de Paris, avec cette satisfaction
+mêlée de regrets que l’on éprouve à se replonger dans ses préoccupations
+accoutumées, après les avoir négligées quelque temps.
 
 Mais il y eut à peine jeté les yeux qu’il pâlit, porta la main à son front,
 tel un homme étourdi par un coup de massue.
+
 — Elle, murmura-t-il, elle !
 
 Et se dominant grâce à un effort violent :
@@ -108,15 +129,12 @@ Et se dominant grâce à un effort violent :
 Il avait lu ce sous-titre, imprimé en gros caractères, au-dessus d’un
 cliché reproduisant les traits charmants de Linérès :
 
-
-_Coïncidences diaboliques. — Le jeu de massacre des épouseurs. —
-Un chapelet. de victimes. — C’est diabolique, dit l’une d’elles.
-— Quoique non blessée, M^lle de Armencita n’en est
-pas moins la plus atteinte. — Un journal
-parisien désigne la malheureuse
-jeune fille sous ce nom :
-La Fiancée du
-Diable !_
+> Coïncidences diaboliques. — Le jeu de massacre des épouseurs.
+  — Un chapelet. de victimes. — C’est diabolique, dit l’une d’elles.
+  — Quoique non blessée, M^lle de Armencita n’en est pas moins la plus
+    atteinte.
+  — Un journal parisien désigne la malheureuse jeune fille sous ce nom :
+  La Fiancée du Diable !
 
 Armencita ! Fiancée du Diable ! Ces mots avaient bouleversé Pierre,
 d’autant plus profondément que, lui aussi, avait éprouvé les effets des
@@ -130,7 +148,8 @@ Plus rien autour de lui n’obéissait aux lois de la morale.
 
 Et il souffrait de ne point ressentir une révolte suffisante en face de ce
 journal qui, sous les regards amusés de centaines de mille lecteurs,
-promènerait accolés le nom de M^lle de Armencita et ce surnom : la Fiancée du Diable.
+promènerait accolés le nom de M^lle de Armencita et ce surnom : la Fiancée du
+Diable.
 
 Puis, le désir de comprendre comment pareil blasphème avait pu naître,
 l’envahit, le poussa à lire l’article qui suivait sur deux colonnes.
@@ -304,7 +323,9 @@ son traitement, Morand, bon médecin au reste, représentait, mélange moins
 rare que l’on ne serait tenté de 1e croire, la raison dans la folie, l’ordre
 dans le désordre.
 
-— Toi ici ! s’exclama le marquis après une affectueuse accolade. Toi, le seul ami que je puisse être heureux de rencontrer ! Par quel hasard propice ?…
+— Toi ici ! s’exclama le marquis après une affectueuse accolade. Toi,
+  le seul ami que je puisse être heureux de rencontrer ! Par quel
+  hasard propice ?…
 
 Il s’arrêta, Albert Morand éclatait de rire.
 
@@ -315,13 +336,15 @@ Il s’arrêta, Albert Morand éclatait de rire.
 — Qu’est-ce que tu dis ? Sur l’honneur je ne comprends pas.
 
 — Sur l’honneur…? Allons, Voyons, Chazelet, pas de ces plaisanteries-là…
-Tu n’es pas somnambule, tu ne t’enivres pas, donc, tu étais de sang-froid,
-quand tu m’as fait passer ta dépêche d’Irun.
+  Tu n’es pas somnambule, tu ne t’enivres pas, donc, tu étais de
+  sang-froid, quand tu m’as fait passer ta dépêche d’Irun.
 
 — D’Irun, répéta Pierre abasourdi ?
 
-— Ah bien,tu es distrait ! Tiens, voici le « bleu » ainsi conçu : « Arriverai Paris-Orsay, rapide de six heures quinze. Retiens-moi chambre au Palais d’Orsay. Amitiés… » et signé comme tu as coutume de le faire, ô gentilhomme
-dédaigneux de la particule « Chazelet. »
+— Ah bien,tu es distrait ! Tiens, voici le « bleu » ainsi conçu :
+  « Arriverai Paris-Orsay, rapide de six heures quinze. Retiens-moi
+  chambre au Palais d’Orsay. Amitiés… » et signé comme tu as coutume de
+  le faire, ô gentilhomme dédaigneux de la particule « Chazelet. »
 
 Le marquis ne répondit pas de suite.
 
@@ -332,24 +355,30 @@ volontés ignorées, qui s’agitaient autour de lui, avaient encore travaillé.
 
 — Et tu as retenu la chambre ?
 
-— Parfaitement ! Une chambre dont les fenêtres donnent sur la rue de Lille.
-J’y ai fait transporter tes habits, que j’ai subtilisés à l’âpreté de tes
-créanciers.
+— Parfaitement ! Une chambre dont les fenêtres donnent sur la rue de
+  Lille. J’y ai fait transporter tes habits, que j’ai subtilisés à
+  l’âpreté de tes créanciers.
 
 — Cher ami !
 
 Le sourire reparut sur les lèvres de Chazelet. Il s’était éloigné de Paris
-précipitamment, un costume de tourisme sur les épaules, le linge indispensable
-dans sa valise, et ma foi, il n’était pas fâché d’apprendre qu’il allait
-pouvoir se redonner l’apparence élégante d’un Parisien soucieux de ses dehors.
+précipitamment, un costume de tourisme sur les épaules, le linge
+indispensable dans sa valise, et ma foi, il n’était pas fâché
+d’apprendre qu’il allait pouvoir se redonner l’apparence élégante d’un
+Parisien soucieux de ses dehors.
 
-— Je te guide. Tu t’habilles, tenue de soirée. Le dîner est commandé au Palais même. Ensuite, je te conduis à la Tour Eiffel, dans la lanterne. Expériences
-de _sans fil_ très intéressantes. De là, au dernier bal de la saison,
-boulevard de Courcelles, à la Légation d’Espagne.
+— Je te guide. Tu t’habilles, tenue de soirée. Le dîner est commandé au
+  Palais même. Ensuite, je te conduis à la Tour Eiffel, dans la
+  lanterne. Expériences de _sans fil_ très intéressantes. De là, au
+  dernier bal de la saison, boulevard de Courcelles, à la Légation
+  d’Espagne.
 
 — Pourquoi ?
 
-— Pour que tout le monde voie un Chazelet superbe, joliment bruni par le soleil de _tra los montes_, et pas du tout abattu par les incidents financiers dont il a été la victime.
+— Pour que tout le monde voie un Chazelet superbe, joliment bruni par
+  le soleil de _tra los montes_, et pas du tout abattu par les incidents
+  financiers dont il a été la victime.
+
 — Est-ce nécessaire ?
 
 — Oui, c’est nécessaire à mon bonheur.
@@ -357,12 +386,12 @@ boulevard de Courcelles, à la Légation d’Espagne.
 — Oh ! en ce cas…
 
 — Arrive donc. Je veux que, demain matin, tout Paris nous ait signalés
-ensemble. Un ami qui ne vous lâche pas dans la ruine, cela entraîne du
-bon côté toutes les amitiés hésitantes. Je joue les terre-neuves, animaux
-aux affections robustes et aux pattes pa1mées… Et encore aussi entêtés
-que les mules castillanes. Il ne te reste d’autre ressource que d’obéir. Tu
-me jettes à la porte demain, si cela t’agrée ; mais ce soir, tu te laisseras
-tyranniser.
+  ensemble. Un ami qui ne vous lâche pas dans la ruine, cela entraîne du
+  bon côté toutes les amitiés hésitantes. Je joue les terre-neuves,
+  animaux aux affections robustes et aux pattes pa1mées… Et encore
+  aussi entêtés que les mules castillanes. Il ne te reste d’autre
+  ressource que d’obéir. Tu me jettes à la porte demain, si cela
+  t’agrée ; mais ce soir, tu te laisseras tyranniser.
 
 Pierre ne demandait pas mieux.
 
@@ -381,11 +410,11 @@ Soudain Morand, qui regardait distraitement par la fenêtre, poussa un cri.
 Et tirant son portefeuille :
 
 — Quand j’ai reçu ton télégramme, je venais de toucher le reliquat de ta
-vente. Dix mille deux cent vingt et un francs, soixante-dix centimes. Les
-voici.
+  vente. Dix mille deux cent vingt et un francs, soixante-dix centimes.
+  Les voici.
 
-Pierre fut sur le point de s’écrier que déjà il avait touché la somme. Mais il
-se souvint à temps de la recommandation du Seigneur de la nuit :
+Pierre fut sur le point de s’écrier que déjà il avait touché la somme.
+Mais il se souvint à temps de la recommandation du Seigneur de la nuit :
 
 — Pas un allié ! Pas un confident !
 
@@ -403,30 +432,33 @@ Le monde entier se nourrit, les vingt mille Parisiens de race sont seuls
 à savoir manger.
 
 Vraiment le médecin militaire montrait là son expérience de la vie. Les
-menues satisfactions matérielles influent sur les dispositions morales, et cela
-est d’autant plus vrai que l’être est plus affiné, plus intellectuel.
+menues satisfactions matérielles influent sur les dispositions morales,
+et cela est d’autant plus vrai que l’être est plus affiné, plus
+intellectuel.
+
 — Au dessert, Chazelet avait recouvré tout son aplomb ; il se sentait de
-nouveau le pied parisien.
+  nouveau le pied parisien.
 
-Et, par contre-coup, les fumées de légende qui obscurcissaient les aventures
-d’Espagne, se dissipaient, ses idées se clarifiaient en quelque sorte.
+Et, par contre-coup, les fumées de légende qui obscurcissaient les
+aventures d’Espagne, se dissipaient, ses idées se clarifiaient en
+quelque sorte.
 
-![Image: "Dix mille deux cent vingt et un francs, soixante-dix centimes. Les
-voici."](../images/1-page-053.JPG)
+![Image: "Dix mille deux cent vingt et un francs, soixante-dix
+centimes. Les voici."](../images/1-page-053.JPG)
  
 — Je vais faire appeler une voiture, proposa Morand.
 
-— Non, la soirée est superbe. Marchons. J’ai un tel besoin de fouler l’asphalte
-après mon exil espagnol.
+— Non, la soirée est superbe. Marchons. J’ai un tel besoin de fouler
+  l’asphalte après mon exil espagnol.
 
 — Marchons donc.
 
-Les deux amis quittèrent le palais d’Orsay, et suivant les quais, déambulèrent
-en flâneurs dans 1a direction du pont de la Concorde.
+Les deux amis quittèrent le palais d’Orsay, et suivant les quais,
+déambulèrent en flâneurs dans 1a direction du pont de la Concorde.
 
 Morand racontait à son ami les détails de la vie de Paris, durant son
-absence. Il ne manquait pas d’esprit, son récit s’émaillait de locutions et
-d’aperçus originaux. Pierre l’écoutait avec plaisir.
+absence. Il ne manquait pas d’esprit, son récit s’émaillait de
+locutions et d’aperçus originaux. Pierre l’écoutait avec plaisir.
 
 Il fut brusquement rappelé au but de son retour dans la capitale.
 
@@ -437,14 +469,15 @@ Ils clamaient avec ces organes innénarrables dont les camelots ont le
 secret :
 
 — Édition spéciale !… curieux détails… La sixième victime de la Fiancée
-du Diable!
+  du Diable!
 
 — La sixième, remarqua le médecin d’un ton indifférent… Cela devient
-tout à fait intéressant.
+  tout à fait intéressant.
 
-Et il se tourna vers son compagnon avec l’intention de le mettre au courrant.
-Pour lui, en effet, Chazelet devait ignorer la singulière fatalité 
-poursuivant Linérès de Armencita, et dont tout Paris s’occupait autant qu’il lui est loisible de s’occuper de quelque chose.
+Et il se tourna vers son compagnon avec l’intention de le mettre au
+courant. Pour lui, en effet, Chazelet devait ignorer la singulière
+fatalité  poursuivant Linérès de Armencita, et dont tout Paris
+s’occupait autant qu’il lui est loisible de s’occuper de quelque chose.
 
 Mais il le vit, ayant arrêté un camelot, prendre un journal, 1e parcourir
 et demeurer immobile, comme anéanti, 1e papier frémissant entre ses mains
@@ -454,33 +487,34 @@ Il s’empressa :
 
 — Qu’as-tu ?
 
-De l’index, Chazelet lui désigna la _manchette_ en caractères énormes, puis
-un article des échos mondains.
+De l’index, Chazelet lui désigna la _manchette_ en caractères énormes,
+puis un article des échos mondains.
 
 La manchette disait :
 
 > La série noire continue. —— Encore la Fiancée du Diable !
 
 L’article, assaisonné de commentaires spirituels ou émus, relatait que le
-millionnaire Garavaud, peintre, journaliste, etc., lequel, par bravade, avait
-déclaré qu’il solliciterait la main de M^lle Linérès de Armencita, et ce au
-cours d’un déjeuner chez Voisin, avait été trouvé, à six heures, dans la rue
-du Général-Foy, percé de quatorze coups de couteau, et avait expiré sans 
-avoir pu prononcer une parole.
+millionnaire Garavaud, peintre, journaliste, etc., lequel, par bravade,
+avait déclaré qu’il solliciterait la main de M^lle Linérès de
+Armencita, et ce au cours d’un déjeuner chez Voisin, avait été trouvé,
+à six heures, dans la rue du Général-Foy, percé de quatorze coups de
+couteau, et avait expiré sans  avoir pu prononcer une parole.
 
 C’était sans doute un crime d’Apaches d’une rare audace, commis en plein
-jour, à deux pas de l’église Saint-Augustin, du boulevard Malesherbes ; mais
-le fait d’avoir affirmé, peut-être sous l’influence de vins généreux, qu’il se
-posait en prétendant à la main de Linérès, donnait au trépas brutal du
-défunt une senteur de mystère, dont les publicistes profitaient pour _tirer
-à la ligne_ sous forme d’hypothèses variées.
+jour, à deux pas de l’église Saint-Augustin, du boulevard Malesherbes ;
+mais le fait d’avoir affirmé, peut-être sous l’influence de vins
+généreux, qu’il se posait en prétendant à la main de Linérès, donnait
+au trépas brutal du défunt une senteur de mystère, dont les publicistes
+profitaient pour _tirer à la ligne_ sous forme d’hypothèses variées.
 
 — Eh bien, interrogea Morand, pour qui l’émoi de Pierre demeurait 
-incompréhensible ?
+  incompréhensible ?
+
 Mais déjà Chazelet était redevenu maître de lui.
 
 — Rien… Une douleur soudaine. C’est passé. À propos, ne m’as-tu pas
-expédié quelques journaux en Espagne ?
+  expédié quelques journaux en Espagne ?
 
 Le médecin considéra son interlocuteur avec stupeur. La question lui
 parraissait sans lien avec les phrases précédentes.
@@ -489,13 +523,14 @@ Toutefois il répliqua :
 
 — Non… Pourquoi cette demande ?
 
-— Pour m’assurer que le service des postes transpyrénéennes ne mérite que des éloges.
+— Pour m’assurer que le service des postes transpyrénéennes ne mérite
+  que des éloges.
 
 Et prenantle bras d’Albert Morand, tout étourdi de l’incohérence de ses
 idées :
 
 — Marchons, continua le jeune homme ; marchons. Il ne faut pas arriver
-trop tard aux expériences du sans fil.
+  trop tard aux expériences du sans fil.
 
 — Oh ! nous avons encore une demi-heure.
 
@@ -507,27 +542,34 @@ compagnon sur expériences auxquelles ils allaient assister.
 
 Morand se laissa entraîner sur ce sujet. Il expliqua :
 
-— Un Américain, accrédité par le Président des États-Unis, M. Loosevelt, et
-présenté par le chef de la sûreté.
+— Un Américain, accrédité par le Président des États-Unis, M. Loosevelt,
+et présenté par le chef de la sûreté.
 
 — Par Lerenaud ?
 
-— Oui. Ils se sont connus autrefois, paraît-il. Bref Lerenaud l’a piloté et
-introduit au ministère de la guerre.
+— Oui. Ils se sont connus autrefois, paraît-il. Bref Lerenaud l’a piloté
+  et introduit au ministère de la guerre.
 
 — À cause de quoi ?
 
 — C’est vrai ! J’oubliais… Cet Américain, un nommé Allan, professeur
-sportif à l’École militaire de West-Point aux États-Unis, a imaginé un 
-dispositif de _parleur_ et de _récepteur_ pour sans fil, tel que les instruments accordés au préalable, peuvent seuls entrer en communication. Tu conçois l’avantage. Avec les appareils actuels, on n’est jamais certain que les télégrammes ne sont pas surpris par des cohéreurs ennemis. Avec celui-ci au
-contraire, s’il mérite les éloges que l’on en fait, cette crainte disparaît, et
-cependant le récepteur conserve la propriété d’enregistrer toute dépêche
-émanant d’autres postes expéditeurs non accordés.
+  sportif à l’École militaire de West-Point aux États-Unis, a imaginé un 
+  dispositif de _parleur_ et de _récepteur_ pour sans fil, tel que les
+  instruments accordés au préalable, peuvent seuls entrer en
+  communication. Tu conçois l’avantage. Avec les appareils actuels, on
+  n’est jamais certain que les télégrammes ne sont pas surpris par des
+  cohéreurs ennemis. Avec celui-ci au contraire, s’il mérite les éloges
+  que l’on en fait, cette crainte disparaît, et cependant le récepteur
+  conserve la propriété d’enregistrer toute dépêche émanant d’autres
+  postes expéditeurs non accordés.
 
 — Diable ! C’est intéressant.
 
 — Le ministre de la guerre l’a pensé… À neuf heures, entre Paris et Brest,
-Paris et Toulouse, Paris et Verdun, Paris et le Havre, des observateurs de sans fil seront aux écoutes dans les divers postes établis.
+  Paris et Toulouse, Paris et Verdun, Paris et le Havre, des
+  observateurs de sans fil seront aux écoutes dans les divers postes
+  établis.
+
 — Et ?
 
 — Certains seulement sont munis de récepteurs _accordés_.
@@ -535,26 +577,28 @@ Paris et Toulouse, Paris et Verdun, Paris et le Havre, des observateurs de sans 
 — Si les autres n’enregistrent rien…
 
 — L’expérience sera concluante, et l’invention de M. Allan sera
-vraisemblablement adoptée pour les communications sans fil en France.
+  vraisemblablement adoptée pour les communications sans fil en France.
 
 — Grosse affaire.
 
 — Bonne affaire, mon cher. Car cet Allan est un inventeur désintéressé. Il
-donne son système au gouvernement français, comme il l’a donné aux États-
-Unis. C’est un inventeur qui cherche avant tout à marquer ses sympathies.
+  donne son système au gouvernement français, comme il l’a donné aux
+  États-Unis. C’est un inventeur qui cherche avant tout à marquer ses
+  sympathies.
 
 Les promeneurs atteignaient le Champ de Mars.
 
-Ils se dirigèrent vers celui des quatre piédestaux de la Tour Eiffel, affecté
-au service ordinaire de l’ascenseur.
+Ils se dirigèrent vers celui des quatre piédestaux de la Tour Eiffel,
+affecté au service ordinaire de l’ascenseur.
 
 Déjà plusieurs personnes s’y trouvaient assemblées. C’étaient : le général
 Dantun, chef des services de télégraphie militaire, quelques oificiers
 supérieurs, deux journalistes appartenant à des quotidiens importants.
 
-Morand échangea des poignées de mains. Les paroles de bienvenue rappelèrent
-à Chazelet que son ami était cousin du Ministre, et il ne s’étonna plus
-d’étre admis aux expériences sur la simple présentation du médecin-major.
+Morand échangea des poignées de mains. Les paroles de bienvenue
+rappelèrent à Chazelet que son ami était cousin du Ministre, et il ne
+s’étonna plus d’étre admis aux expériences sur la simple présentation
+du médecin-major.
 
 — Qu’attend-on, questionna curieusement celui-ci ?
 
@@ -563,15 +607,16 @@ d’étre admis aux expériences sur la simple présentation du médecin-major.
 — Je craignais que ce ne fut l’inventeur.
 
 — Non, non, rassurez-vous. M. Allan a passé la journée là-haut, avec
-des officiers du génie et les télégraphistes militaires.
+  des officiers du génie et les télégraphistes militaires.
 
 — Ah ! a h! En ce cas, nous n’aurons pas de _ratés_ ?
 
 — Je l’espère… Si tout marchait bien…, cela nous retirerait une rude
-épine du pied… Car l’ennui du sans fil est que l’on risque de confier ses
-secrets à tous les postes installés, amis ou ennemis.
+  épine du pied… Car l’ennui du sans fil est que l’on risque de confier
+  ses secrets à tous les postes installés, amis ou ennemis.
 
-— En wagon, en wagon, Messieurs, clama soudain un sapeur du génie de planton au pied de 1’ascenseur, on vous attend là-haut.
+— En wagon, en wagon, Messieurs, clama soudain un sapeur du génie de
+  planton au pied de 1’ascenseur, on vous attend là-haut.
 
 Tous s’empressèrent de prendre place.
 
@@ -587,6 +632,7 @@ ministre de la guerre.
 — Qui est le bon ?
 
 — Celui qui était avec Master Morand.
+
 — Tu es sûr?
 
 — Moi aussi, déclara le troisième galopin.
@@ -598,17 +644,24 @@ Tril?
 
 — Ah ! alors, ouvrons l’œil.
 
-Cependant celui dont s’entretenaient les gamins, parvenait au premier, puis au deuxième étage de la tour, et mettait enfin le pied dans la _lanterne_
-transformée par l’autorité militaire en poste central de la télégraphie de l’armée.
+Cependant celui dont s’entretenaient les gamins, parvenait au premier,
+puis au deuxième étage de la tour, et mettait enfin le pied dans la
+_lanterne_ transformée par l’autorité militaire en poste central de la
+télégraphie de l’armée.
 
-Deux officiers, autant de sapeurs de génie, saluèrent à rentrée les visiteurs, puis se remirent à la surveillance des appareils dont le fonctionnement leur incombait.
+Deux officiers, autant de sapeurs de génie, saluèrent à rentrée les
+visiteurs, puis se remirent à la surveillance des appareils dont le
+fonctionnement leur incombait.
 
-L’inventeur, seul vint au-devant du groupe et dit son plaisir d’avoir
-à démontrer ses dispositifs devant cette assemblée peu nombreuse mais d’élite.
+L’inventeur, seul vint au-devant du groupe et dit son plaisir d’avoir à
+démontrer ses dispositifs devant cette assemblée peu nombreuse mais
+d’élite.
 
 Chazelet considérait l’Américain avec une admiration non déguisée.
 
-Allan s’exprimait avec aisance, en excellent français, qu’agrémentaient sans le déparer quelques inflexions gutturales, et de-ci, de-là, un américanisme.
+Allan s’exprimait avec aisance, en excellent français, qu’agrémentaient
+sans le déparer quelques inflexions gutturales, et de-ci, de-là, un
+américanisme.
 
 ![Image: "Il ne resta près du socle de pierre que trois gamins
 dépenaillés."](../images/1-page-057.JPG) 
@@ -616,16 +669,13 @@ dépenaillés."](../images/1-page-057.JPG)
 Mais c’était l’homme lui-même que le marquis, en épris d’art, considérait.
 
 Grand, les épaules larges, serré des reins, M. Allan donnait l’impression
-d’une vigueur exceptionnelle alliée à une souplesse invraisemblable. Son geste
-apparaissait à la fois précis et ondulant… Son costume noir, de coupe sévère
-eût semblé disgracieux sur tout autre. Porté par lui, il
-pouvait être pris pour une recherche savante destinée à souligner sa mâle beauté.
+d’une vigueur exceptionnelle alliée à une souplesse invraisemblable. Son geste apparaissait à la fois précis et ondulant… Son costume noir, de coupe sévère eût semblé disgracieux sur tout autre. Porté par lui, il pouvait être pris pour une recherche savante destinée à souligner sa mâle beauté.
 
 Le visage complètement rasé, auréolé de cheveux dorés, épais et soyeux,
 présentait un caractère extraterrestre pour ainsi dire. Il avait ce charme
-vigoureux et troublant que les peintres primitifs ont prêté aux anges armés
-de glaives flamboyants, annonciateurs des colères divines ou gardiens du
-rêve des terrestres paradis.
+vigoureux et troublant que les peintres primitifs ont prêté aux anges
+armés de glaives flamboyants, annonciateurs des colères divines ou
+gardiens du rêve des terrestres paradis.
 
 Sous la chevelure d’or, sous le front blanc, les yeux d’azur avaient une
 profondeur d’abîme et loin, bien loin, à cet infini du regard où se tapit
@@ -633,27 +683,30 @@ l’âme, une lueur brillait, étoile au repos, qui, dans la colère, devait se
 transmuer en éclairs.
 
 Et ce qui médusait le marquis, c’était une constatation singulière. Ses
-cheveux rappelaient ceux de Linérès. Son regard bleu faisait penser aux yeux
-glauques de la jeune fille… Leurs traits très différents cependant accusaient la lutte puis la fusion de deux races.
+cheveux rappelaient ceux de Linérès. Son regard bleu faisait penser aux
+yeux glauques de la jeune fille… Leurs traits très différents cependant
+accusaient la lutte puis la fusion de deux races.
 
 Mais Allan parlait.
 
-— Messieurs, disait-il d’une voix chaude, où chantait une vague musique étrangère, si vous le permettez, nous allons commencer les expériences.
+— Messieurs, disait-il d’une voix chaude, où chantait une vague musique
+  étrangère, si vous le permettez, nous allons commencer les expériences.
 
 — Volontiers, consentit le général Dantun.
 
-— Alors, veuillez considérer ce tableau à votre droite. Vous y voyez trente-trois plaquettes de cuivre, mobiles autour de charnières et que des taquets
-maintiennent appliquées contre la planche.
+— Alors, veuillez considérer ce tableau à votre droite. Vous y voyez
+  trente-trois plaquettes de cuivre, mobiles autour de charnières et
+  que des taquets maintiennent appliquées contre la planche.
 
 — Oui.
 
 — Chacune est impressionnée par l’un des trente-trois postes de sans fil
-choisis par M. le Ministre de la Guerre. Les postes touchés par le message
-répondront et les plaquettes correspondantes se rabattront. Les autres
-demeureront immobiles naturellement.
+  choisis par M. le Ministre de la Guerre. Les postes touchés par le
+  message répondront et les plaquettes correspondantes se rabattront.
+  Les autres demeureront immobiles naturellement.
 
 — Quels sont les postes accordés avec votre transmetteur, questionna le
-général ?
+  général ?
 
 — Les marques à la craie sur le tableau l’indiquent : 7, 16, 21 et 25.
 
@@ -661,8 +714,8 @@ général ?
 
 L’inventeur s’inclina, et s’adressant aux militaires de service :
 
-— Messieurs, veuillez transmettre l’ordre cacheté que M. le Ministre de
-la Guerre vous a fait tenir.
+— Messieurs, veuillez transmettre l’ordre cacheté que M. le Ministre de la
+  Guerre vous a fait tenir.
 
 L’un des officiers du génie tira l’ordre de son enveloppe et l’opération
 commença.
@@ -670,23 +723,26 @@ commença.
 Trois minutes après, Allan murmura :
 
 — Vous avez terminé ? Veuillez demander aux postes s’ils ont enregistré.
-Qu’ils répondent par le signal convenu.
+  Qu’ils répondent par le signal convenu.
+
 Une minute encore, puis de légers déclics, et sur le tableau-témoin, les
 plaquettes 7, 16, 21 et 25 se rabattent.
 
 — Bravo, s’écria le général Dantun, les _accordés_ seuls ont répondu.
 
 — Un instant, la contre-épreuve. M. le général, veuillez faire demander à
-tel autre poste qu’il vous conviendra s’il a été impressionné par une 
-communication ?
+  tel autre poste qu’il vous conviendra s’il a été impressionné par une 
+  communication ?
 
-Les réponses ne laissèrent aucun doute. Les cohéreurs _non accordés_ n’avaient point signalé le passage des ondes sans fil.
+Les réponses ne laissèrent aucun doute. Les cohéreurs _non accordés_
+n’avaient point signalé le passage des ondes sans fil.
 
 ![Image: "Messieurs, si vous 1e permettez, nous allons commencer les
 expériences."](../images/1-page-059.JPG) 
 
-Très intéressés, les assistants répétaient l’expérience, chacun s’amusant à
-la manipulation des appareils, guidés par les sapeurs télégraphistes.
+Très intéressés, les assistants répétaient l’expérience, chacun
+s’amusant à la manipulation des appareils, guidés par les sapeurs
+télégraphistes.
 
 Le succès de l’inventeur s’accentuait de minute en minute. Il recevait
 modestement les félicitations enthousiastes, semblant n’attacher à sa
@@ -695,13 +751,14 @@ découverte qu’une importance légère.
 Il ne paraissait pas remarquer Chazelet qui, lui, ne perdait pas un de ses
 mouvements, subissant une attirance inexplicable vers cet inconnu.
 
-Or, on allait se séparer. Les appareils demeuraient au repos, les visiteurs
-adressant leurs derniers compliments à 1’Américain, quand un petit bruit coupa
-net les phrases louangeuses.
+Or, on allait se séparer. Les appareils demeuraient au repos, les
+visiteurs adressant leurs derniers compliments à 1’Américain, quand un
+petit bruit coupa net les phrases louangeuses.
 
 — Le martèlement du récepteur, s’écrièrent toutes les voix.
-— Eh bien, Messieurs, fit tranquillement M. Allan, l’enregîstrsment va
-nous apprendre qui nous appelle.
+
+— Eh bien, Messieurs, fit tranquillement M. Allan, l’enregistrement va
+  nous apprendre qui nous appelle.
 
 Mais, après un instant :
 
@@ -709,18 +766,21 @@ Mais, après un instant :
 
 — Alors vous supposez quoi ?
 
-— Que l’appel régulier ne se produisant pas, nous _surprenons_ une causerie de sans fil clandestin.
+— Que l’appel régulier ne se produisant pas, nous _surprenons_ une
+  causerie de sans fil clandestin.
 
 A ce moment, un nouveau personnage pénétrait dans la _lanterne_.
 
 — Clandestin, s’écria-t-il… Eh ! mais, en ce cas, mon service sera tout
-aussi intéressé que celui de la Guerre.
+  aussi intéressé que celui de la Guerre.
 
-— Tiens, c’est Lerenaud, fit Morand en serrant la main au nouveau venu. Je m’étonnais de ne pas vous voir.
+— Tiens, c’est Lerenaud, fit Morand en serrant la main au nouveau venu.
+  Je m’étonnais de ne pas vous voir.
 
 — Moi qui ai piloté M. Allan… Ah ! mon cher, si vous pensez qu’être
-chef de la sûreté constitue une sinécure… J’ai dû m’occuper de Garavaud,
-vous savez, le sixième soupirant de la fatale Linérès de Armencita.
+  chef de la sûreté constitue une sinécure… J’ai dû m’occuper de
+  Garavaud, vous savez, le sixième soupirant de la fatale Linérès de
+  Armencita.
 
 On eût dit qu’une flamme fugitive traversait les yeux de l’Américain.
 
@@ -729,7 +789,7 @@ Cependant il prononça d’une voix très calme :
 — Encore un accident, cher Monsieur ?
 
 — Un accident… Non pas…, un crime commis à six heures, rue du
-Général-Foy, en plein Paris, quatorze coups de couteau.
+  Général-Foy, en plein Paris, quatorze coups de couteau.
 
 — Et ce malheureux ?
 
@@ -743,9 +803,9 @@ muet.
 En fonctions depuis huit mois à peine, M. Lerenaud avait stupéfié la
 société laborieuse, épouvanté le monde du crime par son activité, par la
 certitude de ses déductions. Pour la première fois, il se heurtait à un 
-mystère dont il n’entrevoyait pas la solution. L’aveu qu’il en avait fait très
-loyalement n’avait pas été étranger à la tournure légendaire adoptée par
-la presse pour narrer l’_affaire des fiancés_.
+mystère dont il n’entrevoyait pas la solution. L’aveu qu’il en avait
+fait très loyalement n’avait pas été étranger à la tournure légendaire
+adoptée par la presse pour narrer l’_affaire des fiancés_.
 
 Dès l’instant où Lerenaud ne comprenait pas, on pouvait tout supposer.
 
@@ -756,7 +816,9 @@ Tous frissonnèrent au son de la voix d’Allan.
 
 L’Américain était penché sur l’enregistreur du sans fil et il disait d’un
 ton singulier :
-— J’avais deviné. Un sans fil clandestin… Un renseignement utile pour vous, mon cher Lerenaud.
+
+— J’avais deviné. Un sans fil clandestin… Un renseignement utile pour
+  vous, mon cher Lerenaud.
 
 — Pour moi, murmura l’interpellé ?
 
@@ -765,24 +827,25 @@ ton singulier :
 Et d’une voix lente, marquant un arrêt après chaque phrase, M. Allan
 prononça ces paroles :
 
-— Eh bien ? Est-ce qu’un capitaine de l’armée japonaise hésiterait ? J’ai attendu des nouvelles toute la journée ?
+— Eh bien ? Est-ce qu’un capitaine de l’armée japonaise hésiterait ?
+  J’ai attendu des nouvelles toute la journée ?
 
 — Je n’hésite pas, vous en êtes certain. Mais aujourd’hui, cela était
-impossible à cause du bal costumé de la légation d’Espagne. Demain, je
-sais que l’on se reposera. Je ferai demander à la comtesse…
+  impossible à cause du bal costumé de la légation d’Espagne. Demain, je
+  sais que l’on se reposera. Je ferai demander à la comtesse…
 
 — À la comtesse, répéta Pierre sans avoir conscience qu’il parlait.
 
 Et rougissant légèrement sous les regards convergeant sur lui :
 
-— Excusez-moi… Je cherche acomprendre qui bavarde ainsi… J’ai
-pensé tout haut, désolé de vous avoir interrompu.
+— Excusez-moi… Je cherche acomprendre qui bavarde ainsi… J’ai pensé
+  tout haut, désolé de vous avoir interrompu.
 
 Àllan inclina la tête et continua sa lecture :
 
-— À la comtesse de m’accorder audience le soir. Quoi qu’il doive
-arriver, ma vie appartient au Japon. Demain soir, je demanderai la main de
-M^lle Linérès.
+— À la comtesse de m’accorder audience le soir. Quoi qu’il doive arriver,
+  ma vie appartient au Japon. Demain soir, je demanderai la main de
+  M^lle Linérès.
 
 — Linérès !
 
@@ -801,9 +864,9 @@ parlaient en même temps.
 
 M. Lerenaud avait sursauté. Il s’était vivement rapproché de l’Américain.
 
-— Un septième, disait-il nerveusement, un septième… Ah ! celui-là, on
-ne le quittera pas d’une semelle… On le gardera comme une châsse… On
-verra bien si on me le tue encore !
+— Un septième, disait-il nerveusement, un septième… Ah ! celui-là, on ne
+  le quittera pas d’une semelle… On le gardera comme une châsse… On
+  verra bien si on me le tue encore !
 
 Puis sous l’empire d’une curiosité qui étranglait sa voix :
 
@@ -816,53 +879,64 @@ L’Américain secoua la tête :
 — Après, il n’y a plus rien…
 
 — Quoi, la communication ?…
+
 — s’arrête là. Voyez.
 
-Ce fut un concert de récriminations. L’officier japonais, son interlocuteur
-inconnu, furent cordialement envoyés à tous les diables.
+Ce fut un concert de récriminations. L’officier japonais, son interlocuteur inconnu, furent cordialement envoyés à tous les diables.
 
 M. Lerenaud ramena le calme par cette promesse :
 
 — Messieurs, demain j’établis une surveillance autour de l’hôtel habité
-par les dames de Armencita, rue François 1er.
+  par les dames de Armencita, rue François 1er.
 
 — Qu’est-ce que cela donnera ?
 
-— Le nom du capitaine japonais d’abord. Pour solliciter une entrevue, il donnera son nom.
+— Le nom du capitaine japonais d’abord. Pour solliciter une entrevue, il
+  donnera son nom.
 
 — Bravo ! Vous nous le direz.
 
 — Rendez-vous à dîner au cercle militaire. Le décor est de mise puisqu’il
-s’agit d’un officier.
+  s’agit d’un officier.
 
 — Soit, Messieurs, consentit le chef de la sûreté. Je serai au rendez-
-vous… Je vous confierai le nom de ce septième, et je vous jure qu’il
-sera gardé comme ne le fut jamais souverain. Je crois que je suis entré
-dans la police, non par haine des criminels, mais par curiosité du mystère dont ils sentourent.
+  vous… Je vous confierai le nom de ce septième, et je vous jure qu’il
+  sera gardé comme ne le fut jamais souverain. Je crois que je suis entré
+  dans la police, non par haine des criminels, mais par curiosité du
+  mystère dont ils sentourent.
 
-— Ah! mon pauvre Lerenaud, fit comiquement Morand, je crois que cette fois, votre curiosité doit vous faire bien mal. C’est égal, Chazelet, nous
-dinerons aussi au Cercle militaire.
+— Ah! mon pauvre Lerenaud, fit comiquement Morand, je crois que cette
+  fois, votre curiosité doit vous faire bien mal. C’est égal, Chazelet,
+  nous dinerons aussi au Cercle militaire.
 
-Le marquis acquiesça du geste. Il n’eût pu prononcer un mot. Une épouvante l’étreignait, à l’évocation d’une formidable conspiration ourdie contre
-Linérès.
+Le marquis acquiesça du geste. Il n’eût pu prononcer un mot. Une
+épouvante l’étreignait, à l’évocation d’une formidable conspiration
+ourdie contre Linérès.
 
-La conversation interceptée donnait au mystère des proportions gigantesques. Ce capitaine japonais qui s’engageait à demander la main de la jeune fille, avec ces mots sinistres : Mon existence appartient au Japon.
+La conversation interceptée donnait au mystère des proportions
+gigantesques. Ce capitaine japonais qui s’engageait à demander la main
+de la jeune fille, avec ces mots sinistres : Mon existence appartient
+au Japon.
 
 Il était donc convaincu que l’on mourait de vouloir épouser Linérès !
 
-Et le danger lui apparaissait inévitable. Quel était ce danger, quel pouvait-il être?
+Et le danger lui apparaissait inévitable. Quel était ce danger, quel
+pouvait-il être?
 
 Contre cet Inconnu, Chazelet s’était promis de lutter ; à présent il se
 sentait plus faible, plus impuissant qu’un enfant.
 
 Où le prendre, où le joindre, ce péril insaisissable, qui ne se signalait
-qu’en frappant ? Une fois la victime atteinte, renversée, il ne restait rien,
-nulle trace, nulle présomption.
+qu’en frappant ? Une fois la victime atteinte, renversée, il ne restait
+rien, nulle trace, nulle présomption.
 
-Au fond, le marquis avait peur pour celle à laquelle il se dévouerait, et son
-état d’esprit se montra tout entier dans cette phrase murmurée à mi-voix :
+Au fond, le marquis avait peur pour celle à laquelle il se dévouerait,
+et son état d’esprit se montra tout entier dans cette phrase murmurée à
+mi-voix :
 
-— Après tout, je me ferai tuer… Pour commencer, comment vais-je me présenter chez ces dames ?
+— Après tout, je me ferai tuer… Pour commencer, comment vais-je me
+  présenter chez ces dames ?
+
 Tout à ses réflexions, il se laissa entraîner par Morand.
 
 Il se retrouva avec son ami, au pied de la Tour de fer.
@@ -871,7 +945,8 @@ Lerenaud et l’Américain lui serrèrent la main.
 
 Il ne remarqua point que ce dernier avait prononcé son nom avec une
 affectation évidente. Allan, du reste, demeura en arrière, tandis que 
-M. Lerenaud promettait à Morand de le revoir le lendemain au Cercle militaire.
+M. Lerenaud promettait à Morand de le revoir le lendemain au Cercle
+militaire.
 
 Et la main de l’inventeur rencontra celle de l’un des gamins qui avaient
 assisté à la montée des personnages invités aux expériences, et qu’une
@@ -889,13 +964,14 @@ presque sous les roues pour entendre l’adresse jetée au cocher.
 Après quoi, il vint rejoindre ses camarades.
 
 — C’est à légation d’Espagne ! Bob, va prévenir les autres, qu’ils soient
-de ce côté-là ; place Malesherbes et à l’angle du boulevard de Courcelles ;
-aux stations des tramways, on ne remarque pas quand on stationne là.
+  de ce côté-là ; place Malesherbes et à l’angle du boulevard de
+  Courcelles ; aux stations des tramways, on ne remarque pas quand on
+  stationne là.
 
 Bob partit en courant.
 
 — Toi, Fall, à la légation. Si, par hasard, ils sortaient trop tôt, les
-suivre et laisser l’avis à ceux du boulevard de Courcelles.
+  suivre et laisser l’avis à ceux du boulevard de Courcelles.
 
 — Et toi ?
 
@@ -905,4 +981,3 @@ Sur ce, les gamins se séparèrent et, tout petits dans la grande cité,
 s’enfoncèrent en des voies opposées.
 
 -----
-
