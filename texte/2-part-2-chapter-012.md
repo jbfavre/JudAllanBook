@@ -9,15 +9,15 @@ A quelques pas, appuyé à l’un des piliers du temple, le marquis de Chazelet 
 
 Depuis la veille, le jeune homme vivait dans un songe exquis et douloureux.
 
-Il avait reconquis Linérès ; Maintenant il la pourrait épouser. La _fiancée
-du Diable_, incessamment séparée de lui, serait la petite marquise qu’il avait
-pensé vingt fois perdre à jamais.
+Il avait reconquis Linérès ; Maintenant il la pourrait épouser. La 
+_fiancée du Diable_, incessamment séparée de lui, serait la petite marquise
+qu’il avait pensé vingt fois perdre à jamais.
 
 Et cette certitude, considérée naguère par lui comme le summum des félicités, ne lui apportait point le bonheur complet.
 
 C’est que, depuis son entrée dans le souterrain Aztec, il avait appris la
-lutte géante d’Allan contre la bande de Jemkins. Il avait su l’idylle tragique
-de Lilian, sous le couteau des misérables acharnés à sa perte.
+lutte géante d’Allan contre la bande de Jemkins. Il avait su l’idylle
+tragique de Lilian, sous le couteau des misérables acharnés à sa perte.
 
 Et cette Jeune fille, ce loyal et vaillant Jud, ces deux êtres qui l’avaient
 sauvé, qui lui avaient rendu Linérès, il les voyait condamnés à la douleur.
@@ -34,7 +34,7 @@ surveiller l’hacienda. Je veux savoir tout ce qui s’y produira, tout.
 
 Alors, Allan eut un soupir et fit mine de retourner dans sa retraite.
 
-— Mon fils ! gémit Marahi. -
+— Mon fils ! gémit Marahi.
 
 Il la regarda. Il vint à elle, l’enlaça et la baisa doucement au front en
 murmurant :
@@ -71,6 +71,7 @@ maroquin… Et comme elle s’écriait, joyeuse, inconsciente d’exprimer sa
 pensée à haute vois:
 
 — Il a refusé… Il me sauve la vie, il me conserve la confiance des autres…
+
 L’Indienne lui toucha le bras.
 
 — De qui parlez-vous, gracieuse Rouge-Fleur ?
@@ -103,9 +104,10 @@ Comme il semblait repousser l’éloge d’un geste de la main, elle reprit :
 
 — Je n’insiste pas. Mais j’ai obtenu de nos compagnes de vous servir votre
 repas. Dans mon pays lointain, c’est ainsi que 1’on marque son dévouement.
-Je vous demanderai donc quelle boisson vous préférez: Eau fraîche ou pulque ?
+Je vous demanderai donc quelle boisson vous préférez : Eau fraîche ou
+pulque ?
 
-Il répondit lentement:
+Il répondit lentement :
 
 — De l’eau.
 
@@ -128,9 +130,10 @@ chez le prisonnier volontaire.
 Elle disposa les mets devant lui et se retira bruyamment, exagérant le
 froufrou de ses jupes.
 
-Mais derechef elle s’arrêta au pilier; à pas de loup, elle revint sur ses pas,
-se glissa sans le moindre bruit dans le couloir étroit reliant au souterrain
-la cellule d’Allan, et avançant la tête avec précaution, elle regarda.
+Mais derechef elle s’arrêta au pilier ; à pas de loup, elle revint sur ses
+pas, se glissa sans le moindre bruit dans le couloir étroit reliant au
+souterrain la cellule d’Allan, et avançant la tête avec précaution, elle
+regarda.
 
 Le jeune homme ne se doutait pas qu’on l’observait.
 
@@ -166,6 +169,7 @@ Frida.
 
 Et quand la jolie Chinoise eut disparu, la femme rouge rentra, branlant la
 tête, son vieux visage ridé reflétant la douloureuse confusion de ses pensées.
+
 Ce que fut cette journée, il est impossible de l’exprimer.
 
 Dans l’obscurité du sanctuaire, sous le voile de désespérance répandu sur l’esprit de tous, chacun se sentait courbé, anéanti.
@@ -196,7 +200,6 @@ Il avait passé plus de deux heures dans la « Cave française ».
 
 La nuit vint.
 
-
 Comme poussé par une force invisible, Jud Allan quitta sa cellule, où
 personne n’osait troubler sa rêverie désespérée.
 
@@ -211,15 +214,17 @@ Il la laissa faire, sans un mouvement, sans une parole, sans que ses yeux
 se détournassent de la voûte d’étoiles scintillant au-dessus de leurs têtes.
 
 Soudain, un bruit monte du fond de la vallée. Une course précipitée martèle le silence.
+
 Allan, Lilian ont un tressaillement. Ils abaissent leurs regards.
 
 Marahi, Linérès, Chazelet, Grace, M^me Pariset s’avancent sur la corniche.
-Lilian, dans un souffle, prononce:
+Lilian, dans un souffle, prononce :
 
 — C’est Storm !
 
 Le galot s’enfle. De l’obscurité jaillit un projectile vivant. C’est bien
 le dogue de Suzan.
+
 Mais qu’a donc l’animal ? Il bondit, saute, échappant avec de petits cris
 étouffés aux mains des femmes qui le veulent saisir au collier.
 
@@ -240,9 +245,7 @@ entendu. Lilian s’est appuyée au bras de Jud et pensant à haute voix :
 
 Et Allan lit l’étrange lettre que voici :
 
- 
-
-> Mon cher Jud,
+> Mon _cher_ Jud,
 
 > Comment m’êtes-vous devenu cher ? Sur ma parole, je n’en sais rien…
   vous qui avez conquis des grades universitaires, vous trouverez peut-être
@@ -260,12 +263,12 @@ Et Allan lit l’étrange lettre que voici :
   de vous expliquer certains détails que vous ne devineriez jamais.
 
 Allan s’interrompit un instant. Le ton singulier de la lettre, le mélange
-d’ironie et de vague tendresse répandu dans les lignes tracées par l’aventurier,
-lui apportaient un malaise indéfinissable.
+d’ironie et de vague tendresse répandu dans les lignes tracées par l’aventurier, lui apportaient un malaise indéfinissable.
 
 Lilian au contraire semblait transfigurée. elle supplia:
 
 — Lisez, Jud, je vous en prie.
+
 > Vous m’avez mis la tête à l’envers, mon cher Jud, écrivait Jemkins.
   Pourquoi ? Comment ? Je vous répète que je n’en sais rien.
 
@@ -349,7 +352,7 @@ Lilian, parmi les sanglots qui la secouaient, murmurait :
 
 — Sauvé ! Sauvé !
 
-Lui était devenu horriblement pale.
+Lui était devenu horriblement pâle.
 
 Et M^me Pariset, Marahi l’étreignaient à leur tour, avec ces mots bénis :
 
@@ -363,7 +366,7 @@ Il les repoussa, affolé, tragique.
 
 — Eh ! Il s’agit bien de mourir à présent…
 
-— Tantôt, mère, pardon; Lilian, pardonnez… Fils de Jemkins, je ne pouvais
+— Tantôt, mère, pardon ; Lilian, pardonnez… Fils de Jemkins, je ne pouvais
 pas vivre. J’ai pris du cyanure de potassium à la dose lente. Vers minuit,
 une heure du matin au plus tard, je…
 
@@ -381,15 +384,16 @@ Oh ! la sinistre marche dans la nuit, au milieu des plantations, du parc,
 où les victimes de Frey Jemkins avaient promené leur captivité.
 
 Des idées inattendues s’enfonçaient aiguës dans leurs cerveaux.
+
 Alors qu’ils étaient captifs, ils supposaient que nulle peine plus grande
 ne les saurait atteindre.
 
-Qu’étaient leurs angoisses d’autrefois, auprès de celles de l’heure présente ?
-Une pensée seule les soutient, les pousse en avant. Donner a Jemkins la
-dernière satisfaction sollicitée par la lettre où il pardonne.
+Qu’étaient leurs angoisses d’autrefois, auprès de celles de l’heure
+présente ? Une pensée seule les soutient, les pousse en avant. Donner à
+Jemkins la dernière satisfaction sollicitée par la lettre où il pardonne.
 
-Car il a pardonné. Méme son souci de n’étre point mensuré, ne démontre-t-il
-pas le désir de ne laisser aucune trace légale de son existence ? N’est—ce
+Car il a pardonné. Même son souci de n’être point mensuré, ne démontre-t-il
+pas le désir de ne laisser aucune trace légale de son existence ? N’est-ce
 point encore protéger l’_incognito_ qu’il voulait assurer à Jud Allan ?
 
 Pour une fois, le crime fut plus clément que la vertu ! Grâce à lui, Jud eût
@@ -397,8 +401,7 @@ pu connaître le bonheur, si dans l’orgueil de son honneur, il n’avait point
 précipité le dénouement fatal.
 
 Mais le groupe désolé parvient devant l’hacienda. Un silence de tombeau
-y règne. Pourtant, à travers les stores de toile qui obstruent les fenêtres du
-grand salon, transsudent des clartés.
+y règne. Pourtant, à travers les stores de toile qui obstruent les fenêtres du grand salon, transsudent des clartés.
 
 La porte est ouverte au large. Lilian et Chazelet y pénètrent les premiers.
 
@@ -418,9 +421,9 @@ Zirini…, puis toute la troupe de peones, vaqueros, pulqueros, etc.
 On sattend à les entendre hurler, chanter, rugir… Attente vaine… Aucun
 bruit. Nulle voix avinée ne traverse le silence angoissant.
 
-Et puis, quelle immobilité terrifiante!
+Et puis, quelle immobilité terrifiante !
 
-Celui-ci est renversé en arrière sur son siège, la face disténdue par un
+Celui-ci est renversé en arrière sur son siège, la face distendue par un
 rire immobile. Sa bouche demeure ouverte, ses muscles contractés, dans
 une gaieté que la mort a pétrifiée de sa main de glace.
 
@@ -434,8 +437,7 @@ la vie ? Mystère. Mais tous sont morts, morts en dégustant les boissons
 
 Frey, lui, est assis carrément, le buste droit, 1a tête rejetée en arrière.
 Un sourire mystérieux séjourne sur ses traits. Il savait la fin toute proche,
-lui
-qui l’avait préparée. Il a soigné son attitude. On sent que sa dernière
+lui qui l’avait préparée. Il a soigné son attitude. On sent que sa dernière
 pensée a été une ironie pour ceux qui gisent autour de lui.
 
 Il est mort dans une hécatombe. Comme ces souverains fastueux de l’antique
@@ -444,7 +446,7 @@ serviteurs, Jemkins a voulu que tous les siens quittassent la terre en même
 temps que lui. Et son geste figé, son ricanement disent sa satisfaction du
 dernier sacrifice réussi.
 
-Et plus pale que les morts, en une allure spectrale, Lilian va vers le chef
+Et plus pâle que les morts, en une allure spectrale, Lilian va vers le chef
 de bandits qui, si longtemps, a exploité les deux mondes.
 
 — Ta dernière pensée fut bonne, murmure-t-elle. Jemkins, meurtrier de
@@ -463,15 +465,14 @@ quittes.
 
 — Je ne comprends pas, balbutient les assistants.
 
-— C’est simple. J’ai surpris un certain E1 Dieblo de vos connaissances,
+— C’est simple. J’ai surpris un certain El Dieblo de vos connaissances,
 puisant dans un coffret où ce pauvre Frey Jemkins conservait une forte
 quantité de cyanure, dont il a fait si bon usage ce soir.
 
-— Eh bien?
+— Eh bien ?
 
 — Sachant que vous vouliez mourir, Jud Allan, j’ai deviné. Ce poison,
-pris à votre adversaire, afin de lui échapper en cas de malchance, vous alliez
-l’utiliser pour fausser compagnie à ceux qui vous aiment.
+pris à votre adversaire, afin de lui échapper en cas de malchance, vous alliez l’utiliser pour fausser compagnie à ceux qui vous aiment.
 
 — Je l’ai pris.
 
@@ -479,7 +480,7 @@ l’utiliser pour fausser compagnie à ceux qui vous aiment.
 seulement vous avez pris en même temps une dose de chlore liquide qui
 neutralise l’acide prussique.
 
-— Que dites-vous?
+— Que dites-vous ?
 
 — Antidote… acheva gaiement Rouge-Fleur, que j’avais jeté dans la
 cruche, ou votre servante vous apporta l’eau pure destinée à votre repas.
@@ -489,6 +490,7 @@ confondirent en un enlacement éperdu, délirant.
 
 Grace, Linérès, Chazelet, gagnés par la griserie du bonheur inespéré, se
 mirent de la partie. Jud se reprit le premier.
+
 — Je veux assurer la sépulture qui m’a été demandée.
 
 Il désignait Jemkins.
@@ -516,9 +518,8 @@ Selon son désir, Jud Allan lui avait assuré la cachette inviolable d’une
 tombe ignorée.
 
 Seul, l’illustre habitant de la Maison Blanche, à Washington, connut la
-vérité, et il laissa s’accréditer le bruit que Frey Jemkins avait succombé sous les coups de maîtres chanteurs, lesquels, afin de lui extorquer des fonds
-considérables, s’étaient évertués à le compromettre en lui attribuant une
-participation à leurs crimes.
+vérité, et il laissa s’accréditer le bruit que Frey Jemkins avait succombé sous les coups de maîtres chanteurs, lesquels, afin de lui extorquer des fonds considérables, s’étaient évertués à le compromettre en lui attribuant
+une participation à leurs crimes.
 
 Ce faisant, l’homme d’État accueillait la requête que Jud Allan lui avait
 adressée dès le lendemain de son dernier jour d’épreuve.
