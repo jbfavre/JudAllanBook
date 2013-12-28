@@ -5,19 +5,20 @@ Comment Lilian et Linérès étaient-elles tombées au pouvoir des peones, qui v
 C’étaient les manœuvres contradictoires des japonais de Rouge-Fleur et des lads de Jud Allan qui avaient fait tout le mal.
 
 La Chinoise, persuadée par Marahi, avait pris ses dispositions pour enlever
-Linéres durant la promenade symbolique des fiancés, et pour lui substituer Lilian, véritable héritière de l’immense fortune des Pariset.
+Linérès durant la promenade symbolique des fiancés, et pour lui substituer Lilian, véritable héritière de l’immense fortune des Pariset.
 
 Allan, lui, s’était proposé de rendre la signature du contrat impossible, de
 faire perdre à Jemkins deux ou trois journées, on faisant disparaître Linérès
 et en mettant en son lieu et place Grace Paterson, laquelle, totalement étrangère au débat financier, ayant du reste un état civil parfaitement régulier, ne pouvait en aucun cas donner une signature valable.
 
 Et à l’origine du terrible malentendu qui mettait Jud seul, sans secours, en
-face de son ennemi entouré de ses sinistres acolytes, qu’y avait-il? La défiance d’A1lan contre Marahi.
+face de son ennemi entouré de ses sinistres acolytes, qu’y avait-il ? La défiance d’A1lan contre Marahi.
 
 S’il se fût rendu auprès de l’Indienne, s’il lui avait parlé, peut-être bien
 des souffrances eussent été évitées.
 
 Mais la défiance existait, et voici ce qu’il en était advenu.
+
 Les Japonais, apostés dans les buissons, parmi lesquels s’était produite la
 première bousculade dont Chazelet fut victime, alors qu’il déambulait dans
 le parc, avaient profité de la confusion pour entraîner Linérès, en laissant
@@ -43,19 +44,17 @@ stupéfaits. Chaque groupe escortait une fiancée.
 
 La présomption d’une erreur, pouvant réduire à néant les projets de leurs
 chefs respectifs, s’était implantée dans les cerveaux. Les _rebos_ furent
-arrachés. Les traits des jeunes filles apparurent. Et en reconnaissant Linérès
-au milieu de leurs adversaires, les lads voulurent la leur arracher.
+arrachés. Les traits des jeunes filles apparurent. Et en reconnaissant
+Linérès au milieu de leurs adversaires, les lads voulurent la leur arracher.
 
 Le bruit de la lutte attira des peones que Frey Jemkins, toujours prudent,
 avait disséminés dans le parc.
 
 Résultat : fuite des combattants menacés d’un feu de salve, auquel ils
-n’eussent pu répondre, des armes n’ayant point paru utiles dans une expédition
-toute de ruse et d’adresse.
+n’eussent pu répondre, des armes n’ayant point paru utiles dans une expédition toute de ruse et d’adresse.
 
-Les vainqueurs capturèrent donc les jeunes filles privées de leurs défenseurs,
-et, incapables de prendre une décision, ils les amenèrent devant le
-milliardaire, afin que celui-ci fit connaître la résolution à laquelle il
+Les vainqueurs capturèrent donc les jeunes filles privées de leurs défenseurs, et, incapables de prendre une décision, ils les amenèrent devant
+le milliardaire, afin que celui-ci fit connaître la résolution à laquelle il
 s’arrêterait.
 
 Maintenant Jud, protégeant Lilian de son corps, s’offrait désespérément
@@ -64,11 +63,11 @@ héroïque aux coups de ses ennemis. Pour toute arme, il n’avait qu’une nava
 Au cri déchirant de Lilian, à la courageuse intervention d’El Dieblo, un
 éclat de rire sinistre répondit. Jemkins raillait :
 
-— Allons, Satan est avec nous, garçons ! J’aurais été heureux de pendre ce Jud
-Allan, mais les circonstances ne s’y prêtent pas, accordons-lui le trépas
+— Allons, Satan est avec nous, garçons ! J’aurais été heureux de pendre ce Jud Allan, mais les circonstances ne s’y prêtent pas, accordons-lui le trépas
 honorable par la fusillade.
 
 Puis braquant un revolver sur le jeune homme :
+
 — La joie peut faire trembler ma main ; garçons, je vous autorise à abattre
 cette cible vivante.
 
@@ -127,8 +126,7 @@ massue. Il chancelle. Sa main armée du revolver s’abaisse.
 Une vision du passé le sépare de l’instant présent.
 
 Il se revoit jeune, chevauchant à travers les exploitations aurifères de
-Californie, traquant à la tête des braves cavaliers de la _Claim’s Safety_, les
-bandits, dont il rêve déjà de faire ses associés.
+Californie, traquant à la tête des braves cavaliers de la _Claim’s Safety_, les bandits, dont il rêve déjà de faire ses associés.
 
 Un soir, au bord d’un ruisseau, il rencontre une Indienne actionnée au lavage
 de sables alluvionnaires dont elle extrait de minces paillettes d’or.
@@ -155,12 +153,9 @@ A l’aube, elle cherche son enfant.
 Il a disparu, et le chef de la police des Claim’s lui répond durement :
 
 — As-tu pu rêver que j’accepterais à jamais une chaîne me liant à toi,
-pauvresse rouge ? L’enfant est là où je veux qu’il grandisse. Sois obeissante,
-dévouée, fidèle, muette… Oublie que tu fus mon épouse, et je te rendrai le
-gamin… plus tard.
+pauvresse rouge ? L’enfant est là où je veux qu’il grandisse. Sois obeissante, dévouée, fidèle, muette… Oublie que tu fus mon épouse, et je te rendrai le gamin… plus tard.
 
-Il apprend alors que la mère avait tracé sur le crâne du petit être, l’emblème
-de sa tribu, la fleur du chiriquite. Bah ! Qu’importe cela ?
+Il apprend alors que la mère avait tracé sur le crâne du petit être, l’emblème de sa tribu, la fleur du chiriquite. Bah ! Qu’importe cela ?
 
 L’enfant, par son ordre, a été emporté vers Oakland, abandonné dans les rues
 de la ville… Il est mort ou bien englouti par la foule, cet océan mobile où
@@ -288,6 +283,7 @@ Sur le point de franchir l’une des baies, elle s’arrêta interdite.
 Le souterrain creusé dans le roc semblait désert. L’ombre et le silence y
 régnaient. Pourtant, en regardant mieux, elle distingua vers le fond une
 fugitive lueur.
+
 — Ils sont là, se confia-t-elle.
 
 Suzan se dirigea vers l’endroit où tremblottait la lueur aperçue.
@@ -338,6 +334,7 @@ sommet de la voûte.
 — Seul, sans armes, Frey Jemkins demande à t’entretenir, Roi.
 
 — Frey Jemkins ! redirent les assistants d’un ton lugubre.
+
 Allan eut un rire douloureux :
 
 — Amène-le près de moi, Suzan… Il ne peut plus me faire de mal !
@@ -383,15 +380,14 @@ Mais il fallait répondre… Il le fallait a tout prix.
 
 Il sembla attendre une réponse qui ne vint pas. Il poursuivit :
 
-— Vous ne soupçonnez pas ce qu’il a fallu de bouleversement en moi pour amener
-pareille décision. Vous êtes le premier adversaire auquel j’ai cédé, auquel
-j’ai fait grâce… Oui, grâce, répéta-t-il avec éclat, car sur un signe, ceux
-qui m’entouraient vous auraient broyés tous… Je pouvais triompher, je pouvais
-tuer… Je ne l’ai pas voulu.
+— Vous ne soupçonnez pas ce qu’il a fallu de bouleversement en moi pour amener pareille décision. Vous êtes le premier adversaire auquel j’ai cédé,
+auquel j’ai fait grâce… Oui, grâce, répéta-t-il avec éclat, car sur un signe, ceux qui m’entouraient vous auraient broyés tous… Je pouvais
+triompher, je pouvais tuer… Je ne l’ai pas voulu.
 
 Il s’arrêta, un égarement dan les yeux. Allan répliquait froidement :
 
 — Vous avez eu tort !
+
 L’intonation était plus terrible que les mots. Nulle trace de défi, nulle
 trace d’ironie ; mais un découragement morne, une immense lassitude.
 
@@ -434,9 +430,7 @@ L’exclamation fit bondir son interlocuteur.
 
 — Mourir… ! Ah çà, je vous ai mal jugé. Est-ce que l’on meurt quand la
 bataille est engagée ? Dans vingt-quatre heures, Agua Frida sera cerné…
-Oui, mais dans vingt-quatre heures, je serai loin… Porfirio et cette scélérate de Rouge-Fleur, qui m’a trahi, sont en mon pouvoir… Dans les caves, je les tiens prisonniers. Sous la menace d’une torture horrible, la petite
-Chinoise m’a révélé la cachette de trente millions, trente millions qu’elle
-eût dû me verser, qui m’appartiennent. Avec cette somme, un homme est
+Oui, mais dans vingt-quatre heures, je serai loin… Porfirio et cette scélérate de Rouge-Fleur, qui m’a trahi, sont en mon pouvoir… Dans les caves, je les tiens prisonniers. Sous la menace d’une torture horrible, la petite Chinoise m’a révélé la cachette de trente millions, trente millions qu’elle eût dû me verser, qui m’appartiennent. Avec cette somme, un homme est
 maître de sa destinée.
 
 — Et en quoi cela m’importe-t-il ?
@@ -474,6 +468,7 @@ Un grondement s’échappa de la gorge de Jemkins à cette question :
 
 Le jeune homme se redressa. Il parut grandir et avec une majesté souveraine
 dont son interlocuteur se sentit dominé :
+
 — Vous refusez de répondre, parce que vous n’osez me proposer ouvertement d’être le complice d’un nouveau crime.
 
 — Va pour le crime… N’en est-ce pas un plus grand que de marchander le salut à son père ?
@@ -529,10 +524,11 @@ toute explication.
 — Ils pourraient être victimes.
 
 La réponse sonna funèbre dans le crâne de Jemkins :
+
 — Moi seul ne trouverai point grâce devant vous.
 
 Avec une mélancolie très douce, Allan murmura :
-de vivre quand les
+
 — Ni vous, ni moi… J’ai promis de cesser de vivre quand les policiers
 entreront à Agua Frida. Soyez certain que je tiendrai ma promesse.
 
