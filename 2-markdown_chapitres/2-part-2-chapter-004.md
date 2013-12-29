@@ -300,7 +300,7 @@ Jud tapota amicalement l’épaule du gamin.
   débarcadère, Fall à la maison de la Troisième rue, Suzan à East-River, et
   moi chez Meyer.
 
-![Image: "On croirait les voir tous les deux."](../images/1-page-249.JPG)
+![Image: "On croirait les voir tous les deux."](../images/1-page-349.JPG)
 
 — Je suis content de vous.
 
