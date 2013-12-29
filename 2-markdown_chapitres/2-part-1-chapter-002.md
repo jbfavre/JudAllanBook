@@ -550,7 +550,7 @@ Il avait soif de la connaître davantage, et il ne songea même pas à
 l’indiscrétion de son acte, lorsqu’il fit basculer le loquet et ouvrit la
 porte.
 
-![À travers les vitres, il essaya de voir à l’intérieur](images/1-page-031.JPG
+![À travers les vitres, il essaya de voir à l’intérieur](images/part1/page-031.jpg
 "À travers les vitres, il essaya de voir à l’intérieur")
 
 Le logis était celui de pauvres paysans. Des meubles peu nombreux, de sapin
