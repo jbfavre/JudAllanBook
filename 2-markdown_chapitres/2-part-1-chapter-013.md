@@ -146,7 +146,7 @@ résolution.
 Il sortait du panneau tout en parlant. L’arrière du navire lui apparu
 désert.
 
-![Jud se laissa glisser dans l’eau](images/1-page-224.JPG
+![Jud se laissa glisser dans l’eau](images/part1/page-224.jpg
 "Jud se laissa glisser dans l’eau")
 
 Ainsi qu’une ombre, il se glissa jusqu’auprès des palans supportant l’un
@@ -558,7 +558,7 @@ L’homme élève la voix :
   association vous expliquer sans détours le but de notre réunion sur les
   terres de l’hacienda de Agua Frida.
 
-![Un nouveau personnage vient d’entrer dans la clairière](images/1-page-232.JPG
+![Un nouveau personnage vient d’entrer dans la clairière](images/part1/page-232.jpg
 "Un nouveau personnage vient d’entrer dans la clairière")
  
 — Agua Frida, murmure Jud gravant ce nom dans son esprit.
@@ -852,7 +852,7 @@ qui s’écroule sur le sable du chemin, et il ricane :
 Celui dont, en dépit du masque, le gamin connaît à présent deux noms :
 Le Crâne,  Frey, reprend le chemin qu’il a parcouru tout à l’heure.
 
-![Avant que le corps de Trina ait roulé à terre](images/1-page-238.JPG
+![Avant que le corps de Trina ait roulé à terre](images/part1/page-238.jpg
 "Avant que le corps de Trina ait roulé à terre")
 
 Sous son bras, tel un paquet vulgaire, il emporte l’enfant endormie par
@@ -973,7 +973,7 @@ du quadrupède.
 Celui-ci veut se débarrasser du cavalier. Mais le gamin lui scie la
 bouche avec sa cordelette, il lui enfonce ses talons dans les flancs. 
 
-![Voici celle que tu cherches](images/1-page-241.JPG
+![Voici celle que tu cherches](images/part1/page-241.jpg
 "Voici celle que tu cherches")
 
 L’animal a un hennissement de douleur, et furieux, affolé, il s’emballe
@@ -1252,7 +1252,7 @@ l’Indienne, Marahi l’approuve :
 Un dernier voyage à San-Francisco montre au jeune homme, — il a dix-neuf
 ans maintenant, — son ennemi plus puissant que jamais.
 
-![Les sorciers de la tribu lui apprennent tout ce qu’ils savent](images/1-page-248.JPG
+![Les sorciers de la tribu lui apprennent tout ce qu’ils savent](images/part1/page-248.jpg
 "Les sorciers de la tribu lui apprennent tout ce qu’ils savent")
 
 Frey Jemkins est sénateur ; Frey Jemkins commence à être une force avec
@@ -1439,7 +1439,7 @@ le plancher une poudre blanche qu’il contenait. Au choc léger produit par
 sa chute, la poudre avait instantanément changé de couleur, tournant à
 une teinte jaunâtre, analogue à celle du bois.
 
-![Elle avait tiré de sa poche un papier](images/1-page-252.JPG
+![Elle avait tiré de sa poche un papier](images/part1/page-252.jpg
 "Elle avait tiré de sa poche un papier")
 
 Grace se leva, prit son amie dans ses bras et la baisa au front.
@@ -1678,7 +1678,7 @@ coureurs de prairie a cédé la place aux vêtements des gentlemen. Tous se
 sont créé une _respectabilité_ apparente, qui peut tromper les yeux non
 prévenus.
 
-![J’entrai dans la police à cheval](images/1-page-257.JPG
+![J’entrai dans la police à cheval](images/part1/page-257.jpg
 "J’entrai dans la police à cheval")
 
 Le Crâne, puisque tel est le nom conservé par Frey Jemkins parmi ses
@@ -1922,7 +1922,7 @@ de faire la lumière.
   figurera en réalité, ce seront les formules de la transaction avec la
   Société japonaise propriétaire du bail de Agua Frida.
 
-![Eh bien, il existe quelqu’un qui veut ruiner ce plan](images/1-page-262.JPG
+![Eh bien, il existe quelqu’un qui veut ruiner ce plan](images/part1/page-262.jpg
 "Eh bien, il existe quelqu’un qui veut ruiner ce plan")
 
 — Ah ! s’écria Kan-So, ceci est génial. Le mari de miss Linérès, ou
