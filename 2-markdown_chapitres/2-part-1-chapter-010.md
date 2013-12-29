@@ -162,7 +162,7 @@ Lilian secoua la tête.
 — Oh oui ! s’écria Lilian qui baissa aussitôt la tête, comme honteuse de cet
   élan.
 
-![En l’enlaçant, se faisant douce comme une mère](images/1-page-157.JPG
+![En l’enlaçant, se faisant douce comme une mère](images/part1/page-157.jpg
 "En l’enlaçant, se faisant douce comme une mère")
 
 — Cela est possible, murmura sa compagne d’un ton malicieux. Moi-même, je ne
@@ -414,7 +414,7 @@ Sur ce, Miss Deffling accompagna le visiteur jusqu’au seuil de son cabinet
 où elle pénétra dignement, le laissant libre de gagner la chambre occupée
 par Lilian.
 
-![Pourrai-je voir ma sœur ?](images/1-page-162.JPG "Pourrai-je voir ma sœur ?")
+![Pourrai-je voir ma sœur ?](images/part1/page-162.jpg "Pourrai-je voir ma sœur ?")
 
 Alors le professeur de West-Point s’essuya le front que mouillaient des
 gouttelettes de sueur, puis, d’un pas décidé, il gravit l’escalier accédant
@@ -728,7 +728,7 @@ dernier…
 Il appuya ses lèvres sur son front pur, comme dominé par l’angélique
 créature.
 
-![Il appuya ses lèvres sur son front pur](images/1-page-168.JPG
+![Il appuya ses lèvres sur son front pur](images/part1/page-168.jpg
 "Il appuya ses lèvres sur son front pur")
 
 ------
@@ -973,7 +973,7 @@ Quelques minutes plus tard la porte se rouvrit.
 
 Deux personnes parurent sur le seuil.
 
-![L’autre semblait un vieillard courbé par l’âge](images/1-page-172.JPG
+![L’autre semblait un vieillard courbé par l’âge](images/part1/page-172.jpg
 "L’autre semblait un vieillard courbé par l’âge")
 
 L’une était Tril, le petit stewart auquel le professeur avait parlé sur le

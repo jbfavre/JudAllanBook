@@ -203,7 +203,7 @@ Mais l’interpellée secoue la tête.
   chère à mon cœur entre toutes, toi qui personnifies ma haine et ma
   vengeance, tu aies la gloire et le profit… Va !
 
-![Feuillette ce livre avant de nous séparer. Tu comprendras](images/1-page-135.JPG
+![Feuillette ce livre avant de nous séparer. Tu comprendras](images/part1/page-135.jpg
 "Feuillette ce livre avant de nous séparer. Tu comprendras")
 
 Et la gracieuse Rouge-Fleur, dominée par son accent, s’éloigne à pas
@@ -271,7 +271,7 @@ Sans bruit elle la glisse par la fissure qui, à l’instant, livrait passage
 à ses regards, puis dans l’orifice elle introduit une boulette de papier,
 elle approche ses lèvres du tube.
 
-![Elle vise l’inconnu](images/1-page-137.JPG "Elle vise l’inconnu")
+![Elle vise l’inconnu](images/part1/page-137.jpg "Elle vise l’inconnu")
 
 Elle vise… Elle vise l’inconnu. Ses joues se gonflent. Soudain un bruit
 léger se fait entendre, auquel répond une exclamation étonnée.
@@ -470,7 +470,7 @@ leurs gonds, démasquant un concierge chamarré. Le landau passe dans le
 vestibule dallé avec un bruit de tonnerre et dépose les voyageurs au pied
 du perron monumental, qui accède aux appartements.
 
-![Les lourds vantaux démasquent un concierge chamarré](images/1-page-141.JPG
+![Les lourds vantaux démasquent un concierge chamarré](images/part1/page-141.jpg
 "Les lourds vantaux démasquent un concierge chamarré")
 
 Plus légèrement qu’on ne l’eût attendu d’un homme de sa corpulence, Frey
@@ -661,7 +661,7 @@ La démente, du geste, repoussait l’enfant prosternée à ses pieds.
 — Laissez-moi lui parler, interrompit alors Jemkins. J’ai l’habitude de
   converser avec Lily.
 
-![Lilian ! Ma fille !](images/1-page-145.JPG "Lilian ! Ma fille !")
+![Lilian ! Ma fille !](images/part1/page-145.jpg "Lilian ! Ma fille !")
 
 Puis, appuyant l’index sur l’épaule de la malheureuse :
 
@@ -855,7 +855,7 @@ ironique.
 
 — Présent ! Qu’y a-t-il pour votre agrément, s’il vous plaît ?
 
-![Tril séloigna en flâneur](images/1-page-150.JPG "Tril séloigna en flâneur")
+![Tril séloigna en flâneur](images/part1/page-150.jpg "Tril séloigna en flâneur")
 
 — Te rappeler que le retour à bord est pour ce soir dix heures.
 
