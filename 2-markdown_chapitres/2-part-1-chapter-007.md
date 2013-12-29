@@ -679,7 +679,7 @@ Puis posant le doigt sur une ligne :
   tempête du nord qui rendrait impossible l’accès de Guaymas, situé sur
   l’autre rive à quatre-vingts kilomètres à peine.
 
-![Voici, dit-elle, le grand livre de mon existence](images/1-page-121.JPG
+![Voici, dit-elle, le grand livre de mon existence](images/part1/page-121.jpg
 "Voici, dit-elle, le grand livre de mon existence")
 
 Linérès ne perdait pas un mot de cette lecture.
