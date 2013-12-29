@@ -42,8 +42,6 @@ Pour son malheur, Jud avait conservé un certain don quichottisme inné.
 L’injustice le révoltait…, à ce point qu’il cherchait à la combattre
 partout où il la rencontrait. Cette tendance décida de sa vie.
 
------
-
 Le 15 septembre 1892, le jeune Jud, agé de douze ans environ, ainsi que
 l’étab1it l’instruction avec autant d’exactitude qu’en comporte l’état
 civil d’un orphelin, sans répondants d’aucune sorte et sans domicile fixe,
@@ -121,8 +119,6 @@ Tout près de lui, une voix avait prononcé :
 la clef des champs… et de l’avenir… Tout cela pour ramasser une gamine de
 deux ans et la laisser tomber dans le rio (rivière) le plus proche.
 
------
-
 Grace s’arrêta net. Elle échangea un regard anxieux avec Lilian.
 
 Toutes deux, sans s’être consultées, avaient ressenti la même commotion.
@@ -133,7 +129,6 @@ arrachée à sa famille. Était-ce la même ?
 Pas un mot ne fut prononcé… Grace reporta les yeux sur le manuscrit et
 poursuivit sa lecture.
 
------
 Les phrases étaient claires. L’être le plus naïf eût compris qu’il
 s’agissait d’un crime.
 
@@ -266,8 +261,6 @@ affectés aux malades. Bien plus, un sourire passa sur ses traits.
 — Cela fait mal, mmurmura-t-il, mais ici, les portes ne sont point
   cadenassées, je pourrai plus facilement filer dans la cour.
 
------
-
 — Quel courage ! murmura Lilian, exprimant son sentiment sans en avoir
   conscience.
 
@@ -317,8 +310,6 @@ Et après un examen attentif, elle reprit :
   secrétaire sans doute…
 
 Et sa compagne se taisant, elle lut :
-
------
 
 Le soir vint. Jud connaissait une nouvelle inquiétude. Son bras blessé
 avait enflé ; une intolérable souffrance engourdissait le gamin.
@@ -740,8 +731,6 @@ couchette, sur laquelle il s’étendit avec un soupir de volupté.
 Ses yeux se fermèrent aussitôt. Cinq minutes ne s’étaient point écoulées,
 qu’il s’était enfoncé dans un lourd sommeil que la fièvre peuplait
 d’imprécis cauchemars.
-
------
 
 Le jeune garçon dut dormir longtemps, car en rouvrant les yeux, il
 éprouva une sensation de bien-être merveilleux.
