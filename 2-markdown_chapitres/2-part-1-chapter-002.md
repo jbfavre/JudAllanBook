@@ -347,7 +347,7 @@ Comme il songeait, un chant parvint à ses oreilles.
 C’était un de ces _canzones_ de bergers, lents et doux, comme rythmés sur le
 mouvement paisible des troupeaux au pâturage.
 
-![La chanteuse était assise sur une pierre, dans un angle](images/1-page-027.JPG
+![La chanteuse était assise sur une pierre, dans un angle](images/page-027.jpg
 "La chanteuse était assise sur une pierre, dans un angle")
 
 La voix, féminine évidemment, sonnait forte et juste, avec cette ignorance
@@ -1149,7 +1149,7 @@ Après quoi secouant cordialement la main du Français :
 
 — Que les Saints Anges accompagnent ta marche. Adios !
 
-![Droit devant toi. La fonda de Salamanca, dirent-ils](images/1-page-042.JPG
+![Droit devant toi. La fonda de Salamanca, dirent-ils](images/page-042.jpg
 "Droit devant toi. La fonda de Salamanca, dirent-ils")
 
 Sans avoir le loisir de répondre, Pierre, entraîné par ses gardiens aussi
