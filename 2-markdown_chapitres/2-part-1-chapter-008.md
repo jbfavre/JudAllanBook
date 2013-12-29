@@ -115,7 +115,7 @@ répond :
 
 — Entrez !
 
-![Je gage que vous m’avez pris pour le vieux Nick](images/1-page-127.JPG
+![Je gage que vous m’avez pris pour le vieux Nick](images/part1/page-127.jpg
 "Je gage que vous m’avez pris pour le vieux Nick")
 
 Le battant tourne sur ses gonds. Une haute silhouette se dessine dans

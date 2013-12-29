@@ -261,7 +261,7 @@ Côte à côte, les deux hommes gagnèrent le pont de Solférino.
 L’Américain parlait, disant sa sympathie pour Paris, qui l’avait
 accueilli de façon charmante. Pierre rêvait, répondant par monosyllabes.
 
-![Êtes-vous blessé, Monsieur ?](images/1-page-083.JPG
+![Êtes-vous blessé, Monsieur ?](images/part1/page-083.jpg
 "Êtes-vous blessé, Monsieur ?")
 
 La singulière prédiction du magicien de l’Ambassade s’imposait à son

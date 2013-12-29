@@ -348,7 +348,7 @@ Et à une interrogation curieuse du policier, l’Américain avait répondu :
 Impressionné par la lettre autographe et aussi par l’accent de cet
 ambassadeur étrange, M. Lerenaud avait promis.
 
-![Jean trouvé mort au bord de la mer, son revolver à côté de lui](images/1-page-115.JPG
+![Jean trouvé mort au bord de la mer, son revolver à côté de lui](images/part1/page-115.jpg
 "Jean trouvé mort au bord de la mer, son revolver à côté de lui")
 
 A cette heure, il s’avouait tout bas qu’il en éprouvait un regret cuisant.
