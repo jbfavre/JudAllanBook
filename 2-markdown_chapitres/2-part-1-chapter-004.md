@@ -216,7 +216,7 @@ Von Foorberg attendait toujours.
   point un secret que l’on craigne de voir dévoiler… ; c’est l’x d’un
   problème que l’on doit désirer connaître.
 
-![La voyante est une femme âgée, à la peau rouge-brun](images/page-068.jpg
+![La voyante est une femme âgée, à la peau rouge-brun](images/part1/page-068.jpg
 "La voyante est une femme âgée, à la peau rouge-brun")
 
 — Moi, j’aurais ce désir.
@@ -472,7 +472,7 @@ s’immobilisa, la figure rêveuse, le regard vague, se berçant des
 confidences inattendues qui venaient de bouleverser l’orientation
 morale de sa vie.
 
-![Oh ! Murmura la jeune fille, quel froid !](images/page-073.jpg
+![Oh ! Murmura la jeune fille, quel froid !](images/part1/page-073.jpg
 "Oh ! Murmura la jeune fille, quel froid !")
 
 Soudain, Linérès eut l’impresssion qu’un corps opaque s’était interposé
