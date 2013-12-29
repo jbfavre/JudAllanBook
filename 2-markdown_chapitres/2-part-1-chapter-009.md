@@ -1,4 +1,6 @@
-## CHAPITRE IX : WASHINGTON-CITY
+## Washington-city
+
+![](images/part1/chapitre-9.jpg)
 
 Washington, la capitale fédérale des États-Unis, occupe la spacieuse
 presqu’île formée par le confluent de la rivière Anacostia avec le fleuve
@@ -26,7 +28,8 @@ Tout ce monde s’agitait, échangeant réflexions et lazzis, avec cette
 familiarité triviale par laquelle les gens du peuple, sous toutes les
 latitudes, croient exprimer la cordialité.
 Nul ne prêtait attention à une femme, grande et maigre, autant que l’on
-en pouvait juger sous l’amp1e manteau à capuchon relevé, qui dissimulait complètement et sa silhouette et son visage.
+en pouvait juger sous l’amp1e manteau à capuchon relevé, qui dissimulait
+complètement et sa silhouette et son visage.
 
 Celle-ci se promenait lentement en arrière des voitures, qui la séparaient
 ainsi de la troupe bruyante prête à fondre sur les voyageurs du steamer
@@ -200,8 +203,8 @@ Mais l’interpellée secoue la tête.
   chère à mon cœur entre toutes, toi qui personnifies ma haine et ma
   vengeance, tu aies la gloire et le profit… Va !
 
-![Image: "Feuillette ce livre avant de nous séparer. Tu
-comprendras."](../images/1-page-135.JPG)
+![Feuillette ce livre avant de nous séparer. Tu comprendras](images/1-page-135.JPG
+"Feuillette ce livre avant de nous séparer. Tu comprendras")
 
 Et la gracieuse Rouge-Fleur, dominée par son accent, s’éloigne à pas
 lents, pour s’enfoncer bientôt dans l’une des rues aboutissant au quai.
@@ -268,7 +271,7 @@ Sans bruit elle la glisse par la fissure qui, à l’instant, livrait passage
 à ses regards, puis dans l’orifice elle introduit une boulette de papier,
 elle approche ses lèvres du tube.
 
-![Image: "Elle vise l’inconnu."](../images/1-page-137.JPG)
+![Elle vise l’inconnu](images/1-page-137.JPG "Elle vise l’inconnu")
 
 Elle vise… Elle vise l’inconnu. Ses joues se gonflent. Soudain un bruit
 léger se fait entendre, auquel répond une exclamation étonnée.
@@ -408,7 +411,8 @@ légèrement sur son bras.
 Ah ! Ce dernier mois écoulé avait été pour tous deux un enchantement.
 
 — Oh ! fit tout à coup Linérès, nous voici en Amérique, à quelques
-  journées du mariage, de l’union pour toujours, et je ne puis pas croire… que cela est.
+  journées du mariage, de l’union pour toujours, et je ne puis pas croire…
+  que cela est.
 
 — Que dirais-je alors ? murmura le jeune homme. Vous, Linérès, vous
   pouviez sans présomption rêver les apothéoses ; mais moi, moi, pauvre
@@ -425,7 +429,8 @@ tenaient raides, immobiles, dans leurs livrées rouge et bleu.
 Pierre aida Linérès à monter et s’assit auprès d’elle.
 
 L’équipage s’ébranla aussitôt, parcourut à grande allure la 8° voie, se jeta
-dans une rue latérale, traversa l’avenue Delaware, longea le parc de Garfield et s’engagea dans l’avenue de la Caroline du Nord.
+dans une rue latérale, traversa l’avenue Delaware, longea le parc de Garfield
+et s’engagea dans l’avenue de la Caroline du Nord.
 
 A ce moment, Frey Jemkins, qui jusque-là avait gardé le silence, se pencha
 vers Linérès.
@@ -465,8 +470,8 @@ leurs gonds, démasquant un concierge chamarré. Le landau passe dans le
 vestibule dallé avec un bruit de tonnerre et dépose les voyageurs au pied
 du perron monumental, qui accède aux appartements.
 
-![Image: "Les lourds vantaux démasquent un concierge
-chamarré."](../images/1-page-141.JPG)
+![Les lourds vantaux démasquent un concierge chamarré](images/1-page-141.JPG
+"Les lourds vantaux démasquent un concierge chamarré")
 
 Plus légèrement qu’on ne l’eût attendu d’un homme de sa corpulence, Frey
 saute à terre. Il tend la main à Linérès interdite.
@@ -656,7 +661,7 @@ La démente, du geste, repoussait l’enfant prosternée à ses pieds.
 — Laissez-moi lui parler, interrompit alors Jemkins. J’ai l’habitude de
   converser avec Lily.
 
-![Image: "Lilian ! Ma fille !"](../images/1-page-145.JPG)
+![Lilian ! Ma fille !](images/1-page-145.JPG "Lilian ! Ma fille !")
 
 Puis, appuyant l’index sur l’épaule de la malheureuse :
 
@@ -692,7 +697,8 @@ La folle haussa les épaules, et d’un ton indifférent :
   se dessèche jusqu’à mourir ? Est-ce la rosée légère d’un simple dépit…?
   Obscurité ! Doute ! Les larmes ne disent rien.
 
-Tous écoutaient, stupéfiés par cette poésie d’expression particulière à certaines démences.
+Tous écoutaient, stupéfiés par cette poésie d’expression particulière à
+certaines démences.
 
 Frey seul conservait son calme :
 
@@ -849,7 +855,7 @@ ironique.
 
 — Présent ! Qu’y a-t-il pour votre agrément, s’il vous plaît ?
 
-![Image: "Tril séloigna en flâneur."](../images/1-page-150.JPG)
+![Tril séloigna en flâneur](images/1-page-150.JPG "Tril séloigna en flâneur")
 
 — Te rappeler que le retour à bord est pour ce soir dix heures.
 
@@ -961,7 +967,8 @@ Il eut un haussement d’épaules.
   volées.
 
 A grands pas, il quitta le chantier, se jeta dans la première rue accédant
-au port. Un _hansom_ passait. Il l’appela, y prit place, et jeta cette adresse au _cabby_ (cocher):
+au port. Un _hansom_ passait. Il l’appela, y prit place, et jeta cette adresse
+au _cabby_ (cocher):
 
 — École de Miss Deffling, Kendall Green.
 

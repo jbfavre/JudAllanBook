@@ -1,4 +1,6 @@
-## CHAPITRE XIV : LE DIABLE SEMBLE RENTRER EN SCÈNE
+## Le Diable semble rentrer en scène
+
+![](images/part1/chapitre-14.jpg)
 
 — Ah ! enfin, le jour !
 
@@ -210,8 +212,8 @@ Du coup, Pierre se prit la tête à deux mains. Et elle continuait :
   puisque je me réveille complètement vêtue… Mais par quel prodige suis-je
   ici, dans cette maison que je ne connais pas… ?
 
-![Image: "Elle le regardait, une crainte dans ses grands
-yeux."](../images/1-page-271.JPG)
+![Elle le regardait, une crainte dans ses grands yeux](images/1-page-271.JPG
+"Elle le regardait, une crainte dans ses grands yeux")
 
 Et comme frappée par ces derniers mots, elle reprit :
 
@@ -303,8 +305,8 @@ cacher son trouble, elle prononça :
 Tous sursautèrent et se tournèrent brusquement vers la porte. Dans
 l’encadrement Frey Jemkins se tenait debout.
 
-![Image: "L’effet de cette confidence fut
-foudroyant."](../images/1-page-273.JPG)
+![L’effet de cette confidence fut foudroyant](images/1-page-273.JPG
+"L’effet de cette confidence fut foudroyant")
 
 Et en phrases hachées, avec une expression de crainte dont Chazelet
 s’étonna à part lui, la comtesse de Armencita mit le milliardaire au
@@ -623,12 +625,13 @@ Et avec une révérence que n’eût pas désavouée une reine de l’élégance
 
 — Vous avez au moins une certaine audace de me le dire.
 
-![Image: "Je voulais vous parler seul à seul,
-persifla-t-elle."](../images/1-page-279.JPG)
+![Je voulais vous parler seul à seul, persifla-t-elle](images/1-page-279.JPG
+"Je voulais vous parler seul à seul, persifla-t-elle")
 
 — Cette audace vous démontre, honorable Sénateur, que je suis parvenue à
-  mes fins. Désormais, vous devrez vous plier, je ne dirai pas à mes volontés, ce qui serait une expression désobligeante, mais à la sagesse
-  de mes résolutions.
+  mes fins. Désormais, vous devrez vous plier, je ne dirai pas à mes volontés,
+  ce qui serait une expression désobligeante, mais à la sagesse de mes
+  résolutions.
 
 — Ah parbleu ! gronda-t-il, ce serait bien la première fois que je
   plierais.
@@ -670,7 +673,8 @@ Ma foi, Frey se décida à prendre son parti de l’aventure.
   superflues. L’homme qui ne souhaiterait pas une prompte solution, serait
   la plus _folle tête de bûche_ qui se puisse imaginer.
 
-Prestement la Chinoise fit disparaître son revolver, puis frappant joyeusement des mains :
+Prestement la Chinoise fit disparaître son revolver, puis frappant joyeusement
+des mains :
 
 — À la bonne heure. Voilà qui est parler franc.
 
@@ -753,7 +757,8 @@ Rouge-Fleur le gratifia d’un joli et menu geste approbateur.
 
 — Quel prétexte pourra… ?
 
-—  Le voyage. Il n’est point besoin de prétexte. Le Français a une raison qui le conduira à vous supplier de partir.
+—  Le voyage. Il n’est point besoin de prétexte. Le Français a une raison qui
+   le conduira à vous supplier de partir.
 
 — Une raison ?
 

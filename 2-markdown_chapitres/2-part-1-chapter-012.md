@@ -1,4 +1,6 @@
-## CHAPITRE XII : LE JOURNAL DE JUD
+## Le journal de Jud
+
+![](images/part1/chapitre-12.jpg)
 
 Qu’est-ce que Jud ?
 
@@ -219,8 +221,8 @@ la cour, à minuit.
 
 Seulement, la difficulté était d’y arriver, à cette cour.
 
-![Image: "A l’orifice du tuyau de zinc, Jud ne perdait pas un mot de
-l’entretien.."](../images/1-page-200.JPG)
+![À l’orifice du tuyau de zinc, Jud ne perdait pas un mot de l’entretien](images/1-page-200.JPG
+"À l’orifice du tuyau de zinc, Jud ne perdait pas un mot de l’entretien")
 
 Chaque soir, en effet, les jeunes détenus gagnaient leur dortoir que
 fermait une porte solidement verrouillée. Et comme si cet obstacle
@@ -464,8 +466,8 @@ errante l’a sans doute blasé sur les rencontres semblables.
 Il s’est placé en pleine lumière. Sa taille, sa jeunesse rassurent ses
 interlocuteurs. Pourtant, Jetty grommelle d’un ton peu rassurant :
 
-![Image: "De nouveau un corps noir descend au ras du
-mur."](../images/1-page-205.JPG)
+![De nouveau un corps noir descend au ras du mur](images/1-page-205.JPG
+"De nouveau un corps noir descend au ras du mur")
 
 — Nous n’avons aucun besoin de ta compagnie, mon garçon…
 
@@ -720,8 +722,8 @@ Et se penchant vers le gamin, Jetty ajouta d’un ton bourru :
 
 — Bon, vous n’en aurez pas.
 
-![Image: "Déjà Jud prenait place dans 1a
-barque…"](../images/1-page-211.JPG)
+![Déjà Jud prenait place dans 1a barque…](images/1-page-211.JPG
+"Déjà Jud prenait place dans 1a barque…")
 
 Déjà Jud prenait place dans 1a barque, avec un empressement qui dérida
 son répondant.
@@ -864,7 +866,8 @@ Ils répondaient, l’un au nom espagnol du Todero, les deux autres au
 vocable basque d’Elisalt et à l’appellation florentine de Zirini.
 
 Puis venait un personnage long, sec, maigre, dont la face anguleuse
-montrait une teinte jaune, des yeux bridés, dénotant une origine chinoise, ce que confirmait du reste son nom bien célestial : Kan-So.
+montrait une teinte jaune, des yeux bridés, dénotant une origine chinoise,
+ce que confirmait du reste son nom bien célestial : Kan-So.
 
 Enfin, deux individus, de haute stature, le teint coloré, adornés, qui de
 cheveux roux, qui d’une tignasse blonde. Le roux se déclarait Allemand et
@@ -926,8 +929,8 @@ Avec un sourire, le petit riposta aussitôt :
 — Eh bien, puisque tu as d’aussi bons yeux, je t’engage à voir que je
   suis un homme qui t’écraserait d’une pichenette.
 
-![Image: "Je t’engage à voir que je suis un homme qui t’écraserait
-d’une pichenette."](../images/1-page-215.JPG)
+![Je t’engage à voir que je suis un homme qui t’écraserait d’une pichenette](images/1-page-215.JPG
+"Je t’engage à voir que je suis un homme qui t’écraserait d’une pichenette")
 
 S’il avait pensé terrifier son interlocuteur, Foorberg dut être
 désagréablement déçu par l’événement. Jud se prit à rire aux éclats. Et
@@ -958,7 +961,8 @@ Quant à von Foorberg, son visage était devenu cramoisi.
   que, pour la conversation, vous n’êtes pas aussi malin que moi, il faut
   donc que je vous donne la satisfaction de vous battre contre moi.
 
-A ce défi que tous considérèrent comme une plaisanterie, von Foorberg parut prêt à s’élancer sur le railleur. Jetty se jeta entre eux.
+A ce défi que tous considérèrent comme une plaisanterie, von Foorberg parut
+prêt à s’élancer sur le railleur. Jetty se jeta entre eux.
 
 — Allons Foorberg, vous n’allez pas brutaliser ce garçon. Souvenez-vous
   que c’est un pupille du Crâne qui veut essayer de faire des élèves…
@@ -972,14 +976,18 @@ Mais il ne continua pas. Jud Allan l’avait saisi par le bras.
 Il y eut un instant de tumulte, les uns riant, Foorberg écumant, devant
 l’aplomb incompréhensible du petit bonhomme.
 
-Vainement, Jetty, et même Tom, essayèrent d’apaiser les esprits. Leurs camarades, excités par les clameurs de von Foorberg, auxquelles van Reek faisait écho, ne voulurent rien entendre.
+Vainement, Jetty, et même Tom, essayèrent d’apaiser les esprits. Leurs
+camarades, excités par les clameurs de von Foorberg, auxquelles van Reek
+faisait écho, ne voulurent rien entendre.
 
 — Sur le pont ! Sur le pont ! Au diable le gamin… Il a trop d’audace… Au
   martinet, l’apprenti qui tente de se moquer du maître ouvrier.
 
-Et Jud insistant de son côté, ses deux compagnons d’évasion durent se ranger au désir général.
+Et Jud insistant de son côté, ses deux compagnons d’évasion durent se ranger
+au désir général.
 
-Mais tandis que tous passaient par l’escalier du pont, l’Irlandais retint l’enfant en arrière.
+Mais tandis que tous passaient par l’escalier du pont, l’Irlandais retint
+l’enfant en arrière.
 
 — Vous savez, petite chose, il a la main lourde, Foorberg… Aussitôt que
   vous en aurez assez, appelez-moi…; et les couteaux dussent-ils prendre
@@ -1071,8 +1079,8 @@ Alors Jud s’approche de Jetty.
   comme cela que j’avais tombé les policemen ; seulement ils se sont mis
   une quinzaine sur moi, ce qui fait que vous m’avez rencontré à Alb-Point.
 
-![Image: "De nouveau le géant silésien est à terre…, mais sur le
-dos."](../images/1-page-218.JPG)
+![De nouveau le géant silésien est à terre…, mais sur le dos](images/1-page-218.JPG
+"De nouveau le géant silésien est à terre…, mais sur le dos")
 
 Enthousiasmé, l’Irlandais élève l’enfant à bout de bras, puis l’embrasse
 cordialement. Le bandit est fier de sa « recrue ». Jamais il ne se sentit
@@ -1177,4 +1185,5 @@ Et le silence se fit.
    
 ----
 
-[^1]: Locution américaine intraduisible en français : Elle signifie à peu près : Ce petit être a le cœur d’un héros.
+[^1]: Locution américaine intraduisible en français : Elle signifie à peu
+      près : Ce petit être a le cœur d’un héros.

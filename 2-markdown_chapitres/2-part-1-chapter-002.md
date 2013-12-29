@@ -1,4 +1,6 @@
-## CHAPITRE II : L’ENGRENAGE DU MERVEILLEUX
+## L’engrenage du merveilleux
+
+![](images/part1/chapitre-2.jpg)
 
 Rêvant, monologuant, tour à tour repoussant ou acceptant les fantastiques
 affirmations de la Gitana, le marquis était rentré à la posada del Cid,
@@ -345,8 +347,8 @@ Comme il songeait, un chant parvint à ses oreilles.
 C’était un de ces _canzones_ de bergers, lents et doux, comme rythmés sur le
 mouvement paisible des troupeaux au pâturage.
 
-![Image: "La chanteuse était assise sur une pierre, dans un
-angle."](../images/1-page-027.JPG)
+![La chanteuse était assise sur une pierre, dans un angle](images/1-page-027.JPG
+"La chanteuse était assise sur une pierre, dans un angle")
 
 La voix, féminine évidemment, sonnait forte et juste, avec cette ignorance
 charmeuse des règles de l’art musical, particulière aux chants de plein air.
@@ -548,8 +550,8 @@ Il avait soif de la connaître davantage, et il ne songea même pas à
 l’indiscrétion de son acte, lorsqu’il fit basculer le loquet et ouvrit la
 porte.
 
-![Image: "A travers les vitres, il essaya de voir à
-l’intérieur."](../images/1-page-031.JPG)
+![À travers les vitres, il essaya de voir à l’intérieur](images/1-page-031.JPG
+"À travers les vitres, il essaya de voir à l’intérieur")
 
 Le logis était celui de pauvres paysans. Des meubles peu nombreux, de sapin
 verni, remplissant mal deux pièces au carrelage en mauvais état.
@@ -1147,8 +1149,8 @@ Après quoi secouant cordialement la main du Français :
 
 — Que les Saints Anges accompagnent ta marche. Adios !
 
-![Image: "Droit devant toi. La fonda de Salamanca,
-dirent-ils."](../images/1-page-042.JPG)
+![Droit devant toi. La fonda de Salamanca, dirent-ils](images/1-page-042.JPG
+"Droit devant toi. La fonda de Salamanca, dirent-ils")
 
 Sans avoir le loisir de répondre, Pierre, entraîné par ses gardiens aussi
 irrésistiblement qu’à l’arrivée, se retrouva dans l’obscurité opaque du sous

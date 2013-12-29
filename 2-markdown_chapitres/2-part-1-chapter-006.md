@@ -1,4 +1,6 @@
-## CHAPITRE VI : LE SEPTIEME
+## Le septième
+
+![](images/part1/chapitre-6.jpg)
 
 — Ah ! enfin ! Voici Lerenaud.
 
@@ -58,7 +60,8 @@ Mais arrêtant le murmure provoqué par cette déclaration :
  
 Tous les yeux se fixèrent sur Pierre de Chazelet qui venait de parler.
 
-Le marquis était calme, mais certaines contractions du visage décelaient une émotion dissimulée à grand’peine.
+Le marquis était calme, mais certaines contractions du visage décelaient une
+émotion dissimulée à grand’peine.
 
 Tout le jour, il avait vécu dans l’espérance de voir Linérès, de se faire
 agréer par la comtesse, et la porte de l’hôtel de la rue François Ier
@@ -241,8 +244,8 @@ quittait la logette du du téléphone et s’élançait dans l’escalier.
 A la moitié de l’étage, il fut arrêté par un monsieur qui, courbé en deux,
 semblait très occupé à retrousser le bas de son pantalon.
 
-![Image: "Il fut arrêté par un monsieur qui semblait très occupé à
-retrousser le bas de son pantalon."](../images/1-page-091.JPG)
+![Il fut arrêté par un monsieur qui semblait très occupé à retrousser le bas de son pantalon](images/1-page-091.JPG
+"Il fut arrêté par un monsieur qui semblait très occupé à retrousser le bas de son pantalon")
 
 Avant que le chef de la Sûreté eût pu tourner l’obstacle vivant, celui-ci,
 sans lever la tète, murmura :
@@ -541,7 +544,7 @@ compagnon :
   malheureuses femmes soient en état de supporter l’interrogatoire dont
   je ne saurais les dispenser.
 
-![Image: "Qui a fait cela ?"](../images/1-page-097.JPG)
+![Qui a fait cela ?](images/1-page-097.JPG "Qui a fait cela ?")
 
 Et hochant la tête, M. Lerenaud continua :
 
@@ -553,7 +556,8 @@ Et hochant la tête, M. Lerenaud continua :
 
 — C’est vrai !
 
-Cette fois, Allan courba la tête… Un mystère angoissant pesait sur lui, et sans en avoir conscience, il murmura :
+Cette fois, Allan courba la tête… Un mystère angoissant pesait sur lui, et
+sans en avoir conscience, il murmura :
 
 — Et puis pourquoi ce meurtre, où le crime se trahit, au lieu d’avoir
   infligé à Anoru un accident comme aux autres.
@@ -799,7 +803,8 @@ La mère adoptive de Linérès poussa un gémissement.
 
 Allan et le marquis s’inclinèrent sans en avoir conscience.
 
-Ils saluaient le courage. Si bas que nul ne le put entendre, l’Américain se confia cette opinion étrange :
+Ils saluaient le courage. Si bas que nul ne le put entendre, l’Américain se
+confia cette opinion étrange :
 
 — Celle-ci non plus ne sait rien… Elle n’est point complice… Une victime
   encore !… Pauvre enfant !

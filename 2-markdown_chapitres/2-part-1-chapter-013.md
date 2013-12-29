@@ -1,4 +1,6 @@
-## CHAPITRE XIII : LE SERMENT DU CHEVALIER VAGABOND
+## Le serment du chevalier vagabond
+
+![](images/part1/chapitre-13.jpg)
 
 Ici, Grace fit entendre une exclamation de surprise :
 
@@ -144,7 +146,8 @@ résolution.
 Il sortait du panneau tout en parlant. L’arrière du navire lui apparu
 désert.
 
-![Image: "Jud se laissa glisser dans l’eau."](../images/1-page-224.JPG)
+![Jud se laissa glisser dans l’eau](images/1-page-224.JPG
+"Jud se laissa glisser dans l’eau")
 
 Ainsi qu’une ombre, il se glissa jusqu’auprès des palans supportant l’un
 des canots. Une corde déroulée baignait son extrémité dans les flots.
@@ -254,7 +257,8 @@ La côte se montrait rébarbative, et le seul point abordable était gardé.
 Mais un regard, jeté encore sur ses ennemis, lui arracha une exclamation.
 
 — Sapristi, j’ai fait du chemin sans remuer les bras… Je dérive, et vite
-  même… Je suis tombé dans un courant qui à l’air de me conduire justement là où je ne veux pas aller.
+  même… Je suis tombé dans un courant qui à l’air de me conduire justement là
+  où je ne veux pas aller.
 
 Vigoureusement, il se prit à battre l’eau pour couper le courant. Mais
 après quelques minutes d’efforts surhumains, il dut s’arrêter pour
@@ -554,8 +558,8 @@ L’homme élève la voix :
   association vous expliquer sans détours le but de notre réunion sur les
   terres de l’hacienda de Agua Frida.
 
-![Image: "Un nouveau personnage vient d’entrer dans la
-clairière."](../images/1-page-232.JPG)
+![Un nouveau personnage vient d’entrer dans la clairière](images/1-page-232.JPG
+"Un nouveau personnage vient d’entrer dans la clairière")
  
 — Agua Frida, murmure Jud gravant ce nom dans son esprit.
 
@@ -848,8 +852,8 @@ qui s’écroule sur le sable du chemin, et il ricane :
 Celui dont, en dépit du masque, le gamin connaît à présent deux noms :
 Le Crâne,  Frey, reprend le chemin qu’il a parcouru tout à l’heure.
 
-![Image: "Avant que le corps de Trina ait roulé à
-terre."](../images/1-page-238.JPG)
+![Avant que le corps de Trina ait roulé à terre](images/1-page-238.JPG
+"Avant que le corps de Trina ait roulé à terre")
 
 Sous son bras, tel un paquet vulgaire, il emporte l’enfant endormie par
 le laudanum.
@@ -875,7 +879,8 @@ bandits sont réunis autour d’un homme garrotté, réduit à l’impuissance.
   il était déjà ficelé.
 
 Alors, le Crâne se baisse, dépose l’enfant au pied d’un aloès, puis
-s’avance lentement vers le prisonnier, dont les yeux se fixent sur lui avec une stupeur épouvantée.
+s’avance lentement vers le prisonnier, dont les yeux se fixent sur lui avec
+une stupeur épouvantée.
 
 — Oui, oui, c’est moi, mon brave Pariset, dit-il. C’est moi, dont tu
   crierais le nom aux échos, si mes dignes associés n’avaient pris soin
@@ -968,7 +973,8 @@ du quadrupède.
 Celui-ci veut se débarrasser du cavalier. Mais le gamin lui scie la
 bouche avec sa cordelette, il lui enfonce ses talons dans les flancs. 
 
-![Image: "Voici celle que tu cherches."](../images/1-page-241.JPG)
+![Voici celle que tu cherches](images/1-page-241.JPG
+"Voici celle que tu cherches")
 
 L’animal a un hennissement de douleur, et furieux, affolé, il s’emballe
 en un galop éperdu.
@@ -1167,7 +1173,8 @@ l’avait dit le négociant :
 — Quand un louvard (jeune loup) est signalé dans un district, il est bon
   de s’inquiéter de son repaire.
 
-Et il avait promis une prime supplémentaire à quiconque arrêterait le jeune garçon.
+Et il avait promis une prime supplémentaire à quiconque arrêterait le jeune
+garçon.
 
 Ses mesures étaient bien prises. À la moindre tentative de lutte, Jud
 serait reconnu et il avait assez mauvaise opinion de la justice des
@@ -1245,8 +1252,8 @@ l’Indienne, Marahi l’approuve :
 Un dernier voyage à San-Francisco montre au jeune homme, — il a dix-neuf
 ans maintenant, — son ennemi plus puissant que jamais.
 
-![Image: "Les sorciers de la tribu lui apprennent tout ce qu’ils
-savent."](../images/1-page-248.JPG)
+![Les sorciers de la tribu lui apprennent tout ce qu’ils savent](images/1-page-248.JPG
+"Les sorciers de la tribu lui apprennent tout ce qu’ils savent")
 
 Frey Jemkins est sénateur ; Frey Jemkins commence à être une force avec
 laquelle les trusts entrent en composition.
@@ -1432,8 +1439,8 @@ le plancher une poudre blanche qu’il contenait. Au choc léger produit par
 sa chute, la poudre avait instantanément changé de couleur, tournant à
 une teinte jaunâtre, analogue à celle du bois.
 
-![Image: "Elle avait tiré de sa poche un
-papier."](../images/1-page-252.JPG)
+![Elle avait tiré de sa poche un papier](images/1-page-252.JPG
+"Elle avait tiré de sa poche un papier")
 
 Grace se leva, prit son amie dans ses bras et la baisa au front.
 
@@ -1558,7 +1565,8 @@ plusieurs personne. Des hommes, dont certains portent le costume des
 camionneurs, et deux femmes, la chinoise Rouge-Fleur, et la servante
 Margaret.
 
-Une lanterne sourde éclaire la scène. À sa lueur, tous, tous pénètrent dans la chambre de Lilian.
+Une lanterne sourde éclaire la scène. À sa lueur, tous, tous pénètrent dans
+la chambre de Lilian.
 
 Une haute mnane d’osier est appuyée au bord du lit de la jeune fille. La
 Chinoise et Margaret soulèvent doucement Lilian et la font glisser dans
@@ -1670,7 +1678,8 @@ coureurs de prairie a cédé la place aux vêtements des gentlemen. Tous se
 sont créé une _respectabilité_ apparente, qui peut tromper les yeux non
 prévenus.
 
-![Image: "J’entrai dans la police à cheval."](../images/1-page-257.JPG)
+![J’entrai dans la police à cheval](images/1-page-257.JPG
+"J’entrai dans la police à cheval")
 
 Le Crâne, puisque tel est le nom conservé par Frey Jemkins parmi ses
 lieutenants, le Crâne les salue de la tête, serre les mains respectueuses
@@ -1913,8 +1922,8 @@ de faire la lumière.
   figurera en réalité, ce seront les formules de la transaction avec la
   Société japonaise propriétaire du bail de Agua Frida.
 
-![Image: "Eh bien, il existe quelqu’un qui veut ruiner ce
-plan."](../images/1-page-262.JPG)
+![Eh bien, il existe quelqu’un qui veut ruiner ce plan](images/1-page-262.JPG
+"Eh bien, il existe quelqu’un qui veut ruiner ce plan")
 
 — Ah ! s’écria Kan-So, ceci est génial. Le mari de miss Linérès, ou
   Lilian, Pariset, traite avec le Japon. Il en a toute la
@@ -2113,6 +2122,9 @@ roulant pesamment à travers la ville endormie.
 
 -----
 
-[^1]: Un département français a, en moyenne, une superficie de 6.000 kilomètres carrés.
+[^1]: Un département français a, en moyenne, une superficie de 6.000 kilomètres
+      carrés.
 
-[^2]: À Washington, les avenues rayonnant autour du Capitole ont des noms, comme Pensylvania avenue. Les autres sont désignées soit par des chiffres, soit par des lettres.
+[^2]: À Washington, les avenues rayonnant autour du Capitole ont des noms,
+      comme Pensylvania avenue. Les autres sont désignées soit par des
+      chiffres, soit par des lettres.

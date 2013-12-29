@@ -1,4 +1,6 @@
-## CHAPITRE V : UN MAGICIEN ET UN AMI
+## Un magicien et un ami
+
+![](images/part1/chapitre-5.jpg)
 
 Mais le marquis n’en avait pas fini avec les surprises.
 
@@ -52,7 +54,9 @@ Le magicien haussa les épaules.
 — Toujours les conventions mondaines ! Est—ce que vous ne vous sentez pas
   engagé dans une aventure en dehors de toutes les conventions ?
 
-Pierre ne trouva rien à répliquer. L’évidence de la proposition le réduisait au silence. Et l’inconnu, sans doute satisfait de ce résultat, reprit à mi-voix :
+Pierre ne trouva rien à répliquer. L’évidence de la proposition le réduisait
+au silence. Et l’inconnu, sans doute satisfait de ce résultat, reprit à
+mi-voix :
 
 — Au surplus, ce que l’on vous demande est peu de chose. Rentrez à pied
   au palais d’Orsay ; une promenade agréable par ce beau temps. Il se
@@ -257,7 +261,8 @@ Côte à côte, les deux hommes gagnèrent le pont de Solférino.
 L’Américain parlait, disant sa sympathie pour Paris, qui l’avait
 accueilli de façon charmante. Pierre rêvait, répondant par monosyllabes.
 
-![Image: "Êtes-vous blessé, Monsieur ?"](../images/1-page-083.JPG)
+![Êtes-vous blessé, Monsieur ?](images/1-page-083.JPG
+"Êtes-vous blessé, Monsieur ?")
 
 La singulière prédiction du magicien de l’Ambassade s’imposait à son
 esprit.

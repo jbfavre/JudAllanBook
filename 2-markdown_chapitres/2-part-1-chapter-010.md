@@ -1,4 +1,6 @@
-## CHAPITRE X : L’AUTRE LILIAN
+## L’autre Lilian
+
+![](images/part1/chapitre-10.jpg)
 
 — Oh ! tu as beau marquer de l’impatience, je ne t’en garderai pas
   rancune. Cœur souffrant n’a pas bon caractère… Ainsi, Lilian, sois
@@ -77,7 +79,8 @@ Revenant à sa voix naturelle, l’espiègle créature poursuivit :
   confidente, tous les classiques le disent, c’est ce qu’il y a de plus
   précieux pour une personne atteinte d’un tendre sentiment.
 
-La rougeur de miss Allan augmenta. Elle chercha à se dégager de l’étreinte de son amie.
+La rougeur de miss Allan augmenta. Elle chercha à se dégager de l’étreinte
+de son amie.
 
 — Tu es en proie à un rêve, commença-t-elle…
 
@@ -159,8 +162,8 @@ Lilian secoua la tête.
 — Oh oui ! s’écria Lilian qui baissa aussitôt la tête, comme honteuse de cet
   élan.
 
-![Image: "En l’enlaçant, se faisant douce comme une
-mère."](../images/1-page-157.JPG)
+![En l’enlaçant, se faisant douce comme une mère](images/1-page-157.JPG
+"En l’enlaçant, se faisant douce comme une mère")
 
 — Cela est possible, murmura sa compagne d’un ton malicieux. Moi-même, je ne
   suis pas éloignée de penser qu’en ce qui concerne le professeur de
@@ -411,7 +414,7 @@ Sur ce, Miss Deffling accompagna le visiteur jusqu’au seuil de son cabinet
 où elle pénétra dignement, le laissant libre de gagner la chambre occupée
 par Lilian.
 
-![Image: "Pourrai-je voir ma sœur?"](../images/1-page-162.JPG)
+![Pourrai-je voir ma sœur ?](images/1-page-162.JPG "Pourrai-je voir ma sœur ?")
 
 Alors le professeur de West-Point s’essuya le front que mouillaient des
 gouttelettes de sueur, puis, d’un pas décidé, il gravit l’escalier accédant
@@ -602,7 +605,8 @@ souflrance, puis il reprit :
 Sa voix sonna déchirante sur ces dernières syllabes.
 
 — J’accompagnerai Lilian, fit délibérément Grace. Mon père, qui actuellement
-  assiste à une exposition dans le Sud, m’a autorisée à sortir avec elle, si vous y consentez.
+  assiste à une exposition dans le Sud, m’a autorisée à sortir avec elle, si
+  vous y consentez.
 
 Allan s’inclina gravement.
 
@@ -675,7 +679,8 @@ une indomptable volonté :
   car seule je sais qui _vous fûtes_, et seule je dois juger entre vos
   scrupules et mon cœur.
 
-Il secouait la tête, son émotion l’empêchant de proférer un son. Elle eut un triste sourire :
+Il secouait la tête, son émotion l’empêchant de proférer un son. Elle eut un
+triste sourire :
 
 — Alors, je resterai ignorante, et de vous, et de moi.
 
@@ -688,7 +693,8 @@ Il secouait la tête, son émotion l’empêchant de proférer un son. Elle eut 
 — Inutile. J’obéirai si vous obéissez, je vous l’affirme sur mon honneur,
   sur l’honneur de celle qui fut votre sœur Lilian !
 
-Il n’y avait pas à s’y méprendre. La décision de la jeune fille était irrévocable. Jud le comprit. Il courba la tête, et tristement :
+Il n’y avait pas à s’y méprendre. La décision de la jeune fille était
+irrévocable. Jud le comprit. Il courba la tête, et tristement :
 
 — La noble Lilian veut, en connaissance de cause, mépriser Jud Allan. Qu’il
   soit fait selon son désir. Périsse Allan pour que l’œuvre de sa vie
@@ -722,7 +728,8 @@ dernier…
 Il appuya ses lèvres sur son front pur, comme dominé par l’angélique
 créature.
 
-![Image: "Il appuya ses lèvres sur son front pur."](../images/1-page-168.JPG)
+![Il appuya ses lèvres sur son front pur](images/1-page-168.JPG
+"Il appuya ses lèvres sur son front pur")
 
 ------
 
@@ -966,8 +973,8 @@ Quelques minutes plus tard la porte se rouvrit.
 
 Deux personnes parurent sur le seuil.
 
-![Image: "L’autre semblait un vieillard courbé par
-l’âge."](../images/1-page-172.JPG)
+![L’autre semblait un vieillard courbé par l’âge](images/1-page-172.JPG
+"L’autre semblait un vieillard courbé par l’âge")
 
 L’une était Tril, le petit stewart auquel le professeur avait parlé sur le
 quai du canal Washington.

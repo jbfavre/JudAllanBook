@@ -1,4 +1,6 @@
-## CHAPITRE XI : LA VOIX MYSTÉRIEUSE
+## La voix mystérieuse
+
+![](images/part1/chapitre-11.jpg)
 
 — Le bill sur les trusts est inacceptable !
 
@@ -887,7 +889,8 @@ Lilian eut un haussement d’épaules.
 Ces mots amenèrent un sourire sur les traits de Lilian.
 
 — Oh ! Allan n’est point un homme ordinaire, va… Mais attends, j’arrive à
-  la chose terrible… Un soir, il rentra à la maison. Il semblait bouleversé, les vêtements en désordre, et le bras enveloppé de bandages sanglants.
+  la chose terrible… Un soir, il rentra à la maison. Il semblait bouleversé,
+  les vêtements en désordre, et le bras enveloppé de bandages sanglants.
 
 — Oh ! que me dis-tu là ?
 
@@ -898,8 +901,8 @@ Ces mots amenèrent un sourire sur les traits de Lilian.
   de moi, je l’entendis murmurer : « Non, pas elle, pas elle ; il ne faut
   pas que sa volonté s’accoutume à être l’esclave de la mienne ! »
  
-![Image: "Je m’endormais en le voyant assis, sous la lampe, avec des
-livres, des cahiers…"](../images/1-page-191.JPG)
+![Je m’endormais en le voyant assis, sous la lampe, avec des livres, des cahiers…](images/1-page-191.JPG
+"Je m’endormais en le voyant assis, sous la lampe, avec des livres, des cahiers…")
 
 — Oh! s’exclama Grace, cela est tout à fait impressionnant… Et tu ne
   rêvais pas ?
@@ -1037,7 +1040,7 @@ Lilian sourit à son interlocutrice.
   heureuse, si j’avais vu Jud plus souvent ; mais il ne venait qu’à de
   rares intervalles.
 
-![Image: "Je tirai à la carabine."](../images/1-page-194.JPG)
+![Je tirai à la carabine](images/1-page-194.JPG "Je tirai à la carabine")
 
 N’importe, présent ou absent, il était toujours là, dans mon esprit et
 dans mon cœur.
@@ -1108,4 +1111,6 @@ ce qui suit.
 -----
 
 [^1]: Cette description est absolument exacte. Si l’on ajoute qu’il
-      n’existe point de tribune, que les sénateurs parlent de leur place, on se rendra compte de la différence complète entre une assemblée de France et une assemblée américaine.
+      n’existe point de tribune, que les sénateurs parlent de leur place,
+      on se rendra compte de la différence complète entre une assemblée de
+      France et une assemblée américaine.

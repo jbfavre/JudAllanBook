@@ -1,4 +1,6 @@
-## CHAPITRE VIII : PASSEZ MARQUIS ! PASSEZ MUSCADE !
+## Passez Marquis ! Passez muscade !
+
+![](images/part1/chapitre-8.jpg)
 
 A huit heures du matin, Pierre de Chazelet était debout, habillé, prêt à
 sortir. Où voulait-il aller ? Nulle part.
@@ -113,8 +115,8 @@ répond :
 
 — Entrez !
 
-![Image: "Je gage que vous m’avez pris pour le vieux
-Nick."](../images/1-page-127.JPG)
+![Je gage que vous m’avez pris pour le vieux Nick](images/1-page-127.JPG
+"Je gage que vous m’avez pris pour le vieux Nick")
 
 Le battant tourne sur ses gonds. Une haute silhouette se dessine dans
 l’encadrement de l’entrée, et le jeune homme se dresse tout droit, stupide à

@@ -1,4 +1,6 @@
-## CHAPITRE I: LA PHOTOGRAPHIE MAGIQUE
+## La photographie magique
+
+![](images/part1/chapitre-1.jpg)
 
 — J’ai tenu à vous montrer cette lettre de France, afin de vous assurer
   du paiement prochain de ma dette.
@@ -356,8 +358,8 @@ Elle considère fixement le Français.
 
 Ses lèvres s’agitent comme si elle murmurait une incantation intérieure.
 
-![Image: "Riche homme, dit-elle, demande l’avenir à la voyante
-Ramrah."](../images/1-page-009.JPG)
+![Riche homme, dit-elle, demande l’avenir à la voyante Ramrah](images/1-page-009.JPG
+"Riche homme, dit-elle, demande l’avenir à la voyante Ramrah")
 
 Et sous les rayons noirs jaillissant de ses paupières, le jeune homme
 ressent un malaise inexplicable. Il fait un mouvement pour échapper à
@@ -460,8 +462,8 @@ Un rire grelottant de la gitana coupa la phrase.
   vide de sens, hochet qu’agite follement l’homme, cet éternel enfant, ce jouet
   des volontés mystérieuses de la nature.
 
-![Image: "Elle lui prend la main sans qu’il ose
-résister."](../images/1-page-012.JPG)
+![Elle lui prend la main sans qu’il ose résister](images/1-page-012.JPG
+"Elle lui prend la main sans qu’il ose résister")
 
 Sa voix sonnait étrangement dans le cirque de rochers. Elle prenait des
 inflexions extrahumaines.

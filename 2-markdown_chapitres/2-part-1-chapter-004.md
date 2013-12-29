@@ -1,4 +1,6 @@
-## CHAPITRE IV : GAMME D’ÉMOTIONS
+## Gamme d’émotions
+
+![](images/part1/chapitre-4.jpg)
 
 Les luxueux salons de la légation d’Espagne resplendissaient de lumières.
 Une foule nombreuse, bigarrée, s’y pressait.
@@ -8,14 +10,25 @@ mondanité, dont la fantaisie des invités faisait à la fois une revue
 d’exquise élégance et une fête parée, costumée et travestie.
 
 Toutes les notabilités de la colonie espagnole, si brillamment représentée
-à Paris, formaient, si l’on peut s’exprimer ainsi, le fonds de l’assistance. Avec les grands noms transpyrénéens, des membres des ambassades, députés, sénateurs, ministres, sommités artistiques, scientifiques ou littéraires, étaient accourus à l’appel du représentant des jeunes souverains de la péninsule.
+à Paris, formaient, si l’on peut s’exprimer ainsi, le fonds de l’assistance.
+Avec les grands noms transpyrénéens, des membres des ambassades, députés,
+sénateurs, ministres, sommités artistiques, scientifiques ou littéraires,
+étaient accourus à l’appel du représentant des jeunes souverains de la
+péninsule.
 
-Parmi la correction des costumes de gala, les travestissements, merveilleux pour la plupart, ridicules pour le petit nombre, ainsi qu’il advient toujours en semblable affluence, jetaient dans les salons leurs tons lumineux, des chatoiements de soies, de velours, de paillettes et de bijoux. Mais vers onze heures du soir, tous les visages exprimaient l’attente. Rien d’anxieux au demeurant, mais simplement une curiosité aiguë.
+Parmi la correction des costumes de gala, les travestissements, merveilleux
+pour la plupart, ridicules pour le petit nombre, ainsi qu’il advient toujours
+en semblable affluence, jetaient dans les salons leurs tons lumineux, des
+chatoiements de soies, de velours, de paillettes et de bijoux. Mais vers
+onze heures du soir, tous les visages exprimaient l’attente. Rien d’anxieux
+au demeurant, mais simplement une curiosité aiguë.
 
 Une séance d’hypnotisme avait été annoncée, en termes si suggestifs, que
 
   
-l’on s’attendait à des incidents inédits, à un « je ne sais quoi » d’inhabituel, qui secouerait les âmes blasées de ces riches oisifs, de ces poètes, politiques, financiers.
+l’on s’attendait à des incidents inédits, à un « je ne sais quoi »
+d’inhabituel, qui secouerait les âmes blasées de ces riches oisifs, de ces
+poètes, politiques, financiers.
 
 Les cartes d’invitation portaient, en effet, ces mots :
 
@@ -203,8 +216,8 @@ Von Foorberg attendait toujours.
   point un secret que l’on craigne de voir dévoiler… ; c’est l’x d’un
   problème que l’on doit désirer connaître.
 
-![Image: "La voyante est une femme âgée, à la peau
-rouge-brun."](../images/1-page-068.JPG)
+![La voyante est une femme âgée, à la peau rouge-brun](images/1-page-068.JPG
+"La voyante est une femme âgée, à la peau rouge-brun")
 
 — Moi, j’aurais ce désir.
 
@@ -459,7 +472,8 @@ s’immobilisa, la figure rêveuse, le regard vague, se berçant des
 confidences inattendues qui venaient de bouleverser l’orientation
 morale de sa vie.
 
-![Image: "Oh ! Murmura la jeune fille, quel froid !"](../images/1-page-073.JPG)
+![Oh ! Murmura la jeune fille, quel froid !](images/1-page-073.JPG
+"Oh ! Murmura la jeune fille, quel froid !")
 
 Soudain, Linérès eut l’impresssion qu’un corps opaque s’était interposé
 entre elle et les objets environnants.
@@ -509,7 +523,8 @@ Il s’inclina, puis doucement :
 — Je vous dirai tout, sans rien cacher… La gitane a prononcé ces paroles :
   Voici celle que tu dois épouser.
 
-Le mot sonna en glas dans le. cerveau de la jeune fille. Elle jeta les bras en avant comme pour repousser sa pensée.
+Le mot sonna en glas dans le. cerveau de la jeune fille. Elle jeta les bras
+en avant comme pour repousser sa pensée.
 
 — Non, non, fit-elle la voix s’étranglant dans sa gorge… Il ne faut pas
   vouloir m’épouser… Voyez, l’on en meurt…

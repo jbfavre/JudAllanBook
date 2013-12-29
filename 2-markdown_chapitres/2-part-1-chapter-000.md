@@ -1,3 +1,1 @@
-# PREMIÈRE PARTIE: IDYLLE EN MODERN-SORCELLERIE
-
-![](../3-images/part-1.jpg)
+# Idylle en modern-sorcellerie

@@ -1,4 +1,6 @@
-## CHAPITRE III: LE DIABLE S’EN MÊLE
+## Le diable s’en mêle
+
+![](images/part1/chapitre-3.jpg)
 
 — Ah ! voici 1e señor. Que la journée vous soit bonne, señor. Le _coche_
   (voiture) vous attend.
@@ -17,7 +19,8 @@ Rappelé ainsi à la réalité, Pierre s’était habillé, avait réglé sa dé
 il avait repris la route de son domicile.
 
 Seulement, comme s’il était condamné à rencontrer sans cesse de nouveaux sujets
-d’étonnement, les premières paroles de l’opulente Olinda lui apparurent incompréhensibles.
+d’étonnement, les premières paroles de l’opulente Olinda lui apparurent
+incompréhensibles.
 
 — La voiture vous attend, avait-elle dit.
 
@@ -103,8 +106,8 @@ entourée d’une ceinture de forêts.
 A travers les chênes, les érables, les pins ou les landes couvertes de
 bruyères, le _coche_ gagna la gare située à plus d’un kilomètre de la cité.
 
-![Image: "Mais il y eut à peine porté les yeux qu’il
-pâlit."](../images/1-page-046.JPG)
+![Mais il y eut à peine porté les yeux qu’il pâlit](images/1-page-046.JPG
+"Mais il y eut à peine porté les yeux qu’il pâlit")
 
 Là, Pierre, s’étant séparé de son voiturier, apprit que le train pour la
 direction de Médina, Valladolid, Burgos, Venta de Baños, Irun et France,
@@ -165,10 +168,10 @@ Le chroniqueur s’exprimait ainsi :
   du monde.
 
 > Renseignements pris, les curieux découvrirent sans peine que l’inconnue,
-  une idéale jeune fille de la colonie espagnole, portait un des plus grands noms
-  de Léon. Sa mère, la comtesse de Armencita, et elle,
-> venaient jouir à Paris d’une fortune colossale, héritage des del Vedras,
-  ces marquis de Carabas de la péninsule Ibérique.
+  une idéale jeune fille de la colonie espagnole, portait un des plus grands
+  noms de Léon. Sa mère, la comtesse de Armencita, et elle, venaient jouir à
+  Paris d’une fortune colossale, héritage des del Vedras, ces marquis de
+  Carabas de la péninsule Ibérique.
 
 > On pense que la riche, adorable et vertueuse héritière fit aussitôt rêver
   d’hyménée un certain nombre de nos plus élégants et honorables
@@ -260,7 +263,8 @@ Pierra serra les poings.
 S’il avait tenu le rédacteur de l’article, certes il lui eût fait passer ce que
 l’on est convenu d’appeler un mauvais quart d’heure.
 
-Fiancée du Diable, cette enfant que sa rapide enquête lui avait révélée pure, bonne et tendre.
+Fiancée du Diable, cette enfant que sa rapide enquête lui avait révélée pure,
+bonne et tendre.
 
 Fiancée du Diable, celle qui si doucement avait confié au carnet bleu sa
 tristesse de ne point se sentir aimée par la comtesse.
@@ -270,7 +274,8 @@ Victime ! Toujours victime d’une inimitié inexplicable.
 L’éloignement maternel, la pauvreté, la pitié d’un bandit, l’attachement
 ignoré d’un gentilhomme ruiné, un cercle de crimes l’isolant du monde, la
 presse parisienne lui décochant une appellation qui la marquait au front,
-quelle étrange et cruelle destinée que celle de cette jeune fille, née pour les doux sourires, née pour le bonheur !
+quelle étrange et cruelle destinée que celle de cette jeune fille, née pour
+les doux sourires, née pour le bonheur !
 
 Le brouhaha du train entrant en gare tira le marquis de ses réflexions.
 
@@ -297,16 +302,19 @@ jour de voyage vers six heures du soir.
 Dire son impatience est impossible.
 
 Chaque minute de retard lui semblait contenir une menace contre Linérès.
-A présent, il ne résistait plus à l’attraction exercée sur lui par cette jeune fille qu’il n’avait jamais vue.
+A présent, il ne résistait plus à l’attraction exercée sur lui par cette
+jeune fille qu’il n’avait jamais vue.
 
 — Paris-Orsay ! Paris-Orsay !
 
-Ce nom, clamé le long du train par les employés, chassa tous les pensers chagrins du marquis.
+Ce nom, clamé le long du train par les employés, chassa tous les pensers
+chagrins du marquis.
 
 Il était arrivé enfin.
 
 Un « facteur » s’empara de sa valise, et dans les traces du porteur, il
-suivit le terre-plein souterrain, gravit l’escalier accédant à la salle supérieure, de plain-pied avec le quai qui borde la Seine.
+suivit le terre-plein souterrain, gravit l’escalier accédant à la salle
+supérieure, de plain-pied avec le quai qui borde la Seine.
 
 Mais à peine sur la dernière marche, un cri retentit auprès de lui :
 
@@ -318,7 +326,9 @@ Des bras amis l’enlacèrent.
 
 Oui, Morand, son ami qui lui avait écrit en Espagne, était devant lui.
 De taille moyenne, mince de corps, mais rond de caractère ainsi qu’il se
-dépeignait lui même, Albert Morand, un peu plus âgé que le marquis, portait de façon désinvolte l’uniforme de major de l’armée. Garçon joyeux, vivant gaiement, mais sans dépasser jamais la somme de ses revenus et de
+dépeignait lui même, Albert Morand, un peu plus âgé que le marquis, portait
+de façon désinvolte l’uniforme de major de l’armée. Garçon joyeux, vivant
+gaiement, mais sans dépasser jamais la somme de ses revenus et de
 son traitement, Morand, bon médecin au reste, représentait, mélange moins
 rare que l’on ne serait tenté de 1e croire, la raison dans la folie, l’ordre
 dans le désordre.
@@ -443,8 +453,8 @@ Et, par contre-coup, les fumées de légende qui obscurcissaient les
 aventures d’Espagne, se dissipaient, ses idées se clarifiaient en
 quelque sorte.
 
-![Image: "Dix mille deux cent vingt et un francs, soixante-dix
-centimes. Les voici."](../images/1-page-053.JPG)
+![Dix mille deux cent vingt et un francs, soixante-dix centimes. Les voici](images/1-page-053.JPG
+"Dix mille deux cent vingt et un francs, soixante-dix centimes. Les voici")
  
 — Je vais faire appeler une voiture, proposa Morand.
 
@@ -640,7 +650,8 @@ ministre de la guerre.
 — Toi Fall, et d’où vient que tu sois plus certain que moi Bob, ou que
 Tril?
 
-— De ce que mes oreilles sont plus ouvertes. J’ai entendu celui que vous appelez Morand présenter aux officiers le marquis Pierre de Chazelet.
+— De ce que mes oreilles sont plus ouvertes. J’ai entendu celui que vous
+  appelez Morand présenter aux officiers le marquis Pierre de Chazelet.
 
 — Ah ! alors, ouvrons l’œil.
 
@@ -663,13 +674,16 @@ Allan s’exprimait avec aisance, en excellent français, qu’agrémentaient
 sans le déparer quelques inflexions gutturales, et de-ci, de-là, un
 américanisme.
 
-![Image: "Il ne resta près du socle de pierre que trois gamins
-dépenaillés."](../images/1-page-057.JPG) 
+![Il ne resta près du socle de pierre que trois gamins dépenaillés](images/1-page-057.JPG
+"Il ne resta près du socle de pierre que trois gamins dépenaillés")
 
 Mais c’était l’homme lui-même que le marquis, en épris d’art, considérait.
 
 Grand, les épaules larges, serré des reins, M. Allan donnait l’impression
-d’une vigueur exceptionnelle alliée à une souplesse invraisemblable. Son geste apparaissait à la fois précis et ondulant… Son costume noir, de coupe sévère eût semblé disgracieux sur tout autre. Porté par lui, il pouvait être pris pour une recherche savante destinée à souligner sa mâle beauté.
+d’une vigueur exceptionnelle alliée à une souplesse invraisemblable. Son
+geste apparaissait à la fois précis et ondulant… Son costume noir, de coupe
+sévère eût semblé disgracieux sur tout autre. Porté par lui, il pouvait être
+pris pour une recherche savante destinée à souligner sa mâle beauté.
 
 Le visage complètement rasé, auréolé de cheveux dorés, épais et soyeux,
 présentait un caractère extraterrestre pour ainsi dire. Il avait ce charme
@@ -737,8 +751,8 @@ plaquettes 7, 16, 21 et 25 se rabattent.
 Les réponses ne laissèrent aucun doute. Les cohéreurs _non accordés_
 n’avaient point signalé le passage des ondes sans fil.
 
-![Image: "Messieurs, si vous 1e permettez, nous allons commencer les
-expériences."](../images/1-page-059.JPG) 
+![Messieurs, si vous 1e permettez, nous allons commencer les expériences](images/1-page-059.JPG
+"Messieurs, si vous 1e permettez, nous allons commencer les expériences")
 
 Très intéressés, les assistants répétaient l’expérience, chacun
 s’amusant à la manipulation des appareils, guidés par les sapeurs
@@ -882,7 +896,8 @@ L’Américain secoua la tête :
 
 — s’arrête là. Voyez.
 
-Ce fut un concert de récriminations. L’officier japonais, son interlocuteur inconnu, furent cordialement envoyés à tous les diables.
+Ce fut un concert de récriminations. L’officier japonais, son interlocuteur
+inconnu, furent cordialement envoyés à tous les diables.
 
 M. Lerenaud ramena le calme par cette promesse :
 
