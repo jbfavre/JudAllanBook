@@ -1,5 +1,3 @@
-# PREMIÈRE PARTIE: IDYLLE EN MODERN-SORCELLERIE
-
 ## CHAPITRE I: LA PHOTOGRAPHIE MAGIQUE
 
 — J’ai tenu à vous montrer cette lettre de France, afin de vous assurer

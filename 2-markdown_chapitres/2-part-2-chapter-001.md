@@ -1,5 +1,3 @@
-# DEUXIÈME PARTIE: LADS’S KING, LE ROI DES GAMINS
-
 ## CHAPITRE I: LA ROCHE TARPÉIENNE
 
 Non loin de l’habitation de Frey Jemkins se dresse l’hôtel à voyageurs New-Villard de Washington.
