@@ -38,7 +38,7 @@ M. Lerenaud était grave ; il serra les mains tendues vers lui. Le café
 servi, il attendit que la porte se fût refermée sur le domestique, puis la
 voix abaissée, il laissa tomber cette phrase :
 
-— Messieurs, le septième a prié M^me de Armencita de le recevoir ce soir.
+— Messieurs, le septième a prié M^me^ de Armencita de le recevoir ce soir.
   A cette heure, il doit se préparer à se présenter devant la comtesse,
   car il lui a été répondu fort gracieusement par l’invitation de
   prendre le thé avec ces dames.
@@ -46,8 +46,8 @@ voix abaissée, il laissa tomber cette phrase :
 Mais arrêtant le murmure provoqué par cette déclaration :
 
 — Si je vous dis cela, c’est que je suis assuré qu’il ne se produira aucun
-  incident fâcheux. M^mes de Armencita affirmeront au postulant que
-  M^lle Linérès est décidée à ne se point marier, et à quitter Paris
+  incident fâcheux. M^mes^ de Armencita affirmeront au postulant que
+  M^lle^ Linérès est décidée à ne se point marier, et à quitter Paris
   sous peu de jours.
 
 — Quitter Paris ?
@@ -83,7 +83,7 @@ Mais le général Dantun éleva la voix :
 — Enfin, il ne court aucun danger, nous affirmez-vous. 
 
 — Je pense, Général, répliqua le chef de la Sûreté, que la décision
-  irrévocable de M^lle de Armencita, décision qu’elle m’a confirmée
+  irrévocable de M^lle^ de Armencita, décision qu’elle m’a confirmée
   elle-même, va mettre Anoru à l’abri de la fâcheuse influence qui
   s’est appesantie sur ses prédécesseurs.
 
@@ -103,7 +103,7 @@ Mais le général Dantun éleva la voix :
 Et comme tous l’interrogeaient du regard, le général continua :
 
 — Sans doute ! Comme nous tous, vous en êtes réduit aux suppositions. Vous
-  supposez que l’on s’oppose au mariage de M^lle Linérés ; vous
+  supposez que l’on s’oppose au mariage de M^lle^ Linérés ; vous
   supposez qu’en décidant de ne point convoler en justes noces, elle
   fait disparaître le danger… Mais vous n’en êtes pas sûr.
 
@@ -186,7 +186,7 @@ journaux consacrant autrefois les débuts de Linérès dans le monde.
 Une soirée à l’Opéra, avaient-ils dit, une visite au Salon de
 l’automobile !
 
-M^lle de Armencita était venue là. Sa gracieuse silhouette s’était
+M^lle^ de Armencita était venue là. Sa gracieuse silhouette s’était
 découpée sur ce perron monumental.
 
 Et soudain, il lui sembla qu’à tout prix il devait la revoir, lui parler.
@@ -267,7 +267,7 @@ Cette fois, M. Allan se dressa tout droit.
 
 — Mort ! ce malheureux !
 
-— Oui, assassiné dans l’hôtel de M^lle de Armencita… J’y cours… à tout à 
+— Oui, assassiné dans l’hôtel de M^lle^ de Armencita… J’y cours… à tout à 
   l’heure.
 
 L’Américain s’effaça pour le laisser passer. Son visage exprimait une
@@ -565,7 +565,7 @@ sans en avoir conscience, il murmura :
 — Nest-ce pas ? chuchota le Chef de la Sûreté sur le même ton — et
   avec une anxiété qu’il ne cherchait plus à dissimuler : — Si vos
   suppositions sont exactes ; si tous ces malheurs s’abattant sur les
-  fiancés de M^lle Linérés de Armencita sont préparés par une volonté
+  fiancés de M^lle^ Linérés de Armencita sont préparés par une volonté
   unique, nous nous trouvons en face du plus prodigieux criminel que la
   terre ait jamais porté. De quelles ressources, de quelles complicités
   cet homme doit disposer !… Les procédés supposeraient une fortune
@@ -649,7 +649,7 @@ prononcer :
 
 Les trois hommes se retournèrent vivement.
 
-Dans l’encadrement de la porte se tenaient M^me de Armencita et Linérès.
+Dans l’encadrement de la porte se tenaient M^me^ de Armencita et Linérès.
 
 A cette heure, la vaillance de la jeune fille se trahissait par le
 geste, par l’attitude.
@@ -992,7 +992,7 @@ il ne pouvait être coupable du crime.
 Au reste, il répondit sans hésiter à toutes les questions… Les issues
 étaient closes… Il avait discerné un sifflement tout comme la señorita…
 À ce moment il cherchait à placer son assiette sur la cheminée… Il
-s’était retourné au cri de M^me la comtesse et avait aperçu le sang
+s’était retourné au cri de M^me^ la comtesse et avait aperçu le sang
 coulant de la blessure… Alors, il avait perdu la tête, s’était enfui
 en criant au secours.
 
@@ -1014,7 +1014,7 @@ dehors du capitaine Anoru, lequel lui avait décliné ses nom et
 qualités, puisque, selon les ordres de la doña, il était le seul
 visiteur que l’on dût recevoir.
 
-M^me de Armencita se lamentait dans le grand saglon, où on lui avait
+M^me^ de Armencita se lamentait dans le grand saglon, où on lui avait
 permis de se réfugier pour ne plus voir ce _pobre señor Anoru_, mais
 Linérès suivait le Chef de la Sûreté partout, insistant auprès des
 domestiques, multipliant les interrogations… La solution du problème

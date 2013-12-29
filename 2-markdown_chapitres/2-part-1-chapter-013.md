@@ -772,7 +772,7 @@ s’il le fallait. Il périrait pour Lilian, ce bébé encore inconnu. Il
 songeait :
 
 — Quel est cet homme ? À San-Francisco, le Tribunal du Commerce est
-  composé d’amis à lui. M^me Pariset, Lily comme il la nomme, est sa
+  composé d’amis à lui. M^me^ Pariset, Lily comme il la nomme, est sa
   cousine… Et ce personnage occupant une situation honorable, enviée,
   entretient à sa solde une troupe de bandits. Quel peut être cet
   individu ?

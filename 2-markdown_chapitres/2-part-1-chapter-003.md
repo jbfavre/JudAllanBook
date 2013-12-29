@@ -134,7 +134,7 @@ cliché reproduisant les traits charmants de Linérès :
 
 > Coïncidences diaboliques. — Le jeu de massacre des épouseurs.
   — Un chapelet. de victimes. — C’est diabolique, dit l’une d’elles.
-  — Quoique non blessée, M^lle de Armencita n’en est pas moins la plus
+  — Quoique non blessée, M^lle^ de Armencita n’en est pas moins la plus
     atteinte.
   — Un journal parisien désigne la malheureuse jeune fille sous ce nom :
   La Fiancée du Diable !
@@ -151,7 +151,7 @@ Plus rien autour de lui n’obéissait aux lois de la morale.
 
 Et il souffrait de ne point ressentir une révolte suffisante en face de ce
 journal qui, sous les regards amusés de centaines de mille lecteurs,
-promènerait accolés le nom de M^lle de Armencita et ce surnom : la Fiancée du
+promènerait accolés le nom de M^lle^ de Armencita et ce surnom : la Fiancée du
 Diable.
 
 Puis, le désir de comprendre comment pareil blasphème avait pu naître,
@@ -189,7 +189,7 @@ Le chroniqueur s’exprimait ainsi :
   consciente, si pareille hypothèse ne devait être écartée, ont mis hors de
   combat, en six semaines, cinq jeunes hommes du meilleur monde, lesquels,
   plus ou moins ouvertement, avaient posé leur candidature à la main de
-  M^lle de Armencita.
+  M^lle^ de Armencita.
 
 > Jacques Béluzier, fils de l’agent de change bien connu, se loge une
   balle en pleine poitrine, en maniant un revolver, qu’il affirme avec
@@ -506,7 +506,7 @@ La manchette disait :
 
 L’article, assaisonné de commentaires spirituels ou émus, relatait que le
 millionnaire Garavaud, peintre, journaliste, etc., lequel, par bravade,
-avait déclaré qu’il solliciterait la main de M^lle Linérès de
+avait déclaré qu’il solliciterait la main de M^lle^ Linérès de
 Armencita, et ce au cours d’un déjeuner chez Voisin, avait été trouvé,
 à six heures, dans la rue du Général-Foy, percé de quatorze coups de
 couteau, et avait expiré sans  avoir pu prononcer une parole.
@@ -859,7 +859,7 @@ Et rougissant légèrement sous les regards convergeant sur lui :
 
 — À la comtesse de m’accorder audience le soir. Quoi qu’il doive arriver,
   ma vie appartient au Japon. Demain soir, je demanderai la main de
-  M^lle Linérès.
+  M^lle^ Linérès.
 
 — Linérès !
 

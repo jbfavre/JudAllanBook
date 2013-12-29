@@ -408,7 +408,7 @@ De nouveau la salle retentit de son rire sonore.
   fille ?
 
 Il avait fait un pas en avant, plongeant son regard gris dans celui de
-M^lle de Armencita.
+M^lle^ de Armencita.
 
 Celle-ci murmura :
 
@@ -590,7 +590,7 @@ La comtesse fit signe qu’elle avait compris.
   mère véritable, je n’entends pas vous sevrer de son affection, en
   admettant que ma démarche actuelle soit fondée.
 
-— Je ne comprends pas, murmura M^me de Armencita.
+— Je ne comprends pas, murmura M^me^ de Armencita.
 
 L’inflexion de sa voix était bizarre.
 
@@ -652,7 +652,7 @@ Le visiteur approuvait du geste.
 
 — Parfait ! et en août de la même année ?
 
-M^me de Armencita tourna plusieurs pages.
+M^me^ de Armencita tourna plusieurs pages.
 
 — C’est une année fertile en aventures… Elle tient plus de place que
   certaines périodes dix fois plus longues.
@@ -728,7 +728,7 @@ La jeune fille crut à l’émoi du visiteur. Lui cependant, poursuivait :
   vous avisera. Vous l’avez ramenée en Espagne, et jamais plus vous n’avez
   entendu parler de sa famille.
 
-M^me de Armencita se dressa toute droite.
+M^me^ de Armencita se dressa toute droite.
 
 — Comment savez-vous cela ?
 
@@ -779,7 +779,7 @@ comédien.
 — Oui, la fleur de l’aloès chiriquite, dont les indigènes tirent le
   _pulque_, cette boisson fermentée du pays mexicain.
 
-— Elle a le tatouage sur la face interne du bras, prononça M^me de
+— Elle a le tatouage sur la face interne du bras, prononça M^me^ de
   Armencita d’une voix assourdie.
 
 Linérès chancela.
@@ -818,7 +818,7 @@ Il souriait avec une ironie, qui eût fort donné à penser à Linérès si elle
 avait pu remarquer ce sourire.
 
 Mais son « Cousin Frey », avait repris son apparence habituelle,
-lorsqu’elle pénétra, entre lui et M^me de Armencita, dans le grand salon,
+lorsqu’elle pénétra, entre lui et M^me^ de Armencita, dans le grand salon,
 où le juge attendait en compagnie de M. Lerenaud.
 
 -----

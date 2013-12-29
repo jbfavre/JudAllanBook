@@ -316,7 +316,7 @@ lui.
 L’aventure apparaissait irréparable.
 
 Que faire sans argent ? Ah ! le joli défenseur qu’il présenterait à
-M^lle de Armencita ! un défenseur n’ayant bientôt d’autre asile que le
+M^lle^ de Armencita ! un défenseur n’ayant bientôt d’autre asile que le
 dessous des ponts des vagabonds.
 
 Vainement, il recommença l’exploration des poches de son habit, de son
@@ -367,7 +367,7 @@ jeune fille charmante, une gitane photographe, un bandit prêteur sans
 intérêts…
 
 — Vous oubliez ces crimes qui sèment les morts et les blessés autour de
-M^lle de Armencita.
+M^lle^ de Armencita.
 
 — Je n’oublie rien… Permettez—moi de vous faire remarquer que… la 
 suppression même de rivaux peut être interprétée comme vous constituant

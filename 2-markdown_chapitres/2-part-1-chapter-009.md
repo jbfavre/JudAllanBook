@@ -398,7 +398,7 @@ Celui qu’il avait désigné sous le nom de Totham répliqua :
 
 — Bien. Faites votre service sans occuper vous-mêmes de nos personnes.
 
-Sur ce, Frey prit familièrement le bras de M^me de Armencita, puis se
+Sur ce, Frey prit familièrement le bras de M^me^ de Armencita, puis se
 tournant vers le marquis un peu interloqué par cet entretien tout américain
 de maître à serviteurs.
 
@@ -419,7 +419,7 @@ Ah ! Ce dernier mois écoulé avait été pour tous deux un enchantement.
   gentilhomme parisien, je tremble de me réveiller, je me sens si indigne
   du bonheur inouï venu à moi.
 
-Déjà Frey et M^me de Armencita avaient pris place dans un élégant landau
+Déjà Frey et M^me^ de Armencita avaient pris place dans un élégant landau
 attelé de deux superbes chevaux, de cette race vigoureuse qu’élèvent les
 colons de _l’Apacheria._
 
@@ -675,7 +675,7 @@ fit humble, presque suppliant :
 — Pauvre femme, murmura le marquis, ému par l’attitude de la mère de sa
   fiancée.
 
-Par hasard ses yeux rencontrèrent ceux de M^me de Armencita et il ressentit
+Par hasard ses yeux rencontrèrent ceux de M^me^ de Armencita et il ressentit
 comme une commotion.
 
 Dans les regards de la comtesse, il lui avait semblé lire une amère ironie.
@@ -720,7 +720,7 @@ Mais brutalement l’Américain lui coupa la parole.
   de la comtesse de Armencita ? Le nom dont je parle est celui qui vous
   fut donné à l’heure de votre naissance. C’est ce nom qui peut-être…
 
-Et s’adressant de nouveau à M^me Pariset :
+Et s’adressant de nouveau à M^me^ Pariset :
 
 — Lily, reprit-il, n’aimez-vous pas le nom de Lilian ?
 
@@ -755,7 +755,7 @@ Pour la première fois, les regards de l’insensée se portèrent sur Linérès
 
 — Lilian, redit—elle, n’est-ce pas que c’est le plus doux des noms ?
 
-Et comme la jeune fille se courbait devant elle, M^me Pariset éleva la main,
+Et comme la jeune fille se courbait devant elle, M^me^ Pariset éleva la main,
 caressa les cheveux de son interlocutrice.
 
 — Le plus doux, prononça-t-elle encore, le plus doux. Enfant ! Je te bénis

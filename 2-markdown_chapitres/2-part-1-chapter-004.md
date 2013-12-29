@@ -24,8 +24,6 @@ onze heures du soir, tous les visages exprimaient l’attente. Rien d’anxieux
 au demeurant, mais simplement une curiosité aiguë.
 
 Une séance d’hypnotisme avait été annoncée, en termes si suggestifs, que
-
-  
 l’on s’attendait à des incidents inédits, à un « je ne sais quoi »
 d’inhabituel, qui secouerait les âmes blasées de ces riches oisifs, de ces
 poètes, politiques, financiers.
@@ -62,7 +60,7 @@ Telle était l’attente générale que l’on ne faisait plus attention à deux
 femmes, dont la présence à la réunion avait quelque peu déconcerté les
 assistants.
 
-On s’était étonné, avec un semblant de raison, que M^me la comtesse de
+On s’était étonné, avec un semblant de raison, que M^me^ la comtesse de
 Armencita et sa fille Linérès se montrassent ainsi, alors que les
 incidents tragiques, auxquels leur nom avait été mêlé, s’étaient
 produits si récemment.
@@ -278,7 +276,7 @@ l’Indienne :
 La voyante haussa les épaules d’un air de doute, puis lentement elle
 s’approcha de la comtesse et appliqua la main sur son front.
 
-M^me de Armencita esquissa, un mouvement de recul, mais la singulière
+M^me^ de Armencita esquissa, un mouvement de recul, mais la singulière
 créature ordonna d’un ton sec :
 
 — Si tu veux savoir, reste.
@@ -315,7 +313,7 @@ réel, bien plus impressionnant que toutes les fictions scéniques.
 
 L’Indienne avait fait la preuve de son mystérieux pouvoir.
 
-Elle avait lu dans l’esprit de M^me de Armencita le secret ignoré de tous.
+Elle avait lu dans l’esprit de M^me^ de Armencita le secret ignoré de tous.
 
 — L’explication de vos malheurs est donc en la pensée de cette jeune
   fille.
@@ -537,7 +535,7 @@ en avant comme pour repousser sa pensée.
 Et comme la porte du salon s’ouvrait lentement, il acheva vite :
 
 — Permettez-moi de me présenter chez vous demain, Mademoiselle. En
-  présence de M^me votre mère, je vous conterai dans ses moindres
+  présence de M^me^ votre mère, je vous conterai dans ses moindres
   détails l’aventure qui m’a amené, moi, marquis Pierre de Chazelet,
   jusqu’ici.
 
@@ -548,7 +546,7 @@ Il fallait répondre sans retard, le loisir de la discussion n’existait pas.
 — Demain soir, fit-elle dans un murmure, nous serons seules ; nous vous
   attendrons.
 
-Puis courant à M^me de Armencita :
+Puis courant à M^me^ de Armencita :
 
 — Ah ! sécria-t-elle, toute la fantasmagorie de ce soir m’a brisée, et je
   me serais endormie, je crois, si M. le marquis de Chazelet n’avait

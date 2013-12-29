@@ -64,7 +64,7 @@ d’Université.
 
 De la main, Pierre congédie la servante.
 
-Par bonheur, l’entrée de M^me de Armencita le distrait quelque peu, bien
+Par bonheur, l’entrée de M^me^ de Armencita le distrait quelque peu, bien
 que la vieille dame s’absorbe dans la confection de sandwiches au jambon,
 qu’elle fait disparaître avec une prestesse merveilleuse.
 
@@ -81,7 +81,7 @@ d’une voix étranglée :
 
 — On a changé ma maîtresse ! On a changé ma maîtresse !
 
-M^me de Armencita avala d’une bouchée le sandwich commencé. Quant au
+M^me^ de Armencita avala d’une bouchée le sandwich commencé. Quant au
 marquis, il s’était levé.
 
 — Qu’y a-t-il donc ?
@@ -234,7 +234,7 @@ jeune fille.
 — Oui, Frey Jemkins, fit doucement Chazelet totalement ahuri. Le cousin de
   ma fiancée, de Linérès dont vous occupez la chambre, le lit, la place.
 
-Il aurait continué, mais M^me de Armencita le rejoignit à ce moment.
+Il aurait continué, mais M^me^ de Armencita le rejoignit à ce moment.
 
 — Introuvable ! Introuvable ! Personne n’a vu Linérès… Il lui a été
   impossible de sortir cette nuit. Portes et volets sont demeurés clos.
@@ -339,7 +339,7 @@ Le milliardaire fit entendre un rire sauvage, rauque, terrifiant.
 
 — La preuve… Vous êtes fou !
 
-— M^me de Armencita et moi-mème, allions l’accompagner à l’Institution
+— M^me^ de Armencita et moi-mème, allions l’accompagner à l’Institution
   Deffling pour contrôler ses assertions.
 
 La gaieté farouche du milliardaire parut s’accroître encore.
