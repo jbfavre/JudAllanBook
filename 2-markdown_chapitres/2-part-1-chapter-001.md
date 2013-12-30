@@ -15,7 +15,7 @@ d’Espagne.
 
 Celui-ci eut un léger haussement d’épaules.
 
-— Enfin, dame Olinda, sous peu de jours je macquitterai.
+— Enfin, dame Olinda, sous peu de jours je m'acquitterai.
 
 C’était un congé. L’aubergiste se dirigea vers la porte, laissant son
 débiteur seul.
@@ -25,7 +25,7 @@ souple et nerveux, les cheveux châtains de même que la moustache fine,
 les yeux mobiles et rieurs, le nez impeccable, le jeune homme, portant
 vingt-cinq à vingt-six ans, conservait, sous son costume de touriste
 quelque peu défraichi, une distinction, une « race » bien rares à notre
-époque. Sa présence surprenait dans cette chambrette blanchie a la chaux,
+époque. Sa présence surprenait dans cette chambrette blanchie à la chaux,
 auprès de ce lit boiteux, couvert d’une « indienne » fanée, de cette
 table de bois blanc et de ces escabeaux grossiers… On sentait qu’elle
 était le résultat d’un naufrage social.
@@ -38,7 +38,7 @@ L’enveloppe au timbre de France, portait la suscription suivante :
 
     Marquis PIERRE DE CHAZELET
     Posada del Cid
-    Route dflvila-Béjar-Plasençia
+    Route [FIXME]dflvila-Béjar-Plasençia[FIXME]
     
     Province de Savlamanque (Léon)
     District d’Avz’la.
@@ -58,13 +58,13 @@ appuyés à la table, il relut machinalement l’épître étalée devant lui.
   trouver ainsi, à vingt-six ans, ruiné, se cachant de ses créanciers
   dans un tel décor.
 
-> Brrr! Cela me fait froid! Enfin! j’imiterai ton courage. Tu t’es amusé
+> Brrr ! Cela me fait froid ! Enfin ! j’imiterai ton courage. Tu t’es amusé
 > royalement, dis-tu, et n’as aucun regret. Passons aux nouvelles de
   Paris qui t’intéressent.
 
 > Ton appartement, tes collections ont été vendus, pas mal prétend le
   commissaire-priseur. Toutes dettes payées, frais soldés, il te restera
-  une dizainevde mille francs que, d’ici à quelques jours, je pourrai, à
+  une dizaine de mille francs que, d’ici à quelques jours, je pourrai, à
   ton choix, te remettre à ton arrivée à Paris, ou t’expédier à ton
   terrier del Cid.
 
@@ -80,14 +80,18 @@ appuyés à la table, il relut machinalement l’épître étalée devant lui.
 
 > P.S. — À propos, je viens d’étre promu major…; j’en ai profité pour
   déménager. Écris-moi désormais, 64, boulevard de Port-Royal, tout à côté
-  du Val-de-Grâce, mon office de travail. Tibi. F. M.
+  du Val-de-Grâce, mon office de travail.
+
+> Tibi.
+
+> F. M.
 
 — Brave Morand, murmura le jeune homme… Une amitié fidèle, dont je ne
   suivrai d’ailleurs pas le conseil…
 
 Et avec un geste sec :
 
-— Rentrer a Paris, subir la pitié fastueuse d’anciens compagnons de fête.
+— Rentrer à Paris, subir la pitié fastueuse d’anciens compagnons de fête.
   Non, non, petit marquis de Chazelet, tu as mauvaise tête; tu ne saurais
   faire cela.
 
@@ -131,7 +135,7 @@ Il eut un mouvement d’épaules impatient.
 
 Et il mit délibérément le pied sur la première marche.
 
-A mesure qu’il descendait, le bruit augmentait.
+À mesure qu’il descendait, le bruit augmentait.
 
 De nouveau, il s’arrêta. Quelques mots lui avaient appris que l’on parlait de
 lui.
@@ -152,7 +156,7 @@ lui.
 Un éclat de rire homérique accueillit la réplique… Forte de son succès,
 Olinda continua :
 
-— Par la Madone, une honnête posadera n’a-telle plusle droit de préférer à
+— Par la Madone, une honnête posadera n’a-telle plus le droit de préférer à
   des gens qui lui parlent sans respect, un étranger poli, observant la
   déférence que tout caballero doit à une faible femme
 
@@ -184,7 +188,7 @@ Les rires reprirent de plus belle.
 Pierre de Chazelet, amusé par ce dialogue surpris au vol, descendit les
 quelques degrés qui le séparaient encore du sol de la salle commune.
 
-A sa vue, la demi-douzaine d’arrieros, rassemblés autour de la table grais-
+À sa vue, la demi-douzaine d’arrieros, rassemblés autour de la table grais-
 seuse, devinrent subitement graves.
 
 Olinda se précipita au-devant de son hôte.
@@ -214,35 +218,35 @@ Le marquis, lui, répondit sans fausse honte par le dicton espagnol :
 — Le _rico hombre_ (homme riche) peut disposer de _quatre_ pieds, le pauvre
   doit se contenter de _deux_.
  
-— Le señor ne m’a pas compris, sécria vivement le muletier. Je passe en
+— Le señor ne m’a pas compris, s'écria vivement le muletier. Je passe en
   Castille pour y prendre un chargement… Que le señor accepte ou non mon offre,
   je dois parcourir le chemin. S’il lui plaît de ne pas repousser l’amabilité
   d’un arriero, continua Perez avec cette emphase un peu théâtrale
-  particulière aux citoyens espagnols, même les plus modestes, 1’une de mes
+  particulière aux citoyens espagnols, même les plus modestes, l’une de mes
   mules est à vous.
 
 Et comme Pierre hésitait, craignant de froisser son obligeant interlocuteur,
 celui-ci acheva, clignant de la paupière d’un air malin :
 
-— Je conçois, 1e señor est fier ; il lui coûte de ne pouvoir répondre à une
+— Je conçois, le señor est fier ; il lui coûte de ne pouvoir répondre à une
   gracieuseté par une autre. Eh ! qu’à cela ne tienne ! Tous les jours ne sont
-  point vides de piécettes. Si la pluie d’argent tombe dans sa poche, il lui a
+  point vides de piécettes. Si la pluie d’argent tombe dans sa poche, il lui
   suffira de laisser un petit souvenir pour moi que dame Olinda me remettra
   à mon prochain voyage. Ainsi la noble hésitation du señor peut disparaître.
 
-Cette fois, Pierre se prit a rire franchement.
+Cette fois, Pierre se prit à rire franchement.
 
 — Dans ces conditions, j’accepte.
 
 De fait, le jeune homme désireux avant tout de se distraire de ses pensées
-_couleur de suie_, selon Pexpression usitée à Béjar, ne pouvait rêver un
+_couleur de suie_, selon l'expression usitée à Béjar, ne pouvait rêver un
 compagnon plus assorti à ses souhaits. La faconde de Perez Caldero, son
 insouciant bavardage, ne devaient pas laisser au marquis la possibilité de se
 replonger dans ses réflexions moroses.
 
-Un quart d’heure plus tard, tous deux à califourcbon sur des mules
+Un quart d’heure plus tard, tous deux à califourchon sur des mules
 vigoureuses, suivis d’une douzaine de quadrupèdes de même espèce, qui
-marchaient librement dans les traces des bêtes de tète, s’éloignaient de la
+marchaient librement dans les traces des bêtes de tête, s’éloignaient de la
 posada, en longeant la faille au fond de laquelle bouillonne le Tormès.
 
 Si l’une des mules s’écartait, il suffisait à Caldero d’un clappement
@@ -251,7 +255,7 @@ _manada_ (troupeau).
 
 Le spectacle était sévère et superbe.
 
-Partout des rocs, des pointes, des cimes, des crêtes boinaient la vue,
+Partout des rocs, des pointes, des cimes, des [FIXME]crêtes boinaient[FIXME] la vue,
 offrant cette particularité étrange que les pentes tournées vers le nord se
 paraient de plaques vertes de végétation, tandis que celles qui regardaient
 le sud, n’offraient aux yeux que des rocs dénudés, stériles, brûlés par les
@@ -751,7 +755,7 @@ comme certaine de la réussite du prodige :
 
 — Regarde celle que ta pensée aime.
 
-A son tour le Parisien eut une exclamation stupéfaite.
+À son tour le Parisien eut une exclamation stupéfaite.
 
 Sur la surface polie, tout à l’heure unie, une ravissante figure de jeune
 fille se dessinait maintenant.
