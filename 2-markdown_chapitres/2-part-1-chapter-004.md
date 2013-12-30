@@ -54,7 +54,7 @@ personnes, sous le sceau du secret, que la voyante et son introducteur
 occupaient un petit salon, soigneusement clos, à l’extrêmité de l’enfilade
 des salles de réception.
 
-A onze heures et quart exactement, ils se montreraient.
+À onze heures et quart exactement, ils se montreraient.
 
 Telle était l’attente générale que l’on ne faisait plus attention à deux
 femmes, dont la présence à la réunion avait quelque peu déconcerté les
@@ -102,7 +102,7 @@ citant cette phrase du poème héroïque des olympes septentrionaux :
 — Dans la plus admirable forme féminine, Odin a enfermé l’âme d’un
   guerrier.
 
-A cette heure, la vaillance de la jeune fille se trahissait par le
+À cette heure, la vaillance de la jeune fille se trahissait par le
 geste inconsciemment protecteur dont elle soutenait sa mère ; le visage
 de celle-ci, accentué et dur, exprimait une gêne, un trouble qu’elle
 s’efforçait vainement de cacher.
@@ -123,7 +123,7 @@ Et comme récitant de souvenir, la comtesse prononça lentement :
 
 — Comme la mienne du reste.
 
-A son tour, la jeune fille récita :
+À son tour, la jeune fille récita :
 
 — « La señorita doit surmonter l’ennui que lui cause la campagne de
   presse menée contre elle. Les tristesses prendront fin ce soir, à la
@@ -414,7 +414,7 @@ yeux.
 
 Linérès fit ce qu’on lui demandait.
 
-A l’intérieur de la main de l’Indienne, une plaque de métal s’encadrait,
+À l’intérieur de la main de l’Indienne, une plaque de métal s’encadrait,
 et sur cette plaque se dessinait le visage d’un jeune homme.
 
 Elle ne chercha point à comprendre comment ce phénomène s’était produit.
@@ -576,7 +576,7 @@ oisifs.
 
 Il était arrivé avec Morand.
 
-A peine entré, il avait entendu prononcer le nom de Linérès ainsi que
+À peine entré, il avait entendu prononcer le nom de Linérès ainsi que
 ceux de Foorberg, Marahi…
 
 Ces derniers lui étaient demeurés indifférents, toute son attention étant

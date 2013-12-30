@@ -89,7 +89,7 @@ d’introduction que voici :
 
 > LOOSEVELT
 
-A diverses reprises, M. Loosevelt, le grand homme d’État américain, avait
+À diverses reprises, M. Loosevelt, le grand homme d’État américain, avait
 surpris l’Europe par l’audace de ses conceptions, la promptitude de ses
 décisions, le dédain qu’il professait pour les formes surannées des
 protocoles officiels. Et cependant M. Lerenaud n’avait pas été maître de
@@ -259,7 +259,7 @@ entiers, puis sortant de son mutisme pour tomber en des accès de rage,
 sans motifs apparents, où il voyait des ennemis partout, accusait jusqu’à
 sa femme et déclarait haïr son enfant.
 
-A cette époque, Frey Jemkins dont l’énergie comme chef des _Claim’s Safety_
+À cette époque, Frey Jemkins dont l’énergie comme chef des _Claim’s Safety_
 avait complètement purgé l’État de Californie des bandits de la prairie,
 Frey devenu riche, grâce aux dons qui avaient récompensé son zèle, avait
 ouvert à San Francisco un bazar géant, _dont les prix défiaient toute
@@ -351,7 +351,7 @@ ambassadeur étrange, M. Lerenaud avait promis.
 ![Jean trouvé mort au bord de la mer, son revolver à côté de lui](images/part1/page-115.jpg
 "Jean trouvé mort au bord de la mer, son revolver à côté de lui")
 
-A cette heure, il s’avouait tout bas qu’il en éprouvait un regret cuisant.
+À cette heure, il s’avouait tout bas qu’il en éprouvait un regret cuisant.
 
 — Allons, garçons… Frey Jemkins entre partout… Vous dites ? Un crime…
   Raison de plus, ces pauvres femmes ont doublement besoin d’un protecteur.
@@ -544,11 +544,11 @@ Pourquoi cet homme, le plus récent parmi ses connaissances?
 Il ne se le demanda même pas, entraîné par une de ces impulsions
 irrésistibles qui nous dominent aux heures douloureuses.
 
-A grands pas, il regagna le Palais d’Orsay.
+À grands pas, il regagna le Palais d’Orsay.
 
 — M. Allan est-il chez lui ?
 
-A sa question, il fut répondu :
+À sa question, il fut répondu :
 
 — Non… M. Allan n’est pas rentré !
 
@@ -557,7 +557,7 @@ Ce lui fut une tristesse nouvelle.
 Il s’enferme dans sa chambre, sombre, en proie aux idées lugubres, se
 retraçant les incidents de la soirée.
 
-A plusieurs reprises, des larmes débordèrent, roulant lentement sur ses
+À plusieurs reprises, des larmes débordèrent, roulant lentement sur ses
 joues. Il n’y prenait pas garde, et avec une obstination maladive, avec
 l’entêtement de l’enfant qui cherche la protection de ceux qu’il devine
 être ses protecteurs.
@@ -569,7 +569,7 @@ Cependant Jemkins, conduit par Linérès, avait pénétré dans la chambre où
 Mme de Armencita, affalée au fond d’un fauteuil, se remettait en une vague
 somnolence des événements de la soirée.
 
-A son entrée, annoncée par la jeune fille, la vieille dame avait sursauté.
+À son entrée, annoncée par la jeune fille, la vieille dame avait sursauté.
 On eût cru que ses yeux, fixés sur le visiteur, exprimaient une
 inexplicable terreur.
 

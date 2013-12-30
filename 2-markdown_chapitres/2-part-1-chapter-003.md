@@ -103,7 +103,7 @@ aux cabrioles de l’équipage.
 Enfin, on parvint à Avila, cette jolie petite ville de neuf mille habitants,
 entourée d’une ceinture de forêts.
 
-A travers les chênes, les érables, les pins ou les landes couvertes de
+À travers les chênes, les érables, les pins ou les landes couvertes de
 bruyères, le _coche_ gagna la gare située à plus d’un kilomètre de la cité.
 
 ![Mais il y eut à peine porté les yeux qu’il pâlit](images/part1/page-046.jpg
@@ -302,7 +302,7 @@ jour de voyage vers six heures du soir.
 Dire son impatience est impossible.
 
 Chaque minute de retard lui semblait contenir une menace contre Linérès.
-A présent, il ne résistait plus à l’attraction exercée sur lui par cette
+À présent, il ne résistait plus à l’attraction exercée sur lui par cette
 jeune fille qu’il n’avait jamais vue.
 
 — Paris-Orsay ! Paris-Orsay !
@@ -783,7 +783,7 @@ Mais, après un instant :
 — Que l’appel régulier ne se produisant pas, nous _surprenons_ une
   causerie de sans fil clandestin.
 
-A ce moment, un nouveau personnage pénétrait dans la _lanterne_.
+À ce moment, un nouveau personnage pénétrait dans la _lanterne_.
 
 — Clandestin, s’écria-t-il… Eh ! mais, en ce cas, mon service sera tout
   aussi intéressé que celui de la Guerre.

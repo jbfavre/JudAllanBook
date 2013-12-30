@@ -225,7 +225,7 @@ gentille créature acheva :
   comme si tu étais assurée de cela, et tu es triste parce que le doute
   subsiste en ton esprit.
 
-A cette brusque conclusion, Lilian cacha son visage sur l’épaule de son
+À cette brusque conclusion, Lilian cacha son visage sur l’épaule de son
 amie, et dans un sanglot, elle murmura :
 
 — Oh ! tais-toi ! tais-toi !
@@ -341,7 +341,7 @@ Comme mue par un ressort, Lilian se dressa toute droite.
 Mais son amie ne l’écoutait plus. Elle s’était approchée de la fenêtre et
 regardait au dehors.
 
-A travers les vitres, elle apercevait la longue façade de la pension, avec
+À travers les vitres, elle apercevait la longue façade de la pension, avec
 ses ailes en retour, encadrant de trois côtés la cour sablée, le quatrième
 étant formé par le parc qui s’étendait entre les bâtiments et le portail de
 l’avenue Kendall.

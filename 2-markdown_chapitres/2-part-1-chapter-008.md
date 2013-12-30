@@ -2,7 +2,7 @@
 
 ![](images/part1/chapitre-8.jpg)
 
-A huit heures du matin, Pierre de Chazelet était debout, habillé, prêt à
+À huit heures du matin, Pierre de Chazelet était debout, habillé, prêt à
 sortir. Où voulait-il aller ? Nulle part.
 
 Mais après une nuit pendant laquelle 1’insomnie avait torturé son esprit
@@ -14,7 +14,7 @@ Six heures ! Il ne pouvait se permettre d’aller sitôt trouver Allan.
 Alors, pour employer le temps, il avait procédé à une toilette minutieuse,
 puis il avait essayé de lire, d’écrire.
 
-A huit heures, le garçon lui apporta une lettre. Il la décacheta avec
+À huit heures, le garçon lui apporta une lettre. Il la décacheta avec
 impatience.
 
 Son ami Morand lui mandait qu’il ne s’était pas expliqué sa soudaine

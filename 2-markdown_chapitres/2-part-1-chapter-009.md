@@ -7,7 +7,7 @@ presqu’île formée par le confluent de la rivière Anacostia avec le fleuve
 Potomac, lequel, à près de trois cents kilomètres à l’Est, se perd dans
 l’Océan Atlantique.
 
-A la pointe même où s’unissent les deux cours d’eau, une troisième rivière
+À la pointe même où s’unissent les deux cours d’eau, une troisième rivière
 semble s’enfoncer entre les jardins de Rechaimed-Flats et les quais de
 pierre de la cité. C’est le Washington Channel (canal de Washington), où
 viennent aborder les steamers faisant le service entre le port de
@@ -130,7 +130,7 @@ de colère.
 
 — Non.
 
-A cette réponse, la jeune femme a un sursaut soudain.
+À cette réponse, la jeune femme a un sursaut soudain.
 
 — Non, dis-tu ?
 
@@ -227,7 +227,7 @@ décide.
 
 De qui parle-t-elle?
 
-A pas lents, elle remonte dans la direction que ses yeux observaient tout
+À pas lents, elle remonte dans la direction que ses yeux observaient tout
 à l’heure. Elle s’éloigne des voitures, du débarcadère. Elle arrive à hauteur
 du pier des bois flottés.
 
@@ -432,7 +432,7 @@ L’équipage s’ébranla aussitôt, parcourut à grande allure la 8° voie, se
 dans une rue latérale, traversa l’avenue Delaware, longea le parc de Garfield
 et s’engagea dans l’avenue de la Caroline du Nord.
 
-A ce moment, Frey Jemkins, qui jusque-là avait gardé le silence, se pencha
+À ce moment, Frey Jemkins, qui jusque-là avait gardé le silence, se pencha
 vers Linérès.
 
 — Ma gentille cousine, prononça-t-il, dans quelques minutes, nous allons
@@ -966,7 +966,7 @@ Il eut un haussement d’épaules.
   à faire rendre à miss Lilian Pariset la fortune et la mère qu’on lui a
   volées.
 
-A grands pas, il quitta le chantier, se jeta dans la première rue accédant
+À grands pas, il quitta le chantier, se jeta dans la première rue accédant
 au port. Un _hansom_ passait. Il l’appela, y prit place, et jeta cette adresse
 au _cabby_ (cocher):
 

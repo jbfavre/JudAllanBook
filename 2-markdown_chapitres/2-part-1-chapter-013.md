@@ -109,7 +109,7 @@ surveiller le prisonnier.
 Ils avaient toute confiance dans la solidité de la porte en chêne, que,
 si cavalièrement, Jud venait de forcer.
 
-A pas de loup, l’enfant gagna l’escalier accédant au pont.
+À pas de loup, l’enfant gagna l’escalier accédant au pont.
 
 Une à une il gravit les marches.
 
@@ -156,7 +156,7 @@ Elle avait servi aux compagnons d’expedition du _Crâne_ à embarquer dans
 la chaloupe venue de terre, et les marins n’avaient point jugé utile de
 la remonter sur le pont.
 
-A l’avant, on entendait les cris des matelots, amorçant les crochets
+À l’avant, on entendait les cris des matelots, amorçant les crochets
 destinés à la pêche du squale.
 
 Jud s’accrocha au filin du palan, se laissa glisser dans l’eau.
@@ -183,7 +183,7 @@ Aussi nageait-il avec calme, sans se presser, ménager de ses forces.
 Tous les deux ou trois cents mètres, il se reposait un moment en faisant
 la planche. Après quoi il repartait.
 
-A l’estime, il avait parcouru la moitié de la distance qui le séparait de
+À l’estime, il avait parcouru la moitié de la distance qui le séparait de
 la côte, quand un frisson le secoua tout entier.
 
 À quelques brasses de lui, il venait de distinguer un objet triangulaire,
@@ -273,7 +273,7 @@ l’embarcation des bandits se montrait engravée dans le sable du rivage.
 Dans un quart d’heure à peine, il y serait amené. Les matelots le
 verraient, le prendraient. Son expédition se terminerait lamentablement.
 
-A cette minute douloureuse, ce ne fut point sur lui qu’il s’apitoya, bien
+À cette minute douloureuse, ce ne fut point sur lui qu’il s’apitoya, bien
 que son sort ne fût point douteux. Il soupira :
 
 — Pauvre petite mignonne !
@@ -309,7 +309,7 @@ Puis, par réflexion :
 
 Et il se remit à nager.
 
-A présent, il avance rapidement sur une mer devenue momentanément
+À présent, il avance rapidement sur une mer devenue momentanément
 d’huile, selon l’expression maritime. La certitude de disposer de
 quelques brèves minutes le fait se presser. Dans les moments de hâte, on
 néglige les menues précautions comme autant de causes de retard.
@@ -1294,7 +1294,7 @@ cesse renaissants.
 Un agent de Frey Jemkins évente la retraite des fugitifs. Jud, dans un
 combat sans merci, le tue et fuit Cincinnati.
 
-A la Nouvelle-Orléans, aventure semblable.
+À la Nouvelle-Orléans, aventure semblable.
 
 Alors, Jud prend le parti de vivre seul. Lilian est mise en pension en
 Floride ; il réside à New-York, lui, ne paraissant aux yeux de sa
@@ -1743,7 +1743,7 @@ Tous répondirent avec ensemble :
 — Eh bien, je vais vous l’apprendre ! Car aussi bien, c’est la base même
   de l’opération fructueuse qui nous occupe.
 
-A ces derniers mots, un frémissement secoua les assistants.
+À ces derniers mots, un frémissement secoua les assistants.
 
 Il les tint un instant sous son regard. Après quoi, il continua d’un ton
 dogmatique :

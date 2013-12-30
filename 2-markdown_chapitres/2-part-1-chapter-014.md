@@ -94,7 +94,7 @@ Ruthie étendit désespérément les bras à droite et à gauche.
 
 — Que ce n’est plus elle.
 
-A cette réponse stupéfiante, la comtesse elle-même cessa de manger, fixant
+À cette réponse stupéfiante, la comtesse elle-même cessa de manger, fixant
 sur la servante des regards ahuris. Pierre, oubliant tout décorum, avait
 saisi les poignets de Ruthie.
 

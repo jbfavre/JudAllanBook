@@ -216,7 +216,7 @@ Et il se laissa tomber sur les coussins en murmurant :
 
 — Pourvu que l’on veuille me recevoir. Il faut que l’on me reçoive.
 
-A ce moment même, un valet entrait précipitamment dans le salon où
+À ce moment même, un valet entrait précipitamment dans le salon où
 Morand et ses amis entouraientle chef de la Sûreté.
 
 — On demande M. Lerenaud au télephone.
@@ -241,7 +241,7 @@ tout à l’heure, vers la cabine du téléphone.
 Deux minutes plus tard, M. Lerenaud très pâle, une stupeur dans les yeux,
 quittait la logette du du téléphone et s’élançait dans l’escalier.
 
-A la moitié de l’étage, il fut arrêté par un monsieur qui, courbé en deux,
+À la moitié de l’étage, il fut arrêté par un monsieur qui, courbé en deux,
 semblait très occupé à retrousser le bas de son pantalon.
 
 ![Il fut arrêté par un monsieur qui semblait très occupé à retrousser le bas de son pantalon](images/part1/page-091.jpg
@@ -414,7 +414,7 @@ Guidés par la lumière, ils venaient de pénétrer dans le grand salon,
 vaste pièce au mobilier riche, trop riche peut-être, au plafond décoré
 d’une ronde d’amours joufflus et roses s’ébattant sur un fond bleu pâle.
 
-A leur entrée, un homme, assis auprès d’une liseuse, se leva vivement.
+À leur entrée, un homme, assis auprès d’une liseuse, se leva vivement.
 
 C’était M. Lerenaud, le chef de la Sûreté.
 
@@ -479,7 +479,7 @@ l’habit.
 
 — Qui a fait cela ?
 
-A la question, attendue sans doute, M. Lerenaud répliqua par une
+À la question, attendue sans doute, M. Lerenaud répliqua par une
 mimique si claire, que l’Américain grommela avec une nuance d’impatience :
 
 — Vous ne savez pas ? Vous n’avez aucun doute, aucun soupçon ?
@@ -603,7 +603,7 @@ Son interlocuteur eut un sourire mélancolique.
 
 — J’ai fait le sacrifice de ma vie.
 
-A ce moment, un laquais apparut sur le seuil.
+À ce moment, un laquais apparut sur le seuil.
 
 — Doña de Armencita et la señorita croient être assez fortes pour
   supporter l’entretien que désire monsieur le Chef de la Sûreté.
@@ -651,7 +651,7 @@ Les trois hommes se retournèrent vivement.
 
 Dans l’encadrement de la porte se tenaient M^me^ de Armencita et Linérès.
 
-A cette heure, la vaillance de la jeune fille se trahissait par le
+À cette heure, la vaillance de la jeune fille se trahissait par le
 geste, par l’attitude.
 
 Autant Linérès marquait de décision, autant sa compagne montrait de

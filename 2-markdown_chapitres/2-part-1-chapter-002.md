@@ -6,7 +6,7 @@ Rêvant, monologuant, tour à tour repoussant ou acceptant les fantastiques
 affirmations de la Gitana, le marquis était rentré à la posada del Cid,
 vers six heures du soir.
 
-A la dame Olinda, qui selon sa coutume s’empressa auprès de lui, il enjoignit
+À la dame Olinda, qui selon sa coutume s’empressa auprès de lui, il enjoignit
 de servir son repas dans sa chambre, où il se retira aussitôt.
 
 Il avait besoin d’être seul, de remettre un peu d’ordre dans ses idées.
@@ -297,7 +297,7 @@ Olinda, les miquelets lui avaient offert place dans l’un des chariots, à
 roues pleines, sur lesquels ces soldats d’infanterie effectuaient leur
 _marche_.
 
-A Béjar, il les avait quittés.
+À Béjar, il les avait quittés.
 
 Puis traversant la petite ville jadis fortifiée, dont les remparts croulants
 enserrent aujourd’hui des fabriques de toiles de chanvre et de lin, il avait
@@ -425,7 +425,7 @@ La fille secoua la tête :
 
 — Vous ne voulez pas exprimer qu’elles sont prisonnières?
 
-A cette question, la Lourença se dérida. Toute sa personne frétilla d’un
+À cette question, la Lourença se dérida. Toute sa personne frétilla d’un
 rire inextinguible. Elle parvint enfin à bredouiller :
 
 — Non, non, pas prisonnières… On a parlé d’héritage, je ne sais pas, moi…
@@ -672,7 +672,7 @@ l’affection l’un de l’autre.
 Car il ne mettait point en doute que la tendresse, annoncée à la señorita
 Linérès, fût celle qu’il sentait grandir en lui, l’envahir tout entier.
 
-A la dernière page, deux alinéas seulement. Pierre les parcourt des yeux.
+À la dernière page, deux alinéas seulement. Pierre les parcourt des yeux.
 
 Le premier explique le départ des habitantes de Armencita. Le voici :
 
@@ -777,7 +777,7 @@ Il montait lentement, palpant le rocher de la main, s’embarrassant les bras
 dans les broussailles courtes, sèches, épineuses, qui croissaient au-dessus de
 l’étroit chemin.
 
-A progresser ainsi la fatigue vient vite. Une légère moiteur montait aux
+À progresser ainsi la fatigue vient vite. Une légère moiteur montait aux
 tempes du marquis de plus en plus furieux contre les embûches de
 l’obscurité, lorsque son bras s’enfonça dans des broussailles qu’il n’avait
 point aperçues, tant elles se confondaient avec la nuit.

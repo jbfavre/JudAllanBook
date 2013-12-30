@@ -185,7 +185,7 @@ Par le boulevard Malesherbes et la rue Royale il parvint à la place de la
 Concorde, la coupa diagonalement et s’engagea enfin sur le quai des
 Tuileries.
 
-A cette heure de la nuit, les tramways ayant cessé de circuler, c’était le
+À cette heure de la nuit, les tramways ayant cessé de circuler, c’était le
 désert.
 
 Pierre allait, sans que des passants croisassent sa route. Il ne le
@@ -442,7 +442,7 @@ Au jour, quand Pierre s’éveilla, après un sommeil plus paisible qu’il
 n’eût pu l’espérer, étant données les émotions de la soirée, il
 constata avec stupéfaction que les billets avaient disparu.
 
-A leur place, un reçu en bonne forme, signé Sélénitès, et suivi de ces
+À leur place, un reçu en bonne forme, signé Sélénitès, et suivi de ces
 deux mots :
 
 > Exact. Merci.

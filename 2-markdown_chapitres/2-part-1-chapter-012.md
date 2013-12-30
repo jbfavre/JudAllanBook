@@ -57,7 +57,7 @@ d’arrêter arbitrairement une petite marchande de fleurs. Celle-ci s’était
 enfuie à la faveur de la bagarre, et Jud avait obstinément refusé
 d’apprendre à ses juges, le nom, l’adresse de la fugitive.
 
-A toutes leurs questions il avait répondu :
+À toutes leurs questions il avait répondu :
 
 — Vous êtes juges. Votre métier est de condamner. Vous me tenez,
 condamnez-moi ; mais ne me demandez pas d’être votre pourvoyeur de
@@ -206,7 +206,7 @@ n’entendit plus rien.
 
 Au surplus, son parti était pris.
 
-A minuit, les inconnus descendraient dans la cour, et de là, gagneraient
+À minuit, les inconnus descendraient dans la cour, et de là, gagneraient
 la campagne. Il lui suffirait de les suivre pour être libre, pour sauver
 l’enfant ignorée contre laquelle les malfaiteurs se proposaient d’exercer
 leurs talents.
@@ -358,7 +358,7 @@ Une craine vivait en lui, découplant ses forces, exacerbant sa volonté.
 Celle de manquer les bandits Tom et Jetty, en face desquels il allait se
 trouver pour la première fois.
 
-A pas furtifs, se maintenant dans l’ombre protectrice des bâtiments, il
+À pas furtifs, se maintenant dans l’ombre protectrice des bâtiments, il
 arriva près du tuyau d’écoulement dont le tube l’avait mis dans la
 confidence des projets de ses « associés d’évasion », ainsi qu’il les
 nommait déjà.
@@ -619,7 +619,7 @@ murmurait :
 
 — Allons ! Le baby de deux ans aura son défenseur.
 
-A pas de loup, tous trois traversèrent la cour, s’engagèrent dans les
+À pas de loup, tous trois traversèrent la cour, s’engagèrent dans les
 corridors qu’eussent dû surveiller des gardiens enfermés dans des
 logettes vitrées, ménagées de distance en distance.
 
@@ -635,7 +635,7 @@ Réflexion qui accentua encore la satisfaction de son interlocuteur.
 Sans encombre, on parvint ainsi à la double porte, bardée de fer,
 accédant à l’extérieur.
 
-A droite, la loge du gardien-concierge, éclairée par une ampoule
+À droite, la loge du gardien-concierge, éclairée par une ampoule
 électrique indiquait un obstacle infranchissable en apparence.
 
 Mais Jetty ouvrit la porte vitrée. Tournant le dos à l’entrée, le gardien
@@ -659,7 +659,7 @@ La campagne s’étendait maintenant en face des fugitifs.
 Abandonnant les clefs sur la dernière serrure ouverte, Jetty et Tom
 entraînèrent leur jeune compagnon dans une course éperdue.
 
-A un mille de là, à l’abri d’un bouquet d’arbres, une automobile
+À un mille de là, à l’abri d’un bouquet d’arbres, une automobile
 attendait.
 
 Les évadés y prirent place sans que le mécanicien, immobile à la roue de
@@ -950,7 +950,7 @@ Quant à von Foorberg, son visage était devenu cramoisi.
   que, pour la conversation, vous n’êtes pas aussi malin que moi, il faut
   donc que je vous donne la satisfaction de vous battre contre moi.
 
-A ce défi que tous considérèrent comme une plaisanterie, von Foorberg parut
+À ce défi que tous considérèrent comme une plaisanterie, von Foorberg parut
 prêt à s’élancer sur le railleur. Jetty se jeta entre eux.
 
 — Allons Foorberg, vous n’allez pas brutaliser ce garçon. Souvenez-vous

@@ -69,7 +69,7 @@ Toutefois, Grace murmure en étouffant un rire indiscret :
 Mais le Speaker, un instant descendu de son bureau, y reprend place,
 indiquant ainsi qu’il va rouvrir la séance.
 
-A ce moment Lilian et Grace sont distraites par l’arrivée de nouveaux
+À ce moment Lilian et Grace sont distraites par l’arrivée de nouveaux
 personnages.
 
 Ce sont trois personnes pénétrant dans la tribune presque à côté d’elles.
@@ -390,7 +390,7 @@ et tempête.
 
 — Ta respectabilité est démasquée, brave garçon. 
 
-A ces mots, qui semblent prononcés sur son épaule même. Jemkins bondit
+À ces mots, qui semblent prononcés sur son épaule même. Jemkins bondit
 effaré.
 
 — De par le diable, toi qui sembles un de ses adeptes, ose donc te
@@ -523,7 +523,7 @@ et se précipita dans le couloir.
 
 Là, il eut un geste de satisfaction.
 
-A vingt pas, il apercevait la silhouette du vieillard qui, sans hâte, se
+À vingt pas, il apercevait la silhouette du vieillard qui, sans hâte, se
 dirigeait vers l’escalier accédant des tribunes au rez-de-chaussée.
 
 Le Japonais le suivit, étouffant le bruit de ses pas, avec ce je ne sais
