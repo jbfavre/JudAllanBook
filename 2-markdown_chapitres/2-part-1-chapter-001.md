@@ -38,10 +38,10 @@ L’enveloppe au timbre de France, portait la suscription suivante :
 
     Marquis PIERRE DE CHAZELET
     Posada del Cid
-    Route [FIXME]dflvila-Béjar-Plasençia[FIXME]
+    Route d'Avila-Béjar-Plasencia
     
-    Province de Savlamanque (Léon)
-    District d’Avz’la.
+    Province de Salamanque (Léon)
+    District d’Avila.
     (ESPAGNE)
 
 Après un moment, il se laissa tomber sur un escabeau, et les coudes
@@ -255,7 +255,7 @@ _manada_ (troupeau).
 
 Le spectacle était sévère et superbe.
 
-Partout des rocs, des pointes, des cimes, des [FIXME]crêtes boinaient[FIXME] la vue,
+Partout des rocs, des pointes, des cimes, des crêtes bornaient la vue,
 offrant cette particularité étrange que les pentes tournées vers le nord se
 paraient de plaques vertes de végétation, tandis que celles qui regardaient
 le sud, n’offraient aux yeux que des rocs dénudés, stériles, brûlés par les
