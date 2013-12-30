@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops"$if(lang)$ xml:lang="$lang$"$endif$>
+<head>
+  <meta charset="utf-8" />
+
+<!-- Basic metadata -->
+  <title>$title$</title>
+$for(author)$
+  <meta name="author" content="$author$" />
+$endfor$
+$if(date)$
+  <meta name="date" content="$date$" />
+$endif$
+
+<!-- Custom metadata -->
+$if(Publisher)$
+  <meta name="generator" content="$Publisher$" />
+$endif$
+$if(Tags)$
+  <meta name="keywords" content="$for(Tags)$$Tags$$sep$,$endfor$" />
+$endif$
+$if(Summary)$
+  <meta name="description" content="$Summary$" />
+$endif$
+
+$for(css)$
+  <link rel="stylesheet" type="text/css" href="$css$" />
+$endfor$
+
+</head>
+<body>
+$if(titlepage)$
+  <h1 class="title">$title$</h1>
+$for(author)$
+  <h2 class="author">$author$</h2>
+$endfor$
+$if(Date)$
+  <h3 class="date">$Date$</h3>
+$endif$
+$else$
+$body$
+$endif$
+</body>
+</html>

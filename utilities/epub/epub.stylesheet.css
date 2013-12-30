@@ -1,0 +1,81 @@
+/* reset */
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6,
+p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del,
+dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub,
+sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form,
+label, legend, table, caption, tbody, tfoot, thead, tr, th, td {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+  background: transparent; }
+/* end reset */
+
+/* This defines styles and classes used in the book */
+body{margin-top:0.5em;margin-right:0.5em;margin-bottom:0.5em;margin-left:0.5em;text-align:justify;font-size:small;}
+code{font-family:monospace;white-space:pre-wrap;}
+h1{text-align:left;margin-top:2em;}
+h2{text-align:left;margin-top:2em;}
+h3{text-align:left;margin-top:2em;}
+h4{text-align:left;margin-top:2em;}
+h5{text-align:left;margin-top:2em;}
+h6{text-align:left;margin-top:2em;}
+h1.title{text-align:center;margin-top:5em;}
+h2.author{text-align:center;margin-top:2em;}
+h3.date {text-align:center;margin-top:2em;}
+p{margin-top:1em;}
+
+body {
+  margin-left: 1em;
+  margin-right: 1em;}
+.chapterHeader {
+  height:100px;
+  border:1px solid #000;
+  display:block;
+  margin-bottom:20px;
+  background-color:#FFF;}
+.chapterHeader .translation {
+  float:left;
+  font-weight: normal;
+  margin-top:38px;
+  margin-left: -8px;
+  margin-bottom: 0px;
+  padding-right: 16px;
+  padding-left: 5px ;
+  padding-bottom: 0px;
+  padding-top: 0px;
+  font-size:26px;
+  background-color:#FFF;}
+.chapterHeader .count {
+  line-height: 100%;
+  font-style:normal;
+  font-weight: normal;
+  text-transform:uppercase;
+  font-size:94px;
+  margin-right:18px;
+  margin-top:-14px;
+  margin-bottom: -20px;
+  float:left;
+  padding:0px;
+  background-color:#FFF;}
+@page {
+  margin-top: 0.8em;
+  margin-bottom: 0.8em;}
+figure {
+  display:block;
+  width:100%;
+  text-align:center;}
+figcaption{
+  display:block;
+  font-style:italic;
+  text-align:center;}
+#cover-image{
+  display:block;
+  width: 100%;
+  height:100%;
+  text-align:center;}
+#cover-image img {
+  display: block;
+  margin: auto;}
