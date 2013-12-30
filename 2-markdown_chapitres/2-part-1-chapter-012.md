@@ -1,6 +1,6 @@
 ## Le journal de Jud
 
-![](images/part1/chapitre-12.jpg)
+![](../3-images/part1/chapitre-12.jpg)
 
 Qu’est-ce que Jud ?
 
@@ -216,7 +216,7 @@ la cour, à minuit.
 
 Seulement, la difficulté était d’y arriver, à cette cour.
 
-![À l’orifice du tuyau de zinc, Jud ne perdait pas un mot de l’entretien](images/part1/page-200.jpg
+![À l’orifice du tuyau de zinc, Jud ne perdait pas un mot de l’entretien](../3-images/part1/page-200.jpg
 "À l’orifice du tuyau de zinc, Jud ne perdait pas un mot de l’entretien")
 
 Chaque soir, en effet, les jeunes détenus gagnaient leur dortoir que
@@ -457,7 +457,7 @@ errante l’a sans doute blasé sur les rencontres semblables.
 Il s’est placé en pleine lumière. Sa taille, sa jeunesse rassurent ses
 interlocuteurs. Pourtant, Jetty grommelle d’un ton peu rassurant :
 
-![De nouveau un corps noir descend au ras du mur](images/part1/page-205.jpg
+![De nouveau un corps noir descend au ras du mur](../3-images/part1/page-205.jpg
 "De nouveau un corps noir descend au ras du mur")
 
 — Nous n’avons aucun besoin de ta compagnie, mon garçon…
@@ -713,7 +713,7 @@ Et se penchant vers le gamin, Jetty ajouta d’un ton bourru :
 
 — Bon, vous n’en aurez pas.
 
-![Déjà Jud prenait place dans 1a barque…](images/part1/page-211.jpg
+![Déjà Jud prenait place dans 1a barque…](../3-images/part1/page-211.jpg
 "Déjà Jud prenait place dans 1a barque…")
 
 Déjà Jud prenait place dans 1a barque, avec un empressement qui dérida
@@ -918,7 +918,7 @@ Avec un sourire, le petit riposta aussitôt :
 — Eh bien, puisque tu as d’aussi bons yeux, je t’engage à voir que je
   suis un homme qui t’écraserait d’une pichenette.
 
-![Je t’engage à voir que je suis un homme qui t’écraserait d’une pichenette](images/part1/page-215.jpg
+![Je t’engage à voir que je suis un homme qui t’écraserait d’une pichenette](../3-images/part1/page-215.jpg
 "Je t’engage à voir que je suis un homme qui t’écraserait d’une pichenette")
 
 S’il avait pensé terrifier son interlocuteur, Foorberg dut être
@@ -1068,7 +1068,7 @@ Alors Jud s’approche de Jetty.
   comme cela que j’avais tombé les policemen ; seulement ils se sont mis
   une quinzaine sur moi, ce qui fait que vous m’avez rencontré à Alb-Point.
 
-![De nouveau le géant silésien est à terre…, mais sur le dos](images/part1/page-218.jpg
+![De nouveau le géant silésien est à terre…, mais sur le dos](../3-images/part1/page-218.jpg
 "De nouveau le géant silésien est à terre…, mais sur le dos")
 
 Enthousiasmé, l’Irlandais élève l’enfant à bout de bras, puis l’embrasse

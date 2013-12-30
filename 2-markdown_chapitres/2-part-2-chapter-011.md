@@ -466,7 +466,7 @@ Et, pressant :
 — L’or est dans l’une des salles de méditation du temple… en banknotes
   anglaises, ayant cours partout… Puis-je les prendre et sortir librement… ?
 
-![Image: "Jud se prit la tête à deux mains."](../images/1-page-463.JPG)
+![Image: "Jud se prit la tête à deux mains."](../3-images/1-page-463.JPG)
 
 Une lividité spectrale s’étendit sur les traits d’Al1an.
 

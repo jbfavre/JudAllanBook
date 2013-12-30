@@ -77,7 +77,7 @@ L’Indienne lui toucha le bras.
 
 — De qui parlez-vous, gracieuse Rouge-Fleur ?
 
-![Image: "Il le déplia, le secoua au-dessus de la cruche d’eau"](../images/1-page-468.JPG)
+![Image: "Il le déplia, le secoua au-dessus de la cruche d’eau"](../3-images/1-page-468.JPG)
 
 La mignonne créature rougit légèrement, mais presqu’aussitôt redevenue
 maîtresse d’elle-même :
@@ -325,7 +325,7 @@ Il poursuivit :
   nuit, je pense, et peut-être ne vous serait-il pas agréable d’entendre leurs
   appréciations sur mon œuvre.
 
-![Image: "Tous ont morts."](../images/1-page-473.JPG)
+![Image: "Tous ont morts."](../3-images/1-page-473.JPG)
 
 > Aussi je vous presse… Vous pourrez me rendre, avant leur arrivée, un service
   que vous n’oserez pas me refuser.

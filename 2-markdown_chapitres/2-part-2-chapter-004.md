@@ -210,7 +210,7 @@ Certain désormais de n’être pas dérangé, il ouvrit sa valise, en tira un o
 bizarre aux armatures métalliques, tenant à la fois d’une canne et d’une pipe
 qu’un original eût commandée en acier bruni.
 
-![Images: "L’instrument pris la forme d’un V"](../images/1-page-347.md)
+![Images: "L’instrument pris la forme d’un V"](../3-images/1-page-347.md)
 
 Il l’examina longuement, appuya sur les deux extrémités. L’instrument prit la
 forme d’un V, démasquant le double orifice d’un tube intérieur, et exhala un
@@ -300,7 +300,7 @@ Jud tapota amicalement l’épaule du gamin.
   débarcadère, Fall à la maison de la Troisième rue, Suzan à East-River, et
   moi chez Meyer.
 
-![Image: "On croirait les voir tous les deux."](../images/1-page-349.JPG)
+![Image: "On croirait les voir tous les deux."](../3-images/1-page-349.JPG)
 
 — Je suis content de vous.
 
@@ -605,7 +605,7 @@ Une voix assourdie, déjà dans le lointain du sommeil, bégaya :
 Puis le silence régna dans la chambre avec laquelle Allan se trouvait en
 communication.
 
-![Image: "Les sons les plus légers lui parvenaient avec netteté."](../images/1-page-355.JPG)
+![Image: "Les sons les plus légers lui parvenaient avec netteté."](../3-images/1-page-355.JPG)
 
 Le professeur apporta sans bruit un fauteuil auprès de l’appareil et s’assit,
 l’oreille à hauteur de la tablette vibrante du renforçateur. Dans cette

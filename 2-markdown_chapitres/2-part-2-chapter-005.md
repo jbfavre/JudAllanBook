@@ -159,7 +159,7 @@ Le petit chasseur eut un cri de joie.
 
 — Sa préférence instinctive irait au flamand, moins répandu que le français.
 
-![Image: "Et pensif le professeur continua."](../images/1-page-363.JPG)
+![Image: "Et pensif le professeur continua."](../3-images/1-page-363.JPG)
 
 — Alors, vous concluez que ce vilain personnage a employé cette langue.
 
@@ -364,7 +364,7 @@ _traveller_ peut télégraphier où bon lui semble.
 
 Les compagnies américaines ont, en effet, adopté récemment l’appareil d’un inventeur français qui permet d’utiliser les rails pour la transmission des communications électriques.
 
-![Image: "Cette dernière chargée du fantasque zaïmziri Zinka."](../images/1-page-367.JPG)
+![Image: "Cette dernière chargée du fantasque zaïmziri Zinka."](../3-images/1-page-367.JPG)
 
 Jud Allan dans un pulmann, où avaient également pris place Tril, Suzan et le zaïmziri, roulèrent durant six jours, lurent, prirent leurs repas, dormirent, reçurent diverses dépêches chiffrées, tant de Top et de Fall emportés à quelques heures d’intervalle par le même train que Van Reek, que des lads de San-Francisco, mettant Tril au courant de leurs recherches.
 
@@ -433,7 +433,7 @@ naguère groupés.
 — Et le roi accepte, s’écria le professeur en secouant cordialement la main de
   l’envoyé.
 
-![Image: "C’est dans cette maison que Jud Allan et ses jeunes compagnons avaient été conduits."](../images/1-page-369.JPG)
+![Image: "C’est dans cette maison que Jud Allan et ses jeunes compagnons avaient été conduits."](../3-images/1-page-369.JPG)
 
 L’une des curiosités de San-Francisco est sans contredit son quartier
 chinois. C’est un quadrilatère, borné par les rues Stockton, Sacramento,

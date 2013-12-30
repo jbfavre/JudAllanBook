@@ -1,6 +1,6 @@
 ## Un magicien et un ami
 
-![](images/part1/chapitre-5.jpg)
+![](../3-images/part1/chapitre-5.jpg)
 
 Mais le marquis n’en avait pas fini avec les surprises.
 
@@ -261,7 +261,7 @@ Côte à côte, les deux hommes gagnèrent le pont de Solférino.
 L’Américain parlait, disant sa sympathie pour Paris, qui l’avait
 accueilli de façon charmante. Pierre rêvait, répondant par monosyllabes.
 
-![Êtes-vous blessé, Monsieur ?](images/part1/page-083.jpg
+![Êtes-vous blessé, Monsieur ?](../3-images/part1/page-083.jpg
 "Êtes-vous blessé, Monsieur ?")
 
 La singulière prédiction du magicien de l’Ambassade s’imposait à son

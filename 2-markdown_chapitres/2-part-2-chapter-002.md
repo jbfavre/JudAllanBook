@@ -192,7 +192,7 @@ Jud chancela sous le coup. Lilian chez Jemkins, chez l’assassin de Pariset. Et
 dans le désarroi de sa pensée, il sentait peser sur lui le regard cruellement
 narquois de son ennemi. Celui-ci continuait imperturbablement:
 
-![Image: "Il tira une feuille de papier de son portefeuille et la tendant à Allan :"](../images/1-page-307.md)
+![Image: "Il tira une feuille de papier de son portefeuille et la tendant à Allan :"](../3-images/1-page-307.md)
 
 — Comment cette jeune dame a été aménée ici, je ne l’ai pu découvrir…
   Toutefois, je n’ai pas songé un moment à la rendre responsable d’une
@@ -382,7 +382,7 @@ reçu une consigne de leur chef. Ils exécutent.
   vous égare, Gentleman… Les salons sont en bas. Redescendez l’escalier,
   continue Jetty, croyez-moi. Cela sera plus convenable pour vous et pour nous.
 
-![Images: "Tom et Jetty gisent à terre assommés."](../images/1-page-311.JPG)
+![Images: "Tom et Jetty gisent à terre assommés."](../3-images/1-page-311.JPG)
 
 — Ma foi, riposte enfin le professeur en s’approchant insensiblement de son
   interlocuteur, je ne pensais pas commettre une faute en venant présenter mes
@@ -575,7 +575,7 @@ Soudain, Pierre se dressa sur son séant, avec un cri :
   passage au soleil… Et cette couchette étroite… Est-ce que les diableries
   continuent ?
 
-![Image: "D’un bond, le jeune homme fut auprès du hublot, l’ouvrit et demeura médusé"](../images/1-page-315.JPG)
+![Image: "D’un bond, le jeune homme fut auprès du hublot, l’ouvrit et demeura médusé"](../3-images/1-page-315.JPG)
 
 D’un bond, le jeune homme fut auprès du hublot, l’ouvrit et demeura médusé. Au
 dehors, il apercevait une large rivière, sur laquelle flottait un bâtiment
@@ -782,7 +782,7 @@ sous les arches duquel roulaient les ondes avec des remous scintillants.
 Jud s’arrêta à l’endroit où la petite rivière appelée Rock-Creek vient se
 perdre dans le Potomac.
 
-![Image:"Pille, Storm ! Pille !"](../images/1-page-319.JPG)
+![Image:"Pille, Storm ! Pille !"](../3-images/1-page-319.JPG)
 
 Une voiture stationnait en ce point, attelée d’un vigoureux cheval.
 
@@ -867,7 +867,7 @@ Jud sengage dans le chemin qui lui est tracé.
 Les branches se joignent en berceau au-dessus de sa tête. Il compte trois fois
 cinquante pas. De nouveau, il est arrêté par un fourré.
 
-![Image: "Mais Allan leva la main, tous redevinrent muets."](../images/1-page-321.JPG)
+![Image: "Mais Allan leva la main, tous redevinrent muets."](../3-images/1-page-321.JPG)
 
 Mais Allan prononce d’un ton ferme
 

@@ -182,7 +182,7 @@ L’homme toussa vivement, puis avec sévérité :
 — Pas ce mot, malheureux ! À quoi bon me déguiser, me rendre méconnaissable,
   si ta langue me trahit.
 
-![Image: "Elle les salua…"](../images/1-page-331.JPG)
+![Image: "Elle les salua…"](../3-images/1-page-331.JPG)
 
 — Je vous demande pardon, je me souviendrai à l’avenir que vous êtes…
 
@@ -430,7 +430,7 @@ cru qu’ils avalaient le liquide avec effort.
 
 — Heureusement, on a le temps de dormir dans ce souterrain.
 
-![Image: "Les drôles étaient, selon toute apparence, abominablement ivres."](../images/1-page-336.JPG)
+![Image: "Les drôles étaient, selon toute apparence, abominablement ivres."](../3-images/1-page-336.JPG)
 
 — Parbleu ! C’est une proposition géniale… Dormir, et rêver qu’on va bientôt
   prendre la clef des champs avec une sacoche de trusteur.

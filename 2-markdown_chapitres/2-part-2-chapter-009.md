@@ -324,7 +324,7 @@ Puis avec un sourire coquet au délégué :
   que le vif désir de sortir d’un imbroglio véritablement trop compliqué pour
   mon goût.
 
-![Images: "Elle entraîna le Mexicain."](../images/1-page-421.md)
+![Images: "Elle entraîna le Mexicain."](../3-images/1-page-421.md)
 
 La domestique reparut sur le seuil annonçant :
 
@@ -533,7 +533,7 @@ Au moment de se séparer, Frey chuchota avec un ironique respect :
 — Ainsi que je le consignerai moi-même sur le contrat et sur le décret d’envoi
   en possession de l’héritière.
 
-![Image: "Ici nous n’aurons à craindre aucune oreille indiscrète."](../images/1-page-425.JPG)
+![Image: "Ici nous n’aurons à craindre aucune oreille indiscrète."](../3-images/1-page-425.JPG)
 
 Mais parmi les fumées des libations, une idée se fit jour dans la cervelle du
 délégué.
@@ -772,7 +772,7 @@ Tout en marchant, la vieille Indienne chuchotait :
   inutile. Il faut au moins que l’héritière des Pariset rentre en possession de
   ce qui lui appartient.
 
-![Image: "D’arbuste en arbuste l’Indienne se glissa."](../images/1-page-431.JPG)
+![Image: "D’arbuste en arbuste l’Indienne se glissa."](../3-images/1-page-431.JPG)
 
 La vieille femme traça dans l’air un grand geste tragique.
 

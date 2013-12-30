@@ -1,6 +1,6 @@
 ## Un milliardaire
 
-![](images/part1/chapitre-7.jpg)
+![](../3-images/part1/chapitre-7.jpg)
 
 Tout à coup un sifflement aigu, aux modulations étranges, se vrilla dans
 l’air. Il venait évidemment de l’extérieur, et cependant il sembla
@@ -348,7 +348,7 @@ Et à une interrogation curieuse du policier, l’Américain avait répondu :
 Impressionné par la lettre autographe et aussi par l’accent de cet
 ambassadeur étrange, M. Lerenaud avait promis.
 
-![Jean trouvé mort au bord de la mer, son revolver à côté de lui](images/part1/page-115.jpg
+![Jean trouvé mort au bord de la mer, son revolver à côté de lui](../3-images/part1/page-115.jpg
 "Jean trouvé mort au bord de la mer, son revolver à côté de lui")
 
 À cette heure, il s’avouait tout bas qu’il en éprouvait un regret cuisant.
@@ -679,7 +679,7 @@ Puis posant le doigt sur une ligne :
   tempête du nord qui rendrait impossible l’accès de Guaymas, situé sur
   l’autre rive à quatre-vingts kilomètres à peine.
 
-![Voici, dit-elle, le grand livre de mon existence](images/part1/page-121.jpg
+![Voici, dit-elle, le grand livre de mon existence](../3-images/part1/page-121.jpg
 "Voici, dit-elle, le grand livre de mon existence")
 
 Linérès ne perdait pas un mot de cette lecture.

@@ -134,7 +134,7 @@ La lettre était donc fausse…
 
 Une terreur mêlée de colère avait envahi les fiancés.
 
-![Image: "Un serviteur armé avait couru sus aux visiteurs."](../images/1-page-389.JPG)
+![Image: "Un serviteur armé avait couru sus aux visiteurs."](../3-images/1-page-389.JPG)
 
 Le lugubre avertissement, jeté par Allan dans la nuit de fête de Jemkins
 House, n’avait plus cessé de sonner aux oreilles des infortunés.
@@ -803,7 +803,7 @@ Jemkins ébranla le plancher d’un formidable coup de talon.
 Quoiqu’ils en eussent, les bandits garderont le silence. L’accent prophétique
 du singulier personnage les impressionnait.
 
-![Image: "Il prononçait à voix basse des paroles que nul n’entendait."](../images/1-page-401.JPG)
+![Image: "Il prononçait à voix basse des paroles que nul n’entendait."](../3-images/1-page-401.JPG)
 
 — Mais enfin, que prétends-tu faire ? murmura Frey Jemkins.
 

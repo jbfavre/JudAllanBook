@@ -1,6 +1,6 @@
 ## Le septième
 
-![](images/part1/chapitre-6.jpg)
+![](../3-images/part1/chapitre-6.jpg)
 
 — Ah ! enfin ! Voici Lerenaud.
 
@@ -244,7 +244,7 @@ quittait la logette du du téléphone et s’élançait dans l’escalier.
 À la moitié de l’étage, il fut arrêté par un monsieur qui, courbé en deux,
 semblait très occupé à retrousser le bas de son pantalon.
 
-![Il fut arrêté par un monsieur qui semblait très occupé à retrousser le bas de son pantalon](images/part1/page-091.jpg
+![Il fut arrêté par un monsieur qui semblait très occupé à retrousser le bas de son pantalon](../3-images/part1/page-091.jpg
 "Il fut arrêté par un monsieur qui semblait très occupé à retrousser le bas de son pantalon")
 
 Avant que le chef de la Sûreté eût pu tourner l’obstacle vivant, celui-ci,
@@ -544,7 +544,7 @@ compagnon :
   malheureuses femmes soient en état de supporter l’interrogatoire dont
   je ne saurais les dispenser.
 
-![Qui a fait cela ?](images/part1/page-097.jpg "Qui a fait cela ?")
+![Qui a fait cela ?](../3-images/part1/page-097.jpg "Qui a fait cela ?")
 
 Et hochant la tête, M. Lerenaud continua :
 
