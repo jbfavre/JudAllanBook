@@ -259,13 +259,13 @@ Partout des rocs, des pointes, des cimes, des crêtes bornaient la vue,
 offrant cette particularité étrange que les pentes tournées vers le nord se
 paraient de plaques vertes de végétation, tandis que celles qui regardaient
 le sud, n’offraient aux yeux que des rocs dénudés, stériles, brûlés par les
-vents chauds que 1’Afrique souffle sur l’Europe.
+vents chauds que l’Afrique souffle sur l’Europe.
 
 Le chemin s’élevait peu à peu, serpentant à travers le chaos montagneux.
 Avec une verve intarissable, Perez contait sa vie, les anecdotes recueillies
 au cours de ses voyages. Carlistes, bandits, mendiants, gitanes, miquelets,
-se mêlaient dans ses récits, entrecoupés d’indications du pays, ou d’encou-
-ragements à son compagnon.
+se mêlaient dans ses récits, entrecoupés d’indications du pays, ou
+d’encouragements à son compagnon.
 
 — Quelle chaleur, señor ; un savant, que j’ai conduit un jour à Avila,
   s’est donné la peine de m’expliquer que sous la terre, il y a du feu…
@@ -309,12 +309,11 @@ Ce décor étrange, presque invraisemblable, du plateau central espagnol, fait
 de lignes heurtées, d’une orgie de couleurs crues, qui semblent atteindre
 l’extrême limite des sensations permises à la vision humaine, le laissait sans
 voix, sans pensée. Parvenu à un certain degré de vibration artistique,
-l’homme garde le silence. Les mots, faibles comme nous-mêmes, leurs
-
-venteurs, ne sauraient exprimer que les admirations modérées… ou simulées.
+l’homme garde le silence. Les mots, faibles comme nous-mêmes, leurs venteurs,
+ne sauraient exprimer que les admirations modérées… ou simulées.
 
 Sans en avoir conscience, le marquis mit pied à terre, se laissa secouer la
-main par Perez Caldero. Il eut la Perceptio vague que le muletier s’éloignait
+main par Perez Caldero. Il eut la perception vague que le muletier s’éloignait
 avec sa manada, et qu’au tapotement des fers sur la roche succédait le
 silence quasi religieux des cîmes.
 
@@ -322,13 +321,13 @@ Il regardait non pas seulement de tous ses yeux, mais de tout son être,
 éprouvant cette griserie distillée par l’air pénétrant des hauteurs, par
 l’illumination féerique de l’immense panorama.
 
-— Lumière d’or, rico hombre (riche homme, equivalent de gentilhomme) ; 
+— Lumière d’or, rico hombre (riche homme, équivalent de gentilhomme) ; 
   lumière d’or, rêve et réalité de la vie !
 
 Ces paroles bizarres frappent les oreilles de Chazelet. Comme le caillou
 soulevant en lames la surface calme d’un étang, les mots déterminent des
 mouvements d’âme. Le marquis promène autour de lui le regard incertain
-d’un dormeur qui s’éveille. Il doute du témoignage de ses sens ; Sa pensée
+d’un dormeur qui s’éveille. Il doute du témoignage de ses sens ; sa pensée
 était si loin de la terre.
 
 Il ne voit personne, et cela lui semble tout naturel. Mais la voix reprend :
@@ -373,8 +372,7 @@ Mais elle étend la main, sa voix se fait quémandeuse et persuasive.
 
 — Riche homme, dit—elle, demande l’avenir à la voyante Ramrah.
 
-La phrase dissipe le charme. C’est dans un frisson de rire qu’il ré-
-pond :
+La phrase dissipe le charme. C’est dans un frisson de rire qu’il répond :
 
 — La voyante voit mal ! Le riche homme qu’elle sollicite n’a point de
   quoi payer ses prédictions. La machine pneumatique du destin a fait le vide
@@ -412,7 +410,7 @@ Elle lui prend la main sans qu’il ose résister. Elle se penche sur la paume,
 et son index maigre semble suivre les plis qui la sillonnent. Elle prononce
 vite :
 
-— Ligne du cœur, ligne de tête, ligne de vie… Egales, égales… ! Tu seras plus
+— Ligne du cœur, ligne de tête, ligne de vie… Égales, égales… ! Tu seras plus
   riche qu’un roi ; le pain de mes vieux jours est assuré !
 
 Riche !
@@ -422,7 +420,7 @@ La prédiction fit tressaillir Pierre de Chazelet.
 Non qu’il fut avide ; l’homme qui, en cinq années, avait semé à tous les
 vents les deux millions touchés à sa majorité, ne tenait évidemment pas à
 l’argent ; mais l’annonce de la richesse future le flattait dans son orgueil,
-ce sentiment noble entre tous parce qu’il pousse l’individu à _être quelqu’un.
+ce sentiment noble entre tous parce qu’il pousse l’individu à _être quelqu’un_.
 
 Il s’était juré d’expier ses folies en réédifiant une fortune, et la gitana,
 semblant répondre à sa pensée, lui disait :
