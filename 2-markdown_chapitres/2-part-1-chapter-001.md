@@ -489,9 +489,9 @@ Un haussement d’épaules échappa au marquis.
 
 — Eh ! bonne femme, il existe sur la surface du globe, environ cinq cents
   millions de personnes appartenant au sexe gracieux…, sans te compter,
-  ajouta-il avec un sourire narquois. Si tu restes dans les généralités, inutile
-  d’aller plus loin. Comment veux-tu que je reconnaisse l’aimable enfant
-  qui m’espère, avec, sous ses longs cils, les étoiles d’Aldebaran !
+  ajouta-il avec un sourire narquois. Si tu restes dans les généralités,
+  inutile d’aller plus loin. Comment veux-tu que je reconnaisse l’aimable
+  enfant qui m’espère, avec, sous ses longs cils, les étoiles d’Aldebaran !
 
 Mais Ramrah ne se troubla point.
 
@@ -508,9 +508,8 @@ Mais Ramrah ne se troubla point.
 
 Un instant elle riva son regard sur celui du jeune homme, puis lentement :
 
-— Tu es bon, rico hombre… Je te pardonne tes doutes… Tu verras
-  celle dont tu as tort de parler légèrement, car elle sera la compagne de
-  ta vie.
+— Tu es bon, rico hombre… Je te pardonne tes doutes… Tu verras celle dont
+  tu as tort de parler légèrement, car elle sera la compagne de ta vie.
 
 D’une voix douce, monotone, les mots se succédant sur ses lèvres comme
 des flots berceurs sur la grève, elle prononça :
@@ -521,50 +520,51 @@ des flots berceurs sur la grève, elle prononça :
   savants, négateurs de rêves, appellent cependant le mystérieux plateau
   central Asiatique.
 
-Le marquis l’écoutait, pénétré d’un respect incompréhensible, presque courbé
-sous l’autorité du geste, de l’accent de cette étrange mendiante.
+Le marquis l’écoutait, pénétré d’un respect incompréhensible, presque
+courbé sous l’autorité du geste, de l’accent de cette étrange mendiante.
 
 Elle continua :
 
 — Crois-tu qu’un territoire, où l’unanimité des hommes les plus divers
   d’esprits, de croyances, de savoir, ont reconnu d’instinct un centre ;
-  crois-tu que ce territoire n’ait point de vertus particulières ? La terre du
-  mystère a porté, a nourri des créatures éprises de mystère. Avec les fruits,
-  les végétaux jaillis de cette terre, les êtres ont absorbé des forces
-  inconnues des autres mortels. Le mystère est en eux ; il fait partie de leur
-  être. Ils ont la forme des hommes, et ils sont plus que les hommes, car ils
-  ont conscience de ce qui échappe au reste de l’humanité. Ils voient ce que
-  les regards ordinaires ne sauraient distinguer ; des voix, imperceptibles
-  pour d’autres, vibrent à leurs oreilles. Et tandis que le troupeau des
-  créatures oscille interminablement entre le doute et la foi, entre le désir
-  de croire et celui de nier, dans une pénombre où rêves et réalités se
-  confondent inextricablement, les Zingares, eux, sont demeurés immuables, car
-  dès le commencement, _ils savaient que le mystère est_.
+  crois-tu que ce territoire n’ait point de vertus particulières ? La terre
+  du mystère a porté, a nourri des créatures éprises de mystère. Avec les
+  fruits, les végétaux jaillis de cette terre, les êtres ont absorbé des
+  forces inconnues des autres mortels. Le mystère est en eux ; il fait
+  partie de leur être. Ils ont la forme des hommes, et ils sont plus que
+  les hommes, car ils ont conscience de ce qui échappe au reste de
+  l’humanité. Ils voient ce que les regards ordinaires ne sauraient
+  distinguer ; des voix, imperceptibles pour d’autres, vibrent à leurs
+  oreilles. Et tandis que le troupeau des créatures oscille
+  interminablement entre le doute et la foi, entre le désir de croire et
+  celui de nier, dans une pénombre où rêves et réalités se confondent
+  inextricablement, les Zingares, eux, sont demeurés immuables, car dès le
+  commencement, _ils savaient que le mystère est_.
 
 Le ton de la pythonisse en haillons s’élevait par degrés.
 
 — Ils ont toujours vécu dans ce mystère. Ils ignorent les _Causes_, parce
   que la Cause est un Infini insondable, mais ils ont pris l’habitude de
-  déchiffrer les hiéroglyphes que cette cause a tracés sur nous-mêmes, afin que
-  les Sages puissent diriger leur marche.
+  déchiffrer les hiéroglyphes que cette cause a tracés sur nous-mêmes, afin
+  que les Sages puissent diriger leur marche.
 
 Elle serra fortement les doigts du marquis.
 
-— Ces lignes qui s’entrecroisent à l’intérieur de ta main, toi, _roum_ (tout
-  individu non zingari) superficiel, tu les juges tracées par le hasard ; nous,
-  nous savons par nos pères quels sont les caractères d’une écriture
-  mystérieuse, dont le sens est, pour nous, aussi facile à lire que ceux des
-  livres frivoles où se complaisent tes heures d’oisiveté. C’est
-  l’avertissement du destin… C’est quand il le connaît que l’être devient
-  libre, car il sait ce qu’il doit éviter ou rechercher.
+— Ces lignes qui s’entrecroisent à l’intérieur de ta main, toi, _roum_
+  (tout individu non zingari) superficiel, tu les juges tracées par le
+  hasard ; nous, nous savons par nos pères quels sont les caractères d’une
+  écriture mystérieuse, dont le sens est, pour nous, aussi facile à lire
+  que ceux des livres frivoles où se complaisent tes heures d’oisiveté.
+  C’est l’avertissement du destin… C’est quand il le connaît que l’être
+  devient libre, car il sait ce qu’il doit éviter ou rechercher.
 
 Sa main s’éleva jusqu’au niveau du visage de Pierre.
 
-— Vois ceci… Tu t’es moqué tout à l’heure, quand je t’ai parlé du pain que tu
-  accorderais à mes dernières années. Pourtant moi, je suis sûre qu’il en
-  sera ainsi… Tiens, cette ligne qui part de mon poignet et vient mourir entre
-  l’index et le médius…, regarde aux deux tiers de sa longueur… Vois-tu
-  une croix et un point ?
+— Vois ceci… Tu t’es moqué tout à l’heure, quand je t’ai parlé du pain que
+  tu accorderais à mes dernières années. Pourtant moi, je suis sûre qu’il
+  en sera ainsi… Tiens, cette ligne qui part de mon poignet et vient mourir
+  entre l’index et le médius…, regarde aux deux tiers de sa longueur…
+  Vois-tu une croix et un point ?
 
 — Oui, répondit machinalement le jeune homme.
 
@@ -594,10 +594,10 @@ Elle eut un geste d’inexprimable dédain :
 
 Et lentement :
 
-— Les lignes de la main avertissent que l’_esprit_, jeté dans la vie humaine,
-  a reçu les instructions de la destinée. Tout ce qui doit nous arriver est
-  inscrit dans notre esprit, mais nous n’en avons pas conscience. Il faut donc
-  forcer l’esprit à s’expliquer.
+— Les lignes de la main avertissent que l’_esprit_, jeté dans la vie
+  humaine, a reçu les instructions de la destinée. Tout ce qui doit nous
+  arriver est inscrit dans notre esprit, mais nous n’en avons pas
+  conscience. Il faut donc forcer l’esprit à s’expliquer.
 
 — Diable ! pas commode, laissa échapper Chazelet.
 
@@ -605,8 +605,8 @@ Il regretta aussitôt d’avoir parlé, car le visage de son interlocutrice ex-
 prima une profonde pitié.
 
 — Pauvre roum, redit-elle… Ah ! si les années qu’il me reste à vivre
-  n’étaient point liées à sa réussite, comme je l’abandonnerais à lui-même. Mais
-  je dois, pour moi-même, instruire l’ignorant.
+  n’étaient point liées à sa réussite, comme je l’abandonnerais à lui-même.
+  Mais je dois, pour moi-même, instruire l’ignorant.
 
 On eût cru qu’elle morigénait un petit enfant. Par influence, Chazelet
 éprouvait l’impression désagréable d’être revenu, par un soudain prodige, à
@@ -615,18 +615,20 @@ scolaires.
 
 — Dès longtemps, les Gitanas savent forcer l’esprit à dévoiler ses secrets,
   reprit la bohémienne, ainsi j’ai su que je rencontrerais mon bienfaiteur
-  futur à la passe de Castille ; qu’il y arriverait, accompagné d’un muletier…
+  futur à la passe de Castille ; qu’il y arriverait, accompagné d’un
+  muletier…
 
 — Que de détails ! plaisanta encore Chazelet, décidément incorrigible.
 
 — J’en ai d’autres qui te surprendront davantage. Je sais ton âge : vingt-
   six ans depuis trois jours.
 
-Le jeune homme eut un mouvement si brusque qu’il faillit perdre l’équilibre.
-Le renseignement donné par Ramrah était d’une rigoureuse exactitude.
+Le jeune homme eut un mouvement si brusque qu’il faillit perdre
+l’équilibre. Le renseignement donné par Ramrah était d’une rigoureuse
+exactitude.
 
-Cela te surprend, reprit la Gitane… Que sera—ce si je te prouve que
-mon esprit m’a appris ton nom ?
+Cela te surprend, reprit la Gitane… Que sera—ce si je te prouve que mon
+esprit m’a appris ton nom ?
 
 — Mon nom….. Ah ! par exemple si tu me le dis…..
 
@@ -636,7 +638,7 @@ Du coup, le Parisien demeura muet.
 
 Cela le stupéfiait….. Peut-être eût-il pu penser que la bizarre créature
 avait avoué être la depuis plusieurs mois. Mais elle ne laissa pas à son
-interlocuteur le temps de s’engager dans les méandres du soupcon, et,
+interlocuteur le temps de s’engager dans les méandres du soupçon, et,
 procédant à l’instar de Nicolet, le bateleur d’illustre mémoire, dont la
 devise est restée légendaire : 
 
@@ -649,8 +651,8 @@ Ramrah termina audacieusement :
 
 — Mon portrait !
 
-Ah ! cela, c’était réellement _trop fort_…..  Qui veut trop prouver ne prouve
-rien. Pierre se rebella contre cette dernière allégation.
+Ah ! cela, c’était réellement _trop fort_…..  Qui veut trop prouver ne
+prouve rien. Pierre se rebella contre cette dernière allégation.
 
 — Non, non, bonne femme, pas cela.
 
@@ -660,20 +662,21 @@ Elle le toisa d’un air étonné.
 
 — Ce que je veux dire….. Par ma foi, c’est clair. Je suis au courant des
   expériences tentées par d’honorables personnalités pour photographier la
-  pensée ; je n’ignore pas, par conséquent, que les opérateurs consciencieux
-  n’ont obtenu jusqu’ici que des séries de taches, de pointillés, lesquels
-  semblent produits par la projection d’_ions_ magnéto-électriques, que
-  provoqueraient, dit-on, les mouvements du cerveau, réflexes d’une émission de
-  volonté. De là, à obtenir le portrait d’une personne inconnue, il y a tout
-  l’abîme du charlatanisme. Ma brave Gitane, si tu possédais pareil talent, tu
-  n’aurais plus besoin de songer à l’avenir, ta fortune serait faite.
+  pensée ; je n’ignore pas, par conséquent, que les opérateurs
+  consciencieux n’ont obtenu jusqu’ici que des séries de taches, de
+  pointillés, lesquels semblent produits par la projection d’_ions_
+  magnéto-électriques, que provoqueraient, dit-on, les mouvements du
+  cerveau, réflexes d’une émission de volonté. De là, à obtenir le
+  portrait d’une personne inconnue, il y a tout l’abîme du charlatanisme.
+  Ma brave Gitane, si tu possédais pareil talent, tu n’aurais plus besoin
+  de songer à l’avenir, ta fortune serait faite.
 
 Toute droite, sans un mouvement, elle l’écouta, le laissa aller jusqu’au
 bout, puis lentement elle laissa tomber :
 
-— lnsensé….. Ne t’ai—je pas affirmé que tous les fils des zingares _savent_ ?…
-  Et cependant les autres hommes _ignorent_. Notre science du mystère doit nous
-  servir à vivre et non pas à devenir riches.
+— Insensé….. Ne t’ai—je pas affirmé que tous les fils des zingares
+  _savent_ ?… Et cependant les autres hommes _ignorent_. Notre science du
+  mystère doit nous servir à vivre et non pas à devenir riches.
 
 Et comme il ricanait :
 
@@ -681,13 +684,13 @@ Et comme il ricanait :
   puisque tu représentes des années de mon existence.
 
 Curieuse femme que cette bohémienne. Il lui suffisait de quelques mots
-pour reprendre empire sur celui qui l’écoutait,
+pour reprendre empire sur celui qui l’écoutait.
 
 — Dans ta pensée, dit Ramrah, dort l’image de la Jeune fille aux yeux
   d’étoiles… Veux-tu que je force ton esprit à te révéler ses traits ?
 
-Quoi qu’il en eût, Pierre ne put réprimer un tressaillement à cette question
-si précise.
+Quoi qu’il en eût, Pierre ne put réprimer un tressaillement à cette
+question si précise.
 
 — Le pourrais-tu ?
 
@@ -704,8 +707,8 @@ dimension des portraits—miniature si appréciés de nos aïeux du XVIIIe sièc
 — Prends cette plaque, murmura-telle, et tiens-la un instant entre tes
   mains, afin que ton fluide vital la pénètre.
 
-— Qu’est—ce cela? demanda curieusement le marquis, tournant et retournant le
-  mince disque qui semblait fait de nickel poli.
+— Qu’est—ce cela? demanda curieusement le marquis, tournant et retournant
+  le mince disque qui semblait fait de nickel poli.
 
 — C’est le miroir magique.
 
@@ -717,8 +720,8 @@ dimension des portraits—miniature si appréciés de nos aïeux du XVIIIe sièc
 Chazelet obéit. Au fond de lui-même, bien qu’il s’efforçât de n’en laisser
 rien voir, une curiosité intense grandissait.
 
-Deux minutes, les interlocuteurs demeurèrent immobiles, silencieux.
-Après quoi, la Gitane murmura :
+Deux minutes, les interlocuteurs demeurèrent immobiles, silencieux. Après
+quoi, la Gitane murmura :
 
 — Donne-moi le miroir.
 
@@ -734,8 +737,8 @@ autorité :
 
 Le front de la bohémienne se plissait de rides profondes. Sur ses tempes,
 les veines se gonflaient telles des cordes bleuâtres, ses yeux flamboyaient
-et ses lèvres, agitées de palpitations rapides, semblaient livrer passage à la
-foule obscure des incantations.
+et ses lèvres, agitées de palpitations rapides, semblaient livrer passage
+à la foule obscure des incantations.
 
 Le marquis ne songeait plus à rien.
 
@@ -747,9 +750,9 @@ impressionner l’organisation nerveuse, affinée du jeune homme.
 
 Soudain, Ramrah poussa un cri, dont Pierre fut secoué dans tout son être.
 
-Elle éloigna brusquement la main qui maintenait l’ovale de métal sur le front
-de Chazelet et lui présentant la plaque, sans y jeter les yeux elle-même,
-comme certaine de la réussite du prodige :
+Elle éloigna brusquement la main qui maintenait l’ovale de métal sur le
+front de Chazelet et lui présentant la plaque, sans y jeter les yeux
+elle-même, comme certaine de la réussite du prodige :
 
 — Regarde celle que ta pensée aime.
 
@@ -759,18 +762,18 @@ Sur la surface polie, tout à l’heure unie, une ravissante figure de jeune
 fille se dessinait maintenant.
 
 Une figure pleine, blanche et rose, aux traits à la fois caractérisés et
-délicats, aux yeux d’un vert pale d’une étrangeté prenante, et sur cela des
+délicats, aux yeux d’un vert pâle d’une étrangeté prenante, et sur cela des
 cheveux d’un ton inédit d’or bruni.
 
 L’expression de cette physionomie elle-même semblait double. Les yeux
 riaient, les lèvres disaient la mélancolie.
 
-Il y avait là une beauté originale, bizarre, troublante, en dehors des règles
-convenues.
+Il y avait là une beauté originale, bizarre, troublante, en dehors des
+règles convenues.
 
-Pendant quelques minutes, le marquis demeura les yeux fixés sur la gracieuse
-image. Enfin, d’une voix incertaine, trahissant ainsi la gradation de pensées
-qui venait de s’effectuer en son cerveau, il demanda :
+Pendant quelques minutes, le marquis demeura les yeux fixés sur la
+gracieuse image. Enfin, d’une voix incertaine, trahissant ainsi la
+gradation de pensées qui venait de s’effectuer en son cerveau, il demanda :
 
 — Quel est son nom ?
 
@@ -782,7 +785,7 @@ La Gitane eut un geste triomphant.
 
 Ramrah haussa les épaules.
 
-— Je l’ignore… Je ne sais, moi, que ce que ton esprit a bien voulu révèler
+— Je l’ignore… Je ne sais, moi, que ce que ton esprit a bien voulu révèler.
 
 — Alors, tu ne connais pas l’endroit où elle est ?
 
@@ -800,21 +803,21 @@ considérer attentivement la paume.
 
 — Tu dois y retourner.
 
-— Non, interrompit le jeune homme avec force… Sous peu de jours, je compte me
-  rendre à Cadix, et là, m’embarquer pour l’Amérique.
+— Non, interrompit le jeune homme avec force… Sous peu de jours, je compte
+  me rendre à Cadix, et là, m’embarquer pour l’Amérique.
 
 De nouveau, la vieille femme fit entendre son rire grelottant :
 
-— Je ne t’interroge pas, prononça-t-elle après cette manifestation railleuse,
-  je ne me soucie pas de tes projets, je t’enseigne ce qui sera. Tu iras en
-  Amérique, oui, mais en passant par Paris, non par Cadix. Et c’est fort
-  heureux, car c’est 1à que les lignes de rencontre indiquent que tu te
-  trouveras en présence de la personne chère à ton esprit.
+— Je ne t’interroge pas, prononça-t-elle après cette manifestation
+  railleuse, je ne me soucie pas de tes projets, je t’enseigne ce qui sera.
+  Tu iras en Amérique, oui, mais en passant par Paris, non par Cadix. Et
+  c’est fort heureux, car c’est 1à que les lignes de rencontre indiquent
+  que tu te trouveras en présence de la personne chère à ton esprit.
 
 Puis, arrêtant net toute nouvelle question :
 
-— Retourne à ta demeure. Prends ton repas en ayant soin de placer l’image sur
-  la table, à ta gauche.
+— Retourne à ta demeure. Prends ton repas en ayant soin de placer
+  l’image sur la table, à ta gauche.
 
 — Pourquoi ?
 
@@ -833,8 +836,8 @@ suivie pour arriver à la passe de Castille. ll balbutia :
 Et se mit en marche.
 
 Sa vieille le regardait. Elle attendit qu’il eût disparu, que le bruit de
-ses pas sur le sol se fût éteint par degrés. Alors, toute sa face grimaça sous
-la contraction d’un rire muet mais formidable.
+ses pas sur le sol se fût éteint par degrés. Alors, toute sa face grimaça
+sous la contraction d’un rire muet mais formidable.
 
 D’un geste sec, elle secoua la manche de toile bise qui couvrait son bras
 droit.
@@ -844,19 +847,19 @@ Un objet s’en échappa, roula à ses pieds avec un bruit métallique.
 C’était un ovale de nickel poli, identique à celui que Chazelet emportait
 avec lui.
 
-Ramrah le ramassa Vite, et le pétrissant dans ses mains :
+Ramrah le ramassa vite, et le pétrissant dans ses mains :
 
 — Stupides, s’écria-t-elle, stupides ces hommes au visage pâle. Celui-ci
   s’en va, convaincu par un simple tour d’escamotage… Et 1’autre, 1’autre
-  qui pense que je le sers, alors que je fournis au vengeur l’arme dont il a
-  besoin…
+  qui pense que je le sers, alors que je fournis au vengeur l’arme dont il
+  a besoin…
 
 Mais elle se calma presque aussitôt.
 
 — Ma tâche n’est pas achevée… L’automobile m’attend à Esterro. En route… Ce
   soir, je dois prendre le train à Avila et être à Paris demain.
 
-D’un coup de pied elle renversa la marmite, éparpilla les cendres, puis,
-se chargeant du récipient, bondit, avec une légèreté dont on ne l’eût pas
-crue capable, sur un amoncellement de pierres éboulées, et se perdit bientôt
+D’un coup de pied elle renversa la marmite, éparpilla les cendres, puis, se
+chargeant du récipient, bondit, avec une légèreté dont on ne l’eût pas crue
+capable, sur un amoncellement de pierres éboulées, et se perdit bientôt
 dans le fouillis des rocs.
