@@ -322,7 +322,7 @@ Puis avec un sourire coquet au délégué :
   que le vif désir de sortir d’un imbroglio véritablement trop compliqué pour
   mon goût.
 
-![Images: "Elle entraîna le Mexicain."](../3-images/1-page-421.md)
+![Images: "Elle entraîna le Mexicain."](../3-images/1-page-421.JPG)
 
 La domestique reparut sur le seuil annonçant :
 

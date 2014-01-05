@@ -537,7 +537,7 @@ ruée, une bousculade, des cris effarés.
 
 — Le feu ! le feu !
 
-![Image: "Une salve retentit stridente."](../3-images/1-page-445.md)
+![Image: "Une salve retentit stridente."](../3-images/1-page-445.JPG)
 
 Les jeunes gens sont séparés, entraînés par des courants humains. Affolé,
 étourdi, Pierre se trouve transporté à vingt pas de là.
@@ -676,7 +676,7 @@ Le délégué approuve du geste, puis il ajoute :
   cohue des invités, qui, à l’heure présente, sont tout à la dégustation du
   banquet que l’on vient de leur servir.
 
-![Image: "Entre les parties contractantes…"](../3-images/1-page-448.md)
+![Image: "Entre les parties contractantes…"](../3-images/1-page-448.JPG)
 
 Cette fois, Chazelet tressaille avec raison. Les précautions prises l’isolent
 du reste du monde. Il est entouré de créatures à la solde de Frey Jemkins, et

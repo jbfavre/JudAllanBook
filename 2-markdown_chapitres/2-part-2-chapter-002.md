@@ -192,7 +192,7 @@ Jud chancela sous le coup. Lilian chez Jemkins, chez l’assassin de Pariset. Et
 dans le désarroi de sa pensée, il sentait peser sur lui le regard cruellement
 narquois de son ennemi. Celui-ci continuait imperturbablement:
 
-![Image: "Il tira une feuille de papier de son portefeuille et la tendant à Allan :"](../3-images/1-page-307.md)
+![Image: "Il tira une feuille de papier de son portefeuille et la tendant à Allan :"](../3-images/1-page-307.JPG)
 
 — Comment cette jeune dame a été aménée ici, je ne l’ai pu découvrir…
   Toutefois, je n’ai pas songé un moment à la rendre responsable d’une

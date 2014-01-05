@@ -210,7 +210,7 @@ Certain désormais de n’être pas dérangé, il ouvrit sa valise, en tira un o
 bizarre aux armatures métalliques, tenant à la fois d’une canne et d’une pipe
 qu’un original eût commandée en acier bruni.
 
-![Images: "L’instrument pris la forme d’un V"](../3-images/1-page-347.md)
+![Images: "L’instrument pris la forme d’un V"](../3-images/1-page-347.JPG)
 
 Il l’examina longuement, appuya sur les deux extrémités. L’instrument prit la
 forme d’un V, démasquant le double orifice d’un tube intérieur, et exhala un
