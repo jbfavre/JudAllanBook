@@ -724,7 +724,7 @@ répliques stupéfiantes.
 
 — Les voisins ont dû entendre, par le tonnerre ?
 
-— Hélas non ! Monsieur _le chef de station police_ [^1].
+— Hélas non ! Monsieur _le chef de station police_ [^2-04-1].
 
 — Non, non, intervint un nouvel organe. Ma chambre est contiguë ; nulle
   détonation n’a troublé mon repos.
@@ -876,6 +876,6 @@ grommela pensif, avec la rage sourde du limier qui perd la trace :
 
 Et il sortit, entraînant à sa suite le gérant, les agents qui l’avaient accompagné.
 
-[^1]: C’est le titre correspondant à celui de commissaire de police. La police 
-      municipale de New-York compte 8100 hommes (officiers et roundsmen)
-      répartis entre quatre-vingts stations ou postes.
+[^2-04-1]: C’est le titre correspondant à celui de commissaire de police. La
+           police municipale de New-York compte 8100 hommes (officiers et
+           roundsmen) répartis entre quatre-vingts stations ou postes.

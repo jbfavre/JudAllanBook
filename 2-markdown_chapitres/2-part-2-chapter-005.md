@@ -319,8 +319,8 @@ Ce disant, la petite passait à son interlocuteur un feuillet d’indicateur.
 
 Jud y jeta les yeux, puis doucement :
 
-— Rendez-vous à 3h45 à la gare. Trois tickets pulmann [^1] pour Frisco. As-tu
-  de l’argent ?
+— Rendez-vous à 3h45 à la gare. Trois tickets pulmann [^2-05-1] pour Frisco.
+  As-tu de l’argent ?
 
 — Oh ! la réserve du syndicat est loin d’être épuisée.
 
@@ -653,4 +653,4 @@ sur sa poitrine.
 — Vous me rejoindrez par le prochain train régulier. Là-bas, on vous
   renseignera sur le chemin à suivre, chemin que je ne connais pas encore.
 
-[^1]: Les voitures pulmann sont des véhicules à couchettes mobiles.
+[^2-05-1]: Les voitures pulmann sont des véhicules à couchettes mobiles.

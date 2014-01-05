@@ -7,7 +7,7 @@ Malgré son jardin d’hiver renommé, son confortable, son service exceptionnel
 sa cuisine et ses caves réputées, le New-Villard a des prix modérés, au moins
 par rapport à ses concurrents américains, et l’on s’y peut procurer une belle
 chambre pour la bagatelle de deux dollars cinquante cents (douze francs
-cinquante) par jour [^1].
+cinquante) par jour [^2-01-1].
 
 Jud Allan avait établi son domicile momentané dans ledit hôtel.
 
@@ -731,9 +731,9 @@ Jud se déclara :
 
 -----
 
-[^1]: Des écrivains, peu avertis, comparent sans cesse les gains des
-      travailleurs d’Amérique et d’Europe. Ils oublient que si, en France par
-      exemple, l’unité monétaire est le franc, aux États-Unis, l’unité est le
-      dollar (cinq francs). De la sorte un homme gagnant là-bas vingt dollars
-      (cent francs) a seulement un gain équivalent à celui du Français qui
-      gagne vingt francs.
+[^2-01-1]: Des écrivains, peu avertis, comparent sans cesse les gains des
+           travailleurs d’Amérique et d’Europe. Ils oublient que si, en France
+           par exemple, l’unité monétaire est le franc, aux États-Unis, l’unité
+           est le dollar (cinq francs). De la sorte un homme gagnant là-bas
+           vingt dollars (cent francs) a seulement un gain équivalent à celui
+           du Français qui gagne vingt francs.

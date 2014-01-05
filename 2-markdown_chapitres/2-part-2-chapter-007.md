@@ -91,7 +91,7 @@ stationnent en ce moment.
 Une brèche existait, pratiquée par quelque bande de rongeurs de la prairie.
 Ils l’ont franchie.
 
-Et de l’autre côté, dans le jardin, devant la maison peinte en bleu pâle [^1],
+Et de l’autre côté, dans le jardin, devant la maison peinte en bleu pâle [^2-07-1],
 avec ses persiennes d’un vert tendre, sa vérandah aux colonnettes graciles,
 sa balustrade de bois capricieusement ajourée, ils ont vu deux femmes, aux
 visages inconscients, mais aux mains enlacées avec tendresse, comme si le cœur
@@ -966,5 +966,5 @@ pointe acérée.
 
 -----
 
-[^1]: C’est un usage général, dans le centre et le sud Amérique, de
-      badigeonner les maisons de couleurs tendres et variées.
+[^2-07-1]: C’est un usage général, dans le centre et le sud Amérique, de
+           badigeonner les maisons de couleurs tendres et variées.

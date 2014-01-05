@@ -95,7 +95,7 @@ Le policier s’inclina, et la voix onctueuse, le geste arrondi, il continua :
 — Ah ! Ah ! murmurèrent les auditeurs, impressionnés par le récit.
 
 — Dans le fourgon de tête, accroché immédiatement après le tender, avaient été
-  chargées dix-sept barres d’or, de cent kilogs [^1] chacune, expédiées
+  chargées dix-sept barres d’or, de cent kilogs [^2-03-1] chacune, expédiées
   par l’Oil Bank à une banque de New-York.
 
 — Dix-sept, cent kilogs chaque, répéta la foule avec une évidente
@@ -751,5 +751,5 @@ affection, et ils avaient répondu d’une seule voix :
 
 — En route pour New-York !
 
-[^1]: Orthographe utilisée dans l'édition de 1932 qui a servi pour la présente 
-      édition (Note de l'Editeur)
+[^2-03-1]: Orthographe utilisée dans l'édition de 1932 qui a servi pour la
+           présente  édition (Note de l'Editeur)

@@ -251,7 +251,7 @@ Puis silencieux, tel une procession. d’ombres, le cortgèe s’ébranla. Profi
 marchant en tête, avec, auprès de lui, la triste Lily Pariset.
 
 Le jardin ombreux fut traversé. On contourna la volière, on atteignit
-l’habitation. Celle-ci se présentait riante, précédée d’une vérandah [^verandah]
+l’habitation. Celle-ci se présentait riante, précédée d’une vérandah [^2-09-1]
 aux colonnettes légères que reliaient des arcades de bois ajouré.
 
 Mais la veuve ne s’arrêta point.
@@ -307,8 +307,6 @@ impassible :
   déclaré connaître Miss Grace Paterson, amie de pension de Lilian. Grace
   Paterson est ici, elle. Grace parlera, dira ce qui est, car elle n’est point
   aux ordres de ceux qui commandent ici.
-
-[^verandah]: il s’agit d’une orthographe acceptée du terme, comme indiqué sur [la page Wikipédia du mot véranda](fr.wikipedia.org/wiki/Véranda) (note de l’éditeur)
 
 Elle ne put continuer. Rouge-Fleur s’était adressée à la servante :
 
@@ -964,5 +962,6 @@ quitta la chambre.
 Marahi attendit quelques instants encore. Enfin rassurée par le silence, elle
 sortit doucement de son abri, et retourna vers la pulqueria.
 
------
-
+[^2-09-1]: il s’agit d’une orthographe acceptée du terme, comme indiqué sur
+           [la page Wikipédia du mot véranda](fr.wikipedia.org/wiki/Véranda)
+           (note de l’éditeur)
