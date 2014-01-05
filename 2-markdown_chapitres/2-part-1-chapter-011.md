@@ -39,7 +39,7 @@ la table sur laquelle on dépose à l’ouverture de la séance le _mace_
 Les sénateurs discutent avec animation, mais la séance est momentanément
 levée, et les boys de service, que les représentants appellent par un
 claquement de mains, circulent entre les sièges, portant des
-rafraîchissements, des dépêches, des correspondances [^1].
+rafraîchissements, des dépêches, des correspondances [^1-11-1].
 
 Cela occupa un instant l’attention des jeunes filles.
 
@@ -1110,7 +1110,7 @@ ce qui suit.
 
 -----
 
-[^1]: Cette description est absolument exacte. Si l’on ajoute qu’il
-      n’existe point de tribune, que les sénateurs parlent de leur place,
-      on se rendra compte de la différence complète entre une assemblée de
-      France et une assemblée américaine.
+[^1-11-1]: Cette description est absolument exacte. Si l’on ajoute qu’il
+           n’existe point de tribune, que les sénateurs parlent de leur place,
+           on se rendra compte de la différence complète entre une assemblée de
+           France et une assemblée américaine.

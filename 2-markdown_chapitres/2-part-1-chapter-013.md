@@ -572,7 +572,7 @@ du chef.
 — Comprenez-moi bien, reprend celui-ci… Deux obstacles doivent
   disparaître, deux, vous entendez…, pour que ma chère cousine Lily cesse
   de souffrir, pour qu’elle soit seule maîtresse de ce domaine de
-  quarante mille kilomètres carrés [^1].
+  quarante mille kilomètres carrés [^1-13-1].
 
 — Hip ! Hip ! Hurrah pour le domaine de Lily !
 
@@ -1581,8 +1581,6 @@ chargent la manne sur leurs épaules. D’autres portent Grace. Les portes
 sont refermées, et le cortège se met en marche avec d’infines
 précautions.
 
------
-
 Ce même-soir, Jemkins, très taciturne depuis l’aventure du Sénat, s’était
 enfermé dans son cabinet de travail, pièce spacieuse aux tentures
 sombres.
@@ -1635,7 +1633,7 @@ ampoule électrique qu’il venait d’actionner éclairait ce réduit.
   Avenue et de la rue de la Bibliothèque du Congrès, Jemkins se glisse
   sous terre, et il tiendra conseil, à l’autre extrémité du square, dans
   cette coquette demeure, dont les portes aux marteaux de cuivre
-  s’ouvrent sur la Rue N. E n°3 et sur À Street S. E. [^2]
+  s’ouvrent sur la Rue N. E n°3 et sur À Street S. E. [^1-13-2]
 
 Il ouvre la porte faisant face à l’escalier, par lequel il est descendu
 dans le sous-sol. Une galerie se présente devant lui. Il s’y engage.
@@ -2122,9 +2120,9 @@ roulant pesamment à travers la ville endormie.
 
 -----
 
-[^1]: Un département français a, en moyenne, une superficie de 6.000 kilomètres
-      carrés.
+[^1-13-1]: Un département français a, en moyenne, une superficie de 6.000 kilomètres
+           carrés.
 
-[^2]: À Washington, les avenues rayonnant autour du Capitole ont des noms,
-      comme Pensylvania avenue. Les autres sont désignées soit par des
-      chiffres, soit par des lettres.
+[^1-13-2]: À Washington, les avenues rayonnant autour du Capitole ont des noms,
+           comme Pensylvania avenue. Les autres sont désignées soit par des
+           chiffres, soit par des lettres.

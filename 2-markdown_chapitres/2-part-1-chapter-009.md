@@ -859,7 +859,7 @@ ironique.
 
 — Te rappeler que le retour à bord est pour ce soir dix heures.
 
-— Bon, on y sera… en personne ou par remplacement [^1].
+— Bon, on y sera… en personne ou par remplacement [^1-09-1].
 
 — _All right!_ Alors, bonne promenade.
 
@@ -928,7 +928,7 @@ Allan tressaillit à ce dernier mot. Vivement il grommela :
 Soumis, le gamin courba la tête sous la mercuriale.
 
 — En ton absence, j’ai fait entrer Top et Fall au Sénat. Ils sont _boys_
-  de la Salle des Séances [^2].
+  de la Salle des Séances [^1-09-2].
 
 — Bien.
 
@@ -1020,7 +1020,7 @@ Un haut portique se découpe dans un long mur récemment blanchi.
 Au sommet de la voûte, des lettres d’or figurent ces mots :
 
 > _MISS DEFFLING’S INSTITUTE_
-  DAY AND BOARDING SCHOOL [^3]
+  DAY AND BOARDING SCHOOL [^1-09-3]
 
 Le véhicule s’arrête. Allan saute à terre, règle le cocher, puis soulève
 le marteau de cuivre dont le retentissement prolongé va provoquer
@@ -1035,11 +1035,11 @@ Mais il la chasse d’un brusque mouvement de tête, et il murmure :
 
 -----
 
-[^1]: Le droit de se faire remplacer a été accordé au personnel des
-      Compagnies de navigation fluviale, sous la réserve que les agents
-      sont responsables de leurs remplaçants.
+[^1-09-1]: Le droit de se faire remplacer a été accordé au personnel des
+          Compagnies de navigation fluviale, sous la réserve que les agents
+          sont responsables de leurs remplaçants.
 
-[^2]: Au Sénat de Washington, des boys font le service des
-      rafraîchissements dans la salle même des séances.
+[^1-09-2]: Au Sénat de Washington, des boys font le service des
+          rafraîchissements dans la salle même des séances.
 
-[^3]: Externat et Internat
+[^1-09-3]: Externat et Internat

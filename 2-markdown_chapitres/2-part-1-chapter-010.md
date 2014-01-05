@@ -108,7 +108,7 @@ En dépit de sa tristesse réelle, Lilian ne put s’empêcher de sourire.
   de mon enquête… ; oui, Mademoiselle, de mon enquête. Soyez respectueuse,
   je me suis faite le détective de votre âme, afin de vous démontrer ma
   tendresse. Mais assez de paroles inutiles, c’est du _chewing gum avant
-  dîner_, inutile [^1].
+  dîner_, inutile [^1-10-1].
 
 Elle prit les mains de Lilian et mirant son regard dans celui de son amie :
 
@@ -550,7 +550,7 @@ l’ennemi, le professeur se redressa.
 — Miss Lilian, et vous, Miss Grace, dit-il.
 
 — Miss, s’écrièrent les amies, pourquoi nous parler ainsi qu’un inférieur
-doit seul le faire [^2] ?
+doit seul le faire [^1-10-2] ?
 
 — Parce qu’il convient que je m’exprime ainsi.
 
@@ -1013,14 +1013,14 @@ l’Exécutif.
 
 ----
 
-[^1]: Beaucoup d’Américains ont l’habitude, après le repas, de mâcher une
-      substance analogue à la gomme à claquer de nos écoliers. C’est le
-      _chewing gum_. Ils prétendent activer ainsi la salivation et
-      faciliter par suite la digestion.
+[^1-10-1]: Beaucoup d’Américains ont l’habitude, après le repas, de mâcher une
+           substance analogue à la gomme à claquer de nos écoliers. C’est le
+           _chewing gum_. Ils prétendent activer ainsi la salivation et
+           faciliter par suite la digestion.
 
-[^2]: Alors qu’en français il serait incorrect de ne pas faire précéder le
-      nom d’une jeune fille du mot _Mademoiselle_, en anglais le mot _Miss_
-      n’est employé que par les serviteurs, fournisseurs ou autres. Si
-      l’on n’est pas assez familier pour user du prénom tout court, on le
-      supprime purement et simplement dans le discours. On dit alors :
-      bonjour, vous allez bien, etc.
+[^1-10-2]: Alors qu’en français il serait incorrect de ne pas faire précéder le
+           nom d’une jeune fille du mot _Mademoiselle_, en anglais le mot _Miss_
+           n’est employé que par les serviteurs, fournisseurs ou autres. Si
+           l’on n’est pas assez familier pour user du prénom tout court, on le
+           supprime purement et simplement dans le discours. On dit alors :
+           bonjour, vous allez bien, etc.

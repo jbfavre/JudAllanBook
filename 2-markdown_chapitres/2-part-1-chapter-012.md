@@ -759,7 +759,7 @@ dormeur intrépide.
 
 La figure du bandit exprima l’étonnement et l’admiration :
 
-— Mâtin ! _C’est le grillon qui mangerait l’ours !_ [^1]
+— Mâtin ! _C’est le grillon qui mangerait l’ours !_ [^1-12-1]
 
 Puis, d’un ton adouci :
 
@@ -1174,5 +1174,5 @@ Et le silence se fit.
    
 ----
 
-[^1]: Locution américaine intraduisible en français : Elle signifie à peu
-      près : Ce petit être a le cœur d’un héros.
+[^1-12-1]: Locution américaine intraduisible en français : Elle signifie à peu
+           près : Ce petit être a le cœur d’un héros.

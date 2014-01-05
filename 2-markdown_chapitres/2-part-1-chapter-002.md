@@ -106,7 +106,7 @@ corbeille emplie de pommes d’une coloration particulière.
 
 — Voici le dessert du señor Français, susurra la commère en minaudant. Que le
   señor ne se dérange pas, je vais simplement le poser devant lui. Une section
-  de miquelets [^1] va passer la nuit à la posada… Quel travail pour la
+  de miquelets [^1-02-1] va passer la nuit à la posada… Quel travail pour la
   faiblesse d’une femme !
 
 Tout en parlant, elle disposait fromage et fruits devant le marquis de
@@ -1211,5 +1211,5 @@ s’ébranle, s’éloigne.
 
 -----
 
-[^1]: Les miquelets sont des miliciens provinciaux concourant avec la
+[^1-02-1]: Les miquelets sont des miliciens provinciaux concourant avec la
       gendarmerie à maintenir l’ordre.
