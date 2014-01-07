@@ -37,16 +37,16 @@ un flacon de vin épais que son transport dans des outres de peau de bouc
 avait agrémenté d’un « bouquet » peu recommandable.
 
 Et cependant, la forte commère paraissait ravie de ses préparatifs quand
-elle annonça de sa voix la plus melliflue :
+elle annonça de sa voix la plus melliflue ^[mielleuse]:
 
-— E1 señor est servi… Dans un instant, je lui apporterai un fromage
+— El señor est servi… Dans un instant, je lui apporterai un fromage
   de Cambroseda (fromage de chèvre) dont les Saints Anges feraient régal, et
   aussi des pommes que le voiturier Marcolo m’a rapportées de Béjar.
 
-L’opulente personne ne consentit a quitter la chambre qu’après avoir vu
+L’opulente personne ne consentit à quitter la chambre qu’après avoir vu
 son « client » prendre place devant ce dîner, bien grossier pour un
 Parisien, mais somptueux dans une posada espagnole, où l’on ne trouve en
-général rien a se mettre sous la dent.
+général rien à se mettre sous la dent.
 
 Demeuré seul, Pierre se servit et commença de manger distraitement le
 brouet contenu dans le plat de terre brune.
@@ -58,7 +58,7 @@ puis avec un sourire contraint :
   aucun résultat… ; mais une promesse, même ridicule, doit être tenue.
 
 Il affectait un ton plaisant, bien que la gaieté sonnât faux dans sa voix.
-On eût pensé, en 1’entendant, qu’il attendait un effet imprévu de l’acte tout
+On eût pensé, en l’entendant, qu’il attendait un effet imprévu de l’acte tout
 prosaïque de placer sur la table, à la gauche de son assiette, le portrait
 rapporté de la passe de Castille.
 
@@ -69,10 +69,10 @@ La plaquette de métal posée sur le bois, Pierre se reprit à manger, non
 sans parcourir la chambre d’un regard circulaire, empreint d’une certaine
 méfiance.
 
-Qu’espérait-il ? Que craignait-il? Le marquis n’eût su le dire lui-même.
+Qu’espérait-il ? Que craignait-il ? Le marquis n’eût su le dire lui-même.
 Mais au certain, il avait pensé qu’un phénomène quelconque suivrait
 l’accomplissement de son geste, et ce lui fut une désillusion de constater que
-rien d’anormal, ne se produisait.
+rien d’anormal ne se produisait.
 
 Une crispation agacée courut sur ses traits.
 
@@ -106,10 +106,11 @@ corbeille emplie de pommes d’une coloration particulière.
 
 — Voici le dessert du señor Français, susurra la commère en minaudant. Que le
   señor ne se dérange pas, je vais simplement le poser devant lui. Une section
-  de miquelets [^1-02-1] va passer la nuit à la posada… Quel travail pour la
+  de miquelets [^miquelets] va passer la nuit à la posada… Quel travail pour la
   faiblesse d’une femme !
 
 Tout en parlant, elle disposait fromage et fruits devant le marquis de
+Chazelet.
 
 — Ah ! fit-elle tout à coup, que voilà un portrait ressemblant !
 
@@ -120,7 +121,7 @@ Du coup, il sursauta :
 — Vous la connaissez, balbutia-t-il bouleversé au delà de toute expression
   par ce nouvel incident.
 
-La posadera se prit a rire, découvrant des dents blanches.
+La posadera se prit à rire, découvrant des dents blanches.
 
 — Cela n’a rien de surprenant. J’habite le pays depuis… — elle hésita,
   retenue par une inconsciente coquetterie au moment de prononcer un chiffre —
@@ -156,7 +157,7 @@ appellation pour la charmante inconnue, si étrangement entrée dans sa vie.
 
 Son interlocutrice eut un haussement d’épaules.
 
-— Noble, oui, et parmi les plus nobles d’Esspagne ; mais riche, c’est autre
+— Noble, oui, et parmi les plus nobles d’Espagne ; mais riche, c’est autre
   chose.
 
 — Ah !
@@ -172,8 +173,8 @@ belle inconnue.
 — Sur ce que tout le pays vous répondra comme moi, señor. La maman et la
   jeune fille habitent leur vieux château, aux trois quarts ruiné…
 
-Quelques pièces de terre, que cultive un vieux serviteur, Fabricio
-qu’ils’appelle… un petit troupeau de chèvres que garde une fillette du pays,
+Quelques pièces de terre, que cultive un vieux serviteur, Fabricio qu’il
+s’appelle… un petit troupeau de chèvres que garde une fillette du pays,
 la Lourença… Et c’est tout. Allez, allez, on vit chichement, à Armencita, et
 depuis trois années, la sainte belle Linérès vient à la fête de Béjar avec
 la même robe… ce que ne feraient pas les plus pauvres gens des villages.
@@ -276,14 +277,12 @@ les yeux au ciel en murmurant :
 Ce qui incita l’homme à faire un grand signe de croix, tout en riant d’un
 air gouailleur.
 
------
-
-An centre d’une plaine ravinée, où la verdure sombre des sapins, l’émeraude
+Au centre d’une plaine ravinée, où la verdure sombre des sapins, l’émeraude
 des pâturages et le rougeoiement des rocs dénudés alternent, s’élève une
 escarpée.
 
 Au sommet se dresse une ruine imposante. Tours carrées éventrées,
-murailles, à machicoulis lézardés, éffritées par le temps et l’abandon,
+murailles à machicoulis lézardés, effritées par le temps et l’abandon,
 contant au voyageur l’éternelle histoire des puissances déchues.
 
 Tels sont les restes du château-fort de Armencita.
@@ -347,8 +346,7 @@ Comme il songeait, un chant parvint à ses oreilles.
 C’était un de ces _canzones_ de bergers, lents et doux, comme rythmés sur le
 mouvement paisible des troupeaux au pâturage.
 
-![La chanteuse était assise sur une pierre, dans un angle](../3-images/part1/page-027.jpg
-"La chanteuse était assise sur une pierre, dans un angle")
+![La chanteuse était assise sur une pierre, dans un angle](../3-images/part1/page-027.jpg "La chanteuse était assise sur une pierre, dans un angle")
 
 La voix, féminine évidemment, sonnait forte et juste, avec cette ignorance
 charmeuse des règles de l’art musical, particulière aux chants de plein air.
@@ -359,7 +357,7 @@ dont la posadera lui avait parlé.
 Mais du même coup sa rêverie se dissipa.
 
 Il était venu pour voir la châtelaine des ruines… Une personne evidemment
-ment à son service se trouvait tout près de lui… Il fallait l’interroger…
+à son service se trouvait tout près de lui… Il fallait l’interroger…
 
 D’un pas ferme, le jeune homme franchit le portail, parvint dans la cour. Il
 distingua de suite quatre ou cinq chèvres qui, à son apparition, cessèrent
@@ -1211,5 +1209,4 @@ s’ébranle, s’éloigne.
 
 -----
 
-[^1-02-1]: Les miquelets sont des miliciens provinciaux concourant avec la
-      gendarmerie à maintenir l’ordre.
+[^miquelets]: Les miquelets sont des miliciens provinciaux concourant avec la gendarmerie à maintenir l’ordre.
