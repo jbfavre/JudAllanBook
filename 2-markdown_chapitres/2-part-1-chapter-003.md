@@ -183,7 +183,7 @@ Le chroniqueur s’exprimait ainsi :
   quiconque aspire à la main de la señorita Linérès de Armencita.
 
 > Les dragons du destin défendent l’approche de l’hôtel de la rue
-  François I^er^, où réside la Belle aux Cheveux d’Or bruni.
+  François 1^er^, où réside la Belle aux Cheveux d’Or bruni.
 
 > Une série d’accidents, que l’on croirait provoqués par une volonté
   consciente, si pareille hypothèse ne devait être écartée, ont mis hors de
@@ -446,8 +446,8 @@ menues satisfactions matérielles influent sur les dispositions morales,
 et cela est d’autant plus vrai que l’être est plus affiné, plus
 intellectuel.
 
-— Au dessert, Chazelet avait recouvré tout son aplomb ; il se sentait de
-  nouveau le pied parisien.
+Au dessert, Chazelet avait recouvré tout son aplomb ; il se sentait de
+nouveau le pied parisien.
 
 Et, par contre-coup, les fumées de légende qui obscurcissaient les
 aventures d’Espagne, se dissipaient, ses idées se clarifiaient en
@@ -489,8 +489,8 @@ courant. Pour lui, en effet, Chazelet devait ignorer la singulière
 fatalité  poursuivant Linérès de Armencita, et dont tout Paris
 s’occupait autant qu’il lui est loisible de s’occuper de quelque chose.
 
-Mais il le vit, ayant arrêté un camelot, prendre un journal, 1e parcourir
-et demeurer immobile, comme anéanti, 1e papier frémissant entre ses mains
+Mais il le vit, ayant arrêté un camelot, prendre un journal, le parcourir
+et demeurer immobile, comme anéanti, le papier frémissant entre ses mains
 tremblantes.
 
 Il s’empressa :
@@ -536,7 +536,7 @@ Toutefois il répliqua :
 — Pour m’assurer que le service des postes transpyrénéennes ne mérite
   que des éloges.
 
-Et prenantle bras d’Albert Morand, tout étourdi de l’incohérence de ses
+Et prenant le bras d’Albert Morand, tout étourdi de l’incohérence de ses
 idées :
 
 — Marchons, continua le jeune homme ; marchons. Il ne faut pas arriver
@@ -548,7 +548,7 @@ Cependant tous deux reprirent leur route à une allure plus rapide que
 tout à l’heure.
 
 Seulement, avec une nervosité subite, Pierre parlait, questionnant son
-compagnon sur expériences auxquelles ils allaient assister.
+compagnon sur les expériences auxquelles ils allaient assister.
 
 Morand se laissa entraîner sur ce sujet. Il expliqua :
 
@@ -619,14 +619,14 @@ du médecin-major.
 — Non, non, rassurez-vous. M. Allan a passé la journée là-haut, avec
   des officiers du génie et les télégraphistes militaires.
 
-— Ah ! a h! En ce cas, nous n’aurons pas de _ratés_ ?
+— Ah ! ah ! En ce cas, nous n’aurons pas de _ratés_ ?
 
 — Je l’espère… Si tout marchait bien…, cela nous retirerait une rude
   épine du pied… Car l’ennui du sans fil est que l’on risque de confier
   ses secrets à tous les postes installés, amis ou ennemis.
 
 — En wagon, en wagon, Messieurs, clama soudain un sapeur du génie de
-  planton au pied de 1’ascenseur, on vous attend là-haut.
+  planton au pied de l’ascenseur, on vous attend là-haut.
 
 Tous s’empressèrent de prendre place.
 
@@ -660,7 +660,7 @@ puis au deuxième étage de la tour, et mettait enfin le pied dans la
 _lanterne_ transformée par l’autorité militaire en poste central de la
 télégraphie de l’armée.
 
-Deux officiers, autant de sapeurs de génie, saluèrent à rentrée les
+Deux officiers, autant de sapeurs de génie, saluèrent à l'entrée les
 visiteurs, puis se remirent à la surveillance des appareils dont le
 fonctionnement leur incombait.
 
@@ -766,7 +766,7 @@ Il ne paraissait pas remarquer Chazelet qui, lui, ne perdait pas un de ses
 mouvements, subissant une attirance inexplicable vers cet inconnu.
 
 Or, on allait se séparer. Les appareils demeuraient au repos, les
-visiteurs adressant leurs derniers compliments à 1’Américain, quand un
+visiteurs adressant leurs derniers compliments à l’Américain, quand un
 petit bruit coupa net les phrases louangeuses.
 
 — Le martèlement du récepteur, s’écrièrent toutes les voix.
@@ -855,7 +855,7 @@ Et rougissant légèrement sous les regards convergeant sur lui :
 — Excusez-moi… Je cherche acomprendre qui bavarde ainsi… J’ai pensé
   tout haut, désolé de vous avoir interrompu.
 
-Àllan inclina la tête et continua sa lecture :
+Allan inclina la tête et continua sa lecture :
 
 — À la comtesse de m’accorder audience le soir. Quoi qu’il doive arriver,
   ma vie appartient au Japon. Demain soir, je demanderai la main de
@@ -894,7 +894,7 @@ L’Américain secoua la tête :
 
 — Quoi, la communication ?…
 
-— s’arrête là. Voyez.
+— S’arrête là. Voyez.
 
 Ce fut un concert de récriminations. L’officier japonais, son interlocuteur
 inconnu, furent cordialement envoyés à tous les diables.
@@ -902,7 +902,7 @@ inconnu, furent cordialement envoyés à tous les diables.
 M. Lerenaud ramena le calme par cette promesse :
 
 — Messieurs, demain j’établis une surveillance autour de l’hôtel habité
-  par les dames de Armencita, rue François 1er.
+  par les dames de Armencita, rue François 1^er^.
 
 — Qu’est-ce que cela donnera ?
 
@@ -918,7 +918,7 @@ M. Lerenaud ramena le calme par cette promesse :
   vous… Je vous confierai le nom de ce septième, et je vous jure qu’il
   sera gardé comme ne le fut jamais souverain. Je crois que je suis entré
   dans la police, non par haine des criminels, mais par curiosité du
-  mystère dont ils sentourent.
+  mystère dont ils s'entourent.
 
 — Ah! mon pauvre Lerenaud, fit comiquement Morand, je crois que cette
   fois, votre curiosité doit vous faire bien mal. C’est égal, Chazelet,
@@ -973,15 +973,15 @@ Quand M. Lerenaud vint rejoindre Allan, les galopins étaient déjà loin,
 mais un observateur eût pensé qu’ils suivaient Morand et Pierre.
 
 Cette idée eût bientôt été confirmée, car les deux amis ayant arrêté
-une voiture, 1e gamin, que ses camarades avaient appelé Tril, se coula
+une voiture, le gamin, que ses camarades avaient appelé Tril, se coula
 presque sous les roues pour entendre l’adresse jetée au cocher.
 
 Après quoi, il vint rejoindre ses camarades.
 
-— C’est à légation d’Espagne ! Bob, va prévenir les autres, qu’ils soient
-  de ce côté-là ; place Malesherbes et à l’angle du boulevard de
-  Courcelles ; aux stations des tramways, on ne remarque pas quand on
-  stationne là.
+— C’est à la légation d’Espagne ! Bob, va prévenir les autres, qu’ils
+  soient de ce côté-là ; place Malesherbes et à l’angle du boulevard
+  de Courcelles ; aux stations des tramways, on ne remarque pas quand
+  on stationne là.
 
 Bob partit en courant.
 
@@ -990,9 +990,7 @@ Bob partit en courant.
 
 — Et toi ?
 
-— Moi, je vais rejoindre le « Roi ». 11 décidera.
+— Moi, je vais rejoindre le « Roi ». Il décidera.
 
 Sur ce, les gamins se séparèrent et, tout petits dans la grande cité,
 s’enfoncèrent en des voies opposées.
-
------
