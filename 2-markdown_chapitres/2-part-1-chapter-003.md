@@ -2,7 +2,7 @@
 
 ![](../3-images/part1/chapitre-3.jpg)
 
-— Ah ! voici 1e señor. Que la journée vous soit bonne, señor. Le _coche_
+— Ah ! voici le señor. Que la journée vous soit bonne, señor. Le _coche_
   (voiture) vous attend.
 
 Ainsi dame Olinda accueillit le marquis, lorsqu’il franchit le seuil de la
@@ -31,7 +31,7 @@ Quelle voiture ? Tout naturellement, il demanda :
 La posadera lui décocha son œillade la plus assassine.
 
 — Pourquoi, señor ? Parce que, hier dans la journée, le padre (prêtre) Montero,
-  qui venait bénir 1a vigne de la veuve Domera, m’a donné l’ordre de votre part
+  qui venait bénir la vigne de la veuve Domera, m’a donné l’ordre de votre part
   de tenir, ce matin, une voiture à votre disposition.
 
 — Ah ! le padre Montero a fait cela ?
@@ -141,11 +141,11 @@ cliché reproduisant les traits charmants de Linérès :
 
 Armencita ! Fiancée du Diable ! Ces mots avaient bouleversé Pierre,
 d’autant plus profondément que, lui aussi, avait éprouvé les effets des
-volontés mystérieuses sagitant autour de la jeune fille.
+volontés mystérieuses s'agitant autour de la jeune fille.
 
 Depuis son entretien avec la gitane, depuis la remise en ses mains du
 portrait de la señorita, est-ce qu’il ne se débattait pas en plein mystère ?
-Est-ce que les moindres incidents de son existence nétaient point marqués
+Est-ce que les moindres incidents de son existence n'étaient point marqués
 au coin de la magie ? Enchantements réels ou charlatanisme, qu’importait ?
 Plus rien autour de lui n’obéissait aux lois de la morale.
 
@@ -183,7 +183,7 @@ Le chroniqueur s’exprimait ainsi :
   quiconque aspire à la main de la señorita Linérès de Armencita.
 
 > Les dragons du destin défendent l’approche de l’hôtel de la rue
-  François Ier, où réside la Belle aux Cheveux d’Or bruni.
+  François I^er^, où réside la Belle aux Cheveux d’Or bruni.
 
 > Une série d’accidents, que l’on croirait provoqués par une volonté
   consciente, si pareille hypothèse ne devait être écartée, ont mis hors de
@@ -205,9 +205,9 @@ Le chroniqueur s’exprimait ainsi :
   comment il en est sorti.
 
 > Quatrième postulant : Télémaque Lesbarrade, fils et associé du riche
-  armateur marseillais, est défiguré, a l’œil droit complètement perdu, par
-  le fait d’une inexplicable explosion de gaz survenue dans sa salle de
-  bains.
+  armateur marseillais, est défiguré, a l’œil droit complètement perdu,
+  par le fait d’une inexplicable explosion de gaz survenue dans sa salle
+  de bains.
 
 > Enfin, Abel Passé, ce fabricant de phonographes sans rival, visite son
   usine de Pantin. La tige d’un piston se brise à côté de lui, (sans que
@@ -224,7 +224,7 @@ Le Seigneur de la nuit ne l’avait-il pas averti que le danger entourait
 Linérès de Armencita ?
 
 Le danger, ce mot vague, se précisait de sanglante façon… Des ennemis,
-lesquels ? devaient en vouloir à la fortune de la jeune fille. _
+lesquels ? devaient en vouloir à la fortune de la jeune fille.
 
 Ils lui interdisaient de se marier. Ils voulaient évidemment qu’elle
 demeurât le seul obstacle entre leurs convoitises et ces richesses
@@ -330,7 +330,7 @@ dépeignait lui même, Albert Morand, un peu plus âgé que le marquis, portait
 de façon désinvolte l’uniforme de major de l’armée. Garçon joyeux, vivant
 gaiement, mais sans dépasser jamais la somme de ses revenus et de
 son traitement, Morand, bon médecin au reste, représentait, mélange moins
-rare que l’on ne serait tenté de 1e croire, la raison dans la folie, l’ordre
+rare que l’on ne serait tenté de le croire, la raison dans la folie, l’ordre
 dans le désordre.
 
 — Toi ici ! s’exclama le marquis après une affectueuse accolade. Toi,
@@ -398,7 +398,7 @@ Parisien soucieux de ses dehors.
 — Arrive donc. Je veux que, demain matin, tout Paris nous ait signalés
   ensemble. Un ami qui ne vous lâche pas dans la ruine, cela entraîne du
   bon côté toutes les amitiés hésitantes. Je joue les terre-neuves,
-  animaux aux affections robustes et aux pattes pa1mées… Et encore
+  animaux aux affections robustes et aux pattes palmées… Et encore
   aussi entêtés que les mules castillanes. Il ne te reste d’autre
   ressource que d’obéir. Tu me jettes à la porte demain, si cela
   t’agrée ; mais ce soir, tu te laisseras tyranniser.
@@ -407,7 +407,7 @@ Pierre ne demandait pas mieux.
 
 Sous les phrases légères du jeune major, il sentait l’amitié solide. Il
 comprenait que Morand lui avait préparé la rentrée triomphante, au lieu du
-retour morose de 1’isolé que la fortune a frappé.
+retour morose de l’isolé que la fortune a frappé.
 
 Une poignée de mains énergique dit à l’ami qu’il avait été compris. Cinq
 minutes plus tard, Pierre installé dans une chambre gaie et claire procédait à
