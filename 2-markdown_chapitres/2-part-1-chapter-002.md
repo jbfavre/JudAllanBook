@@ -1193,7 +1193,7 @@ conduite.
 
 — Chut ! pas de noms propres.
 
-Etait-ce une illusion ? On eût cru que le voyageur parlait avec le méme
+Était-ce une illusion ? On eût cru que le voyageur parlait avec le méme
 organe que le señor bandit Sélénitès, et que son interlocuteur possédait une
 voix ressemblant étrangement à celle du guide mystérieux qui, durant son
 Odyssée nocturne, avait seul adressé la parole au marquis Pierre de Chazelet !
@@ -1206,7 +1206,5 @@ engouffre.
 
 Son compagnon le salue. De nouveau la machine siffle ; la file des wagons
 s’ébranle, s’éloigne.
-
------
 
 [^miquelets]: Les miquelets sont des miliciens provinciaux concourant avec la gendarmerie à maintenir l’ordre.
