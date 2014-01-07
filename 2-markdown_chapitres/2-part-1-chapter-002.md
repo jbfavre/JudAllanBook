@@ -619,9 +619,9 @@ l’heure du départ.
 
 Cette pensée que Pierre formula pour lui-même, était-elle bien sincère ? Ne
 cherchait-il à s’encourager à tourner la feuille de couverture, à  plonger
-son regard curieux dans les pages où la jeune fille avait du écrire ?
+son regard curieux dans les pages où la jeune fille avait dû écrire ?
 
-Ecrire quoi ? Des détails infimes de sa vie : comptes de dépenses ou autres.
+Écrire quoi ? Des détails infimes de sa vie : comptes de dépenses ou autres.
 Documents négligeables, diront les esprits légers ou indifférents ! Erreur !
 Pour l’observateur, rien n’est petit, rien n’est à dédaigner. Et il a
 raison. Les conséquences sont souvent disproportionnées avec les faits qui
@@ -648,7 +648,7 @@ murmuré votre secret à l’oreille de Chazelet.
 Il continue :
 
 > Quel est cet homme, qui, chaque année, paraît à la maison. Il s’enferme
-  avec ma mère…, après une demi-heure, il repart. En voilà de nouveau pour
+  avec ma mère…, après une demi-heure, il repart. En voilà de nouveau pour un
   an. Cette fois, il me semble que la comtesse est joyeuse. Pourquoi ?
   Pourquoi ne me met-elle pas de moitié dans sa joie ?
 
@@ -677,7 +677,7 @@ Le premier explique le départ des habitantes de Armencita. Le voici :
 > Le duc del Vedras est mort. Je n’en avais jamais entendu parler. Il paraît
   que nous sommes ses plus proches parentes. Son exécuteur testamentaire
   nous mande à Madrid, pour nous mettre en possession d’une grande fortune.
-  Le meilleur est que ma mère rêve d’aller promener notre richesse a Paris…
+  Le meilleur est que ma mère rêve d’aller promener notre richesse à Paris…
   Paris, cette ville bénie où je devrai rencontrer qui m’aimera !
 
 Le deuxième paragraphe explique l’abandon du carnet que tient le marquis.
@@ -729,8 +729,8 @@ Elle était déserte à présent.
 La Lourença avait dû ramener ses chèvres à l’étable.
 
 Devant le portail du château, Pierre promena son regard sur la plaine
-environnante, presque invisible dans l’ombre grandissante et, avec un sou-
-rire :
+environnante, presque invisible dans l’ombre grandissante et, avec un
+sourire :
 
 — Tâchons seulement de regagner Béjar. J’y passerai la nuit et réintégrerai
   demain la posada del Cid.
@@ -804,7 +804,7 @@ Aucune aventure ne saurait être plus funeste que de rouler à une profondeur
 de neuf cents pieds, sur une pente rocheuse. Sans la moindre étude médicale,
 on conçoit combien pareil traitement doit être nuisible à la santé.
 
-Aussi Cbazelet, instantanément convaincu qu’entre deux maux il choisissait
+Aussi Chazelet, instantanément convaincu qu’entre deux maux il choisissait
 le moindre, s’abandonna-t-il sans résistance à ses agresseurs inconnus.
 
 — À la bonne heure, gronda encore l’organe rude… Voilà un homme
@@ -814,7 +814,7 @@ On le prit fortement par les bras, indiquant ainsi à son esprit que deux
 personnes le tenaient, et on l’entraîna en avant.
 
 La tête encapuchonnée, le Français obéit à l’impulsion, d’abord avec
-l’hésitation bien naturelle de l’homme qui ne sait ou il pose le pied, puis
+l’hésitation bien naturelle de l’homme qui ne sait où il pose le pied, puis
 avec une confiance croissante, en constatant que ses guides le soutenaient
 avec une adresse telle qu’il courait presque sur les pentes.
 
@@ -940,10 +940,10 @@ Pierre s’inclina sans répondre.
 Décidément la police des bandits était bien faite en Espagne.
 
 — Tu es brave, énergique, continua l’homme sans paraître remarquer
-  l’ahurissement de son prisonnier. Au lieu de te laisser abattre par la mau-
-  vaise fortune, tu as décidé que tu reconquerrais la richesse ; cela m’a fait
-  plaisir, car j’ai pensé que la Fleur de Armencita trouverait en toi le
-  défenseur, dont la pauvrette a grand besoin.
+  l’ahurissement de son prisonnier. Au lieu de te laisser abattre par la
+  mauvaise fortune, tu as décidé que tu reconquerrais la richesse ; cela
+  m’a fait plaisir, car j’ai pensé que la Fleur de Armencita trouverait en
+  toi le défenseur, dont la pauvrette a grand besoin.
 
 — La fleur de Armencita, répéta Chazelet. Qui appelez-vous ainsi ?
 
@@ -1006,7 +1006,7 @@ rencontrerait.
 — Là-bas, fit Sélénitès d’une voix sourde, je ne puis rien pour protéger ma
   petite bienfaitrice. Mais toi, tu pourrais la défendre. Tu es un fils de
   la grande ville, tu as un nom respecté, des amis, des relations… Tu es
-  Français enfin, c’est-à-dire chevaleresque et tendre, et je te dis : Une
+  Français enfin, c’est-à-dire chevaleresque et tendre, et je te dis : une
   jeune fille pure comme la madone est en danger, sauve-la.
 
 On eût cru que cet entretien continuait celui de la gitana.
@@ -1029,13 +1029,13 @@ Le bandit eut un geste de satisfaction, puis reprenant son attitude raide :
 
 — Cela t’effraie… ?
 
-Pierre eut un haut-le-corps, et avec une ardeur juvénile :
+Pierre eût un haut-le-corps, et avec une ardeur juvénile :
 
 — Ce n’est pas cela… Je trouve cette absence de renseignements ennuyeuse,
   voilà tout ! Vous me dites : Il est un ennemi qui veut frapper, mais cet
   ennemi je ne le connais pas. Alors, se défier de tout le monde…
 
-— Oui, de tout le monde. I1 convient d’être le défenseur, sans allié, sans
+— Oui, de tout le monde. Il convient d’être le défenseur, sans allié, sans
   confident. Il faut être celui qui regarde, qui écoute, sans en avoir l’air.
 
 — Allons, de plus en plus commode.
@@ -1064,7 +1064,7 @@ Son interlocuteur prononça lentement :
 
 — Que ferais-tu ?
  
-— Je partirai dès demain.
+— Je partirais dès demain.
 
 — Qui t’en empêche ?
 
@@ -1086,7 +1086,7 @@ Les limites de l’originalité étaient dépassées par ce voleur de grands
 chemin qui, non seulement ne le dépouillait pas, mais encore lui offrait un
 prêt d’argent.
 
-Sans doute, Sélénitès perçut vaguement le sens de lhilarité de son
+Sans doute, Sélénitès perçut vaguement le sens de l'hilarité de son
 interlocuteur, car il dit tranquillement :
 
 — Cela ne devrait pas te surprendre. Je sais que ma créance sera fidèlement
