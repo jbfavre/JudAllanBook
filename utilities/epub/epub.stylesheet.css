@@ -14,7 +14,6 @@ label, legend, table, caption, tbody, tfoot, thead, tr, th, td {
 /* end reset */
 
 /* This defines styles and classes used in the book */
-body{margin-top:0.5em;margin-right:0.5em;margin-bottom:0.5em;margin-left:0.5em;text-align:justify;font-size:small;}
 code{font-family:monospace;white-space:pre-wrap;}
 h1{text-align:left;margin-top:2em;}
 h2{text-align:left;margin-top:2em;}
@@ -28,8 +27,8 @@ h3.date {text-align:center;margin-top:2em;}
 p{margin-top:1em;}
 
 body {
-  margin-left: 1em;
-  margin-right: 1em;}
+  margin: 1em;
+  text-align:justify;}
 .chapterHeader {
   height:100px;
   border:1px solid #000;
@@ -61,8 +60,7 @@ body {
   padding:0px;
   background-color:#FFF;}
 @page {
-  margin-top: 0.8em;
-  margin-bottom: 0.8em;}
+  margin: 1em;}
 figure {
   display:block;
   width:100%;
