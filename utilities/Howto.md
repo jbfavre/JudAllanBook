@@ -1,5 +1,5 @@
 #!/bin/bash
-FILE="../jud_allan-epub3.epub"
+FILE="../jud_allan-epub2.epub"
 rm -f "$FILE"
 zip -X0 "$FILE" mimetype
 zip -X9Dr "$FILE" META-INF images *.*
