@@ -60,7 +60,7 @@ mi-voix :
 
 — Au surplus, ce que l’on vous demande est peu de chose. Rentrez à pied
   au palais d’Orsay ; une promenade agréable par ce beau temps. Il se
-  produira en route une chose qui vous assurera 1’ami, sans lequel vous ne
+  produira en route une chose qui vous assurera l’ami, sans lequel vous ne
   pourriez rien.
 
 — Quelle chose ?
