@@ -10,7 +10,7 @@ mondanité, dont la fantaisie des invités faisait à la fois une revue
 d’exquise élégance et une fête parée, costumée et travestie.
 
 Toutes les notabilités de la colonie espagnole, si brillamment représentée
-à Paris, formaient, si l’on peut s’exprimer ainsi, le fonds de l’assistance.
+à Paris, formaient, si l’on peut s’exprimer ainsi, le fond de l’assistance.
 Avec les grands noms transpyrénéens, des membres des ambassades, députés,
 sénateurs, ministres, sommités artistiques, scientifiques ou littéraires,
 étaient accourus à l’appel du représentant des jeunes souverains de la
@@ -209,7 +209,7 @@ Il y eut des chuchotements, des sourires médisants ; rien de plus.
 Von Foorberg attendait toujours.
 
 — Voyons, reprit-il, n’est-il personne ici qui souhaite le mot d’une
-  énigme de la vie ? Marahi ne lira rien autre. Il arrive, à chaque
+  énigme de la vie ? Marahi ne lira rien d'autre. Il arrive, à chaque
   instant, une chose inexplicable pour qui en est atteint. Ceci n’est
   point un secret que l’on craigne de voir dévoiler… ; c’est l’x d’un
   problème que l’on doit désirer connaître.
@@ -283,7 +283,7 @@ créature ordonna d’un ton sec :
 
 La voix sonna autoritaire, tel un appel de clairon.
 
-Tous avaient tressailli. Ils regardaient 1e groupe formé par les deux
+Tous avaient tressailli. Ils regardaient le groupe formé par les deux
 femmes si différentes de race, de condition, surpris de constater que
 la peau- rouge semblait dominer la grande dame. Peut-être quelques-uns,
 à cette heure, avaient-ils la vague intuition que la noblesse ne tient
@@ -370,14 +370,14 @@ Mais l’ironie n’éveilla aucun écho. Marahi continuait :
   aveuglante, entre deux mers, s’étendant plus vastes que dix départements
   de ce pays de France.
 
-— Mais ces parents dont vous parlez? sécria la jeune fille, oubliant
+— Mais ces parents dont vous parlez ? s'écria la jeune fille, oubliant
   que deux cents yeux se fixaient sur elle.
 
 — Ta mère vit…, auprès de son cousin, le riche Américain.
 
 — Elle vit… mais mon père…? 
 
-— Il est mort, assassiné par ceux qui t’arrachérent tout enfant à ta
+— Il est mort, assassiné par ceux qui t’arrachèrent tout enfant à ta
   famille, qui te poursuivent encore à cette heure.
 
 Plus personne ne songeait à plaisanter.
@@ -491,7 +491,7 @@ Pierre de Chazelet.
 — Vous me connaissez ? fit-il d’une voix tremblante, tandis qu’une pâleur
 s’abaissait sur ses traits.
 
-Et elle, encouragée par 1e trouble où elle le voyait, répondit :
+Et elle, encouragée par le trouble où elle le voyait, répondit :
 
 — Oui mais vous ?
 
@@ -521,7 +521,7 @@ Il s’inclina, puis doucement :
 — Je vous dirai tout, sans rien cacher… La gitane a prononcé ces paroles :
   Voici celle que tu dois épouser.
 
-Le mot sonna en glas dans le. cerveau de la jeune fille. Elle jeta les bras
+Le mot sonna en glas dans le cerveau de la jeune fille. Elle jeta les bras
 en avant comme pour repousser sa pensée.
 
 — Non, non, fit-elle la voix s’étranglant dans sa gorge… Il ne faut pas
