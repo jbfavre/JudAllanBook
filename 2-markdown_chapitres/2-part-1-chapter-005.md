@@ -155,7 +155,7 @@ Puis semblant chasser une pensée inopportune :
 — Écoute, tu le désigneras aux autres… comme il est convenu, n’est-ce
   pas ? Les quais sont l’endroit le plus favorable… C’est aussi mon
   chemin rationnel, puisque je serai censé sortir du Ministère de la
-  marine.
+  Marine.
 
 — Bien, Roi, c’est tout ?
 
@@ -175,8 +175,6 @@ terrasse des Tuileries.
 — Merci…, va _les_ retrouver.
 
 Le petit s’éloigna en courant.
-
------
 
 Cependant, le marquis déambulait sans se presser, ne portant aucune
 attention au chemin parcouru.
@@ -446,5 +444,3 @@ constata avec stupéfaction que les billets avaient disparu.
 deux mots :
 
 > Exact. Merci.
-
------
