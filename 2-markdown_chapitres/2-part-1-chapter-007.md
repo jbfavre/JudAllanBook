@@ -10,7 +10,7 @@ trouvaient réunis.
 Allan tressaillit.
 
 D’un coup d’œil, il s’assura que ni Linérès, ni Pierre, ni la comtesse,
-ne l’observaient, et se penchant à l’orei1le de M. Lorenaud, il murmura :
+ne l’observaient, et se penchant à l’oreille de M. Lorenaud, il murmura :
 
 — C’est _Lui_. Il vient.
 
@@ -30,11 +30,11 @@ provoqué par cette affirmation, l’Américain continua :
 — Et vous, vous avez ma reconnaissance.
 
 Sur ce, l’Américain se glissa sans bruit hors du salon, dont la porte
-retomba sur ici.
+retomba sur lui.
 
 M. Lerenaud demeurait pensif. Certes, celui qui venait de sortir avait
-été accrédité auprès de lui parle Président même de la grande république
-des Etats-Unis… Il lui avait conté une terrible histoire de ce banditisme
+été accrédité auprès de lui par le Président même de la grande république
+des États-Unis… Il lui avait conté une terrible histoire de ce banditisme
 américain au regard duquel les bandits d’Europe apparaissent comme des
 écoliers, ânonnant l’alphabet du crime ; mais, tout en se mettant à la
 disposition de son hôte, le Chef de la Sûreté comprenait que l’ensemble
@@ -104,7 +104,7 @@ monde réel pour s’enfoncer dans une légende des mille et une nuits du crime.
 
 Voici au surplus ce que le jeune Américain lui avait conté :
 
-En 186…, lors de cette fatale expédition du Mexique, qui ébranla le trône
+En 186… [^expeditionMexique], lors de cette fatale expédition du Mexique, qui ébranla le trône
 de Napoléon III, coûta à la France quelques centaines de millions,
 quelques trente mille morts, et aboutit à l’exécution de l’infortuné
 Maximilien imposé comme souverain aux populations mexicaines, un brave
@@ -134,7 +134,7 @@ Mais là encore, il fallait une somme impossible à réunir pour de pauvres
 gens.
 
 Quinze cents francs… le Pactole dans certaines situations… Quinze cents
-francs constituaient la dotation nécessaire pour que la malade fùt admise
+francs constituaient la dotation nécessaire pour que la malade fût admise
 à finir ses jours dans l’établissement hospitalier.
 
 Pariset n’hésita pas.
@@ -223,9 +223,8 @@ année, Jemkins comptait vingt-sept ans. Tous deux braves, vigoureux,
 hardis, entreprenants, ils devaient, malgré l’énorme différence de leurs
 fortunes, devenir une paire d’amis.
 
-Par la suite, quand Jean était appelé par ses aflaires à San-Francisco, i1
+Par la suite, quand Jean était appelé par ses aflaires à San-Francisco, il
 descendait chez son ami Frey, et celui-ci venait passer ses vacances à
-
 l’hacienda de Agua Frida, tel était le nom de la résidence naguère fondée
 par Pariset.
 
@@ -338,7 +337,7 @@ Et M. Allan avait terminé cette étrange histoire en disant :
 
 Et à une interrogation curieuse du policier, l’Américain avait répondu :
 
-— Pour que M. Loosevelt Vous ait écrit comme il l’a fait, Vous devez être
+— Pour que M. Loosevelt vous ait écrit comme il l’a fait, Vous devez être
   assuré de l’importance de ma mission. Il vous demande de faire pour
   m’aider tout ce qui est en votre pouvoir. Eh bien, parmi les choses que
   vous pouvez, il en existe tout d’abord deux que je vous supplie de
@@ -422,7 +421,7 @@ Il prit la main de la jeune fille et la conservant dans les siennes.
 — Très jolie en vérité, ma petite cousine. Il est impossible qu’une si
   gracieuse enfant ne rende pas la raison à ma pauvre Lily.
 
-— Lily ? répéta 1a jeune fille d’un ton interrogatif.
+— Lily ? répéta la jeune fille d’un ton interrogatif.
 
 — Oui, Lily, la maman du baby que je cherche, et qui, si c’est vous, est
   devenu un bien charmant baby en courant le monde.
@@ -479,7 +478,7 @@ Il consulta Linérès du regard.
 — Vous voulez conduire chez votre maman jusqu’à ce jour ?
 
 Elle inclina la tête, se sentant incapable de proférer une syllabe. Des
-idées consufses cavalcadaient en son cerveau : sa mère adoptive, sa mère
+idées confuses cavalcadaient en son cerveau : sa mère adoptive, sa mère
 réelle, la voyante qui lui avait annoncé cela, le crime, Pierre de
 Chazelet qu’elle allait quitter pour ne le revoir peut-être jamais.
 
@@ -512,7 +511,7 @@ Alors, Pierre balbutia d’une voix sourde :
 
 — Vous… Pourquoi ?
 
-— Je n’ai plus rien à faire ici. p p _
+— Je n’ai plus rien à faire ici.
 
 Le Chef de la Sûreté haussa les épaules avec insouciance. Que lui
 importait que Chazelet fût ou non présent ?
@@ -536,10 +535,10 @@ jeune fille ; il n’avait point su y lire la reconnaissance pour son
 courage et l’épouvante de le livrer aux périls qui avaient supprimé les
 prétendants à la main de la Fiancée du Diable.
 
-Tel était son désespoir qu’i1 éprouva le besoin de le confier… Le nom
+Tel était son désespoir qu’il éprouva le besoin de le confier… Le nom
 d’Allan vint à ses lèvres.
 
-Pourquoi cet homme, le plus récent parmi ses connaissances?
+Pourquoi cet homme, le plus récent parmi ses connaissances ?
 
 Il ne se le demanda même pas, entraîné par une de ces impulsions
 irrésistibles qui nous dominent aux heures douloureuses.
@@ -608,7 +607,7 @@ Et lentement :
 — Donc, voilà qui est convenu… Si mes soupçons se confirment, Miss Linérès
   aura deux mères au lieu d’une. Abondance de biens ne nuit pas.
 
-— Cela, fit la comtesse, me paraît cordialement pensé. Oui, en efifet, je
+— Cela, fit la comtesse, me paraît cordialement pensé. Oui, en effet, je
   ne me résoudrais pas à ne plus voir cette enfant qui a grandi auprès de
   moi. — Elle regarda fixement la jeune fille, puis continua : — Je ne
   suis pas démonstrative, mais les sentiments inexprimés n’ont que plus de
@@ -639,7 +638,7 @@ attestait un long usage.
 
 Et après avoir feuilleté le Volume :
 
-— Voilà 1802. Janvier, départ pour le Nord-Mexicain. Exploration
+— Voilà 1892. Janvier, départ pour le Nord-Mexicain. Exploration
   géologique et commerciale. Mission du Gouvernement accordée par le
   ministère Ramon Olivera… Six mois de durée… Allocation de vingt milles
   pesetas, doublée par la subvention des négociants de Bilbao.
@@ -659,7 +658,7 @@ M^me^ de Armencita tourna plusieurs pages.
 
 Puis posant le doigt sur une ligne :
 
-— Voici… 1er au 7 août, attaque de fièvre dans la petite ville de
+— Voici… 1^er^ au 7 août, attaque de fièvre dans la petite ville de
   Mazatlan, province de Sinaloa, sur la côte du Pacifique.
 
 — Continuez, je vous prie.
@@ -672,7 +671,7 @@ Puis posant le doigt sur une ligne :
 — Ne vous arrêtez pas, Madame.
 
 — Le 13, arrivée à Mavari. Le lendemain, fait prix avec le patron d’un
-  bateau de pêche pour être conduite à Guaymas. Départ le l6. Le 17, les
+  bateau de pêche pour être conduite à Guaymas. Départ le 16. Le 17, les
   courants nous portent vers la petite île de Tortuga, à peu de distance
   de la côte californienne dominée par les trois pics de Las Tres
   Virgines. Là, on a tiré la barque à terre, car le patron craint une
@@ -688,7 +687,7 @@ Elle devinait qu’il allait être question d’elle, qu’elle saurait enfin
 comment son existence avait été _cousue_, comme disent les Léonais, à
 celle de sa mère adoptive.
 
-— Toute la nuit du 17 au l8, le vent souffla avec rage. Il s’apaisa un peu
+— Toute la nuit du 17 au 18, le vent souffla avec rage. Il s’apaisa un peu
   vers l’aube. Le patron déclara qu’au milieu de la journée nous pourrions
   repartir sans danger. Pour occuper le temps, je parcourus la petite île.
   J’arrivai le long du chenal, large de trois à quatre cents mètres à
@@ -821,4 +820,9 @@ Mais son « Cousin Frey », avait repris son apparence habituelle,
 lorsqu’elle pénétra, entre lui et M^me^ de Armencita, dans le grand salon,
 où le juge attendait en compagnie de M. Lerenaud.
 
------
+[^expeditionMexique]: il s'agit des années 1860. L'expédition du Mexique
+                      mentionnée ici a débuté en 1961 pour s'achever en 1967.
+                      L'un des évènements marquants de cette campagne est la
+                      célèbre bataille de Camerone, le 30 Avril 1863.
+                      Plus de détails sur [l'expédition du Mexique](http://fr.wikipedia.org/wiki/Exp%C3%A9dition_du_Mexique)
+                      et la [bataille de Camerone](http://fr.wikipedia.org/wiki/Camerone) sur Wikipedia
