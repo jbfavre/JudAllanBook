@@ -5,7 +5,7 @@
 À huit heures du matin, Pierre de Chazelet était debout, habillé, prêt à
 sortir. Où voulait-il aller ? Nulle part.
 
-Mais après une nuit pendant laquelle 1’insomnie avait torturé son esprit
+Mais après une nuit pendant laquelle l’insomnie avait torturé son esprit
 et son corps, il s’était levé vers six heures, brisé, une vague migraine
 l’étreignant aux tempes.
 
@@ -127,7 +127,7 @@ veille au soir à l’hôtel de Armencita.
 
 L’Américain ne semble pas s’apercevoir du trouble du jeune homme. Il entre
 souriant, content de lui. Il prend une chaise, que Pierre ne songe pas à lui
-offror, s’asseoit, tire un cigare de sa poche, l’allume, puis lançant une
+offrir, s’asseoit, tire un cigare de sa poche, l’allume, puis lançant une
 bouffée bleuâtre vers le plafond :
 
 — Je gage que vous m’avez pris pour le vieux Nick (le diable). Vous faites
@@ -143,7 +143,7 @@ Il s’arrête là. Aucun mot ne vient à ses lèvres.
   marquis Pierre de Chazelet… Très bien ! Moi, je suis Frey Jemkins, de
   San-Francisco…
   L’Amérique me connaît comme Rockefeller, Carnegie ou Morgan… Vous aussi,
-  je pense. Au surplus, cela n’est rien… Jïntéresserai davantage votre
+  je pense. Au surplus, cela n’est rien… J'intéresserai davantage votre
   cervelle en vous apprenant que je suis le propre cousin d’une jeune
   lady, connue sous le nom de señorita Linérès de Armencita.
 
@@ -207,7 +207,7 @@ se troublèrent et, d’une voix déchirante, il clama :
 une multimillionnaire très authentique aussi. Faisons affaire. Mettez le
 nom sur les millions.
 
-C’était la demande en mariage. C’était le réve, éclos à la passe de
+C’était la demande en mariage. C’était le rêve, éclos à la passe de
 Castille, se transformant en réalité.
 
 Et pourtant Pierre secoua la tête. La forme employée par le brasseur
@@ -264,5 +264,3 @@ pour que l’intéressé pût l’entendre :
 
 — Il a sauté, le marquis ! J’ai sa signature… Il sera responsable de tout…
   et les millions japonais seront à moi !
-
------
