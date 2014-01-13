@@ -64,7 +64,7 @@ Le marquis était calme, mais certaines contractions du visage décelaient une
 émotion dissimulée à grand’peine.
 
 Tout le jour, il avait vécu dans l’espérance de voir Linérès, de se faire
-agréer par la comtesse, et la porte de l’hôtel de la rue François Ier
+agréer par la comtesse, et la porte de l’hôtel de la rue François Ⅰ^er^
 serait défendue !
 
 — Personne, sauf le capitaine Anoru, attaché militaire à l’ambassade
@@ -139,7 +139,7 @@ Ils entrevoyaient vaguement la possibilité de nouvelles sensationnelles.
 — En riant.
 
 — Quoi ?  Un attaché militaire consent à être espionné, non, pardon, je
-voulais dire : observé ! Je croyais que 1a raison d’être de ces fonctionnaires
+voulais dire : observé ! Je croyais que la raison d’être de ces fonctionnaires
 était de surprendre les secrets des peuples qui leur accordent l’hospitalité.
 
 M. Lerenaud se pinça les lèvres :
@@ -153,7 +153,7 @@ M. Lerenaud se pinça les lèvres :
 
 On sourit, avec un peu de désillusion inavouée. Au fond, chacun avait été
 attiré au cercle militaire par l’espoir de… palpiter à une nouvelle scène
-drame mystérieux qui fixait la pensée du Paris frivole.
+du drame mystérieux qui fixait la pensée du Paris frivole.
 
 Au lieu de cela, on trouvait quoi ?
 
@@ -210,14 +210,14 @@ occupée par l’agence Cook and Sons, se jeta dans la rue de la Paix.
 
 Une voiture passait. Il y sauta :
 
-— Cocher ! rue François Ier.
+— Cocher ! rue François Ⅰ^er^.
 
 Et il se laissa tomber sur les coussins en murmurant :
 
 — Pourvu que l’on veuille me recevoir. Il faut que l’on me reçoive.
 
 À ce moment même, un valet entrait précipitamment dans le salon où
-Morand et ses amis entouraientle chef de la Sûreté.
+Morand et ses amis entouraient le chef de la Sûreté.
 
 — On demande M. Lerenaud au télephone.
 
@@ -231,7 +231,7 @@ tour.
 
 — Ma foi, cher Monsieur, dit-il, je n’attendrai point l’assurance que
   cet officier prend le thé bien paisiblement, car je m’aperçois que j’ai
-  oublié l’heure. Je irai que le temps de réparer ma distraction.
+  oublié l’heure. Je n'ai que le temps de réparer ma distraction.
 
 L’Américain sortit sur ces mots et se dirigea ostensiblement vers
 l’escalier descendant à l’avenue de l’Opéra, tandis que le chef de la
@@ -239,7 +239,7 @@ Sûreté se rendait, avec une précipitation qui démentait son calme de
 tout à l’heure, vers la cabine du téléphone.
 
 Deux minutes plus tard, M. Lerenaud très pâle, une stupeur dans les yeux,
-quittait la logette du du téléphone et s’élançait dans l’escalier.
+quittait la logette du téléphone et s’élançait dans l’escalier.
 
 À la moitié de l’étage, il fut arrêté par un monsieur qui, courbé en deux,
 semblait très occupé à retrousser le bas de son pantalon.
@@ -248,7 +248,7 @@ semblait très occupé à retrousser le bas de son pantalon.
 "Il fut arrêté par un monsieur qui semblait très occupé à retrousser le bas de son pantalon")
 
 Avant que le chef de la Sûreté eût pu tourner l’obstacle vivant, celui-ci,
-sans lever la tète, murmura :
+sans lever la tête, murmura :
 
 — Me permettrez-vous de vous rejoindre là-bas ?
 
@@ -278,7 +278,7 @@ dans le vestibule du cercle, il murmura d’un ton découragé :
 
 Il eut un geste rageur.
 
-— Oh! je reconnais la main qui mène tout… mais cela est insuffisant…
+— Oh ! je reconnais la main qui mène tout… mais cela est insuffisant…
 
 Il faut que je persuade M. Loosevelt… Il faut que le Président de la
 République des États-Unis soit avec moi… ou bien je reste seul,
@@ -297,7 +297,7 @@ Qu’il soit oublié, lui, qui se souviendra !
 
 Il saisit la rampe d’un geste brusque.
 
-— Allons à l’hôtel de la rue François Ier… C’est peut-être là que se cache
+— Allons à l’hôtel de la rue François Ⅰ^er^… C’est peut-être là que se cache
 le bonheur de Lilian et mon malheur, à moi… mais qu’importe, je suis si
 peu de chose.
 
@@ -308,7 +308,7 @@ circulaire ne  lui fit rien distinguer de suspect aux alentours.
 
 Alors il héla un fiacre et à l’automédon il lança ces mots :
 
-— Rue François 1er, je vous arrêterai…
+— Rue François Ⅰ^er^, je vous arrêterai…
 
 Par la rue de la Paix, la place Vendôme, la rue de Rivoli, le véhicule
 gagna l’avenue des Champs-Êlysées.
@@ -316,7 +316,7 @@ gagna l’avenue des Champs-Êlysées.
 Allan ne bougeait pas. Mais si son corps demeurait immobile, sa pensée,
 elle, n’était point inactive.
 
-— Ah ! grommelait-il… c’est _Lui-, lui qui dirige tout cela… Quel est son
+— Ah ! grommelait-il… c’est _Lui_, lui qui dirige tout cela… Quel est son
 but…? Je l’ignore… Mais je le découvrirai s’il consent seulement à se
 montrer. Que je tienne une extrémité du fil et je le suivrai jusqu’au
 bout… En écrasant cet homme, je briserai ma vie… Bah !… Que Lilian soit
@@ -335,7 +335,7 @@ me prêter votre appui dans l’œuvre de justice… Cette preuve, la voici.
 Une brusque secousse le tira de ses réflexions.
 
 La voiture s’était arrêtée à l’intersection de l’avenue Montaigne et de la
-rue François Ier ; le cocher, se penchant sur son siège, demandait :
+rue François Ⅰ^er^ ; le cocher, se penchant sur son siège, demandait :
 
 — À droite ou à gauche, patron… Vers le Cours-la-Reine, ou vers l’avenue
   de l’Alma?
@@ -346,10 +346,10 @@ Allan ouvrit la portière.
 
 Il tendit quelques pièces de monnaie à l’automédon. Sans doute le
 pourboire était copieux, car le cocher marqua sa déférence pour le
-client généreux, en portant 1a main à son chapeau.
+client généreux, en portant la main à son chapeau.
 
-L’Américain répondit par une légère inclination de la tête et séloigna
-vivement, descendant la rue François Ier dans la direction du
+L’Américain répondit par une légère inclination de la tête et s'éloigna
+vivement, descendant la rue François Ⅰ^er^ dans la direction du
 Cours-la-Reine.
 
 Presque à l’extrémité, se dressait un hôtel spacieux, à un seul étage, que
@@ -363,9 +363,9 @@ principal et à laquelle on accédait par un large perron s’évasant en
 rue par deux pavillons.
 L’un des deux était affecté au logement d’un gardien, lequel se tenait
 malgré l’heure tardive auprès de la porte de service, en grande
-conférence avec plusiuers gardiens de la paix.
+conférence avec plusieurs gardiens de la paix.
 
-Tout cela, Allan l’embrassa d’un coup d’œi1.
+Tout cela, Allan l’embrassa d’un coup d’œil.
 
 Il allait entrer, une forme humaine se dressa devant lui.
 
@@ -396,10 +396,10 @@ Et l’entraînant pour couper court à ses protestations :
 
 Tous deux franchirent la porte de service.
 
-— Messieurs, Messieurs, s’écria le suisse faisant mine de les arrêter.
+— Messieurs, Messieurs, s’écria le suisse [^suisse] faisant mine de les arrêter.
 
 Mais l’Américain lui présenta un carton vert devant lequel le cerbère
-s’inclina, bredouillant des excuses. Allan 1’interrompit pour demander :
+s’inclina, bredouillant des excuses. Allan l’interrompit pour demander :
 
 — M. Lerenaud ?
 
@@ -407,7 +407,7 @@ s’inclina, bredouillant des excuses. Allan 1’interrompit pour demander :
   été bouleversées, vous comprenez…
 
 L’Américain ne l’écoutait déjà plus. À grandes enjambées, il traversait
-la cour, gravissait le perron et poussant 1’une des portes-fenêtres,
+la cour, gravissait le perron et poussant l’une des portes-fenêtres,
 disparaissait dans l’hôtel. Pierre le suivait comme son ombre.
 
 Guidés par la lumière, ils venaient de pénétrer dans le grand salon,
@@ -462,7 +462,7 @@ Et tout près, renversé dans un fauteuil, une forme rigide se devinait.
 
 — Le capitaine Anoru, présenta le chef de la Sûreté.
 
-I1 actionnait en même temps les boutons électriques d’allumage… Une
+Il actionnait en même temps les boutons électriques d’allumage… Une
 clarté aveuglante remplit la salle, et Allan eut une exclamation étouffée :
 
 — Il est mort… comme vous l’annonciez au cercle…
@@ -571,7 +571,7 @@ sans en avoir conscience, il murmura :
   cet homme doit disposer !… Les procédés supposeraient une fortune
   énorme, une armée d’affiliés…
 
-Plus bas encore, 1’Américain lui glissa à l’oreille :
+Plus bas encore, l’Américain lui glissa à l’oreille :
 
 — Le nom que j’ai confié à votre honneur, sur l’autorisation de M. le
   Président des États-Unis, ce nom que connaissent trois hommes dont aucun
@@ -582,7 +582,7 @@ Plus bas encore, 1’Américain lui glissa à l’oreille :
   américain, l’un des plus riches citoyens de San Francisco, soit un
   chef de bandits.
 
-— C’est ce qu’il s’agit de démontrer, mon cher Monsieur… C. Q. F. D. Je
+— C’est ce qu’il s’agit de démontrer, mon cher Monsieur… C.Q.F.D. Je
   vous en ai averti dès notre première rencontre.
 
 — Eh ! Vous êtes peut-être _droit_, pour vous emprunter une locution 
@@ -914,7 +914,7 @@ fougueusement, puis-revenant à ses interlocuteurs :
 
 Allan, M. Lerenaud, Chazelet se considéraient d’un air ahuri.
 
-Le récit de 1a jeune fille était de tout point conforme à celui des
+Le récit de la jeune fille était de tout point conforme à celui des
 domestiques, qu’un instant plus tôt ils qualifiaient d’invraisemblable.
 
 Pourtant le Chef de la Sûreté insista :
@@ -1030,4 +1030,4 @@ Et la superstition espagnole aidant, la jeune fille se voyait déjà en
 butte aux maléfices de quelque démon échappé aux exorcismes de la
 Sainte Inquisition.
 
------
+[^suisse]: synonyme de gardien, concierge (NDE)
