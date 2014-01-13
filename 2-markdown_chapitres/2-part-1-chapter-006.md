@@ -672,7 +672,7 @@ Mais Linérès l’interrompit vivement :
 Il n’y avait pas à s’y méprendre ; la jeune fille exposait simplement,
 sincèrement, son état d’esprit.
 
-Les trois hommes se regarderont, un peu surpris par cette énergie, rare
+Les trois hommes se regardèrent, un peu surpris par cette énergie, rare
 chez des enfants de dix-huit ans.
 
 Elle comprit leur pensée et doucement :
@@ -713,7 +713,7 @@ rembrunit.
 
 — Oui, dit-elle entre haut et bas, c’est de cela qu’il faut parler.
 
-La phrase rappela le Chef de la Sûreté à lui—même.
+La phrase rappela le Chef de la Sûreté à lui-même.
 
 — Vous avez raison, Mademoiselle.
 
@@ -779,7 +779,7 @@ Elle eut un regard mélancolique à l’adresse de Pierre.
 — Mais, certainement… Étant donnée l’épidémie qui sévit sur ceux qui me
   font l’honneur de me trouver digne de leur nom, je comptais remercier
   M. le capitaine Anoru de sa démarche, puis lui déclarer que je ne
-  songeais pas à me marier, et obtenir de Lui qu’il renonçât à ses
+  songeais pas à me marier, et obtenir de lui qu’il renonçât à ses
   projets.
 
 — Ah ! soupira la comtesse d’une voix dolente. Pourquoi ne lui ai-je pas
@@ -908,7 +908,7 @@ fougueusement, puis-revenant à ses interlocuteurs :
 
 — Et la fenêtre ?
 
-— Egalement… Maman s’était évanouie. En la faisant porter dans sa
+— Également… Maman s’était évanouie. En la faisant porter dans sa
   chambre, j’ai donné l’ordre de ne rien déranger ici et de n’y point
   entrer jusqu’à l’arrivée de la justice.
 
@@ -943,7 +943,7 @@ Le visage de la jeune fille exprima la stupéfaction.
   le capitaine en eût un dans sa poche.
 
 — Il n’en a pas, déclara M. Lerenaud… Je m’en suis assuré… Je puis même
-  affirmer qu’i1 n’en a jamais porté dans le vêtement qui le couvre,
+  affirmer qu’il n’en a jamais porté dans le vêtement qui le couvre,
   car l’arme aurait laissé des traces. Un observateur de quinzième
   ordre reconnaîtrait qu’un revolver a été enfoui dans telle ou telle
   poche.
@@ -997,7 +997,7 @@ coulant de la blessure… Alors, il avait perdu la tête, s’était enfui
 en criant au secours.
 
 Sur les joues de M. Lerenaud se plaquaient des teintes roses.
-Evidemment, il s’énervait en face du mystère impénétrable. Une heure
+Évidemment, il s’énervait en face du mystère impénétrable. Une heure
 se passa à interroger les domestiques, à rechercher dans le jardin une
 trace du passage de l’assassin.
 
@@ -1014,7 +1014,7 @@ dehors du capitaine Anoru, lequel lui avait décliné ses nom et
 qualités, puisque, selon les ordres de la doña, il était le seul
 visiteur que l’on dût recevoir.
 
-M^me^ de Armencita se lamentait dans le grand saglon, où on lui avait
+M^me^ de Armencita se lamentait dans le grand salon, où on lui avait
 permis de se réfugier pour ne plus voir ce _pobre señor Anoru_, mais
 Linérès suivait le Chef de la Sûreté partout, insistant auprès des
 domestiques, multipliant les interrogations… La solution du problème
