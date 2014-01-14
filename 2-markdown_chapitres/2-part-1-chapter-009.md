@@ -601,15 +601,15 @@ paroles qui glacent les assistants.
 C’est une sorte de mélopée plaintive qui passe dans l’air ainsi qu’un
 frisson d’épouvante. Elle module:
 
-> Le soleil est rouge de sang.
-  — Soleil, dis-moi, pourquoi ce rouge ?
-  — C’est le sang pur de ton enfant
-  Qu’ont bu le vampire et la gouge !
+> Le soleil est rouge de sang.  
+  — Soleil, dis-moi, pourquoi ce rouge ?  
+  — C’est le sang pur de ton enfant  
+  Qu’ont bu le vampire et la gouge !  
 
-> La lune a le visage blanc.
-  — Pourquoi te farder de la sorte ?
-  — Pour rappeler que ton enfant
-  Est livide ainsi qu’une morte !
+> La lune a le visage blanc.  
+  — Pourquoi te farder de la sorte ?  
+  — Pour rappeler que ton enfant  
+  Est livide ainsi qu’une morte ! 
 
 De grosses larmes roulaient sur les joues de Linérès.
 
