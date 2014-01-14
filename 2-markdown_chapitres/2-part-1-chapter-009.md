@@ -632,7 +632,7 @@ sens des mots prononcés échappait à son cerveau embrumé :
 
 — Frey Jemkins, continua le milliardaire, Frey Jemkins qui vous a élevée…
 
-La femme inclina la tète, un vague sourire passa sur ses lèvres.
+La femme inclina la tête, un vague sourire passa sur ses lèvres.
 
 — Oui, oui, je connais Frey Jemkins, le chef des éclaireurs de la prairie…
   Oui, oui, et le grand bazar de Frisco.
@@ -753,7 +753,7 @@ Puis revenant à la veuve :
 
 Pour la première fois, les regards de l’insensée se portèrent sur Linérès.
 
-— Lilian, redit—elle, n’est-ce pas que c’est le plus doux des noms ?
+— Lilian, redit-elle, n’est-ce pas que c’est le plus doux des noms ?
 
 Et comme la jeune fille se courbait devant elle, M^me^ Pariset éleva la main,
 caressa les cheveux de son interlocutrice.
@@ -861,7 +861,7 @@ ironique.
 
 — Bon, on y sera… en personne ou par remplacement [^1-09-1].
 
-— _All right!_ Alors, bonne promenade.
+— _All right !_ Alors, bonne promenade.
 
 — Je remercie… ; au revoir.
 
@@ -957,7 +957,7 @@ Sans une parole, le gamin pivota sur ses talons et partit en courant.
 
 Allan le regardait s’éloigner.
 
-— Ah ! fit-il, ils maiment tous, ces pauvres êtres. S’ils savaient qu’ils
+— Ah ! fit-il, ils m'aiment tous, ces pauvres êtres. S’ils savaient qu’ils
   m’aident à tuer mon cœur, comme ils se révolteraient…!
 
 Il eut un haussement d’épaules.
@@ -1019,7 +1019,7 @@ Un haut portique se découpe dans un long mur récemment blanchi.
 
 Au sommet de la voûte, des lettres d’or figurent ces mots :
 
-> _MISS DEFFLING’S INSTITUTE_
+> _MISS DEFFLING’S INSTITUTE_  
   DAY AND BOARDING SCHOOL [^1-09-3]
 
 Le véhicule s’arrête. Allan saute à terre, règle le cocher, puis soulève
