@@ -28,7 +28,7 @@ Tout ce monde s’agitait, échangeant réflexions et lazzis, avec cette
 familiarité triviale par laquelle les gens du peuple, sous toutes les
 latitudes, croient exprimer la cordialité.
 Nul ne prêtait attention à une femme, grande et maigre, autant que l’on
-en pouvait juger sous l’amp1e manteau à capuchon relevé, qui dissimulait
+en pouvait juger sous l’ample manteau à capuchon relevé, qui dissimulait
 complètement et sa silhouette et son visage.
 
 Celle-ci se promenait lentement en arrière des voitures, qui la séparaient
@@ -276,7 +276,7 @@ elle approche ses lèvres du tube.
 Elle vise… Elle vise l’inconnu. Ses joues se gonflent. Soudain un bruit
 léger se fait entendre, auquel répond une exclamation étonnée.
 
-C’est l’inconnu qui 1’a poussée, en voyant rebondir sur son livre la boulette
+C’est l’inconnu qui l’a poussée, en voyant rebondir sur son livre la boulette
 de papier, dont il ne saurait soupçonner la provenance.
 
 Et sans doute, la vieille Marahi ne se soucie pas de lui donner des
@@ -311,7 +311,7 @@ caractères forment les lignes suivantes :
 > Écoute la voix prophétique. Toi et Lilian allez souffrir, trembler. Mais
   quoi qu’il arrive, ne désespérez pas. Continuez la lutte. D’autres
   combattent pour vous et ils vous donneront la victoire. Mais surtout ne
-  désespere jamais.
+  désespère jamais.
 
 Le jeune homme a un superbe mouvement de confiance.
 
@@ -1032,8 +1032,6 @@ Mais il la chasse d’un brusque mouvement de tête, et il murmure :
 
 — Allons, Jud,… vous n’allez pas être lâche à l’heure où vous avez besoin
   de tout votre courage.
-
------
 
 [^1-09-1]: Le droit de se faire remplacer a été accordé au personnel des
           Compagnies de navigation fluviale, sous la réserve que les agents
