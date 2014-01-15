@@ -577,7 +577,7 @@ Et lui, triste et doux, continuait comme poussé par l’inéluctable fatalité�
 
 — Un ami, rectifia la jeune fille.
 
-I1 eut un sourire navré :
+Il eut un sourire navré :
 
 — Ami, peut-être, si un ami de ce genre est assez discret pour ne point
   imposer de fréquentes entrevues.
@@ -756,7 +756,7 @@ s’exercer ici, en séparant les images des ladies et des gentlemen.
 
 Le reste de l’édifice constitue la résidence privée du premier magistrat des
 Etats-Unis ; les bureaux, chambres des séances du Conseil, etc., étant
-relégués dans une annexe à 1’Ouest.
+relégués dans une annexe à l’Ouest.
 
 C’est dans le _private_ que Jud Allan pénétra.
 
@@ -766,7 +766,7 @@ et l’avenue de New-York, il avait gagné la voie séparant le jardin Lafayette
 de la Maison Blanche.
 
 Il était évidemment connu du personnel, car nul ne l’arrêta quand il entra
-dans le jardin réservé de l’habitation présidentielle, puis dans le 1ogis.
+dans le jardin réservé de l’habitation présidentielle, puis dans le logis.
 
 Et, chose peu ordinaire, il lui suffit de demander à l’un des domestiques du
 service privé du Président : — M. Loosevelt peut-il me recevoir ? pour être
@@ -777,7 +777,7 @@ ses mouvements souples décelaient l’homme adonné aux sports, tandis que son
 visage énergique et ouvert expliquait en quelque sorte la mentalité du
 président.
 
-C’était 1’Américain dans toute sa puissance réelle, fils d’un pays neuf, dont
+C’était l’Américain dans toute sa puissance réelle, fils d’un pays neuf, dont
 la cérébralité ne traînait point l’embarras atavique de la tradition. Dans
 ses rapports avec ses concitoyens, comme dans ses échanges d’observations
 avec les gouvernements étrangers, M. Loosevelt parlait, non le langage
@@ -983,7 +983,7 @@ L’autre semblait un vieillard courbé par l’âge, au visage émacié, sillon
 de rides, et dont le chapeau de feutre laissait passer la longue chevelure
 d’un blanc gris.
 
-Au moment de s’éloigner, il se penche vers 1e gamin et lui adresse cette
+Au moment de s’éloigner, il se penche vers le gamin et lui adresse cette
 question :
 
 — Tout marchera bien… Tu m’en réponds ?

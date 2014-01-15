@@ -43,7 +43,7 @@ L’injustice le révoltait…, à ce point qu’il cherchait à la combattre
 partout où il la rencontrait. Cette tendance décida de sa vie.
 
 Le 15 septembre 1892, le jeune Jud, agé de douze ans environ, ainsi que
-l’étab1it l’instruction avec autant d’exactitude qu’en comporte l’état
+l’établit l’instruction avec autant d’exactitude qu’en comporte l’état
 civil d’un orphelin, sans répondants d’aucune sorte et sans domicile fixe,
 le jeune Jud, dit Allan, fut condamné à deux mois de détention dans la
 _prison moralisatrice_ d’Alb-Point, établie par un philanthrope sur la
@@ -280,7 +280,7 @@ Une teinte rosée se répandit sur les joues de linterpellée.
 
 — Le malheur n’est point une honte, prononça-t-elle…
 
-Mais la pétulante Grace lui coupa 1a parole :
+Mais la pétulante Grace lui coupa la parole :
 
 — Je suis absolument de ton avis. Et pusque Jud Allan, confiant en ma
   connaissance du monde, m’a déléguée pour te… diriger, je te déclare que
@@ -325,7 +325,7 @@ Ce fut ce soir-là, récompense sans doute d’une pensée de justice, que le
 _chevalier vagabond_ comprit la nécessité de l’instruction. C’est de ce
 moment que lui vint la volonté de savoir.
 
-Vers huit heures, l’infirmier renouvela 1e pansement du blessé. Il fit la
+Vers huit heures, l’infirmier renouvela le pansement du blessé. Il fit la
 grimace en constatant la poussée de la fièvre. Le thermomètre accusait
 chez Jud une température de 39° 9. Aussi obligea-t-il le gamin à se
 coucher immédiatement.
@@ -381,7 +381,7 @@ blessé du petit guetteur lui causant une douleur aiguë.
 Sa bouche s’ouvrit pour un cri, mais par un énergique effort de volonté,
 ce petiot de douze ans parvint à refouler l’exclamation prête à jaillir.
 
-Et puis la corde se balance de façon rythmique. Évidemment 1’un des
+Et puis la corde se balance de façon rythmique. Évidemment l’un des
 hommes a commencé sa descente.
 
 C’est vrai, Jud n’y a pas songé. Ils ne doivent descendre que l’un après
@@ -614,7 +614,7 @@ Et celui-ci ayant obéi, non sans faire la grimace :
 — À présent, assez causé… En route !
 
 Ni l’un ni l’autre ne remarqua l’éclair de triomphe qui brilla dans les
-yeux de Jud Allan. Aucun ne soupçonna qu’à cette minute même, 1e gamin
+yeux de Jud Allan. Aucun ne soupçonna qu’à cette minute même, le gamin
 murmurait :
 
 — Allons ! Le baby de deux ans aura son défenseur.
@@ -713,10 +713,10 @@ Et se penchant vers le gamin, Jetty ajouta d’un ton bourru :
 
 — Bon, vous n’en aurez pas.
 
-![Déjà Jud prenait place dans 1a barque…](../3-images/part1/page-211.jpg
-"Déjà Jud prenait place dans 1a barque…")
+![Déjà Jud prenait place dans la barque…](../3-images/part1/page-211.jpg
+"Déjà Jud prenait place dans la barque…")
 
-Déjà Jud prenait place dans 1a barque, avec un empressement qui dérida
+Déjà Jud prenait place dans la barque, avec un empressement qui dérida
 son répondant.
 
 Celui-ci et Tom imitèrent le gamin. Puis, tandis que l’automobile,
@@ -888,7 +888,7 @@ Puis se retournant vers le gamin :
 — Approche, vieux petit grillon, je vais te présenter à ces honorables
   gentlemen.
 
-— Bien volontiers, fit modestement 1’interpellé ; tandis que je
+— Bien volontiers, fit modestement l’interpellé ; tandis que je
   déjeunais, je me suis rendu compte qu’ils se sont réunis, ayant comme
   point de départ tous les coins du monde. Et je suppose qu’il est
   intéressant de travailler auprès de gens qui ont fait tant de chemin
@@ -1046,7 +1046,7 @@ pris la main.
 Ah ! ça ! Il veut donc se faire assommer par la brute affolée de
 courroux.
 
-Non… Von Foorberg, se met à hurler lamentablement ; 1e gamin, avec une
+Non… Von Foorberg, se met à hurler lamentablement ; le gamin, avec une
 tranquillité stupéfiante, prononce :
 
 — Allons, fais tes excuses, mon gros Foorberg ; sans cela, tu es si

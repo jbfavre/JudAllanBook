@@ -261,7 +261,7 @@ lequel, stupéfait, inquiet, regarde autour de lui d’un air déconcerté.
 Certains sourient à cette vue ; d’autres considèrent Frey Jemkins sur les
 traits de qui la surprise et la colère se peignent tour à tour.
 
-Puis il y a un long silence, où passe un chuchotement que 1’on jugerait
+Puis il y a un long silence, où passe un chuchotement que l’on jugerait
 être une plainte.
 
 L’un des voisins de Linérès a murmuré à l’audition de l’organe
@@ -552,12 +552,12 @@ salle, la porte à double battant s’était refermée.
 
 Dix minutes apràs, elle se rouvrit avec un léger grincement.
 
-Le boy reparut, inspecta 1a galerie d’un regard rapide, puis se
+Le boy reparut, inspecta la galerie d’un regard rapide, puis se
 retournant vers l’intérieur, prononça distinctement :
 
 — Personne !
 
-Un homme s’élance aussitôt dans 1e couloir.
+Un homme s’élance aussitôt dans le couloir.
 
 — Maître, murmure le boy, ces ladies vous attendent à la palmeraie.
 
@@ -580,7 +580,7 @@ Allan.
 Sur la pointe des pieds, le Japonais quitte sa cachette.
 
 Il parvient à hauteur de la porte demeurée ouverte. Alors, il se donne un
-air dégagé et passe avec 1’allure paisible d’un flâneur.
+air dégagé et passe avec l’allure paisible d’un flâneur.
 
 Précaution inutile. Le gamin lui tourne le dos, ce qui permet au guetteur
 d’observer à quelle besogne il s’occupe.
@@ -732,7 +732,7 @@ entretien incompréhensible pour elle :
 Il s’arrêta un instant comme si l’haleine lui manquait. Mais il domina
 son émotion et acheva avec une douce fermeté :
 
-— Apprenez-lui comment pense 1e monde ; hélas ! je ne pouvais, moi, lui
+— Apprenez-lui comment pense le monde ; hélas ! je ne pouvais, moi, lui
 donner cette science si nécessaire de la vie sociale. Apprenez-lui ce que
 l’on doit à certaines situations, ce que l’on se doit à soi-même… Qu’une
 obstination d’enfant ne ternisse pas un dévoué…

@@ -101,7 +101,7 @@ saisi les poignets de Ruthie.
 — Ah çà ! Avez-vous juré de me rendre fou, avec vos exclamations
   insensées.
 
-— Non, Monsieur 1e Marquis, balbutia-t-elle. Monsieur le Marquis doit être
+— Non, Monsieur le Marquis, balbutia-t-elle. Monsieur le Marquis doit être
   assuré que je ne me serais pas permis un serment semblable.
 
 — Alors expliquez-vous, de par tous les diables !
@@ -156,7 +156,7 @@ Ruthie haussa les épaules.
 
 — Qu’est-ce que je puis répondre ? Tout le monde m’interroge comme si
   j’avais la science infuse. La personne, qui occupe la chambre de Miss,
-  ne me demandait-el1e pas comment elle se trouvait là ?
+  ne me demandait-elle pas comment elle se trouvait là ?
 
 Chazelet ne l’écoutait plus.
 
@@ -199,7 +199,7 @@ Mais son interlocutrice secoua la tête.
 
 — Mais alors comment vous rencontrè-je ici, chez elle ?
 
-— C’est ce que je demandais à 1a servante qui s’est présentée tout à
+— C’est ce que je demandais à la servante qui s’est présentée tout à
   l’heure.
 
 Du coup, Pierre se prit la tête à deux mains. Et elle continuait :
@@ -497,7 +497,7 @@ comprendre.
 
 — Vous aussi, Mademoiselle, vous êtes orpheline ?
 
-Ah ! la protestation indignée qui monte à la gorge de Lilian. Elle 1’a
+Ah ! la protestation indignée qui monte à la gorge de Lilian. Elle l’a
 été, orpheline ; maintenant elle ne l’est plus !
 
 Mais son regard rencontre celui de Frey Jemkins, et la fille qui, pour la

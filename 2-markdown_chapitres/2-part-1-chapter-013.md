@@ -576,7 +576,7 @@ du chef.
 
 — Hip ! Hip ! Hurrah pour le domaine de Lily !
 
-Le Crâne hoche la tête. Il doit sourire sous 1e masque. Il poursuit :
+Le Crâne hoche la tête. Il doit sourire sous le masque. Il poursuit :
 
 — Le señor Pariset, à qui j’ai accordé naguère la main de cette chère
   Lily, que j’aime ainsi qu’une fille ; Pariset, dis-je, s’est tout
@@ -886,7 +886,7 @@ une stupeur épouvantée.
   crierais le nom aux échos, si mes dignes associés n’avaient pris soin
   de te baillonner.
 
-En effet, 1e prisonnier ne saurait répliquer. Il s’agite vainement, se
+En effet, le prisonnier ne saurait répliquer. Il s’agite vainement, se
 tord en une inutile tentative pour briser ses liens. La gaieté sinistre
 de son interlocuteur s’accentue.
 
@@ -1217,7 +1217,7 @@ femme au visage impénétrable, à la parole mesurée, ressent pour ces deux
 abandonnés une tendresse inexplicable.
 
 Cependant les années s’écoulent. Les sorciers de la tribu s’attachent à
-apprendre au gamin tout ce qu’i1s savent eux-mêmes.
+apprendre au gamin tout ce qu’ils savent eux-mêmes.
 
 Jud est devenu un habile suiveur de pistes, un chasseur adroit. Il sait
 dissimuler sa marche, imiter les mille bruits du désert. Il connaît les
@@ -1434,7 +1434,7 @@ Toutes à leurs pensées, ni l’une, ni l’autre des pensionnaires n’avait
 remarqué la singulière attitude de Margaret, pendant qu’elle s’occupait
 ostensiblement de servir la boisson parfumée.
 
-Elle avait tiré de sa poche un papier, 1’avait déplié, et avait jeté sur
+Elle avait tiré de sa poche un papier, l’avait déplié, et avait jeté sur
 le plancher une poudre blanche qu’il contenait. Au choc léger produit par
 sa chute, la poudre avait instantanément changé de couleur, tournant à
 une teinte jaunâtre, analogue à celle du bois.
@@ -1556,7 +1556,7 @@ C’est un organe féminin qui répond :
   surprend seulement les secrets des personnes qui les confient.
 
 Puis il semble à Grace que les voix s’assourdissent, s’éteignent. Elle
-chancelle ; elle perd connaissance. Elle est étreinte par 1’invincible
+chancelle ; elle perd connaissance. Elle est étreinte par l’invincible
 insensibilité que produit le chloroforme.
 
 Alors ceux qui l’ont saisie enlèvent l’étoffe dont sa tête est entourée.
@@ -1962,7 +1962,7 @@ Exclamation qui en disait plus long que maint discours.
   je vois. Tant mieux, il y aura économie de temps. Donc, nous avons un
   ennemi inconnu qui s’oppose à l’envoi en possession d’héritage de
   Linérès. Quel est-il ? Je l’ignore. Rien ne l’a trahi. Pourtant il faut
-  1e découvrir et le réduire à l’impuissance, sans cela, adieu le
+  le découvrir et le réduire à l’impuissance, sans cela, adieu le
   succès ; adieu la tranquillité au sein des millions.
 
 Puis lentement :
@@ -1991,7 +1991,7 @@ Tous répondirent en même temps :
   convient de les distraire. Kan-So, c’est à vous que ce discours
   s’adresse. Sous quarante-huit heures, _l’Oil Bank_ de Pittsburg,
   — la banque du Pétrole comme vous savez — expédiera, à la _Central
-  Bank_ de New-York, dix-sept cents kilogrammes d’or en barre… C’est 1a
+  Bank_ de New-York, dix-sept cents kilogrammes d’or en barre… C’est la
   production de deux années de nos mines d’or de Agua Frida, avec
   laquelle nous avons acheté, comme trust du pétrole, les derniers stocks
   disponibles de _l’Oil lmited C°_. Il faut, Kan-So, que vous enleviez
