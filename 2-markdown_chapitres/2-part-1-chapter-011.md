@@ -685,14 +685,14 @@ exotiques, se retournaient sur son passage.
 
 -----
 
-Cependant Allan gagnait la palmeraie, dont les jardiniers du Capilote
+Cependant Allan gagnait la palmeraie, dont les jardiniers du Capitole
 sont justement fiers.
 
 Là, sur deux chaises de jardin, Lilian et Grace attendaient, causant à
 demi-voix, avec des gestes inconscients d’impatienœ. Elles se levèrent
 précipitamment à sa vue.
 
-Et Lilian, en hâte, traihissant ainsi la pensée qui l’obsède :
+Et Lilian, en hâte, trahissant ainsi la pensée qui l’obsède :
 
 — La fleur, la fleur de l’aloès chiriquite, Jud… Que signifie ce
   tatouage que, moi aussi, je porte au bras ?
@@ -1088,7 +1088,7 @@ lourde porte qui s’ouvrit pour leur livrer passage.
 Leur souper expédié, les deux amies ne s’attardèrent pas aux papotages de
 leurs camarades.
 
-Elles gagnèrent rapidement la chambre de Lilian et sassirent devant la
+Elles gagnèrent rapidement la chambre de Lilian et s'assirent devant la
 table de travail.
 
 D’une main tremblante, la protégée d’Allan tira les feuillets mystérieux

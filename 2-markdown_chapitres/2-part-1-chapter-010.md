@@ -379,8 +379,8 @@ les termes de la pension fussent payés régulièrement.
 Sous ce rapport, Jud Allan avait droit à son entière estime.
 
 Aussi, quand elle l’avait aperçu dans l’allée centrale, dite allée des
-visiteurs, avait-elle quitté précipitamment son cabinet-bureau, sis au rez-
-de-chaussée de rétablissement, afin de lui présenter ses civilités.
+visiteurs, avait-elle quitté précipitamment son cabinet-bureau, sis au
+rez-de-chaussée de l'établissement, afin de lui présenter ses civilités.
 
 Sans doute, en son état d’esprit, le jeune homme se fût bien passé des
 politesses acidulées de la Directrice, mais comme il lui était impossible de

@@ -274,7 +274,7 @@ Et taquine :
 
 — Ah ! Ah ! ma chérie, il paraît que l’origine… nébuleuse de ton…
   défenseur, est peu de chose auprès de ce que les réticences de Master
-  Allan t’avænt fait craindre.
+  Allan t’avaient fait craindre.
 
 Une teinte rosée se répandit sur les joues de linterpellée.
 
@@ -282,7 +282,7 @@ Une teinte rosée se répandit sur les joues de linterpellée.
 
 Mais la pétulante Grace lui coupa la parole :
 
-— Je suis absolument de ton avis. Et pusque Jud Allan, confiant en ma
+— Je suis absolument de ton avis. Et puisque Jud Allan, confiant en ma
   connaissance du monde, m’a déléguée pour te… diriger, je te déclare que
   dans tout ceci je ne vois rien dont il ait à rougir.
 
