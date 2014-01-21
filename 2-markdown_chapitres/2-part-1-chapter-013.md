@@ -10,7 +10,7 @@ Ici, Grace fit entendre une exclamation de surprise :
 
 — Vois… En petite ronde, je lis ceci : « _Jud Allan ignore que ces
   feuillets furent glissés à la place de ceux où, trop modeste, il
-  s’évertuait à voiler son dévouement. C’esi par ordre de celle qui
+  s’évertuait à voiler son dévouement. C’est par ordre de celle qui
   l’aima avant sa naissance, de celle qui, invisible, l’a aidé à
   conquérir la foi des lads (gamins) que ceci a été fait. Miss Lilian
   peut être assurée que, pas un instant, on ne s’est écarté de la
@@ -43,8 +43,6 @@ Grace secoua la tête :
 
 Et sans s’inquiéter de l’air désappointé de sa compagne, l’aimable Grace
 se replongea dans la lecture du manuscrit.
-
------
 
 Jud était seul, prisonnier par l’ordre du « Crâne », de ce chef étrange
 qu’il ne connaissait pas. Il s’irrita contre lui-même.
@@ -91,7 +89,7 @@ Ce fut tout.
 
 Le gamin avait désormais son idée.
 
-Un clou retiré sans bruit de la cloison, il 1’introduisit dans la
+Un clou retiré sans bruit de la cloison, il l’introduisit dans la
 serrure.
 
 Il tâtonna un instant ; le déclic du pène l’avertit qu’il avait réussi.
