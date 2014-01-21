@@ -353,7 +353,7 @@ Son bras pesait lourdement à son épaule, ses tempes battaient avec force
 sous la poussée de fièvre croissante. Il n’en avait cure. Il fallait
 marcher, marcherait.
 
-Une craine vivait en lui, découplant ses forces, exacerbant sa volonté.
+Une crainte vivait en lui, décuplant ses forces, exacerbant sa volonté.
 
 Celle de manquer les bandits Tom et Jetty, en face desquels il allait se
 trouver pour la première fois.
@@ -777,10 +777,8 @@ Jetty se prit à rire bruyamment :
   vous a inspecté, mon vieux garçon, durant votre sommeil ; et en
   découvrant votre blessure, nous avons pensé : Pour se tenir debout avec
   cela, le coquin n’est pas douillet. Et on vous a soigné comme un fils
-  de famille… Voilà quatre
-
-jours qu’avec des doses d’opium, on vous tient dans le sommeil… aussi,
-plus de fièvre, plus rien.
+  de famille… Voilà quatre jours qu’avec des doses d’opium, on vous tient
+  dans le sommeil… aussi, plus de fièvre, plus rien.
 
 — C’est vrai, s’écria Jud sans manifester le moindre étonnement, je me
   disait à l’instant : je vais me lever, car je me sens frais et dispos.
@@ -789,7 +787,7 @@ plus de fièvre, plus rien.
   Levez-vous donc, puis, votre estomac satisfait, vous viendrez sur le
   pont, où vous trouverez de bons compagnons.
 
-Le gamin nattendit pas qu’on lui répétât l’invitation.
+Le gamin n'attendit pas qu’on lui répétât l’invitation.
 
 Il se mit sur son séant. Mais à ce moment, il eut une impression étrange.
 Il lui sembla éprouver un balancement analogue au roulis d’un navire en
@@ -943,7 +941,7 @@ Tous les bandits regardaient, intéressés par l’aplomb du jeune garçon.
 
 Quant à von Foorberg, son visage était devenu cramoisi.
 
-— Tu sais que je m’appelle Foorberg et uqe la patiense n’a jamais été mon
+— Tu sais que je m’appelle Foorberg et que la patiense n’a jamais été mon
   fort.
 
 — Moi non plus, jeta son interlocuteur avec indifférence… Je m’aperçois
@@ -1083,7 +1081,7 @@ Quoi qu’il en soit, depuis cet instant, Jud Allan jouit de la
 considération de ses sinistres compagnons. Jetty et Tom
 s’enorgueillissaient de l’avoir _découvert_ dans le pénitencier
 d’Alb-Point. Ils oubliaient que l’audacieux gamin les avait un peu
-contraints à l’emmener avec eux. Et, vingt f ois par jour, l’Irlandais
+contraints à l’emmener avec eux. Et, vingt fois par jour, l’Irlandais
 grommelait à l’oreille de l’Américain :
 
 — Hein, vieux Tom, le Crâne nous dira le _grand merci_ pour le grillon.
@@ -1110,7 +1108,7 @@ mexicaine de Californie, immense langue de terre qui s’étend, longue de
 plus de douze cents kilomètres sur une largeur variable de vingt-cinq à
 soixante, entre l’océan Pacifique et la mer Vermeille.
 
-Et lui, restait impassible, ne trahissent par aucun geste, aucune
+Et lui, restait impassible, ne trahissant par aucun geste, aucune
 inflexion de voix, la pensée de dévouement qui l’avait amené en si
 mauvaise compagnie.
 
