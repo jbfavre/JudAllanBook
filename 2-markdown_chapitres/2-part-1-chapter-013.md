@@ -220,7 +220,7 @@ avoir fait le sacrifice de sa vie, la pensée d’être dépecé par un monstre
 marin ne saurait être accueillie comme une perspective agréable.
 
 Mais l’heure ne permettait pas les longues auto-congratulations. Le gamin
-recommença à nager Vers la terre.
+recommença à nager vers la terre.
 
 Maintenant il était assez rapproché pour discerner nettement la côte où
 il voulait aborder.
@@ -386,7 +386,7 @@ s’avançant sur la façade de la falaise. Il est juste assez long, assez
 large, pour que le petit puisse s’y allonger ; mais il constitue la
 cachette inespérée.
 
-De la surface des eaux, on ne peut plus apercevoir 1e frêle héros que la
+De la surface des eaux, on ne peut plus apercevoir le frêle héros que la
 roche compatissante abrite contre les yeux des hommes.
 
 Il était temps. La chaloupe se montrait à l’orifice de la baie.
@@ -396,7 +396,7 @@ sinistrement l’étroit chenal, jetant des teintes sanglantes sur les rocs
 et sur les eaux. Ils font le tour de la crique, ramant avec lenteur,
 échangeant des plaisanteries.
 
-— Ausint sentait que la chance tournait aux cartes, alors il a vu 1e
+— Ausint sentait que la chance tournait aux cartes, alors il a vu le
   marsouin qui interrompt la partie.
 
 — Non, j’ai vu, bien vu l’animal disparaître dans cette rue d’eau
@@ -587,8 +587,6 @@ d’une voix légère comme un souffle, répétait les noms prononcés :
 
 — Pariset ! Lily ! Lilian !
 
------
-
 — Pariset ! Lily ! Lilian !
 
 Ces mots jaillirent aussi des lèvres de la compagne de Grace Paterson.
@@ -599,8 +597,6 @@ Mais gravement celle-ci mit un doigt sur sa bouche rose.
 
 Et son amie, dominée par son accent, demeurant muette, elle reprit sa
 lecture.
-
------
 
 — Pariset, continua le Crâne d’un ton pathétique, est devenu subitement
   fou. Il croit à un complot formé contre ses richesses et sa vie,
@@ -701,7 +697,7 @@ Je garde ma cousine à San Francisco. Mes affaires, chaque jour plus
 importantes, ne me permettent pas de m’occuper moi-même de l’exploitation
 d’Agua Frida. Et cependant je veux que le domaine de Lily continue à
 prospérer. Si elle revient à la raison, je souhaite qu’elle soit contente
-du cousin dot la fatalité a fait son tuteur. Je constitue un conseil
+du cousin dont la fatalité a fait son tuteur. Je constitue un conseil
 d’administration, composé de mes correspondants les plus actifs, les plus
 honnêtes… Vous enfin !
 
@@ -732,7 +728,7 @@ l’insulaire Océanie.
 
 Jud frissonnait aux accents de cette voix sonore, dominatrice. On eût cru
 entendre l’un de ces conquérants barbares des âges des grandes invasions,
-distribuant à ses leudes les fiefs arrachés aux vaincus.
+distribuant à ses leudes [^1-13-2] les fiefs arrachés aux vaincus.
 
 Le gamin se sentait humilié de sa faiblesse, de sa petitesse devant ce
 géant du mal.
@@ -741,7 +737,7 @@ géant du mal.
 
 Les huit bandits répondirent d’une seule voix :
 
-—— Non, c’est bien vu !
+— Non, c’est bien vu !
 
 — Alors, reprit le Crâne, entrons en action.
 
@@ -1110,7 +1106,7 @@ la mer Vermeille. Ils l’ont déposé dans une pirogue où la femme rouge a
 pris place avec la petite Lilian.
 
 Ainsi on a traversé le long golfe resserré entre la presqu’île
-Californienne et la côte de l’Etat de Sonora.
+Californienne et la côte de l’État de Sonora.
 
 C’est dans une caverne de cette immense province, à la population
 clairsemée, où les Indiens errent encore libres et indépendants, que le
@@ -1234,7 +1230,7 @@ Lilian va avoir huit ans.
 Son pseudo-frère la voudrait instruire. Ce n’est point seulement le corps
 de la fillette qui doit grandir et vivre, mais aussi son esprit.
 
-Qu’elle reprenne son rant, par suite d’un concours de circonstances
+Qu’elle reprenne son rang, par suite d’un concours de circonstances
 heureuses ; il ne veut pas qu’elle se sente inférieure à la situation.
 Jud la souhaite en état de briller parmi les premières, dans quelque
 monde qu’elle soit destinées à vivre.
@@ -1313,8 +1309,6 @@ aboutir à la pauvre mignonne, naguère disparue à Agua-Frida.
 Frey prépare l’apparition d’une fausse Lilian.
 
 La luttre suprême s’engage. Au sénat, la première escarmouche a eu lieu.
-
------
 
 Ici finissaient les pages substituées à celles que Jud avait remplies,
 sans doute en termes plus modestes que son historiographe.
@@ -1396,7 +1390,7 @@ Elle admirait l’énergie de l’être qui, de chevalier vagabond, s’était
 Présidence.
 
 Et de douces larmes coulaient de ses yeux, en songeant avec quelle
-modestie, quelle délictssse, Jud seul contre tous, faible en face de la
+modestie, quelle délicatesse, Jud seul contre tous, faible en face de la
 force, avait assumé la tâche ardue de la protéger, ou le dénouement
 brutal de mourir pour elle.
 
@@ -1451,7 +1445,7 @@ Grace se leva, prit son amie dans ses bras et la baisa au front.
   veiller. Le plus sage est donc de dormir. Demain il fera jour et nous
   pourrons causer, nos idées un peu clarifiées par le repos.
 
-Un instant après, Grace senfermait dans la pièce voisine. Les deux amies
+Un instant après, Grace s'enfermait dans la pièce voisine. Les deux amies
 avaient obtenu de n’être séparées que par une mince cloison, ce qui leur
 permettait de continuer la conversation à travers ce frêle obstacle.
 
@@ -1631,7 +1625,7 @@ ampoule électrique qu’il venait d’actionner éclairait ce réduit.
   Avenue et de la rue de la Bibliothèque du Congrès, Jemkins se glisse
   sous terre, et il tiendra conseil, à l’autre extrémité du square, dans
   cette coquette demeure, dont les portes aux marteaux de cuivre
-  s’ouvrent sur la Rue N. E n°3 et sur À Street S. E. [^1-13-2]
+  s’ouvrent sur la Rue N. E n°3 et sur A Street S. E. [^1-13-3]
 
 Il ouvre la porte faisant face à l’escalier, par lequel il est descendu
 dans le sous-sol. Une galerie se présente devant lui. Il s’y engage.
@@ -1758,7 +1752,7 @@ dogmatique :
 — Oui, mes chers garçon. Tout au plus des flottes rivales échangeraient
   des obus, useraient leurs navires en raids énormes à travers les
   immensités de l’océan ; après quelques mois de ces exercices, elles
-  seraient affaiblies, hors de combatn, sans que la suprématie dans le
+  seraient affaiblies, hors de combat, sans que la suprématie dans le
   Pacifique, but caché mais réel de chaque peuple, fut assurée à l’un ou
   l’autre. Supposez maintenant qu’un adroit enchanteur trouve le moyen de
   rapprocher les bases d’opération des escadres adverses, tout change.
@@ -1777,7 +1771,7 @@ dogmatique :
 — Qu’au contraire, des Japonais acquièrent un territoire sur la côte
   américaine, la situation se retourne. C’est eux qui forcent les
   escadres de l’Union à demeurer dans cette région. Et les archipels
-  Hawaï, des Philippines, virtuellement séparés des Etats-Unis, tombent
+  Hawaï, des Philippines, virtuellement séparés des États-Unis, tombent
   fatalement en leur pouvoir, ce qui, au point de vue de la domination
   maritime de l’Océan Pacifique constitue une victoire de premier ordre.
   Vous comprenez, mes amis, que si je possédais des propriétés en Chine,
@@ -1794,7 +1788,8 @@ Ils opinèrent de la tête.
 
 L’auditoire marqua un frémissement anxieux. Si perdus que fussent les
 bandits, la désinvolture de leur chef leur causait un malaise. Ils
-devinaient simplement trahison contre les États-Unis.
+devinaient que l'affaire annoncée était tout simplement une trahison
+contre les États-Unis.
 
 — Vous savez la situation du propriétaire de l’hacienda de Agua Frida. La
   propriété, à titre de colonisation, lui a été reconnue _totale_,
@@ -1838,10 +1833,9 @@ Frey l’invita au calme d’un geste de la main.
 — La dite société japonaise créera un port, fortifiera la côte, comme
   elle l’entendra. Cela nous est indifférent, n’est-ce pas ?
   Occupons-nous des trois cents millions, beaucoup plus intéressants pour
-  nous.
-
-Mes huit lieutenants et moi-même, soit neuf personnes, les partageront
-par parts égales.
+  nous.  
+  Mes huit lieutenants et moi-même, soit neuf personnes, les partageront
+  par parts égales.
 
 — Hurrah pour le Crâne, rugirent les assistants, électrisés par la
   générosité de leur chef !
@@ -1897,7 +1891,7 @@ de faire la lumière.
   qui, ayant été riches, sont tombés dans la misère. Enfin et surtout,
   parce que ce joli marquis est un modèle de naïve chevalerie.
 
-— Qu’est-ce que la chevalier vient faire là dedans ? grommelèrent les
+— Qu’est-ce que la chevalerie vient faire là dedans ? grommelèrent les
   assistants.
 
 — Elle nous assure un bouc émissaires, vieux garçons.
@@ -2116,11 +2110,12 @@ chargés du panier d’osier.
 Et la porte se referma, tandis que le camion s’éloignait de son côté,
 roulant pesamment à travers la ville endormie.
 
------
-
 [^1-13-1]: Un département français a, en moyenne, une superficie de 6.000 kilomètres
            carrés.
 
-[^1-13-2]: À Washington, les avenues rayonnant autour du Capitole ont des noms,
+[^1-13-2]: Sujets du roi, vassaux. Tiré du latin _leudes_ (NDLR, voir [Wikipédia](http://fr.wikipedia.org/wiki/Leude])
+
+[^1-13-3]: À Washington, les avenues rayonnant autour du Capitole ont des noms,
            comme Pensylvania avenue. Les autres sont désignées soit par des
            chiffres, soit par des lettres.
+
