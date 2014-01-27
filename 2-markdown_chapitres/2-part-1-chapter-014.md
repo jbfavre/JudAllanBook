@@ -173,7 +173,7 @@ Mais le son de sa voix ayant fait lever les yeux à l’incennue, l’homme
 bien élevé se reprocha la brutalité de son exclamation, et s’inclinant :
 
 — Mademoiselle, excusez ma surprise. Mais je n’ai pas l’honneur de vous
-  connaître et je métonne, à bon droit je pense, de vous voir installée
+  connaître et je m'étonne, à bon droit je pense, de vous voir installée
   dans la chambre de ma fiancée.
 
 Elle le regardait, une crainte maintenant dans ses grands yeux.
@@ -552,8 +552,6 @@ Et la folle, qui a repoussé Linérès, berce doucement Lilian, à qui elle
 dit tout bas :
 
 — Lilian ! oui Lilian, ma petite enfant bien-aimée !
-
------
 
 Dans le bureau sévère, dont le plancher machiné avait permis, la veille
 au soir, au milliardaire de rejoindre ses complices, Frey Jemkins pénétra
@@ -1007,5 +1005,3 @@ milliardaire ces répliques significatives :
 — Et Jud Allan, comment saura-t-il que sa sœur me répond de lui ?
 
 — Je m’en charge, Frey Jemkins…, ou plutôt je m’en suis chargée déjà.
-
-----
