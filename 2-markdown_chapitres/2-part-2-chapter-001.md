@@ -1,4 +1,4 @@
-## CHAPITRE I : LA ROCHE TARPÉIENNE
+## La roche tarpéienne
 
 Non loin de l’habitation de Frey Jemkins se dresse l’hôtel à voyageurs New-
 Villard de Washington.
@@ -21,7 +21,7 @@ Les choses extérieures lui importaient peu, occupé qu’il était à regarder
 en lui-même. 
 
 Qu’y voyait-il ? La douleur de l’enfant trouvé, sans nom, sans famille. Il se
-revoyait _chevalier vagabond_, petit Jud, puis fugitif, puisJud Allan ayant
+revoyait _chevalier vagabond_, petit Jud, puis fugitif, puis Jud Allan ayant
 conquis tout ce qu’un malheureux peut conquérir par le travail : une position
 honorable, certes, mais modeste. Professeur à West-Point !
 
@@ -230,7 +230,7 @@ Il domine ses nerfs par un effort surhumain dont tout son être frissonne.
   qui m’est parvenue ce matin, m’a causé les plus vives alarmes. On m’annonce
   que ma sœur a quitté la pension.
 
-![Image: "Lilian ! Où est Lilian ? Laissez-moi passer !"](../3-images/1-page-292.JPG)
+![Image: "Lilian ! Où est Lilian ? Laissez-moi passer !"](../3-images/2-page-292.JPG)
 
 Miss Deffling a un sourire dédaigneux. Elle jette en avant ses mains osseuses
 en un geste de dénégation.
@@ -258,7 +258,7 @@ les voix des professeurs enseignant leurs élèves.
 — Voici le cours.
 
 L’institutrice susurre ces mots. D’une main légère, elle entr’ouvre la porte,
-avance la tête. Le professeur l’a entendue. 1l s’arrete dans la dictée d’un
+avance la tête. Le professeur l’a entendue. Il s’arrête dans la dictée d’un
 « résumé ».
 
 — Pardon de vous troubler, débite Miss Deffling, je vous serais obligée de
@@ -284,7 +284,7 @@ l’égarement qui trouble ses yeux… Elle souhaite l’apaiser, le calmer, le
 consoler.
 
 — Bon ! La jeune fille est peut-être un peu souffrante. Paterson, elle, lui
-  est toute affectionnée; elle sera restée à la soigner, à lui faire 1a
+  est toute affectionnée; elle sera restée à la soigner, à lui faire la
   lecture, que sais-je ?
 
 — Je vous en prie, allons nous en assurer.
@@ -302,7 +302,7 @@ Il n’y a point à s’y méprendre, Miss Deffling est très agitée.
 Sans doute ses motifs ne sont pas de même ordre que ceux de son compagnon.
 Elle craint surtout la répercussion financière que l’aventure pourrait avoir
 pour elle ; mais enfin, chacun s’inquiète des malheurs d’autrui, dans la
-proportion de ses moyens, et 1a directrice s’inquiète ;… que lui demander de
+proportion de ses moyens, et la directrice s’inquiète ;… que lui demander de
 plus ?
 
 Elle se précipite à travers les couloirs. Elle court presque dans sa hâte de
@@ -428,7 +428,7 @@ animation.
 — Je n’aperçois que ces deux causeurs, murmura-t-il… Eux m’aperçoivent aussi.
   Sont-ce des espions ? Nous allons bien le voir.
 
-![Image: "Sont-ce des espions ? Nous allons bien le voir."](../3-images/1-page-296.JPG)
+![Image: "Sont-ce des espions ? Nous allons bien le voir."](../3-images/2-page-296.JPG)
 
 Et sa douleur brusquement apaisée par la volupté de l’action :
 
@@ -623,13 +623,13 @@ Elle fit une légère pause, comme pour triompher d’une dernière hésitation.
 — Tril m’a glissé à l’oreille que le moment était venu où l’on pourrait se
   dévouer pour toi.
 
-![Image: "C’est moi, Roi, fit-elle d’une voix douce."](../3-images/1-page-300.JPG)
+![Image: "C’est moi, Roi, fit-elle d’une voix douce."](../3-images/2-page-300.JPG)
 
 — Tril est un affreux bavard, je le gronderai à la première occasion.
 
 — Non, non, supplia-t-elle. Tril sait mes pensées, il a voulu me donner joie
   et contentement… Et je viens, je viens te supplier de ne pas oublier Suzan
-  dans 1e danger. Pardonne-moi. Tous t’aiment, tous voudraient se sacrifier
+  dans le danger. Pardonne-moi. Tous t’aiment, tous voudraient se sacrifier
   pour toi… Ils ignorent encore, je prends l’avance. Roi, fais que si
   quelqu’un doit mourir pour toi, ce soit Suzan.
 
