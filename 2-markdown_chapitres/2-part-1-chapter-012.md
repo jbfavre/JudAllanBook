@@ -1170,7 +1170,5 @@ Et brusquement il demeure stupide, atterré par ce qu’il entend.
 
 Et le silence se fit.
    
-----
-
 [^1-12-1]: Locution américaine intraduisible en français : Elle signifie à peu
            près : Ce petit être a le cœur d’un héros.

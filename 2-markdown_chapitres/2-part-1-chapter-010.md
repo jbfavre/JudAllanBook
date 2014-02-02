@@ -731,8 +731,6 @@ créature.
 ![Il appuya ses lèvres sur son front pur](../3-images/part1/page-168.jpg
 "Il appuya ses lèvres sur son front pur")
 
-------
-
 La demeure du Président de la grande république américaine, appelée La
 Maison Blanche (White House) ou Executive Mansion, se dresse dans la partie
 Nord-Ouest de la ville.
@@ -1010,8 +1008,6 @@ Le vieillard a un geste mécontent. Vite le gamin s’excuse :
 Un signe de reconnaissance sans doute est échangé entre les deux causeurs,
 et Allan, que nul ne reconnaîtrait, reprend le chemin des jardins de
 l’Exécutif.
-
-----
 
 [^1-10-1]: Beaucoup d’Américains ont l’habitude, après le repas, de mâcher une
            substance analogue à la gomme à claquer de nos écoliers. C’est le

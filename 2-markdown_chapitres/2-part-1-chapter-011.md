@@ -504,8 +504,6 @@ naturelle et s’écrit :
 Et puis, et puis, ce que je n’ai pas compris du tout. Pourquoi as-tu
 crié ?
 
------
-
 Aussitôt que Frey Jemkins eut constaté lui-même son échec, en réclamant
 de l’assemblée l’ordre du jour pur et simple, le vieillard dont la
 somnolence avait un instant fixé l’attention de Lilian, parut se
@@ -682,8 +680,6 @@ Et elle reprit sa promenade, gracieuse, insouciante comme si rien ne la
 préoccupait, s’amusant des regards que lui décochaient les gentlemen
 croisant sa route, lesquels, intéressés par son type et son allure
 exotiques, se retournaient sur son passage.
-
------
 
 Cependant Allan gagnait la palmeraie, dont les jardiniers du Capitole
 sont justement fiers.
@@ -1107,8 +1103,6 @@ Pour toute réponse, son interlocutrice lui présenta les feuillets.
 
 D’une voix claire, bien qu’abaissée, Miss Paterson commença la lecture de
 ce qui suit.
-
------
 
 [^1-11-1]: Cette description est absolument exacte. Si l’on ajoute qu’il
            n’existe point de tribune, que les sénateurs parlent de leur place,
