@@ -1,1 +1,1 @@
-# DEUXIÈME PARTIE: LADS’S KING, LE ROI DES GAMINS
+# Lads’s king, le Roi des gamins
