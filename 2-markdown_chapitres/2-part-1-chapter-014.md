@@ -428,7 +428,7 @@ depuis son veuvage, les criminels lui dosent chaque jour.
 Et avec cette rudesse particulière à ceux qui prétendent dominer les
 insensés :
 
-— Lily, ma chère, regngnez votre chambre. On n’a que faire de vous ici.
+— Lily, ma chère, regagnez votre chambre. On n’a que faire de vous ici.
 
 — Lily !
 
@@ -491,7 +491,7 @@ Lily passe sa main tremblante sur les cheveux de Lilian ; elle parle :
 La jeune fille a un sanglot !
 
 Chazelet ne cherche point à cacher ses larmes. Lui, l’orphelin, le
-déraciné, dont toue la vie se fonde à présent sur son dévoûment à Linérès,
+déraciné, dont toute la vie se fonde à présent sur son dévoûment à Linérès,
 songe à la mère qui l’aima jadis. Il comprend, ou du moins il croit
 comprendre.
 
@@ -505,7 +505,7 @@ première fois, reçoit les caresses de sa mère, répond à voix basse :
 
 — Oui, je suis orpheline !
 
-Elle est à bout de forces, à vout de résistance. Elle a le sentiment
+Elle est à bout de forces, à bout de résistance. Elle a le sentiment
 épouvanté qu’elle va se trahir, quand un domestique paraît et lance de sa
 voix indifférente : 
 
@@ -703,7 +703,7 @@ imprimait au discours de cette femme charmante.
 — Donc, voici en quoi nous raisonnons de même. Passons à présent au…
   détail sur lequel nous différons d’appréciations. Vous désirez que Miss
   Linérès soit reconnue héritière des biens des Pariset, par les lois de
-  l’Union et par celles du Mexique. À nous, il suffit quelle soit
+  l’Union et par celles du Mexique. À nous, il suffit qu'elle soit
   légalement reconnue en vertu de la seule jurisprudence mexicaine.
 
 — Comprenez donc, commença Frey Jemkins…
@@ -736,8 +736,8 @@ Elle coupa le juron à demi prononcé.
 
 Rouge-Fleur le gratifia d’un joli et menu geste approbateur.
 
-— Vous êtes un gentleman tout à fait pratique. Par nos soins — mes
-  commettants et moi avons déjà engagé des démarches — Linérès sera dans
+— Vous êtes un gentleman tout à fait pratique. Par nos soins, mes
+  commettants et moi avons déjà engagé des démarches, Linérès sera dans
   un avenir rapproché envoyée en possession d’héritage par les Mexicains.
 
 — Soit !
@@ -815,7 +815,7 @@ susceptible, il articula :
 
 — Pourquoi ? Parce que notre police est mieux faite que la vôtre.
 
-— La répense reste obscure.
+— La réponse reste obscure.
 
 — Je vais l’éclairer, cher Sénateur. En échange de votre raisonnable
   acquiescement à notre plan, nous vous apportons le moyen de réduire à
@@ -956,7 +956,7 @@ Le domestique s’empressa. Une minute plus tard, il déposait sur le bureau
 un plateau supportant théière, tasses et assiette de rôties, puis il
 s’esquivait pour aller quérir Lilian.
 
-Alors, à létonnement croissant du milliardaire, la Chinoise remplit deux
+Alors, à l'étonnement croissant du milliardaire, la Chinoise remplit deux
 tasses du liquide parfumé. Elle en attira une devant elle, avec ces mots :
 
 — Pour moi !
