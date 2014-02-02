@@ -69,7 +69,7 @@ La plaquette de métal posée sur le bois, Pierre se reprit à manger, non
 sans parcourir la chambre d’un regard circulaire, empreint d’une certaine
 méfiance.
 
-Qu’espérait-il ? Que craignait-il ? Le marquis n’eût su le dire lui-même.
+Qu’espérait-il ? Que craignait-il ? Le marquis n’eût su le dire lui-même.
 Mais au certain, il avait pensé qu’un phénomène quelconque suivrait
 l’accomplissement de son geste, et ce lui fut une désillusion de constater que
 rien d’anormal ne se produisait.
@@ -372,7 +372,7 @@ nerveuses, nues, terminées par des pieds espagnols, toujours petits, que
 couvraient des _alpargates_ (espadrilles) blanches.
 
 Sous les frisons rebelles, les yeux brillants de la paysanne se fixèrent sur
-l'étranger, avec ce mélange de défiance et de curiosité habituel aux gens de
+l’étranger, avec ce mélange de défiance et de curiosité habituel aux gens de
 la campagne.
 
 Il s’approche en souriant.
@@ -1086,7 +1086,7 @@ Les limites de l’originalité étaient dépassées par ce voleur de grands
 chemin qui, non seulement ne le dépouillait pas, mais encore lui offrait un
 prêt d’argent.
 
-Sans doute, Sélénitès perçut vaguement le sens de l'hilarité de son
+Sans doute, Sélénitès perçut vaguement le sens de l’hilarité de son
 interlocuteur, car il dit tranquillement :
 
 — Cela ne devrait pas te surprendre. Je sais que ma créance sera fidèlement

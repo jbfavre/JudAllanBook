@@ -141,11 +141,11 @@ cliché reproduisant les traits charmants de Linérès :
 
 Armencita ! Fiancée du Diable ! Ces mots avaient bouleversé Pierre,
 d’autant plus profondément que, lui aussi, avait éprouvé les effets des
-volontés mystérieuses s'agitant autour de la jeune fille.
+volontés mystérieuses s’agitant autour de la jeune fille.
 
 Depuis son entretien avec la gitane, depuis la remise en ses mains du
 portrait de la señorita, est-ce qu’il ne se débattait pas en plein mystère ?
-Est-ce que les moindres incidents de son existence n'étaient point marqués
+Est-ce que les moindres incidents de son existence n’étaient point marqués
 au coin de la magie ? Enchantements réels ou charlatanisme, qu’importait ?
 Plus rien autour de lui n’obéissait aux lois de la morale.
 
@@ -619,7 +619,7 @@ du médecin-major.
 — Non, non, rassurez-vous. M. Allan a passé la journée là-haut, avec
   des officiers du génie et les télégraphistes militaires.
 
-— Ah ! ah ! En ce cas, nous n’aurons pas de _ratés_ ?
+— Ah ! ah ! En ce cas, nous n’aurons pas de _ratés_ ?
 
 — Je l’espère… Si tout marchait bien…, cela nous retirerait une rude
   épine du pied… Car l’ennui du sans fil est que l’on risque de confier
@@ -660,7 +660,7 @@ puis au deuxième étage de la tour, et mettait enfin le pied dans la
 _lanterne_ transformée par l’autorité militaire en poste central de la
 télégraphie de l’armée.
 
-Deux officiers, autant de sapeurs de génie, saluèrent à l'entrée les
+Deux officiers, autant de sapeurs de génie, saluèrent à l’entrée les
 visiteurs, puis se remirent à la surveillance des appareils dont le
 fonctionnement leur incombait.
 
@@ -918,7 +918,7 @@ M. Lerenaud ramena le calme par cette promesse :
   vous… Je vous confierai le nom de ce septième, et je vous jure qu’il
   sera gardé comme ne le fut jamais souverain. Je crois que je suis entré
   dans la police, non par haine des criminels, mais par curiosité du
-  mystère dont ils s'entourent.
+  mystère dont ils s’entourent.
 
 — Ah! mon pauvre Lerenaud, fit comiquement Morand, je crois que cette
   fois, votre curiosité doit vous faire bien mal. C’est égal, Chazelet,

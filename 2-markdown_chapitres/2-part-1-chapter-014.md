@@ -173,7 +173,7 @@ Mais le son de sa voix ayant fait lever les yeux à l’incennue, l’homme
 bien élevé se reprocha la brutalité de son exclamation, et s’inclinant :
 
 — Mademoiselle, excusez ma surprise. Mais je n’ai pas l’honneur de vous
-  connaître et je m'étonne, à bon droit je pense, de vous voir installée
+  connaître et je m’étonne, à bon droit je pense, de vous voir installée
   dans la chambre de ma fiancée.
 
 Elle le regardait, une crainte maintenant dans ses grands yeux.
@@ -703,7 +703,7 @@ imprimait au discours de cette femme charmante.
 — Donc, voici en quoi nous raisonnons de même. Passons à présent au…
   détail sur lequel nous différons d’appréciations. Vous désirez que Miss
   Linérès soit reconnue héritière des biens des Pariset, par les lois de
-  l’Union et par celles du Mexique. À nous, il suffit qu'elle soit
+  l’Union et par celles du Mexique. À nous, il suffit qu’elle soit
   légalement reconnue en vertu de la seule jurisprudence mexicaine.
 
 — Comprenez donc, commença Frey Jemkins…
@@ -956,7 +956,7 @@ Le domestique s’empressa. Une minute plus tard, il déposait sur le bureau
 un plateau supportant théière, tasses et assiette de rôties, puis il
 s’esquivait pour aller quérir Lilian.
 
-Alors, à l'étonnement croissant du milliardaire, la Chinoise remplit deux
+Alors, à l’étonnement croissant du milliardaire, la Chinoise remplit deux
 tasses du liquide parfumé. Elle en attira une devant elle, avec ces mots :
 
 — Pour moi !

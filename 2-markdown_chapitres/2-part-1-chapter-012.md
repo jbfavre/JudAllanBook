@@ -787,7 +787,7 @@ Jetty se prit à rire bruyamment :
   Levez-vous donc, puis, votre estomac satisfait, vous viendrez sur le
   pont, où vous trouverez de bons compagnons.
 
-Le gamin n'attendit pas qu’on lui répétât l’invitation.
+Le gamin n’attendit pas qu’on lui répétât l’invitation.
 
 Il se mit sur son séant. Mais à ce moment, il eut une impression étrange.
 Il lui sembla éprouver un balancement analogue au roulis d’un navire en

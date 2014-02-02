@@ -15,7 +15,7 @@ d’Espagne.
 
 Celui-ci eut un léger haussement d’épaules.
 
-— Enfin, dame Olinda, sous peu de jours je m'acquitterai.
+— Enfin, dame Olinda, sous peu de jours je m’acquitterai.
 
 C’était un congé. L’aubergiste se dirigea vers la porte, laissant son
 débiteur seul.
@@ -38,7 +38,7 @@ L’enveloppe au timbre de France, portait la suscription suivante :
 
     Marquis PIERRE DE CHAZELET
     Posada del Cid
-    Route d'Avila-Béjar-Plasencia
+    Route d’Avila-Béjar-Plasencia
     
     Province de Salamanque (Léon)
     District d’Avila.
@@ -58,7 +58,7 @@ appuyés à la table, il relut machinalement l’épître étalée devant lui.
   trouver ainsi, à vingt-six ans, ruiné, se cachant de ses créanciers
   dans un tel décor.
 
-> Brrr ! Cela me fait froid ! Enfin ! j’imiterai ton courage. Tu t’es amusé
+> Brrr ! Cela me fait froid ! Enfin ! j’imiterai ton courage. Tu t’es amusé
 > royalement, dis-tu, et n’as aucun regret. Passons aux nouvelles de
   Paris qui t’intéressent.
 
@@ -140,7 +140,7 @@ Et il mit délibérément le pied sur la première marche.
 De nouveau, il s’arrêta. Quelques mots lui avaient appris que l’on parlait de
 lui.
 
-— Carrabane ! (juron du Léon) disait un organe jovial ; la belle Olinda
+— Carrabane ! (juron du Léon) disait un organe jovial ; la belle Olinda
   dédaigne les muletiers. Ses yeux noirs se fatiguent à contempler le Français
   du premier… Je pense que bientôt la posada del Cid aura un maître. 
 
@@ -218,7 +218,7 @@ Le marquis, lui, répondit sans fausse honte par le dicton espagnol :
 — Le _rico hombre_ (homme riche) peut disposer de _quatre_ pieds, le pauvre
   doit se contenter de _deux_.
  
-— Le señor ne m’a pas compris, s'écria vivement le muletier. Je passe en
+— Le señor ne m’a pas compris, s’écria vivement le muletier. Je passe en
   Castille pour y prendre un chargement… Que le señor accepte ou non mon offre,
   je dois parcourir le chemin. S’il lui plaît de ne pas repousser l’amabilité
   d’un arriero, continua Perez avec cette emphase un peu théâtrale
@@ -239,7 +239,7 @@ Cette fois, Pierre se prit à rire franchement.
 — Dans ces conditions, j’accepte.
 
 De fait, le jeune homme désireux avant tout de se distraire de ses pensées
-_couleur de suie_, selon l'expression usitée à Béjar, ne pouvait rêver un
+_couleur de suie_, selon l’expression usitée à Béjar, ne pouvait rêver un
 compagnon plus assorti à ses souhaits. La faconde de Perez Caldero, son
 insouciant bavardage, ne devaient pas laisser au marquis la possibilité de se
 replonger dans ses réflexions moroses.

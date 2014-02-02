@@ -861,7 +861,7 @@ ironique.
 
 — Bon, on y sera… en personne ou par remplacement [^1-09-1].
 
-— _All right !_ Alors, bonne promenade.
+— _All right !_ Alors, bonne promenade.
 
 — Je remercie… ; au revoir.
 
@@ -957,7 +957,7 @@ Sans une parole, le gamin pivota sur ses talons et partit en courant.
 
 Allan le regardait s’éloigner.
 
-— Ah ! fit-il, ils m'aiment tous, ces pauvres êtres. S’ils savaient qu’ils
+— Ah ! fit-il, ils m’aiment tous, ces pauvres êtres. S’ils savaient qu’ils
   m’aident à tuer mon cœur, comme ils se révolteraient…!
 
 Il eut un haussement d’épaules.

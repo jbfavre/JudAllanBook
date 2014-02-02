@@ -39,7 +39,7 @@ servi, il attendit que la porte se fût refermée sur le domestique, puis la
 voix abaissée, il laissa tomber cette phrase :
 
 — Messieurs, le septième a prié M^me^ de Armencita de le recevoir ce soir.
-  A cette heure, il doit se préparer à se présenter devant la comtesse,
+  À cette heure, il doit se préparer à se présenter devant la comtesse,
   car il lui a été répondu fort gracieusement par l’invitation de
   prendre le thé avec ces dames.
 
@@ -231,7 +231,7 @@ tour.
 
 — Ma foi, cher Monsieur, dit-il, je n’attendrai point l’assurance que
   cet officier prend le thé bien paisiblement, car je m’aperçois que j’ai
-  oublié l’heure. Je n'ai que le temps de réparer ma distraction.
+  oublié l’heure. Je n’ai que le temps de réparer ma distraction.
 
 L’Américain sortit sur ces mots et se dirigea ostensiblement vers
 l’escalier descendant à l’avenue de l’Opéra, tandis que le chef de la
@@ -278,7 +278,7 @@ dans le vestibule du cercle, il murmura d’un ton découragé :
 
 Il eut un geste rageur.
 
-— Oh ! je reconnais la main qui mène tout… mais cela est insuffisant…
+— Oh ! je reconnais la main qui mène tout… mais cela est insuffisant…
 
 Il faut que je persuade M. Loosevelt… Il faut que le Président de la
 République des États-Unis soit avec moi… ou bien je reste seul,
@@ -348,7 +348,7 @@ Il tendit quelques pièces de monnaie à l’automédon. Sans doute le
 pourboire était copieux, car le cocher marqua sa déférence pour le
 client généreux, en portant la main à son chapeau.
 
-L’Américain répondit par une légère inclination de la tête et s'éloigna
+L’Américain répondit par une légère inclination de la tête et s’éloigna
 vivement, descendant la rue François Ⅰ^er^ dans la direction du
 Cours-la-Reine.
 
@@ -838,7 +838,7 @@ lentement :
 — Nous avions décidé de recevoir M. Anoru dans ce petit salon. Une
   tasse de thé, une demi-heure de conversation, cela ne nous aurait
   pas conduites bien tard, et il nous eût été encore loisible de
-  goûter une longue nuit de repos. A neuf heures moins cinq, on
+  goûter une longue nuit de repos. À neuf heures moins cinq, on
   annonça le capitaine.
 
 — À neuf heures moins cinq, vous êtes certaine de l’heure ?

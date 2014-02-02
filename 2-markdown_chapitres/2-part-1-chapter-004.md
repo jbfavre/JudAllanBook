@@ -209,7 +209,7 @@ Il y eut des chuchotements, des sourires médisants ; rien de plus.
 Von Foorberg attendait toujours.
 
 — Voyons, reprit-il, n’est-il personne ici qui souhaite le mot d’une
-  énigme de la vie ? Marahi ne lira rien d'autre. Il arrive, à chaque
+  énigme de la vie ? Marahi ne lira rien d’autre. Il arrive, à chaque
   instant, une chose inexplicable pour qui en est atteint. Ceci n’est
   point un secret que l’on craigne de voir dévoiler… ; c’est l’x d’un
   problème que l’on doit désirer connaître.
@@ -370,7 +370,7 @@ Mais l’ironie n’éveilla aucun écho. Marahi continuait :
   aveuglante, entre deux mers, s’étendant plus vastes que dix départements
   de ce pays de France.
 
-— Mais ces parents dont vous parlez ? s'écria la jeune fille, oubliant
+— Mais ces parents dont vous parlez ? s’écria la jeune fille, oubliant
   que deux cents yeux se fixaient sur elle.
 
 — Ta mère vit…, auprès de son cousin, le riche Américain.
@@ -404,7 +404,7 @@ longtemps contenue demandait à s’exprimer.
 Un bourdonnement de remarques, de réflexions échangées au hasard emplit
 les salons.
 
-L'Indienne profita de cet instant.
+L’Indienne profita de cet instant.
 
 Sa main quitta le front de la jeune fille, s’abaissa à hauteur de ses
 yeux.
@@ -598,5 +598,3 @@ rêve éveillé, subissant une impulsion irraisonnée.
 Maintenant, il avait besoin d’être seul. Il se débarrassa donc
 lestement des indiscrets, demeurés autour de lui après le départ de la
 jeune fille, et rentra dans les salles de réception.
-
------

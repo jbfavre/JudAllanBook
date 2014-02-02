@@ -360,7 +360,7 @@ Le bruit des rames devient plus distinct. L’ennemi va se montrer.
 Est-ce que vraiment l’effort du gamin est destiné à demeurer inutile?
 
 Est-ce qu’il va succomber, entraînant avec lui, dans la mort, la mignonne
-inconnue à qui il s’est dévoué ? Cette pensée le galvanise. Il s'enfonce
+inconnue à qui il s’est dévoué ? Cette pensée le galvanise. Il s’enfonce
 dans le fjord sombre.
 
 — Ah !
@@ -1445,7 +1445,7 @@ Grace se leva, prit son amie dans ses bras et la baisa au front.
   veiller. Le plus sage est donc de dormir. Demain il fera jour et nous
   pourrons causer, nos idées un peu clarifiées par le repos.
 
-Un instant après, Grace s'enfermait dans la pièce voisine. Les deux amies
+Un instant après, Grace s’enfermait dans la pièce voisine. Les deux amies
 avaient obtenu de n’être séparées que par une mince cloison, ce qui leur
 permettait de continuer la conversation à travers ce frêle obstacle.
 
@@ -1625,7 +1625,7 @@ ampoule électrique qu’il venait d’actionner éclairait ce réduit.
   Avenue et de la rue de la Bibliothèque du Congrès, Jemkins se glisse
   sous terre, et il tiendra conseil, à l’autre extrémité du square, dans
   cette coquette demeure, dont les portes aux marteaux de cuivre
-  s’ouvrent sur la Rue N. E n°3 et sur A Street S. E. [^1-13-3]
+  s’ouvrent sur la Rue N. E n°3 et sur À Street S. E. [^1-13-3]
 
 Il ouvre la porte faisant face à l’escalier, par lequel il est descendu
 dans le sous-sol. Une galerie se présente devant lui. Il s’y engage.
@@ -1788,7 +1788,7 @@ Ils opinèrent de la tête.
 
 L’auditoire marqua un frémissement anxieux. Si perdus que fussent les
 bandits, la désinvolture de leur chef leur causait un malaise. Ils
-devinaient que l'affaire annoncée était tout simplement une trahison
+devinaient que l’affaire annoncée était tout simplement une trahison
 contre les États-Unis.
 
 — Vous savez la situation du propriétaire de l’hacienda de Agua Frida. La

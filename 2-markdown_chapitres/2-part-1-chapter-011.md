@@ -1088,7 +1088,7 @@ lourde porte qui s’ouvrit pour leur livrer passage.
 Leur souper expédié, les deux amies ne s’attardèrent pas aux papotages de
 leurs camarades.
 
-Elles gagnèrent rapidement la chambre de Lilian et s'assirent devant la
+Elles gagnèrent rapidement la chambre de Lilian et s’assirent devant la
 table de travail.
 
 D’une main tremblante, la protégée d’Allan tira les feuillets mystérieux

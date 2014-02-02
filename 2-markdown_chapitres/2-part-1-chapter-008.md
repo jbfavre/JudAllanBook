@@ -143,7 +143,7 @@ Il s’arrête là. Aucun mot ne vient à ses lèvres.
   marquis Pierre de Chazelet… Très bien ! Moi, je suis Frey Jemkins, de
   San-Francisco…
   L’Amérique me connaît comme Rockefeller, Carnegie ou Morgan… Vous aussi,
-  je pense. Au surplus, cela n’est rien… J'intéresserai davantage votre
+  je pense. Au surplus, cela n’est rien… J’intéresserai davantage votre
   cervelle en vous apprenant que je suis le propre cousin d’une jeune
   lady, connue sous le nom de señorita Linérès de Armencita.
 

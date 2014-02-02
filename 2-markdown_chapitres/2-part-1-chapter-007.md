@@ -282,7 +282,7 @@ Jean Pariset lui avait semblé de plus en plus insensé… Il ne parlait de
 rien moins que de tuer sa femme et son enfant.
 
 Frey avait proposé à sa cousine, à ce qu’il déclara, de l’emmener avec
-lui. A San-Francisco, elle eût été en sûreté. Mais, en femme consciente de
+lui. À San-Francisco, elle eût été en sûreté. Mais, en femme consciente de
 ses devoirs, Lily Pariset avait refusé. Elle voulait attendre encore,
 espérant que l’état de son mari se modifierait.
 
@@ -538,7 +538,7 @@ prétendants à la main de la Fiancée du Diable.
 Tel était son désespoir qu’il éprouva le besoin de le confier… Le nom
 d’Allan vint à ses lèvres.
 
-Pourquoi cet homme, le plus récent parmi ses connaissances ?
+Pourquoi cet homme, le plus récent parmi ses connaissances ?
 
 Il ne se le demanda même pas, entraîné par une de ces impulsions
 irrésistibles qui nous dominent aux heures douloureuses.
@@ -565,7 +565,7 @@ l’entêtement de l’enfant qui cherche la protection de ceux qu’il devine
   paroles lui eussent apporté une espérance.
 
 Cependant Jemkins, conduit par Linérès, avait pénétré dans la chambre où
-Mme de Armencita, affalée au fond d’un fauteuil, se remettait en une vague
+M^me de Armencita, affalée au fond d’un fauteuil, se remettait en une vague
 somnolence des événements de la soirée.
 
 À son entrée, annoncée par la jeune fille, la vieille dame avait sursauté.
@@ -820,9 +820,14 @@ Mais son « Cousin Frey », avait repris son apparence habituelle,
 lorsqu’elle pénétra, entre lui et M^me^ de Armencita, dans le grand salon,
 où le juge attendait en compagnie de M. Lerenaud.
 
-[^expeditionMexique]: il s'agit des années 1860. L'expédition du Mexique
-                      mentionnée ici a débuté en 1961 pour s'achever en 1967.
-                      L'un des évènements marquants de cette campagne est la
+[^expeditionMexique]: il s’agit des années 1860. L’expédition du Mexique
+                      mentionnée ici a débuté en 1861 pour s’achever en 1867.
+                      L’un des évènements marquants de cette campagne est la
                       célèbre bataille de Camerone, le 30 Avril 1863.
-                      Plus de détails sur [l'expédition du Mexique](http://fr.wikipedia.org/wiki/Exp%C3%A9dition_du_Mexique)
-                      et la [bataille de Camerone](http://fr.wikipedia.org/wiki/Camerone) sur Wikipedia
+                      Plus de détails sur [l’expédition du Mexique](
+                      http://fr.wikipedia.org/wiki/Exp%C3%A9dition_du_Mexique)
+                      (http://fr.wikipedia.org/wiki/Exp%C3%A9dition_du_Mexique)
+                      et la [bataille de Camerone](
+                      http://fr.wikipedia.org/wiki/Camerone)
+                      (http://fr.wikipedia.org/wiki/Camerone)
+                      sur Wikipedia

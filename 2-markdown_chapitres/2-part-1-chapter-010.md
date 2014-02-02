@@ -380,7 +380,7 @@ Sous ce rapport, Jud Allan avait droit à son entière estime.
 
 Aussi, quand elle l’avait aperçu dans l’allée centrale, dite allée des
 visiteurs, avait-elle quitté précipitamment son cabinet-bureau, sis au
-rez-de-chaussée de l'établissement, afin de lui présenter ses civilités.
+rez-de-chaussée de l’établissement, afin de lui présenter ses civilités.
 
 Sans doute, en son état d’esprit, le jeune homme se fût bien passé des
 politesses acidulées de la Directrice, mais comme il lui était impossible de
@@ -414,7 +414,7 @@ Sur ce, Miss Deffling accompagna le visiteur jusqu’au seuil de son cabinet
 où elle pénétra dignement, le laissant libre de gagner la chambre occupée
 par Lilian.
 
-![Pourrai-je voir ma sœur ?](../3-images/part1/page-162.jpg "Pourrai-je voir ma sœur ?")
+![Pourrai-je voir ma sœur ?](../3-images/part1/page-162.jpg "Pourrai-je voir ma sœur ?")
 
 Alors le professeur de West-Point s’essuya le front que mouillaient des
 gouttelettes de sueur, puis, d’un pas décidé, il gravit l’escalier accédant
