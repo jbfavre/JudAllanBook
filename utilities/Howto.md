@@ -1,6 +1,6 @@
 # Génération du fichier epub
 
-    FILE="../jud_allan-epub2.epub"
+    FILE="../output/Jud_Allan-part-1.epub"
     rm -f "$FILE"
     zip -X0 "$FILE" mimetype
     zip -X9Dr "$FILE" META-INF images *.*
@@ -23,9 +23,30 @@ Images            : 360px au plus large
 
 ## Têtes de Chapitres:
 
-    <h2 class="chapter">
-      <span class="chapterHeader">
-         <span class="translation">Chapitre</span>
-         <span class="count">1</span>
-      </span>
-    La photographie magique</h2>
+<h2 class="chapter"><span class="chapterHeader"><span class="translation">Chapitre</span><span class="count">1</span></span>
+La photographie magique</h2>
+
+
+## Typo autoFixer
+
+    sed -i 's/ﬂ/fl/g' 2-markdown_chapitres/2-part-1-*.md
+    sed -i 's/ﬁ/fi/g' 2-markdown_chapitres/2-part-1-*.md
+    sed -i 's/ ?/ ?/g' 2-markdown_chapitres/2-part-1-*.md
+    sed -i 's/ !/ !/g' 2-markdown_chapitres/2-part-1-*.md
+    sed -i 's/ ;/ ;/g' 2-markdown_chapitres/2-part-1-*.md
+    sed -i 's/ :/ :/g' 2-markdown_chapitres/2-part-1-*.md
+    sed -i "s/'/’/g" 2-markdown_chapitres/2-part-1-*.md
+    sed -i 's/‘/’/g' 2-markdown_chapitres/2-part-1-*.md
+    sed -i 's/oe/œ/g' 2-markdown_chapitres/2-part-1-*.md
+    sed -i 's/ae/æ/g' 2-markdown_chapitres/2-part-1-*.md
+    sed -i 's/\.\.\./…/g' 2-markdown_chapitres/2-part-1-*.md
+    sed -i 's/?\.\./?…/g' 2-markdown_chapitres/2-part-1-*.md
+    sed -i 's/!\.\./!…/g' 2-markdown_chapitres/2-part-1-*.md
+    sed -i 's/« /« /g' 2-markdown_chapitres/2-part-1-*.md
+    sed -i 's/ »/ »/g' 2-markdown_chapitres/2-part-1-*.md
+    sed -i 's/Mme /M^me /g' 2-markdown_chapitres/2-part-1-*.md
+    sed -i 's/Mmes /M^mes /g' 2-markdown_chapitres/2-part-1-*.md
+    sed -i 's/Mlle /M^lle /g' 2-markdown_chapitres/2-part-1-*.md
+    sed -i 's/Mlles /M^lles /g' 2-markdown_chapitres/2-part-1-*.md
+    sed -i 's/M\. /M\. /g' 2-markdown_chapitres/2-part-1-*.md
+    sed -i 's/ A / À /g' 2-markdown_chapitres/2-part-1-*.md
