@@ -1,6 +1,15 @@
 # Génération du fichier epub
 
+Pour la partie 1
+
     FILE="../output/Jud_Allan-part-1.epub"
+    rm -f "$FILE"
+    zip -X0 "$FILE" mimetype
+    zip -X9Dr "$FILE" META-INF images *.*
+
+Ou pour la partie 2
+
+    FILE="../output/Jud_Allan-part-2.epub"
     rm -f "$FILE"
     zip -X0 "$FILE" mimetype
     zip -X9Dr "$FILE" META-INF images *.*

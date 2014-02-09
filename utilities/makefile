@@ -44,7 +44,7 @@ pandoc_config= \
 		--epub-cover-image=$(img_dir)/cover.jpg \
 		-o $(outputdir)/$(@) \
 		./metadata.md \
-		$(pages_dir)/*.md )
+		$(pages_dir)/2-part-2*.md )
 
 %-epub3.epub:
 	@echo "EPUB3 generation... "
@@ -59,7 +59,7 @@ pandoc_config= \
 		--epub-cover-image=$(img_dir)/cover.jpg \
 		-o $(outputdir)/$(@) \
 		./metadata.md \
-		$(pages_dir)/*.md )
+		$(pages_dir)/2-part-2*.md )
 
 %.all: | %-epub2.epub %-epub3.epub
 	@true
