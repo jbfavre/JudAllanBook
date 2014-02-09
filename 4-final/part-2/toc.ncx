@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta name="dtb:uid" content="ISBN" />
+    <meta name="dtb:depth" content="1" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+    <meta name="cover" content="cover-image" />
+  </head>
+  <docTitle>
+    <text>Jud Allan, roi des “Lads”, partie 2</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-0">
+      <navLabel>
+        <text>Jud Allan, roi des “Lads”, partie 2</text>
+      </navLabel>
+      <content src="title_page.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>La roche tarpéienne</text>
+      </navLabel>
+      <content src="ch002.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Les Lads contre les bandits</text>
+      </navLabel>
+      <content src="ch003.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>L’affaire des barres d’or</text>
+      </navLabel>
+      <content src="ch004.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>L’affaire des diamants</text>
+      </navLabel>
+      <content src="ch005.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>La chasse à l’homme</text>
+      </navLabel>
+      <content src="ch006.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>La course des « chevaux de feu »</text>
+      </navLabel>
+      <content src="ch007.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>Le sorcier El Dieblo</text>
+      </navLabel>
+      <content src="ch008.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>Le mort vivant</text>
+      </navLabel>
+      <content src="ch009.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>Les volontés se croisent</text>
+      </navLabel>
+      <content src="ch010.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>Fiançailles tragiques</text>
+      </navLabel>
+      <content src="ch011.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>Le revolver épargne, le mot tue</text>
+      </navLabel>
+      <content src="ch012.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>Le banquet noir</text>
+      </navLabel>
+      <content src="ch013.xhtml" />
+    </navPoint>
+  </navMap>
+</ncx>
