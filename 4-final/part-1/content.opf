@@ -174,7 +174,7 @@
     <itemref idref="ch028" />
   </spine>
   <guide>
-    <reference type="toc" title="Jud Allan, roi des “Lads”" href="nav.xhtml" />
+    <reference type="toc" title="Jud Allan, roi des “Lads”, partie 1" href="nav.xhtml" />
     <reference type="cover" title="Cover" href="cover.xhtml" />
   </guide>
 </package>
