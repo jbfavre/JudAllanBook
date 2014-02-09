@@ -29,7 +29,7 @@ pandoc_config= \
 	@echo "Performing checks"
 	$(eval pandoc_metadata=$(shell /usr/bin/awk -f $(utilsdir)/metadata.awk metadata.txt) )
 	mkdir -p $(outputdir)
-	rm -rf $(outputdir)/$(patsubst %.check,%,$(@))*.*
+	rm -rf $(outputdir)/$(patsubst %.check,%,$(@))*
 
 %-epub2.epub:
 	@echo "EPUB  generation... "

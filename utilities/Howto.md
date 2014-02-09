@@ -18,13 +18,13 @@ Ou pour la partie 2
 
 - Extraire les images des photos originales (avant traitement pas ScanTailor ou autre)
 - Convertir les images en "nuances de gris"
-- Exporter au format JPG, qualité 90
+- Exporter au format.jpg, qualité 90
 - Redimensionner les images avec le script:
 
         SIZE=480
-        for file in *.JPG; do
+        for file in *.jpg; do
            echo -n Converting ${file}...
-          convert -resize ${SIZE}x${SIZE} -quality 60 "$file" "../part-1/${file%.*}.jpg"
+          convert -resize ${SIZE}x${SIZE} -quality 60 "$file" "little/${file%.*}.jpg"
            echo done
         done
 
