@@ -7,9 +7,17 @@
 
 # Intégration d'images
 
-Images chapitre   : 480px largeur
-Images pleine-page: 480px hauteur
-Images            : 360px au plus large
+- Extraire les images des photos originales (avant traitement pas ScanTailor ou autre)
+- Convertir les images en "nuances de gris"
+- Exporter au format JPG, qualité 90
+- Redimensionner les images avec le script:
+
+        SIZE=480
+        for file in *.JPG; do
+           echo -n Converting ${file}...
+          convert -resize ${SIZE}x${SIZE} -quality 60 "$file" "../part-1/${file%.*}.jpg"
+           echo done
+        done
 
 ## Page de couverture
 
