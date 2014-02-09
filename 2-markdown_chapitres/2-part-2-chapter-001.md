@@ -403,7 +403,7 @@ Et tristement :
 — Suis‑je réduit à l’impuissance totale ? Il est sûr qu’il me faut renoncer à
   l’appui de la police officielle… Oui… M. Loosevelt doit être avisé de suite…
   Mais me rendre à la Maison Blanche serait imprudent. Mes ennemis savaient
-  que, leur lettre reçue, j’irais l’Institution Deffling. Par conséquent dès
+  que, leur lettre reçue, j’irais à l’Institution Deffling. Par conséquent dès
   ce moment je suis épié, je dois l’être…
 
 Un instant, il marcha pensivement, puis comme prenant un parti :
