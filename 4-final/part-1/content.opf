@@ -2,8 +2,8 @@
 <package version="2.0" xmlns="http://www.idpf.org/2007/opf" unique-identifier="epub-id-1">
   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
     <dc:identifier id="epub-id-1">ISBN</dc:identifier>
-    <dc:title id="epub-title-1">Jud Allan, Roi des “Lads”</dc:title>
-    <dc:title id="epub-title-2">Jud Allan, roi des “Lads”</dc:title>
+    <dc:title id="epub-title-1">Jud Allan, Roi des “Lads”, partie 1</dc:title>
+    <dc:title id="epub-title-2">Idylle en modern-sorcellerie</dc:title>
     <dc:date>1909</dc:date>
     <dc:language>french</dc:language>
     <dc:creator id="epub-creator-1" opf:role="aut">Paul d'Ivoi</dc:creator>
