@@ -1,6 +1,6 @@
 ## Un milliardaire
 
-![](../3-images/part1/chapitre-7.jpg)
+![](../3-images/part1/page-108.jpg)
 
 Tout à coup un sifflement aigu, aux modulations étranges, se vrilla dans
 l’air. Il venait évidemment de l’extérieur, et cependant il sembla

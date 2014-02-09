@@ -1,6 +1,6 @@
 ## Washington-city
 
-![](../3-images/part1/chapitre-9.jpg)
+![](../3-images/part1/page-131.jpg)
 
 Washington, la capitale fédérale des États-Unis, occupe la spacieuse
 presqu’île formée par le confluent de la rivière Anacostia avec le fleuve

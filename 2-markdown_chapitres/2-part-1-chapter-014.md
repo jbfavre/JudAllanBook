@@ -1,6 +1,6 @@
 ## Le Diable semble rentrer en scène
 
-![](../3-images/part1/chapitre-14.jpg)
+![](../3-images/part1/page-267.jpg)
 
 — Ah ! enfin, le jour !
 

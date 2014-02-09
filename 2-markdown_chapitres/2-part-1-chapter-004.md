@@ -1,6 +1,6 @@
 ## Gamme d’émotions
 
-![](../3-images/part1/chapitre-4.jpg)
+![](../3-images/part1/page-064.jpg)
 
 Les luxueux salons de la légation d’Espagne resplendissaient de lumières.
 Une foule nombreuse, bigarrée, s’y pressait.

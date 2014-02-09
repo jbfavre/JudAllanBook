@@ -1,6 +1,6 @@
 ## Passez Marquis ! Passez muscade !
 
-![](../3-images/part1/chapitre-8.jpg)
+![](../3-images/part1/page-125.jpg)
 
 À huit heures du matin, Pierre de Chazelet était debout, habillé, prêt à
 sortir. Où voulait-il aller ? Nulle part.
