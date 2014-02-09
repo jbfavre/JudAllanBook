@@ -1,4 +1,6 @@
-## CHAPITRE IX : Les volontés se croisent
+## Les volontés se croisent
+
+![](../3-images/part2/page-415.jpg)
 
 — Par ma foi, rien qu’à voir cette aimable señorita, j’aurais deviné, je pense,
   l’héritière des domaines de Pariset.
@@ -28,7 +30,7 @@ Armencita, le voisinage des lieutenants du milliardaire.
 Deux personnages seulement avaient attiré leur attention.
 
 L’un, indien d’apparence, faisant caracoler avec mæstria un superbe _mustang_
-(cheval à demi-sauvage), n’était autre que El Dieblo, le sorcier rouge.
+(cheval à demi‑sauvage), n’était autre que El Dieblo, le sorcier rouge.
 
 L’autre, pâle sous ses cheveux blancs, la démarche incertaine, le regard vague,
 les traits inexpressifs, Lily Pariset, semblait être retombée dans
@@ -50,20 +52,20 @@ Un temps de trot, et l’on parvint au quai.
 Une passerelle légère y reliait le coquet navire. Sur le pont, ombragé par une
 tente aux rayures bleues, Don Porfirio Raëz attendait les visiteurs.
 
-Le matin même, un exprès, dépêché par Rouge-Fleur, lui avait apporté
+Le matin même, un exprès, dépêché par Rouge‑Fleur, lui avait apporté
 l’assurance que son dérangement lui vaudrait un amas de piastres.
 
-Aussi serra-t-il énergiquement la main de Frey Jemkins et doucement celle de
-Rouge-Fleur, qui avait rejoint la cavalcade, en vue de Presios, escortée
+Aussi serra‑t‑il énergiquement la main de Frey Jemkins et doucement celle de
+Rouge‑Fleur, qui avait rejoint la cavalcade, en vue de Presios, escortée
 seulement par un serviteur japonais.
 
 A présent, le délégué mexicain s’agitait, frappait dans ses mains, stimulant de
-la voix et du geste le zèle de ses gens, réclamant rocking-chaises, tables de
+la voix et du geste le zèle de ses gens, réclamant rocking‑chaises, tables de
 rotin, rafraîchissements.
 
-Rouge-Fleur fut déclarée par lui un pur rayon de soleil.
+Rouge‑Fleur fut déclarée par lui un pur rayon de soleil.
 
-Linérès eut les honneurs de la comparaison avec une demi-douzaine des plus
+Linérès eut les honneurs de la comparaison avec une demi‑douzaine des plus
 jolies fleurs du Mexique.
 
 Enfin, tout le monde prit place.
@@ -79,7 +81,7 @@ vint s’asseoir sans affectation près de la comtesse de Armencita.
 
 Soudain l’organe de Jemkins sonna.
 
-— Je crois que que nous pouvons causer un peu de l’affaire, dit-il.
+— Je crois que que nous pouvons causer un peu de l’affaire, dit‑il.
 
 Les yeux des fiancés se joignirent en un même rayon. Don Porfirio, lui, s’était
 levé et avec un sourire aimable, le sourire de l’homme qui entendait sonner les
@@ -87,7 +89,7 @@ piastres à travers ses paroles :
 
 — Je suis à l’entière disposition. Le dossier remis à la chancellerie de Mexico
   ne laisse subsister aucun doute, et le jour de la signature du contrat de
-  mariage, car on m’a confié qu’il y avait hymen sous roche… ce jour-là, dis-
+  mariage, car on m’a confié qu’il y avait hymen sous roche… ce jour‑là, dis‑
   je, moi, envoyé plénipotentiaire, j’inscrirai la reconnaissance de la señorita
   Lilian Pariset, dite Linérès…
 
@@ -105,7 +107,7 @@ brillait l’intelligence recouvrée.
 — Lilian Allan est ma fille, sauvée naguère des assassins par un enfant, devenu
 un homme de cœur, et que j’appelle tout bas : mon fils !
 
-Personne ne songeait à l’interrompre. Jemkins, Rouge-Fleur, les assistants,
+Personne ne songeait à l’interrompre. Jemkins, Rouge‑Fleur, les assistants,
 regardaient hébétés, ne s’expliquant pas la soudaine métamorphose de la
 malheureuse femme.
 
@@ -123,8 +125,8 @@ confiait que l’aventure compromettait la pluie de piastres escomptée.
 Mais il demeura médusé. D’une voix calme, la veuve répondait :
 
 — Je n’ai jamais été folle. On m’a maintenue dans l’hébétude en mêlant de
-l’extrait de chanvre à ma boisson. L’antidote est l’ésérine, souvenez-vous de
-cela, Señor délégué; si je retombais dans l’inconscience, administrez-moi de
+l’extrait de chanvre à ma boisson. L’antidote est l’ésérine, souvenez‑vous de
+cela, Señor délégué; si je retombais dans l’inconscience, administrez‑moi de
 l’ésérine et la lucidité me reviendra.
 
 L’accusation était trop nette pour que Porfirio n’y prêtât pas attention.
@@ -132,8 +134,8 @@ L’accusation était trop nette pour que Porfirio n’y prêtât pas attention.
 Des matelots rôdaient aux alentours. Ils avaient pu entendre. Un déni de
 justice dans ces conditions entraînerait des conséquences graves.
 
-— Mais, fit-il, je viens pour un mariage et je tombe en plein drame. L’extrait
-  de chanvre implique des desseins criminels. Qui accusez-vous, Señora ?
+— Mais, fit‑il, je viens pour un mariage et je tombe en plein drame. L’extrait
+  de chanvre implique des desseins criminels. Qui accusez‑vous, Señora ?
 
 — Celui qui a tué mon mari, qui m’a faite veuve, qui tenta de tuer mon enfant,
   est Frey Jemkins ici présent.
@@ -145,7 +147,7 @@ D’un bond, le milliardaire se trouva sur ses pieds. Il hurla :
 Il ne put aller au delà. La comtesse d’Armencita, secouée par un éclat de rire
 convulsif, criait entre les soubresauts de cette hilarité inexplicable :
 
-— Taisez-vous donc ! Vous savez bien que c’est vrai. Que Linérès fut enlevée
+— Taisez‑vous donc ! Vous savez bien que c’est vrai. Que Linérès fut enlevée
   sur la Côte par vous, afin de vous garder à l’occasion contre la réapparition
   de la véritable Lilian.
 
@@ -158,7 +160,7 @@ Allan, avait pu pénétrer secrètement dans la chambre de la comtesse. Et
 réalisant une des expériences qui ont immortalisé les noms de Burk et de
 Charcot, il avait fait passer la vieille dame du sommeil naturel dans le
 sommeil hypnotique, lui avait _suggéré_ d’accuser Jemkins à l’heure qu’il
-désignerait. À l’instant, le pseudo-sorcier, placé auprès de la comtesse, lui
+désignerait. À l’instant, le pseudo‑sorcier, placé auprès de la comtesse, lui
 avait dit à voix basse :
 
 — Allez… C’est l’heure.
@@ -173,7 +175,7 @@ Soudain, une voix au timbre harmonieux s’éleva :
 
 — Une enquête s’impose.
 
-Rouge-Fleur s’était dressée à son tour. Elle adressa à Frey Jemkins un regard
+Rouge‑Fleur s’était dressée à son tour. Elle adressa à Frey Jemkins un regard
 d’intelligence, puis se tournant vers M^me Pariset :
 
 — Madame, vous savez sans doute où se trouve celle que vous nommez Lilian.
@@ -189,7 +191,7 @@ d’intelligence, puis se tournant vers M^me Pariset :
   encore une amie à elle, Miss Grace Paterson, que l’on a séparée de nous,
   depuis notre arrivée en ce pays maudit.
 
-Frey voulut parler. D’un geste menu, perceptible pour lui seul, Rouge-Fleur lui
+Frey voulut parler. D’un geste menu, perceptible pour lui seul, Rouge‑Fleur lui
 imposa silence.
 
 Quant au señor Porfirio Raëz, sa figure se dérida comme par enchantement.
@@ -205,22 +207,20 @@ l’impressionnait, étouffant les paroles de gratitude sur ses lèvres.
 
 Linérès et Chazelet considéraient les assistants avec surprise.
 
-Que signifiait 1’air détaché de Jemkins, de ses compagnons ?
+Que signifiait l’air détaché de Jemkins, de ses compagnons ?
 
 Instinctivement, ils jetèrent un coup d’œil interrogateur vers le sorcier El
 Dieblo.
 
-Celui-ci ne les vit pas. Il était sans mouvement, les sourcils froncés. À cette
+Celui‑ci ne les vit pas. Il était sans mouvement, les sourcils froncés. À cette
 heure, il murmurait entre ses dents :
 
-— Quelle parade ces misérables ont-ils imaginée ? Je pensais les écraser d’un
-coup et… ils acceptent l’enquête… Qu’y a-t-il donc encore que j’ignore ?
-
------
+— Quelle parade ces misérables ont‑ils imaginée ? Je pensais les écraser d’un
+coup et… ils acceptent l’enquête… Qu’y a‑t‑il donc encore que j’ignore ?
 
 — Voici la Maison d’Azur ! Señor délégué.
 
-Et Rouge-Fleur s’inclina gracieusement sur le cou de son cheval.
+Et Rouge‑Fleur s’inclina gracieusement sur le cou de son cheval.
 
 Le soleil descendant vers l’horizon indiquait qu’il était environ six heures.
 
@@ -229,18 +229,18 @@ Le soleil descendant vers l’horizon indiquait qu’il était environ six heure
   vers Agua Frida.
 
 En face des arrivants se dessinait la barrière blanche, que Jud Allan avait
-franchie la veille, l’allée qu’il avait suivie aux côtés de Rouge-Fleur.
+franchie la veille, l’allée qu’il avait suivie aux côtés de Rouge‑Fleur.
 
-Celle-ci désigna du geste la veuve immobile.
+Celle‑ci désigna du geste la veuve immobile.
 
-— Madame est la plaignante, fit-elle, il me paraît légitime qu’elle vous guide,
-  afin que la loyauté de l’enquête ne puisse être suspectée. Qu’en pensez-vous,
+— Madame est la plaignante, fit‑elle, il me paraît légitime qu’elle vous guide,
+  afin que la loyauté de l’enquête ne puisse être suspectée. Qu’en pensez‑vous,
   Señor Jemkins ?
 
 Le milliardaire éclata de rire.
 
 — Oh ! moi, je n’ai pas voix au chapitre. Je suis prévenu de meurtre, de rapt
-  d’enfant… J’attendrai que mon innocence éclate à tous les regards. Jusque-là
+  d’enfant… J’attendrai que mon innocence éclate à tous les regards. Jusque‑là
   j’assiste en simple spectateur à tout ce qu’il vous plaira de décider.
 
 L’insouciance de leur égaya les lieutenants de Frey. Les faces s’épanouirent,
@@ -251,7 +251,7 @@ Puis silencieux, tel une procession. d’ombres, le cortgèe s’ébranla. Profi
 marchant en tête, avec, auprès de lui, la triste Lily Pariset.
 
 Le jardin ombreux fut traversé. On contourna la volière, on atteignit
-l’habitation. Celle-ci se présentait riante, précédée d’une vérandah [^2-09-1]
+l’habitation. Celle‑ci se présentait riante, précédée d’une vérandah [^2-09-1]
 aux colonnettes légères que reliaient des arcades de bois ajouré.
 
 Mais la veuve ne s’arrêta point.
@@ -260,7 +260,7 @@ Elle entraîna le Mexicain à travers le vestibule, les corridors, l’escalier.
 
 Elle pénétra enfin dans une chambre.
 
-— Ceci, prononça-t-elle lentement, est la pièce occupée par Lilian.
+— Ceci, prononça‑t‑elle lentement, est la pièce occupée par Lilian.
 
 Le señor Raëz eut une légère inclination de tête.
 
@@ -277,15 +277,15 @@ Au son argentin, une servante apparut.
 
 La fille se figea en une expression ahurie, écarquillant les yeux.
 
-— Miss Lilian ? répéta-t-elle.
+— Miss Lilian ? répéta‑t‑elle.
 
-— Eh bien, oui, ne me comprenez-vous pas ?
+— Eh bien, oui, ne me comprenez‑vous pas ?
 
 — Hélas non, Señora. Je ne connais pas la personne dont vous parlez.
 
 — Allons donc, la jeune fille qui habite ici comme moi.
 
-— Je n’ai jamais vu de jeune fille ici, sauf Miss Grace Paterson : Est-ce elle
+— Je n’ai jamais vu de jeune fille ici, sauf Miss Grace Paterson : Est‑ce elle
   que vous appelez Lilian ?
 
 Chazelet, Linérès, M^me Pariset restèrent étourdis sous l’affirmation
@@ -303,14 +303,14 @@ Frey Jemkins riposta entre haut et bas :
 Mais il ne continua pas. La veuve s’écriait, le doigt pointé vers la servante
 impassible :
 
-— Cette femme, votre complice, vient elle-même de fournir la preuve. Elle a
+— Cette femme, votre complice, vient elle‑même de fournir la preuve. Elle a
   déclaré connaître Miss Grace Paterson, amie de pension de Lilian. Grace
   Paterson est ici, elle. Grace parlera, dira ce qui est, car elle n’est point
   aux ordres de ceux qui commandent ici.
 
-Elle ne put continuer. Rouge-Fleur s’était adressée à la servante :
+Elle ne put continuer. Rouge‑Fleur s’était adressée à la servante :
 
-— Miss Grace Paterson est-elle ici ?
+— Miss Grace Paterson est‑elle ici ?
 
 — Dans sa chambre, Señora.
 
@@ -322,7 +322,7 @@ Puis avec un sourire coquet au délégué :
   que le vif désir de sortir d’un imbroglio véritablement trop compliqué pour
   mon goût.
 
-![Images: "Elle entraîna le Mexicain."](../3-images/1-page-421.JPG)
+![Elle entraîna le Mexicain.](../3-images/part2/page-421.jpg "Elle entraîna le Mexicain.")
 
 La domestique reparut sur le seuil annonçant :
 
@@ -334,20 +334,20 @@ C’était bien elle. El Dieblo, M^me Pariset la reconnurent, et une angoisse 
 étreignit. Leurs ennemis se sentaient donc bien forts qu’ils osassent provoquer
 le témoignage de la jeune fille. Et dans le silence, Grace murmura :
 
-— Que me veut-on ? Je ne m’attendais pas à rencontrer tant de monde.
+— Que me veut‑on ? Je ne m’attendais pas à rencontrer tant de monde.
 
 Chose étrange, Ses regards semblaient voilés. On cru qu’ils s’évertuaient à ne
 se poser sur personne.
 
 Mais don Porfirio Raëz, pénétré du désir de palper les piastres promises par
-Rouge-Fleur, était disposé à une partialité regrettable. Et son accent le
+Rouge‑Fleur, était disposé à une partialité regrettable. Et son accent le
 marqua lorsqu’il prononça :
 
 — Cette señorita est bien celle que l’on a souhaité voir ?
 
 La veuve inclina la tête.
 
-— Oui. Alors, veuillez l’interroger vous-même.
+— Oui. Alors, veuillez l’interroger vous‑même.
 
 Le ton n’était point encourageant. Cependant la veuve devait se décider.
 
@@ -356,19 +356,19 @@ Le ton n’était point encourageant. Cependant la veuve devait se décider.
 
 — C’était mon amie, Madame.
 
-Pourquoi la voix de la jeune fille tremblait-elle ? Pourquoi dans son regard
+Pourquoi la voix de la jeune fille tremblait‑elle ? Pourquoi dans son regard
 cet affolement ? Son interlocutrice n’y prit pas garde. Elle continua.
 
-— Voulez-vous dire comment vous fûtes amenée ici avec Lilian ?
+— Voulez‑vous dire comment vous fûtes amenée ici avec Lilian ?
 
 La Veuve s’arrêta. La jeune fille chancelait. Il y avait une terreur sur son
 visage égaré.
 
-— Pardonnez-moi, fit-elle, se dominant enfin… L’émotion… Je suis venue ici, sur
-  autorisation de mon père, le sculpteur Paterson, avec mon amie Hiang-Tchil,
+— Pardonnez‑moi, fit‑elle, se dominant enfin… L’émotion… Je suis venue ici, sur
+  autorisation de mon père, le sculpteur Paterson, avec mon amie Hiang‑Tchil,
   ici présente.
 
-Sa main se tendait vers Rouge-Fleur.
+Sa main se tendait vers Rouge‑Fleur.
 
 — Votre amie ? répéta M^me Pariset abasourdie.
 
@@ -394,7 +394,7 @@ Jemkins s’esclaffaient, et le milliardaire cyniquement s’exclama :
 
 — Vous discernez, don Porfirio, la folie de ma cousine Lily.
 
-Oh ! celle-ci n’était plus en état de lutter. Elle s’était laissée aller sur un
+Oh ! celle‑ci n’était plus en état de lutter. Elle s’était laissée aller sur un
 siège, secouée par des sanglots nerveux.
 
 L’intuition d’une effroyable et criminelle complication la terrassait.
@@ -411,7 +411,7 @@ n’avait jamais ajouté foi à l’accusation. On sait à qui l’on a affaire,
 _demonios_ ; mais son devoir de délégué du gouvernement l’obligeait à mener
 l’enquête…
 
-— Personne n’a-t-il à produire des révélations de nature à infirmer les
+— Personne n’a‑t‑il à produire des révélations de nature à infirmer les
   précédentes ?
 
 On ne répondit pas à l’interrogation du délégué. Les amis de Jemkins la
@@ -427,15 +427,15 @@ Ce à quoi Jemkins répondit d’un ton pénétré :
   mère qui repousse sa fille obstinément !
 
 Mais Frey Jemkins, en homme énergique, ne pouvait longtemps demeurer abattu par
-une douleur, fût-elle aussi violente que celle qu’il exprimait.
+une douleur, fût‑elle aussi violente que celle qu’il exprimait.
 
-— Nous n’avons plus rien à faire ici, je pense. Aussi, proposerai-je au señor
+— Nous n’avons plus rien à faire ici, je pense. Aussi, proposerai‑je au señor
   délégué de m’accompagner à l’hacienda, où je m’efforcerai de lui faire
   oublier les incidents pénibles qui viennent de se produire.
 
 — Demonios, j’accepterai avec joie, car tout cela m’a serré le cœur.
 
-D’un geste, Frey invita les fiancés à l’accompagner. Ceux-ci obéirent. La
+D’un geste, Frey invita les fiancés à l’accompagner. Ceux‑ci obéirent. La
 recommandation de la veuve sonnait à leurs oreilles comme un glas :
 
 — Un mot peut tuer.
@@ -443,7 +443,7 @@ recommandation de la veuve sonnait à leurs oreilles comme un glas :
 Devant l’angoissante précision de cette phrase, ils se sentaient paralysés. Ils
 obéirent donc, dans l’impuissance de s’arrêter a une résolution.
 
-Jemkins, Rouge-Fleur, les sinistres lieutenants du milliardaire, passèrent en
+Jemkins, Rouge‑Fleur, les sinistres lieutenants du milliardaire, passèrent en
 ricanant devant la veuve qui ne sembla pas les voir.
 
 Grace Paterson demeura seule en face de la mère douloureuse.
@@ -451,7 +451,7 @@ Grace Paterson demeura seule en face de la mère douloureuse.
 Alors, la jeune fille vint à elle, s’agenouilla et, appuyant ses lèvres sur les
 mains glacées de la pauvre femme, elle prononça dans un sanglot :
 
-— Pardonnez-moi ! Ils sont venus. Ils ont emporté Lilian. Ils m’ont dicté mes
+— Pardonnez‑moi ! Ils sont venus. Ils ont emporté Lilian. Ils m’ont dicté mes
   réponses, m’avertissant que votre fille serait égorgée, si je ne me
   conformais à leurs ordres.
 
@@ -461,19 +461,19 @@ mains glacées de la pauvre femme, elle prononça dans un sanglot :
 
 La veuve se prit la tête à deux mains et s’écria avec épouvante :
 
-— Pourquoi cette femme est-elle aussi notre ennemie ?
+— Pourquoi cette femme est‑elle aussi notre ennemie ?
 
 Elle s’interrompit brusquement, les yeux agrandis par une stupeur, à la vue du
-pseudo-sorcier se montrant sur le seuil.
+pseudo‑sorcier se montrant sur le seuil.
 
-Celui-ci appuyait l’index sur ses lèvres pour recommander le silence.
+Celui‑ci appuyait l’index sur ses lèvres pour recommander le silence.
 
 Puis glissant sur le parquet ainsi qu’une ombre, il se rapprocha des deux
 femmes jusqu’à les toucher.
 
-— Miss Grace, dit-il d’une voix presque imperceptible, vous aimez Lilian ?
+— Miss Grace, dit‑il d’une voix presque imperceptible, vous aimez Lilian ?
 
-— Oh ! fit-elle seulement.
+— Oh ! fit‑elle seulement.
 
 — Attendez. Vous l’aimez assez pour risquer votre existence ?
 
@@ -509,7 +509,7 @@ mezcal, de vins généreux et surtout d’un certain cognac de France, pour lequ
 il avouait une préférence toute particulière, don Porfirio Raëz fut conduit à
 sa chambre dans les plus heureuses dispositions.
 
-Frey Jemkins et Rouge-Fleur l’accompagnèrent jusqu’au seuil.
+Frey Jemkins et Rouge‑Fleur l’accompagnèrent jusqu’au seuil.
 
 Au moment de se séparer, Frey chuchota avec un ironique respect :
 
@@ -523,15 +523,15 @@ Au moment de se séparer, Frey chuchota avec un ironique respect :
 — Pour le reste également, demonios, puisque le _reste_ doit mettre en marche
   les piastres vers mon escarcelle.
 
-— C’est-à-dire que dans une semaine, le temps de lancer nos invitations aux
+— C’est‑à‑dire que dans une semaine, le temps de lancer nos invitations aux
   rares hacienderos des environs, nous signerons le contrat du marquis Pierre
   de Chazelet et de ma cousine Lilian Pariset, désignée jusqu’ici sous le nom
   de Linérès de Armencita.
 
-— Ainsi que je le consignerai moi-même sur le contrat et sur le décret d’envoi
+— Ainsi que je le consignerai moi‑même sur le contrat et sur le décret d’envoi
   en possession de l’héritière.
 
-![Image: "Ici nous n’aurons à craindre aucune oreille indiscrète."](../3-images/1-page-425.JPG)
+![Ici nous n’aurons à craindre aucune oreille indiscrète.](../3-images/part2/page-425.jpg "Ici nous n’aurons à craindre aucune oreille indiscrète.")
 
 Mais parmi les fumées des libations, une idée se fit jour dans la cervelle du
 délégué.
@@ -541,7 +541,7 @@ délégué.
 Frey riposta par un de ces rires sonores qui lui étaient habituels.
 
 — La honte de sa ridicule incartade de tantôt… Elle ne sait à quoi l’attribuer…
-  Un coup de soleil peut-être ; mais elle craint que vous n’y ayez vu une marque
+  Un coup de soleil peut‑être ; mais elle craint que vous n’y ayez vu une marque
   d’intempérance, et elle a regagné la côte, déclarant qu’elle ne voulait plus
   se retrouver en votre présence.
 
@@ -564,17 +564,17 @@ sa chambre. Jemkins et sa compagne regagnèrent la sortie de l’hacienda.
 
 — Qui diable les a renseignés ainsi ?
 
-Rouge-Fleur haussa les épaules.
+Rouge‑Fleur haussa les épaules.
 
 — Qu’importe ! Ils sont renseignés. Et le fâcheux est qu’ils refusent de se
   prêter à nos projets de mariage. Si l’on insiste, m’a dit très nettement le
-  marquis, dussions-nous tous périr, je parlerai; mon silence contre votre
+  marquis, dussions‑nous tous périr, je parlerai; mon silence contre votre
   renonciation.
 
-— Eh bien, si c’est là que le bât vous blesse, charmante Rouge-Fleur, rassurez-
+— Eh bien, si c’est là que le bât vous blesse, charmante Rouge‑Fleur, rassurez‑
   vous. Ils signeront le contrat et se tairont.
 
-Sur les traits de 1a gracieuse femme passa un sourire, ses yeux eurent un
+Sur les traits de la gracieuse femme passa un sourire, ses yeux eurent un
 clignotement mutin, et tendant la main à son interlocuteur :
 
 — Bonne nuit, mon cher Sénateur… Vous m’avez rassurée…
@@ -585,28 +585,28 @@ Puis prolongeant la pulqueria aux aloès géants, elle atteignit ainsi l’espac
 découvert au delà duquel la lune éclairait la clôture épineuse de la barrière
 blanche de la Casa Azurea.
 
-— Plus de factionnaires, reprit-elle, plus rien qui sente la prison… Cette
-  Pariset nous a joués en simulant la folie… Comment est-elle arrivée à se
-  procurer l’antidote de la haschischine ? Heureusement Niar-Ho a pu revenir
+— Plus de factionnaires, reprit‑elle, plus rien qui sente la prison… Cette
+  Pariset nous a joués en simulant la folie… Comment est‑elle arrivée à se
+  procurer l’antidote de la haschischine ? Heureusement Niar‑Ho a pu revenir
   durant la sieste… Et la jeune Lilian habite une retraite où nul ne la
   découvrira. Ah ! la figure de la vieille Pariset, lorsque la petite Grace
   récitait sa leçon… J’en rirai longtemps.
 
-Rouge-Fleur ouvrit la barrière et la laissa retomber derrière elle.
+Rouge‑Fleur ouvrit la barrière et la laissa retomber derrière elle.
 
-Mais à peine avait-elle fait dix pas dans l’allée intérieure qu’elle fit halte,
+Mais à peine avait‑elle fait dix pas dans l’allée intérieure qu’elle fit halte,
 avec une exclamation inquiète. Une forme humaine venait de jaillir des fourrés
 et se tenait au milieu du chemin.
 
-— Prenez garde, commença-t-elle, je porte un revolver…
+— Prenez garde, commença‑t‑elle, je porte un revolver…
 
 Mais la menace ne s’acheva pas.
 
-— Rouge-Fleur n’a point besoin d’armes pour converser avec Marahi, son amie.
+— Rouge‑Fleur n’a point besoin d’armes pour converser avec Marahi, son amie.
 
-— Marahi… quoi… ? Est-ce vous, bonne mère ?
+— Marahi… quoi… ? Est‑ce vous, bonne mère ?
 
-— Je viens parce que le danger est sur toi, chère Rouge-Fleur.
+— Je viens parce que le danger est sur toi, chère Rouge‑Fleur.
 
 Marahi arrêta les questions annoncées par l’attitude de son interlocutrice.
 
@@ -619,8 +619,8 @@ Avec l’Indienne, elle sortit de l’enclos, se trouva dans l’espace découve
 précédant la haie de plantes épineuses. Enfin Marahi s’arréta.
 
 — Ici, murmura l’Indienne, nous n’aurons à craindre aucune oreille indiscrète,
-  — puis lentement : — Jeune fille des pays lointains d’au delà le Pacifique,
-  sais-tu que, ce soir même, la comtesse de Armencita a été chassée d’Agua
+  – puis lentement : – Jeune fille des pays lointains d’au delà le Pacifique,
+  sais‑tu que, ce soir même, la comtesse de Armencita a été chassée d’Agua
   Frida ? Elle a eu la langue trop fringante aujourd’hui. Frey Jemkims l’a
   confiée à des peones qui la devaient conduire par delà la mer Vermeille.
 
@@ -632,18 +632,18 @@ précédant la haie de plantes épineuses. Enfin Marahi s’arréta.
 
 — Enlevée ?
 
-— À présent, au triple galop, un cheval l’emporte vers la frontière des États-
+— À présent, au triple galop, un cheval l’emporte vers la frontière des États‑
   Unis.
 
 — Pourquoi, mais pourquoi ?
 
-— Pour qu’elle remette elle-même, aux mains des magistrats chargés de la
+— Pour qu’elle remette elle‑même, aux mains des magistrats chargés de la
   justice, l’aveu écrit des manœuvres par lesquelles l’innocente Linérès fut
   substituée à l’innocente Lilian… une enfant enlevée à une famille de
   pêcheurs, ces pêcheurs jetés en pâture aux squales dans l’anse redoutée des
-  Requins, à cinq kilomètres des pics des Trois-Vierges.
+  Requins, à cinq kilomètres des pics des Trois‑Vierges.
 
-Rouge-Fleur fut secouée par un frisson.
+Rouge‑Fleur fut secouée par un frisson.
 
 — Tout cela est vrai. Aussitôt que le Crâne s’aperçut autrefois de la
   disparition de Lilian, il prit les mesures utiles pour parer aux difficultés
@@ -672,8 +672,8 @@ et de menace.
 
 La vieille Indienne eut un rire hoquetant.
 
-— Chère petite folle, fit-elle d’un ton indulgent que l’on prend avec une
-  enfant ; pourquoi te désespères-tu au lieu de raisonner ?
+— Chère petite folle, fit‑elle d’un ton indulgent que l’on prend avec une
+  enfant ; pourquoi te désespères‑tu au lieu de raisonner ?
 
 — Que peut ma raison contre une pareille catastrophe ?
 
@@ -685,24 +685,24 @@ La vieille Indienne eut un rire hoquetant.
 Sur la physionomie mobile de la gentille Chinoise, des sentiments
 contradictoires se marquaient.
 
-— Mais, fit-elle d’une voix hésitante, comment signer le traité en son nom, ce
+— Mais, fit‑elle d’une voix hésitante, comment signer le traité en son nom, ce
   traité qui nous donnerait le territoire d’Agua Frida ?
 
 Derechef l’Indienne fit entendre un sourd ricanement.
 
 — En lui faisant épouser le marquis de Chazelet.
 
-Toute saisie par cette proposition inattendue, Rouge-Fleur demeura un instant
+Toute saisie par cette proposition inattendue, Rouge‑Fleur demeura un instant
 sans répondre.
 
-— Lilian épouserait le Français, murmura-t-elle enfin. Ni lui, ni Frey ne
+— Lilian épouserait le Français, murmura‑t‑elle enfin. Ni lui, ni Frey ne
   consentiraient…
 
 — Il suffit de les mettre en face du fait accompli.
 
-— Que voulez-vous dire ?
+— Que voulez‑vous dire ?
 
-— Que le contrat sera signé dans huit jour… Eh bien, petite Rouge-Fleur que
+— Que le contrat sera signé dans huit jour… Eh bien, petite Rouge‑Fleur que
   j’aime, il faut que ce soit ta prisonnière, Lilian Allan, qui appose sa
   signature sur cet acte.
 
@@ -710,7 +710,7 @@ La jeune femme secoua désespérément la tête.
 
 — Jemkins n’admettra jamais…
 
-— Que nous importe Frey Jemkins, qu’il sombre ou qu’il vive…? N’est-il pas un
+— Que nous importe Frey Jemkins, qu’il sombre ou qu’il vive…? N’est‑il pas un
   de ces blancs que nous abhorrons…? Ce que je veux, moi, c’est le triomphe de
   ceux de ta race… Jemkins ne saura la vérité qu’après le contrat signé, et
   comme tu lui verseras trente millions, premier terme de la convention, il se
@@ -721,13 +721,13 @@ La jeune femme secoua désespérément la tête.
 
 Mais s’interrompant soudain :
 
-— Ah ! gémit-elle, comment tout cela peut-il se réaliser ? Je ne comprends pas…
+— Ah ! gémit‑elle, comment tout cela peut‑il se réaliser ? Je ne comprends pas…
   Je ne comprends pas.
 
 Doucement, la vieille Indienne, de sa main décharnée, caressa les joues ambrées
 de la jolie créature.
 
-— Marahi a songé à tout. En venant vers sa chère Rouge-Fleur, elle avait en
+— Marahi a songé à tout. En venant vers sa chère Rouge‑Fleur, elle avait en
   elle la réponse à toutes ses questions.
 
 — Quoi, vous savez… ?
@@ -741,12 +741,12 @@ la tête, et se prit à parler bas avec animation.
 Sans doute, ce qu’elle exprimait était profondément curieux, car le visage de
 la Chinoise décela la surprise, puis la confiance.
 
-Enfin, Rouge-Fleur ne put maîtriser un rire, qui sonna argentin dans le silence
+Enfin, Rouge‑Fleur ne put maîtriser un rire, qui sonna argentin dans le silence
 de la nuit. Et la jeune femme joignant les mains en un mouvement de
 reconnaissance éperdue :
 
 — Oh ! mère Marahi, tu es le génie bienfaisant ; cette substitution de Lilian à
-  Linérès… quelle combinaison admirable ! Lilian consentira-t-elle ?
+  Linérès… quelle combinaison admirable ! Lilian consentira‑t‑elle ?
 
 — Si tu veux m’admettre auprès d’elle, je la déciderai.
 
@@ -755,46 +755,46 @@ Elle acheva avec une indicible ironie :
 — Tout dépend de la façon de présenter les choses.
 
 Brusquement, Marahi attira la jolie Chinoise sur sa poitrine, déposa un baiser
-sur son front, puis 1a repoussant doucement :
+sur son front, puis la repoussant doucement :
 
-— Va, petite Rouge-Fleur ; va chercher le repos… et rêve du Japon vainqueur.
+— Va, petite Rouge‑Fleur ; va chercher le repos… et rêve du Japon vainqueur.
 
 Sans attendre une réponse, elle s’éloigna à grands pas dans la direction du
 bois, où elle disparut parmi les arbres.
 
 Tout en marchant, la vieille Indienne chuchotait :
 
-— Jud l’aime, le malheureux. Son délire, là-bas, à Varano, m’a appris
+— Jud l’aime, le malheureux. Son délire, là‑bas, à Varano, m’a appris
   l’horrible malheur… Il l’aime, lui, _que le sang sépare d’elle_, lui qui ne
   saurait l’épouser. Il faut que la vie de dévouement de Jud ne demeure pas
   inutile. Il faut au moins que l’héritière des Pariset rentre en possession de
   ce qui lui appartient.
 
-![Image: "D’arbuste en arbuste l’Indienne se glissa."](../3-images/1-page-431.JPG)
+![D’arbuste en arbuste l’Indienne se glissa.](../3-images/part2/page-431.jpg "D’arbuste en arbuste l’Indienne se glissa.")
 
 La vieille femme traça dans l’air un grand geste tragique.
 
-— Lui dire la vérité… non, non ! Pauvre Jud ! saurait-il vivre s’i1 connaissait
-  cela ? Ah ! pourquoi l’ai-je ramassé dans la savane, cette nuit où, héroïque
-  gamin, il sauva la petite Lilian ? Pourquoi ai-je vu sur son crâne, sous les
+— Lui dire la vérité… non, non ! Pauvre Jud ! saurait‑il vivre s’il connaissait
+  cela ? Ah ! pourquoi l’ai‑je ramassé dans la savane, cette nuit où, héroïque
+  gamin, il sauva la petite Lilian ? Pourquoi ai‑je vu sur son crâne, sous les
   cheveux sanglants, le tatouage, l’aloès chiriquite ?
 
 Elle hocha pensivement la tête.
 
 — Cependant, le grand Esprit fut bon en permettant que je pusse l’enfermer à
-  Varano. S’il était arrivé ici, comment aurais-je pu le tromper ?
+  Varano. S’il était arrivé ici, comment aurais‑je pu le tromper ?
 
 L’Indienne sortait du bois. À sa gauche se dessinaient les silhouettes crispées
 des aloës de la pulqueria. Elle les menaça du poing.
 
-— C’est de là que le malheur a pris son essor, fit-elle, les dents serrées.
+— C’est de là que le malheur a pris son essor, fit‑elle, les dents serrées.
   Oh ! me venger ! Nous venger tous !… Après, après, qui sait ? L’enfant
-  pourrait peut-être vivre !
+  pourrait peut‑être vivre !
 
 Se jetant dans la pulqueria, elle contourna les bâtiments de l’hacienda qu’elle
 apercevait en avant d’elle.
 
-Bientôt, elle fit halte sur la rive du petit étang que Rouge-Fleur avait côtoyé
+Bientôt, elle fit halte sur la rive du petit étang que Rouge‑Fleur avait côtoyé
 en quittant le milliardaire. La berge était bordée d’arbrisseaux, de buissons,
 sauf du côté le plus rapproché de la maison.
 
@@ -804,10 +804,10 @@ habileté particulière aux sauvages habitants du désert.
 
 Ainsi elle arriva tout près de l’hacienda.
 
-— Tiens, murmura-t-elle, _sa_ fenêtre est ouverte, sa lampe allumée. Parfait,
+— Tiens, murmura‑t‑elle, _sa_ fenêtre est ouverte, sa lampe allumée. Parfait,
   le message de ma sarbacane arrivera plus sûrement.
 
-Mais elle s’interrompit, se recroquevillant sur elle-même, comme pour se
+Mais elle s’interrompit, se recroquevillant sur elle‑même, comme pour se
 confondre plus étroitement avec les broussailles qui l’entouraient. Des coups
 discrets avaient résonné sur la porte intérieure de la chambre éclairée.
 
@@ -833,7 +833,7 @@ Tranquillement, Frey Jemkins répartit :
 
 — Parce que Linérès mourra cette nuit, si…
 
-— Elle ? Pourquoi vous arrêtez-vous ?
+— Elle ? Pourquoi vous arrêtez‑vous ?
 
 — Parce que je respire, Monsieur le Marquis. On a beau être de roture, comme
   vous dites, vous autres gentilshommes, on respire tout de même.
@@ -866,18 +866,18 @@ L’insulte tomba sifflante dans les ténèbres. Un ricanement de Jemkins y fit
 
 Il ne put continuer, Jemkins était secoué par un rire énorme.
 
-— Ah ! paladin, paladin, bégayait-il parmi les hoquets de sa monstrueuse
+— Ah ! paladin, paladin, bégayait‑il parmi les hoquets de sa monstrueuse
   gaieté. Il préfère causer la mort de ma cousine !
 
 Le marquis fit mine de le saisir à la gorge. Mais Frey se rejeta en arrière et
 empoignant le jeune homme de ses larges mains :
 
-— Pas de ces jeux-là, petit marquis, vous n’êtes point de taille à lutter.
+— Pas de ces jeux‑là, petit marquis, vous n’êtes point de taille à lutter.
 
 Il le souleva de terre, le tint un instant en l’air, puis le reposant sur le
-plancher :
+plancher :
 
-— Vous le voyez, conclut-il dédaigneusement.
+— Vous le voyez, conclut‑il dédaigneusement.
 
 Un sanglot déchira la gorge du Français.
 
@@ -906,7 +906,7 @@ Oui, oui, Linérès immobilisée par des liens compliqués, restait inerte sur l
 civière ; mais ses grands yeux, où la lune piquait une étincelle, se fixaient
 sur lui, apeurés et hagards.
 
-— L’épouserez-vous ?
+— L’épouserez‑vous ?
 
 A la question, Pierre tendit ses nerfs, et de toute son énergie :
 
@@ -922,7 +922,7 @@ Puis avec un ricanement de fauve :
 
 Les serviteurs soulevèrent la civière et se rapprochèrent de la nappe d’eau.
 
-— Pierre ! Pierre ! au secours ! sauvez-moi.
+— Pierre ! Pierre ! au secours ! sauvez‑moi.
 
 En présence de l’onde noire qui allait l’engloutir, Linérès appelait, cédant à
 la faiblesse de son sexe.
@@ -948,7 +948,7 @@ Jemkins le considéra un instant, avec un sourire indéfinissable.
 
 Après quoi, il jeta cet ordre :
 
-— Ramenez la señorita à son logis. Et vous, gentille Linérès,souvenez-vous. La
+— Ramenez la señorita à son logis. Et vous, gentille Linérès,souvenez‑vous. La
   mémoire vous conseillera de ne plus songer à désobéir.
 
 Les serviteurs s’éloignèrent, emportant la pauvre enfant qui sanglotait, et ils

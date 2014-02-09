@@ -1,4 +1,6 @@
-## CHAPITRE VIII : LE MORT VIVANT
+## Le mort vivant
+
+![](../3-images/part2/page-405.jpg)
 
 Une heure plus tard, El Dieblo sortait par la petite porte s’ouvrant derrière
 l’hacienda, la même qui, seize ans auparavant, avait livré passage à la
@@ -26,7 +28,7 @@ rejette dans le parc d’agrément, qui s’étend autour de l’hacienda.
 Il est maintenant à près de deux kilomètres des bâtiments.
 
 Il suit un sentier sablé de cette poudre rougeâtre que la mer Vermeille jette
-sur ses plages. Des arbres se joignent au-dessus de sa tête.
+sur ses plages. Des arbres se joignent au‑dessus de sa tête.
 
 Une plaine herbeuse succède au terrain boisé. À cent mètres en avant,
 l’homme rouge aperçoit l’alignement revêche d’une clôture de plantes épineuses.
@@ -36,13 +38,13 @@ que borde une haie de _ongatl_ aux fleurs de pourpre. Entre le bois et la
 barrière, un homme se promène, le fusil sur l’épaule.
 
 — Un de ces satanés Japonais, grommela l’Indien. Bah ! C’est Jemkins qui
-  m’envoie vers Rouge-Fleur, je n’ai point à me cacher.
+  m’envoie vers Rouge‑Fleur, je n’ai point à me cacher.
 
 Sur ce, il sort du couvert.
 
 — Halte ! crie le factionnaire.
 
-— Frey Jemkins m’envoie vers Rouge-Fleur.
+— Frey Jemkins m’envoie vers Rouge‑Fleur.
 
 — Pas d’ordres, riposte laconiquement le Japonais. Tu n’avanceras pas.
 
@@ -66,7 +68,7 @@ retourne. Une voix ironique vient de clamer derrière lui :
 Il demeure stupéfait. Il a entendu et il ne voit personne.
 
 Puis le bruit d’une course furieuse résonne. Il refait face au sorcier rouge.
-Trop tard. Celui-ci est déjà sur lui. Avec une mæstria remarquable, il envoie
+Trop tard. Celui‑ci est déjà sur lui. Avec une mæstria remarquable, il envoie
 le garde rouler à trois pas, non sans lui avoir au passage enlevé son arme.
 
 Et à présent, il tient en joue le pauvre diable, ne concevant pas de quel
@@ -80,23 +82,23 @@ Le canon de la carabine prête aux mots une terrible éloquence.
 — J’irai, j’irai, soupire le vaincu. Après tout, je puis avouer ma défaite,
   puisque les voix invisibles combattent pour toi.
 
-Et il va vers la barrière blanche. I1 a l’effroi de ce qu’il ne s’explique
+Et il va vers la barrière blanche. Il a l’effroi de ce qu’il ne s’explique
 point. Le sorcier ricane, la face crispée par un rire muet:
 
 — Inutile de dévoiler mes talents de _ventriloque_. Ils peuvent servir une
   autre fois.
 
-Mais la barrière blanche de l’enclos épineux s’ouvrit, et la jolie Rouge-Fleur
+Mais la barrière blanche de l’enclos épineux s’ouvrit, et la jolie Rouge‑Fleur
 parut, un revolver incrusté d’argent à la main.
 
 Oruki voulut parler. L’Indien ne lui en laissa pas le loisir. Il courut à la
 Chinoise et, déposant à terre la carabine enlevée au factionnaire.
 
-— L’homme de garde m’empêchait de passer, commença-t-il.
+— L’homme de garde m’empêchait de passer, commença‑t‑il.
 
 Elle dit sèchement :
 
-— Voilà un Peau-Rouge qui se croit tout _permis_.
+— Voilà un Peau‑Rouge qui se croit tout _permis_.
 
 Avec une inclination pleine de noblesse, il répondit:
 
@@ -105,7 +107,7 @@ Avec une inclination pleine de noblesse, il répondit:
 
 La jeune femme ne put se tenir de sourire légèrement.
 
-— Qu’espères-tu de moi, homme rouge ?
+— Qu’espères‑tu de moi, homme rouge ?
 
 — Ta confiance.
 
@@ -115,7 +117,7 @@ La jeune femme ne put se tenir de sourire légèrement.
   d’or pâle, et tu sais que les guerriers rouges souhaitent la réussite de tes
   projets.
 
-— Mes projets… Les connais-tu donc ?
+— Mes projets… Les connais‑tu donc ?
 
 — Frey Jemkins me les a révélés
 
@@ -126,14 +128,14 @@ Un ricanement tremblota entre les lèvres du sorcier.
 — Bénis son bavardage, ô femme. Lorsque le soleil se lèvera pour la dixième
   fois, tu pourras être propriétaire de Agua Frida.
 
-Du coup, Rouge-Fleur fit un pas en avant, ses yeux interrogèrent avidement le
+Du coup, Rouge‑Fleur fit un pas en avant, ses yeux interrogèrent avidement le
 messager.
 
-Celui-ci montra Oruki debout à quelques pas.
+Celui‑ci montra Oruki debout à quelques pas.
 
 — Ma _consigne_ est de te parler, mais de parler à toi seule.
 
-— Suis-moi, fit-elle, aussi bien tu as raison. Tes paroles prouvent au moins
+— Suis‑moi, fit‑elle, aussi bien tu as raison. Tes paroles prouvent au moins
   que ta prudence justifie la confiance de ton maître.
 
 — El Dieblo n’a point de maître, rectifia emphatiquement le sorcier. Il sert
@@ -147,13 +149,13 @@ Elle franchit la barrière, suivie par l’Indien, tandis que le factionnaire
 Oruki, enchanté d’en être quiite à si bon marché, rammassait sa carabine et
 reprenait son monotone va et vient.
 
-Quelques minutes après, Rouge-Fleur et le messager se trouvaient dans une
+Quelques minutes après, Rouge‑Fleur et le messager se trouvaient dans une
 salle de la maison d’Azur. Alors, la Chinoise rompit le silence.
 
-— Tu peux t’exprimer sans crainte, dit-elle doucement.
+— Tu peux t’exprimer sans crainte, dit‑elle doucement.
 
-— Ainsi ferai-je. J’ai apporté des nouvelles graves. Frey Jemkins est
-  soupçonné aux États-Unis… Dans quelques jours peut-être, il sera accusé, et
+— Ainsi ferai‑je. J’ai apporté des nouvelles graves. Frey Jemkins est
+  soupçonné aux États‑Unis… Dans quelques jours peut‑être, il sera accusé, et
   dès lors toute transaction sera entachée de nullité. Il faut donc se hâter de
   conclure. Tout acte antérieur à l’accusation pourra être discuté par ces
   _coyotes_ bavards que les hommes blancs appellent légistes. Avec leurs lois
@@ -161,14 +163,14 @@ salle de la maison d’Azur. Alors, la Chinoise rompit le silence.
   l’on veut, et quand le procès est jugé, le point d’appui des Japonais se
   trouve si formidablement armé que la guerre peut être commencée.
 
-Un sourire se joua sur les lèvres fines de Rouge-Fleur.
+Un sourire se joua sur les lèvres fines de Rouge‑Fleur.
 
 — Oh ! Oh ! El Dieblo, tu es un profond politique.
 
 — El Dieblo est un guerrier sage au conseil. Il ne prononce pas les paroles
   que la réflexion ne lui a pas démontrées utiles.
 
-— Alors, que proposes-tu ?
+— Alors, que proposes‑tu ?
 
 — Il faut que l’or promis à Jemkins lui soit versé le plus tôt possible.
 
@@ -185,7 +187,7 @@ Un sourire se joua sur les lèvres fines de Rouge-Fleur.
 
 Une joie débordante illumina les traits de la jeune femme.
 
-— N’avez-vous pas vu que mon pouvoir magique a décidé les fiancés à se laisser
+— N’avez‑vous pas vu que mon pouvoir magique a décidé les fiancés à se laisser
   présenter au Mexicain Porfirio Raëz ?
 
 — Si… Je n’ai pas compris même…
@@ -194,7 +196,7 @@ Une joie débordante illumina les traits de la jeune femme.
   reconnue héritière dès demain, ou tout au moins au jour du contrat, à moins
   que…
 
-— À moins que… ? répéta Rouge-Fleur secouée par un frisson d’inquiétude.
+— À moins que… ? répéta Rouge‑Fleur secouée par un frisson d’inquiétude.
 
 — À moins que l’une des femmes qui la présenteront, l’une _de ses mères_, ne
   formule une opposition.
@@ -202,18 +204,18 @@ Une joie débordante illumina les traits de la jeune femme.
 La Chinoise respira.
 
 — Oh ! pas de danger de ce côté.
-— En êtes-vous certaine ?
+— En êtes‑vous certaine ?
 
 — M^me de Armencita s’est trop compromise pour reculer.
 
-— Celle-là, je l’admets ; mais l’autre, l’autre ?
+— Celle‑là, je l’admets ; mais l’autre, l’autre ?
 
 — Elle est hors d’état de nuire. Les propos d’une démente ne sauraient
   influencer don Porfirio Raëz.
 
 Elle ne continua pas. El Dieblo secouait pensivement la tête.
 
-— Quel obstacle prévois-tu encore ? questionna la jeune femme d’une voix
+— Quel obstacle prévois‑tu encore ? questionna la jeune femme d’une voix
   anxieuse.
 
 — El Dieblo ne prévoit rien, mais il voudrait pouvoir assurer le succès à Frey
@@ -243,7 +245,7 @@ Tout près du treillage, comme absorbées dans la contemplation de la gent
 emplumée, deux femmes sont assises sur un banc rustique.
 
 El Dieblo a subi une commotion. Dans un mouvement machinal ses mains se sont
-crispées sur sa poitrine. Et Rouge-Fleur, se tournant vers lui, lui désigne
+crispées sur sa poitrine. Et Rouge‑Fleur, se tournant vers lui, lui désigne
 les recluses.
 
 — Mistress Lily Pariset ! Miss Lilian Allan ! Les folles ! Celle que tu
@@ -254,7 +256,7 @@ dont les regards vagues sont rivés sur les oiseaux qui piaillent effrayés par
 les nouveaux venus.
 
 Soudain, un vacarme effroyable retentit dans la volière. Des oiseaux se
-battent sans doute. Rouge-Fleur regarde dans la direction du son.
+battent sans doute. Rouge‑Fleur regarde dans la direction du son.
 
 Elle s’étonne, les volatiles sont calmes, semblent surprises des caquets
 furieux qui viennent de retentir.
@@ -265,15 +267,15 @@ Ce dernier a conservé la même impassibilité. Mais le visage des deux Insensé
 s’est couvert d’une teinte rosée. Deux répliques ont été échangées à l’insu de
 celle qui représente le Japon.
 
-— Demain, pauvre mère, direz-vous toute la vérité ?
+— Demain, pauvre mère, direz‑vous toute la vérité ?
 
 Et la veuve a répondu sans hésiter :
 
 — Je dirai tout mon cœur.
 
-![Image: "Demain, pauvre mère, direz-vous toute la vérité ?"](../3-images/1-page-410.JPG)
+![Demain, pauvre mère, direz‑vous toute la vérité ?](../3-images/part2/page-410.jpg "Demain, pauvre mère, direz‑vous toute la vérité ?")
 
-Rouge-Fleur ne peut soupçonner cela ; mais elle s’inquiète vaguement de
+Rouge‑Fleur ne peut soupçonner cela ; mais elle s’inquiète vaguement de
 l’animation soudaine des traits des recluses. L’Indien la rassure aussitôt :
 
 — Je reporterai au señor Jemkins que ses accusateurs arriveront trop tard pour
@@ -297,7 +299,7 @@ lèvres de Lilian s’ouvrent :
 — C’est lui, mère, c’est lui, lui qui nous a ramenées à la raison, lui qui,
   une fois de plus, joue sa vie pour nous protéger contre Frey Jemkins !
 
------
+‑‑
 
 Au même instant, à huit ou neuf cents mètres de là, le marquis de Chazelet et
 Linérès erraient à travers le parc.
@@ -308,15 +310,15 @@ zaïmziri, se balançait, les observant de ses yeux vifs.
 — Oh ! le joli animal, s’écria la jeune fille…
 
 Elle avait fait un pas en avant. Le zaïmziri continuait son jeu, sans
-manifester la moindre crainte. Elle arrivait juste au-dessous de la branche.
+manifester la moindre crainte. Elle arrivait juste au‑dessous de la branche.
 En allongeant le bras, elle eût pu toucher le quadrumane.
 
-Mais brusquement, celui-ci se pencha, laissa tomber sur la tête de la
+Mais brusquement, celui‑ci se pencha, laissa tomber sur la tête de la
 gracieuse créature une boulette de papier, puis disparut dans le taillis.
 
 D’instinct, sans bien se rendre compte de ce mouvement de poursuite, les
 fiancés contournèrent le massif, avec l’espoir imprécis de couper la retraite
-au gentil fugitif. À peine avaient-ils dépassé la barrière de feuillage qu’ils
+au gentil fugitif. À peine avaient‑ils dépassé la barrière de feuillage qu’ils
 eurent un même cri d’étonnement. Au delà s’étendait une plaine bornée par une
 haute futaie.
 
@@ -326,17 +328,17 @@ dos d’un grand dogue gris, lequel détalait à toute vitesse vers les arbres.
 Et comme Linérès demeurait interdite, Chazelet, qui venait de ramasser le
 papier si singulièrement parvenu entre ses mains, murmura :
 
-— Linérès, dit-il, la chaîne du mystère compte un anneau de plus. Ce singe est
+— Linérès, dit‑il, la chaîne du mystère compte un anneau de plus. Ce singe est
   un facteur ?
 
 Et d’une voix légèrement émue, en dépit de ses efforts pour prendre gaiement
 l’aventure, Pierre lut :
 
 > Ne résistez aucunement demain. Celle qui fut le mensonge, celle qui fut la
-  douleur, s’uniront pour proclamer la vérité. Détruisez ce papier de suite ;
+  douleur, s’uniront pour proclamer la vérité. Détruisez ce papier de suite ;
   la mort plane.
 
------
+‑‑
 
 A trois milles vers l’Est de l’hacienda se creuse le Cañon de Oro.
 
@@ -382,7 +384,7 @@ Près des ouvertures, trois personnages formaient un groupe anxieux.
 
 — Pourvu qu’il ne leur soit rien arrivé ! soupira l’un.
 
-— Eh, Tril, grondèrent ses compagnons, ne vas-tu pas nous faire croire que ces
+— Eh, Tril, grondèrent ses compagnons, ne vas‑tu pas nous faire croire que ces
   lourds coquins ont pu mettre la main sur le Roi ?
 
 L’interpellé secoua mélancoliquement la tête :
@@ -397,7 +399,7 @@ Puis une nervosité tremblant en sa voix :
 Ses interlocuteurs se prirent à rire.
 
 — Oh ! de Suzan, il n’y a pas à s’inquiéter. Elle est accompagnée par Storm et
-  Zinka, et ceux-là, bien malin qui les prendra.
+  Zinka, et ceux‑là, bien malin qui les prendra.
 
 — On vient par la corniche.
 
@@ -406,37 +408,37 @@ nuit des pas légers glissaient sur la pente rocheuse.
 
 Et soudain une forme noire bondit vers les gamins.
 
-— Storm ! murmurèrent-ils. Storm et Zinka.
+— Storm ! murmurèrent‑ils. Storm et Zinka.
 
 Le singe et le dogue étaient là devant eux, quémandant des caresses.
 
 — Seuls !… et Suzan ? murmura Tril d’une voix étranglée.
 
-![Image: "Il avait été recueilli blessé par l’indienne Marahi."](../3-images/1-page-413.JPG)
+![Il avait été recueilli blessé par l’indienne Marahi.](../3-images/part2/page-413.jpg "Il avait été recueilli blessé par l’indienne Marahi.")
 
 — Me voici, me voici ! répondit l’organe essoufflé de la fillette, qui,
   presque aussitôt, rejoignait le groupe.
 
 Tout de suite elle fut entourée.
 
-— Qu’a dit le roi ? que fait-il ? l’interrogea-t-on d’une seule voix.
+— Qu’a dit le roi ? que fait‑il ? l’interrogea‑t‑on d’une seule voix.
 
 — Le roi pense que, demain, Frey Jemkins subira un formidable échec.
 
 Une exclamation jaillit des lèvres des trois gamins :
 
-— Enfin ! Mais à nous, quel rôle réserve-t-il ?
+— Enfin ! Mais à nous, quel rôle réserve‑t‑il ?
 
 Suzan n’eut pas le temps de répondre.
 
 Du fond du ravin un sifflement monta. On eût cru entendre la plainte du
 courlis doré du Pacifique. Les causeurs s’interrompirent net.
 
-— Le roi ! firent-ils. Jud Allan !
+— Le roi ! firent‑ils. Jud Allan !
 
------
+‑‑
 
-Comment Jud Allan n’avait-il pas été broyé près de San Diego, lors de la
+Comment Jud Allan n’avait‑il pas été broyé près de San Diego, lors de la
 collision de son spécial avec celui de Van Reek ?
 
 Un simple hasard dû à la courbure des rails au lieu de l’accident.
@@ -449,7 +451,7 @@ Mais les rails, imposant à la machine une marche curviligne, avaient détermin�
 un glissement contre l’obstacle dans le sens centrifuge, et le spécial projeté
 hors de la voie avait roulé sur le revêtement pierreux du ballast.
  
-D’où amortissement du choc, bris mais non destruction du wagon-salon.
+D’où amortissement du choc, bris mais non destruction du wagon‑salon.
 
 Jud s’en était tiré sans blessure mortelle.
 
@@ -459,17 +461,14 @@ Quand il était revenu à lui, la tête lourde, les idées confuses, les membres
 jugulés par une effroyable courbature, il avait appris avec stupeur :
 
 1. Qu’il avait été recueilli blessé par l’indienne Marahi, surveillant avec
-   ses guerriers, les peones envoyés au-devant de Van Reek par Jemkins.
+   ses guerriers, les peones envoyés au‑devant de Van Reek par Jemkins.
 
-2. Que Marahi s’était éloignée, le laissant à la garde de Peaux-Rouges, qui
+2. Que Marahi s’était éloignée, le laissant à la garde de Peaux‑Rouges, qui
    devaient le retenir prisonnier dans un fortin déclassé de la frontière, le
-   fort de Varano, où i1 avait été transporté.
+   fort de Varano, où il avait été transporté.
 
-Heureusement ses petits amis, aidés par les lads de San-Diego, l’avaient
+Heureusement ses petits amis, aidés par les lads de San‑Diego, l’avaient
 cherché, découvert et l’avaient enlevé à ses gardiens rouges.
 
 Voila comment Allan, persuadé que Marahi s’était ralliée à Frey, avait
 pénétré, sous son déguisement de sorcier, au milieu de ses ennemis.
-
------
-
