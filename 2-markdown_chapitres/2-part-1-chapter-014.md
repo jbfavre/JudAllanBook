@@ -16,7 +16,7 @@ décorant des appellations inquiétantes de goules, de stryges, de lymnies.
 Et ce compagnon hideux du cauchemar lui avait tenu des propos bien faits
 pour engendrer le malaise :
 
-— Ah ! Ah ! Ah ! Ah ! lui criait-il avec cette intonation des diables de
+— Ah ! Ah ! Ah ! Ah ! lui criait‑il avec cette intonation des diables de
   féerie ; tu es le _doux cœur_ de ma Fiancée. Tu penses l’épouser malgré
   moi !… Petit homme idiot, tu n’as donc pas reconnu ma griffe à ce qui
   s’est passé autour de toi… ? Tu t’obstines à un mariage que je ne veux
@@ -36,7 +36,7 @@ Il s’informa au domestique particulier du milliardaire.
 
 — M. Frey Jemkins ?
 
-— Sorti depuis une heure. Rendez-vous d’affaires importantes…, à ce que
+— Sorti depuis une heure. Rendez‑vous d’affaires importantes…, à ce que
   j’ai cru comprendre.
 
 — Et Miss Linérès ?
@@ -49,7 +49,7 @@ Il s’informa au domestique particulier du milliardaire.
 Distraitement, il grignote une ou deux _rôties_ humectées de thé.
 
 Le domestique reparaît, accompagné par la femme de chambre de la jeune
-fille. C’est une jolie personne, un peu commune d’aspect peut-être, mais
+fille. C’est une jolie personne, un peu commune d’aspect peut‑être, mais
 attrayante néanmoins que Ruthie, Miss Ruthie, comme on la nomme à
 l’office.
 
@@ -84,45 +84,45 @@ d’une voix étranglée :
 M^me^ de Armencita avala d’une bouchée le sandwich commencé. Quant au
 marquis, il s’était levé.
 
-— Qu’y a-t-il donc ?
+— Qu’y a‑t‑il donc ?
 
 Ruthie étendit désespérément les bras à droite et à gauche.
 
 — On a changé ma maîtresse.
 
-— Qu’est-ce que vous voulez dire, au nom du ciel ?
+— Qu’est‑ce que vous voulez dire, au nom du ciel ?
 
 — Que ce n’est plus elle.
 
-À cette réponse stupéfiante, la comtesse elle-même cessa de manger, fixant
+À cette réponse stupéfiante, la comtesse elle‑même cessa de manger, fixant
 sur la servante des regards ahuris. Pierre, oubliant tout décorum, avait
 saisi les poignets de Ruthie.
 
-— Ah çà ! Avez-vous juré de me rendre fou, avec vos exclamations
+— Ah çà ! Avez‑vous juré de me rendre fou, avec vos exclamations
   insensées.
 
-— Non, Monsieur le Marquis, balbutia-t-elle. Monsieur le Marquis doit être
+— Non, Monsieur le Marquis, balbutia‑t‑elle. Monsieur le Marquis doit être
   assuré que je ne me serais pas permis un serment semblable.
 
-— Alors expliquez-vous, de par tous les diables !
+— Alors expliquez‑vous, de par tous les diables !
 
 — Les diables, c’est le mot, Monsieur le Marquis. Il y a de la diablerie
-  là-dessous.
+  là‑dessous.
 
 — Mais enfin, dessous quoi ? C’est à se briser la tête sur les murs !
 
 — Eh Monsieur le Marquis ! Pour expliquer, il faudrait comprendre, et je
-  ne comprends pas moi-même.
+  ne comprends pas moi‑même.
 
 — Vous ne comprenez pas quelle chose ?
 
 — Ce que j’ai vu, vu de mes yeux, Monsieur le Marquis.
 
-— Et qu’avez-vous donc vu, sotte créature ?
+— Et qu’avez‑vous donc vu, sotte créature ?
 
 Ruthie prit un air piqué :
 
-— Sotte, je le suis peut-être ; mais j’ai la vue bonne. Et ce que mes yeux
+— Sotte, je le suis peut‑être ; mais j’ai la vue bonne. Et ce que mes yeux
   ont vu est bien réel…, et personne ne me fera dire le contraire.
 
 Pour un peu Pierre eût étranglé la bavarde créature. Toutefois, il se
@@ -130,7 +130,7 @@ rendit compte qu’il n’en tirerait aucun éclaircissement s’il ne procédai
 avec plus de calme. Aussi, dominant sa colère, abaissant la voix, il
 demanda :
 
-— Miss a sonné, dites-vous. Qu’avez-vous fait alors ?
+— Miss a sonné, dites‑vous. Qu’avez‑vous fait alors ?
 
 — Mon service, Monsieur le Marquis. Je me suis empressée d’entrer chez
   elle, de tirer les rideaux, de repousser les contrevents.
@@ -140,7 +140,7 @@ demanda :
 — Après, je me suis retournée du côté du lit, pour prendre les ordres de
   Miss.
 
-— Que vous a-t-elle donc ordonné pour vous bouleverser ainsi?
+— Que vous a‑t‑elle donc ordonné pour vous bouleverser ainsi?
 
 — Rien, Monsieur le Marquis.
 
@@ -150,13 +150,13 @@ demanda :
 
 Cette fois, Pierre fit un pas en arrière.
 
-— Pas elle, répéta-t-il, pas elle ! Quest-ce que cela signifie ?
+— Pas elle, répéta‑t‑il, pas elle ! Quest‑ce que cela signifie ?
 
 Ruthie haussa les épaules.
 
-— Qu’est-ce que je puis répondre ? Tout le monde m’interroge comme si
+— Qu’est‑ce que je puis répondre ? Tout le monde m’interroge comme si
   j’avais la science infuse. La personne, qui occupe la chambre de Miss,
-  ne me demandait-elle pas comment elle se trouvait là ?
+  ne me demandait‑elle pas comment elle se trouvait là ?
 
 Chazelet ne l’écoutait plus.
 
@@ -197,7 +197,7 @@ Mais son interlocutrice secoua la tête.
 
 — Aucunement ! J ’ai entendu son nom, hier, pour la première fois.
 
-— Mais alors comment vous rencontrè-je ici, chez elle ?
+— Mais alors comment vous rencontrè‑je ici, chez elle ?
 
 — C’est ce que je demandais à la servante qui s’est présentée tout à
   l’heure.
@@ -209,7 +209,7 @@ Du coup, Pierre se prit la tête à deux mains. Et elle continuait :
   Green. Hier au soir, je me suis retirée dans ma chambre. Je me souviens
   parfaitement d’avoir veillé jusqu’à l’extinction des lumières. Après,
   tout devient vague. J’ai dû m’endormir avant de m’être mise au lit,
-  puisque je me réveille complètement vêtue… Mais par quel prodige suis-je
+  puisque je me réveille complètement vêtue… Mais par quel prodige suis‑je
   ici, dans cette maison que je ne connais pas… ?
 
 ![Elle le regardait, une crainte dans ses grands yeux](../3-images/part1/page-271.jpg
@@ -217,7 +217,7 @@ Du coup, Pierre se prit la tête à deux mains. Et elle continuait :
 
 Et comme frappée par ces derniers mots, elle reprit :
 
-— Voulez-vous avoir la bonté de m’apprendre où et chez qui je suis ?
+— Voulez‑vous avoir la bonté de m’apprendre où et chez qui je suis ?
 
 — Volontiers, Mademoiselle, consentit le marquis incapable de toute idée
   claire, vous êtes dans l’hôtel d’angle de Pensylvania street et de la
@@ -249,7 +249,7 @@ Menaçante, elle marchait sur l’inconnue. Chazelet l’arrêta.
   naïveté pour croire aux assertions d’une aventurière.
 
 Mais celle qu’elle désignait ainsi se redressa sous l’outrage. Avec un
-calme qui impressionna l’Espagnole elle-même, elle répliqua : 
+calme qui impressionna l’Espagnole elle‑même, elle répliqua : 
 
 — Votre âge, Madame, devrait vous conseiller de ne point injurier qui ne
   le mérite pas. Pourquoi, par quelle trame je suis ici ? Cela je
@@ -266,9 +266,9 @@ regard, puis plus lentement :
 La jeune fille regardait ses interlocuteurs d’un air indécis. On eût cru
 qu’elle hésitait à les croire de bonne foi. Et pourtant, leur attitude
 démontrait clairement que l’aventure leur apparaissait aussi inexplicable 
-qu’à l’inconnue elle-même.
+qu’à l’inconnue elle‑même.
 
-— Faites-moi accompagner, reprit celle-ci… à moins que je ne sois
+— Faites‑moi accompagner, reprit celle‑ci… à moins que je ne sois
   prisonnière dans cette maison.
 
 — Prisonnière ? En voilà une idée ! Prisonnière, et pourquoi ?
@@ -280,10 +280,10 @@ rassurée. Les roses revinrent à ses joues, et d’un ton plus ferme :
   Margaret, la servante chargée de ce soin, m’a vue dans ma chambre, où
   j’avais passé toute la soirée avec une de mes amies, Grace Paterson.
 
-— Mais vous-même, quel est votre nom, questionna la comtesse presque
+— Mais vous‑même, quel est votre nom, questionna la comtesse presque
   convaincue par la simpicité gracieuse de son interlocutrice ?
 
-Une hésitation se peignit sur le front de celle-ci. Elle était chez Frey
+Une hésitation se peignit sur le front de celle‑ci. Elle était chez Frey
 Jemkins, cet être du mal signalé par le manuscrit d’Allan. Le moindre
 soupçon entraînerait pour elle, pour Jud, les pires dangers.
 
@@ -296,9 +296,9 @@ cacher son trouble, elle prononça :
 — Lilian, redirent ses auditeurs en échangeant un regard !
 
 — Oui, Lilian Allan. Mon frère est professeur à l’école militaire de
-  West-Point.
+  West‑Point.
 
-— Mais Linérès ! Linérès ! s’écria Pierre. Qu’a-t-on fait d’elle ?
+— Mais Linérès ! Linérès ! s’écria Pierre. Qu’a‑t‑on fait d’elle ?
 
 — Ah ça ! vous parlez comme si Linérès était perdue !
 
@@ -317,7 +317,7 @@ cru que son sang, se portant à la tête, allait s’échapper par la peau
 distendue.
 
 — Tonnerre et Sang ! Linérès ! On me la rendra, ou, par la fourche de
-  Satan, celle-ci paiera pour les autres.
+  Satan, celle‑ci paiera pour les autres.
 
 Sa main vigoureuse se tendait menaçante, prête à frapper, vers Lilian.
 Cette fois encore Chazelet s’interposa.
@@ -339,13 +339,13 @@ Le milliardaire fit entendre un rire sauvage, rauque, terrifiant.
 
 — La preuve… Vous êtes fou !
 
-— M^me^ de Armencita et moi-mème, allions l’accompagner à l’Institution
+— M^me^ de Armencita et moi‑mème, allions l’accompagner à l’Institution
   Deffling pour contrôler ses assertions.
 
 La gaieté farouche du milliardaire parut s’accroître encore.
 
 — Parfait ! Allons à l’Institution. Une fois là, la belle nous échappe.
-  Ici, elle est en notre pouvoir, elle parlera ; tandis que là-bas…
+  Ici, elle est en notre pouvoir, elle parlera ; tandis que là‑bas…
 
 Le marquis voulut apaiser la colère aveugle qu’il sentait gronder chez
 Jemkins, colère qu’il attribuait à son affection pour Linérès.
@@ -366,13 +366,13 @@ pensée, puis redevenu maître de lui :
 — La police ! On voit bien que vous êtes frais débarqué dans ce pays…
   Vous ne comprenez donc pas, en Europe, pourquoi la loi de Lynch est
   appliquée chez nous ? C’est pourtant clair. Quand une population se fait
-  justice, c’est qu’il lui parait préférable de compter sur soi-même que
+  justice, c’est qu’il lui parait préférable de compter sur soi‑même que
   sur la police.
 
 Il parlait vite, hachant son débit ; ses bras décrivaient de grands
 gestes.
 
-— Des mauvais garçons visent mon coffre-fort tout simplement. Un émissaire
+— Des mauvais garçons visent mon coffre‑fort tout simplement. Un émissaire
   quelconque va me signifier le chiffre de la rançon de la prisonnière.
 
 — Ah ! Si ce n’est que cela ?
@@ -399,7 +399,7 @@ pensionnat Deffling, mais un sursaut de Jemkins interrompit la phrase.
 — Lilian !
 
 — Comme vous ce nom m’a étreint le cœur. Mais notre Linérès n’est point la
-  seule Lilian. Mademoiselle est sœur d’un professeur de West-Point, son
+  seule Lilian. Mademoiselle est sœur d’un professeur de West‑Point, son
   nom est Allan.
 
 Frey ne l’écoutait plus. Il considérait la sœur d’Allan avec une fixité
@@ -409,7 +409,7 @@ Tout à coup un nouveau personnage orienta la scène de façon imprévue.
 
 Obéissant à une impulsion de la démence sans doute, la veuve Pariset, dont
 la chambre occupait l’extrémité de la galerie, avait ouvert sa porte.
-Peut-être les éclats de voix étaient-ils venus jusqu’à elle, troublant sa
+Peut‑être les éclats de voix étaient‑ils venus jusqu’à elle, troublant sa
 quiétude indifférente.
 
 Sans bruit, glissant sur les tapis ainsi qu’une ombre, elle était parvenue
@@ -447,7 +447,7 @@ Elle n’a pu arrêter l’appel de tout son être :
 — Lily !
 
 Et puis la pensée du meurtrier qui est là, qui écoute, l’a étreinte.
-Est-ce qu’elle va rendre inutile le long dévouement d’Allan ? Est-ce
+Est‑ce qu’elle va rendre inutile le long dévouement d’Allan ? Est‑ce
 qu’elle va se livrer, livrer la mère enfin connue aux coups de l’ennemi ?
 Non. Elle est courageuse. Ce n’est pas en vain qu’elle a vécu la vie de
 Jud. Elle arrête les palpitations éperdues de son cœur ; elle efface toute
@@ -460,7 +460,7 @@ trace d’émotion de son visage, et elle parvient à dire, avec un flegme qui
 L’excuse est banale. Elle apparaît telle à tous les assistants, la démente
 exceptée.
 
-Celle-ci semble trouver un charme étrange au son de la voix de Lilian.
+Celle‑ci semble trouver un charme étrange au son de la voix de Lilian.
 Elle se glisse auprès de la jeune fille, saisit une de ses mains et la
 caresse doucement.
 
@@ -485,7 +485,7 @@ Tous attendent, la gorge serrée. Ils se sentent en face d’un inconnu.
 
 Lily passe sa main tremblante sur les cheveux de Lilian ; elle parle :
 
-— Lilian, dit-elle d’une voix douce, douce à pleurer, Lilian ! ma petite
+— Lilian, dit‑elle d’une voix douce, douce à pleurer, Lilian ! ma petite
   enfant.
 
 La jeune fille a un sanglot !
@@ -541,7 +541,7 @@ de travail. Il veut être renseigné de suite. Il ne peut tenir en place.
 
 La comtesse les suit.
 
-Peut-être craint-elle de demeurer seule en face de la veuve !
+Peut‑être craint‑elle de demeurer seule en face de la veuve !
 
 Lilian est dans les bras de Lily. Personne ne peut plus surprendre ses
 paroles. Alors elle s’abandonne. Dans un flot de larmes, elle gémit :
@@ -551,7 +551,7 @@ paroles. Alors elle s’abandonne. Dans un flot de larmes, elle gémit :
 Et la folle, qui a repoussé Linérès, berce doucement Lilian, à qui elle
 dit tout bas :
 
-— Lilian ! oui Lilian, ma petite enfant bien-aimée !
+— Lilian ! oui Lilian, ma petite enfant bien‑aimée !
 
 Dans le bureau sévère, dont le plancher machiné avait permis, la veille
 au soir, au milliardaire de rejoindre ses complices, Frey Jemkins pénétra
@@ -562,7 +562,7 @@ La personne qui s’y trouvait déjà, lui était complètement inconnue.
 Jeune, jolie, en dépit du ton ambré de la peau, des yeux noirs légèrement
 bridés, elle ne pouvait tromper personne quant à sa nationalité. De toute
 évidence, la charmante créature avait vu le jour dans les provinces
-septentrionales de la Chine. C’était la gracieuse Rouge-Fleur.
+septentrionales de la Chine. C’était la gracieuse Rouge‑Fleur.
 
 Frey considéra la Chinoise, puis il demanda sèchement :
 
@@ -587,16 +587,16 @@ Mais plus prompte que lui, elle acheva :
 — Pas même la négociation du territoire d’Agua Frida ?
 
 L’athlétique Frey pâlit. Ses poings se crispèrent. Son visage eut une
-contraction menaçante. Toujours souriante, Rouge-Fleur leva sa main fine
+contraction menaçante. Toujours souriante, Rouge‑Fleur leva sa main fine
 vers lui. Cette main tenait la crosse d’un petit revolver orné d’argent.
 
-— Je voulais vous parler seul à seul, persifla-t-elle. J’ai pris mes
+— Je voulais vous parler seul à seul, persifla‑t‑elle. J’ai pris mes
   précautions. Une femme est trop exposée en semblable tête à tête.
 
 Du coup, Jemkins regarda la visiteuse avec une secrète terreur. Qui était
 cette femme venant le braver dans sa propre maison ?
 
-— Asseyez-vous donc. C’est une amie qui vous _paie une visite_.
+— Asseyez‑vous donc. C’est une amie qui vous _paie une visite_.
 
 Dominé, il obéit, tout en grommelant :
 
@@ -611,9 +611,9 @@ Elle se prit à rire de nouveau.
 
 Et avec une révérence que n’eût pas désavouée une reine de l’élégance :
 
-— Je suis Miss Hiang-Tchil, ou Rouge-Fleur, ainsi que vous traduisez, vous
+— Je suis Miss Hiang‑Tchil, ou Rouge‑Fleur, ainsi que vous traduisez, vous
   autres Américains. Je suis celle qui incarne la haine du Japon contre
-  les États-Unis. Je suis le chef de ceux qui agissent ici pour la gloire
+  les États‑Unis. Je suis le chef de ceux qui agissent ici pour la gloire
   du Mikado.
 
 — Le chef ? répéta le géant stupéfait… Jamais je n’ai soupçonné…
@@ -623,15 +623,15 @@ Et avec une révérence que n’eût pas désavouée une reine de l’élégance
 
 — Vous avez au moins une certaine audace de me le dire.
 
-![Je voulais vous parler seul à seul, persifla-t-elle](../3-images/part1/page-279.jpg
-"Je voulais vous parler seul à seul, persifla-t-elle")
+![Je voulais vous parler seul à seul, persifla‑t‑elle](../3-images/part1/page-279.jpg
+"Je voulais vous parler seul à seul, persifla‑t‑elle")
 
 — Cette audace vous démontre, honorable Sénateur, que je suis parvenue à
   mes fins. Désormais, vous devrez vous plier, je ne dirai pas à mes volontés,
   ce qui serait une expression désobligeante, mais à la sagesse de mes
   résolutions.
 
-— Ah parbleu ! gronda-t-il, ce serait bien la première fois que je
+— Ah parbleu ! gronda‑t‑il, ce serait bien la première fois que je
   plierais.
 
 Elle l’interrompit :
@@ -654,9 +654,9 @@ Changeant brusquement de ton, la singulière créature continua :
 Elle planta son regard railleur dans les yeux du milliardaire, et d’un
 accent où toute trace d’ironie avait disparu :
 
-— Gentleman, tenez-vous sérieusement à ce que miss Linérès soit reconnue
-  au plus tôt comme héritière de feu Pariset ? Tenez-vous à ce qu’elle
-  épouse rapidement M. le marquis Pierre de Chazelet ? Tenez-vous enfin à
+— Gentleman, tenez‑vous sérieusement à ce que miss Linérès soit reconnue
+  au plus tôt comme héritière de feu Pariset ? Tenez‑vous à ce qu’elle
+  épouse rapidement M. le marquis Pierre de Chazelet ? Tenez‑vous enfin à
   conclure, avec nous, la location à bail du territoire d’Agua Frida dans
   la presqu’île californienne ?
 
@@ -691,8 +691,8 @@ Elle redevint grave pour continuer :
 
 — Je pense ainsi. Donc je reprends. Les deux contractants sont pressés.
   Ils admettent votre combinaison. Linérès mariée au gentilhomme français.
-  Celui-ci, rendu responsable de l’opération au moyen des signatures qu’il
-  vous a bénévolement données. Je plains peut-être ce gentleman. C’est le
+  Celui‑ci, rendu responsable de l’opération au moyen des signatures qu’il
+  vous a bénévolement données. Je plains peut‑être ce gentleman. C’est le
   seul homme de race blanche qui ait forcé mon estime, mais peu importe
   mon sentiment. Dans la balance des intérêts en jeu, un homme, même
   exceptionnellement loyal, ne représente qu’une quantité négligeable.
@@ -714,7 +714,7 @@ imprimait au discours de cette femme charmante.
 
 Il se mordit les lèvres.
 
-— Que prétendez-vous insinuer par cette déclaration ?
+— Que prétendez‑vous insinuer par cette déclaration ?
 
 — Ceci. La nuit dernière, j’ai fait enlever Miss Linérès. Elle a été
   conduite à bord d’un steamer qui stationnait sur le Potomac. Elle
@@ -727,14 +727,14 @@ Elle coupa le juron à demi prononcé.
 
 — Pourquoi dépenser votre souffle en exclamations malsonnantes ? Ce qui
   est fait est fait, et nous sommes trop au courant de vos actions pour
-  que vous tentiez de résister. Au surplus, de quoi s’agit-il ? De palper
+  que vous tentiez de résister. Au surplus, de quoi s’agit‑il ? De palper
   un peu plus tôt le prix de la location à bail, et cela sans courir le
   moindre risque supplementaire.
 
 — C’est vrai, au fait, reconnut Jemkins… Bon, voilà Linérès embarquée.
   Après ?
 
-Rouge-Fleur le gratifia d’un joli et menu geste approbateur.
+Rouge‑Fleur le gratifia d’un joli et menu geste approbateur.
 
 — Vous êtes un gentleman tout à fait pratique. Par nos soins, mes
   commettants et moi avons déjà engagé des démarches, Linérès sera dans
@@ -764,11 +764,11 @@ Rouge-Fleur le gratifia d’un joli et menu geste approbateur.
   heureux de m’avoir pour alliée, car vous me semblez ignorer tout ce que
   l’on peut tirer du sentiment.
 
-On eût cru que les regards de Rouge-Fleur se voilaient à ces dernières
+On eût cru que les regards de Rouge‑Fleur se voilaient à ces dernières
 paroles. Mais bien vite les yeux redevinrent clairs, une ironie plus vive
 s’y marqua.
 
-— Vous ferez parvenir cette missive au marquis, reprit-elle en présentant
+— Vous ferez parvenir cette missive au marquis, reprit‑elle en présentant
   au milliardaire un coquet billet.
 
 — Qu’est cela ?
@@ -783,9 +783,9 @@ s’y marqua.
 Frey déplia le papier. Les lignes suivantes lui apparurent :
 
 > Si je vous suis chère comme mon cœur le croit, une simple affirmation de
-  moi suffira. Rejoignez-moi à Agua Frida, dans la propriété que je vais
+  moi suffira. Rejoignez‑moi à Agua Frida, dans la propriété que je vais
   tenir de l’héritage de mon père. Il ne m’est pas permis de m’expliquer
-  davantage ; mais je vous jure que là-bas, notre union, notre bonheur, ne
+  davantage ; mais je vous jure que là‑bas, notre union, notre bonheur, ne
   subiront aucun retard. Partez de suite. Celle qui ne vit que pour
   devenir votre
 
@@ -797,11 +797,11 @@ Frey déplia le papier. Les lignes suivantes lui apparurent :
 — Comment ? ne vous inquiétez pas de cela. Elle a écrit ; vous
   reconnaissez que le marquis ne résistera pas ; voilà l’important.
 
-— Sans doute ! Sans doute ! Seulement… ai-je le droit de critique,
+— Sans doute ! Sans doute ! Seulement… ai‑je le droit de critique,
   charmante lady ?
 
 — Absolument ! Nous discutons une affaire. Vous y jouez votre fortune… et,
-  ajouta-t-elle cruellement, votre tête en même temps. Il serait donc
+  ajouta‑t‑elle cruellement, votre tête en même temps. Il serait donc
   déplacé de ne point entendre ce que vous pensez.
 
 Jemkins ne put dissimuler une grimace. Si inattaquable qu’il se crût, il
@@ -829,8 +829,8 @@ inconnu.
 
 Elle sourit, le contraignit du geste à se rasseoir, puis dans un murmure :
 
-— Ah ! Ah ! ceci vous intéresse. Laissez-moi vous donner de plus amples
-  renseignements. Aux États-Unis, celui dont je parle a des appuis si
+— Ah ! Ah ! ceci vous intéresse. Laissez‑moi vous donner de plus amples
+  renseignements. Aux États‑Unis, celui dont je parle a des appuis si
   grands, que l’on ne saurait songer même à le faire disparaître. Sa mort
   serait considérée comme la confirmation de ce qu’il a allégué contre
   vous. Sa mort serait le signal d’un procès retentissant, où sombreraient
@@ -838,7 +838,7 @@ Elle sourit, le contraignit du geste à se rasseoir, puis dans un murmure :
 
 Au front du milliardaire perlèrent des gouttes de sueur.
 
-— Mais son nom, son nom ? balbutia-t-il avec effort.
+— Mais son nom, son nom ? balbutia‑t‑il avec effort.
 
 La jolie Chinoise n’était point accessible à la pitié sans doute ; car la
 détresse de son interlocuteur lui fit simplement hausser les épaules.
@@ -847,23 +847,23 @@ détresse de son interlocuteur lui fit simplement hausser les épaules.
 — Je vous croyais plus fort, Sénateur. Je vous ai annoncé le remède
   efficace, ce n’est donc pas le moment de succomber à la maladie.
 
-— C’est vrai, reconnut-il avec confusion ; mais si vous saviez ce que mon
+— C’est vrai, reconnut‑il avec confusion ; mais si vous saviez ce que mon
   imagination a travaillé depuis hier… à vide ; car maintenant encore, je
   ne me doute pas de quel côté est venu le coup.
 
 — Allons, je vois qu’il ne faut pas vous tourmenter plus longtemps. Le
   nom de votre ennemi est Allan.
 
-— Allan ! N’est-ce point le nom de cette jeune fille inconnue… ?
+— Allan ! N’est‑ce point le nom de cette jeune fille inconnue… ?
 
 — Que j’ai apportée cette nuit dans votre hôtel, et enfermée au lieu et
   place de Linérès.
 
 Frey se passa la main sur le front. Il ne comprenait pas.
 
-— Allan, murmura-t-il. Je ne connais pas cet Allan…
+— Allan, murmura‑t‑il. Je ne connais pas cet Allan…
 
-— Il est professeur à l’École militaire de West-Point, en relations
+— Il est professeur à l’École militaire de West‑Point, en relations
   personnelles avec le président Loosevelt, et dernièrement, à Paris, il
   s’était lié d’une amitié inexplicable avec le chef de la Sûreté,
   M. Lerenaud ; Allan, hier, grimé en vieillard, vous a régalé de la
@@ -876,7 +876,7 @@ Et comme l’athlète redisait dans le désordre de ses pensées :
 
 La Chinoise ajouta paisiblement :
 
-— Il a un prénom qui vous paraîtrait peut-être plus explicite.
+— Il a un prénom qui vous paraîtrait peut‑être plus explicite.
 
 — Un prénom ?
 
@@ -901,7 +901,7 @@ brusquement un éclair traversa son esprit.
 
 — Mais alors sa sœur, cette Lilian qui a le nom de l’enfant disparue ?
 
-Rouge-Fleur lui imposa silence.
+Rouge‑Fleur lui imposa silence.
 
 — Lilian est la sœur de Jud Allan, rien de plus. Ne compliquons pas notre
   affaire. Linéres est l’héritière des Pariset, nous n’avons aucun intérêt
@@ -914,7 +914,7 @@ Et Frey l’interrogeant du regard.
 
 — Ah ! je vois, je vois… Décidément nous tenons la victoire.
 
-Rouge-Fleur fit entendre son rire de cristal aux inflexions ironiques.
+Rouge‑Fleur fit entendre son rire de cristal aux inflexions ironiques.
 
 — Nous ne vous gardons pas rancune de la mort du pauvre capitaine Anoru.
 
@@ -922,7 +922,7 @@ Rouge-Fleur fit entendre son rire de cristal aux inflexions ironiques.
   l’affaire…
 
 — C’est pourquoi l’on ne vous accuse pas de vous être défendu. Mais nous
-  entendons-nous bien sur tous les points maintenant ?
+  entendons‑nous bien sur tous les points maintenant ?
 
 — Oui. Seulement un ennui.
 
@@ -931,7 +931,7 @@ Rouge-Fleur fit entendre son rire de cristal aux inflexions ironiques.
 — Chazelet a vu Lilian. Il lui a parlé. Il s’étonnera si je m’oppose à ce
   qu’il la ramène à l’institution Deffling.
 
-— Est-ce tout ?
+— Est‑ce tout ?
 
 — Cela me semble assez épineux comme cela.
 
@@ -946,9 +946,9 @@ Rouge-Fleur fit entendre son rire de cristal aux inflexions ironiques.
 
 Dominé cette fois encore par l’étrange créature, Frey Jemkins sonna.
 
-Au domestique qui se présenta, il transmit l’ordre de Rouge-Fleur.
+Au domestique qui se présenta, il transmit l’ordre de Rouge‑Fleur.
 
-— Votre maître oublie, intervint celle-ci. Veuillez apporter le thé ici,
+— Votre maître oublie, intervint celle‑ci. Veuillez apporter le thé ici,
   afin que la jeune dame puisse prendre la moindre chose avant de
   m’accompagner.
 
@@ -964,9 +964,9 @@ tasses du liquide parfumé. Elle en attira une devant elle, avec ces mots :
 Dans l’autre, elle fit tomber quelques grains d’une poudre blanchâtre
 qu’elle puisa dans une bonbonnière.
 
-— Pour elle, murmura-t-elle encore.
+— Pour elle, murmura‑t‑elle encore.
 
-— Qu’est-ce ?
+— Qu’est‑ce ?
 
 — Le sommeil, un quart d’heure après avoir bu. Ne nous retenez donc pas.
   Il faut que nous puissions monter en voiture avant que Lilian
@@ -978,7 +978,7 @@ qu’elle puisa dans une bonbonnière.
 
 Elle s’interrompit net. La jeune fille entrait.
 
-Aved de grandes manifestations d’intérêt, Rouge-Fleur se présenta comme
+Aved de grandes manifestations d’intérêt, Rouge‑Fleur se présenta comme
 une amie de Miss Deffling, laquelle ayant été avisée, le matin même, qu’à
 la suite d’un pari d’un goût détestable sur l’impuissance de la police
 urbaine, de jeunes fous avaient transporté Lilian à la demeure de Miss
@@ -1002,6 +1002,6 @@ Kendall Green.
 Et elle entraîna la jeune fille, non sans avoir échangé avec le
 milliardaire ces répliques significatives :
 
-— Et Jud Allan, comment saura-t-il que sa sœur me répond de lui ?
+— Et Jud Allan, comment saura‑t‑il que sa sœur me répond de lui ?
 
 — Je m’en charge, Frey Jemkins…, ou plutôt je m’en suis chargée déjà.

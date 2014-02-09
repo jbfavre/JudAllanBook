@@ -3,7 +3,7 @@
 ![](../3-images/part1/page-125.jpg)
 
 À huit heures du matin, Pierre de Chazelet était debout, habillé, prêt à
-sortir. Où voulait-il aller ? Nulle part.
+sortir. Où voulait‑il aller ? Nulle part.
 
 Mais après une nuit pendant laquelle l’insomnie avait torturé son esprit
 et son corps, il s’était levé vers six heures, brisé, une vague migraine
@@ -26,14 +26,14 @@ disparition du cercle militaire, et le brave médecin concluait :
 
 > Rappelle cependant ta sagesse en fuite ; cuirasse ton cœur d’un triple
   airain afin de te souvenir que, ce soir, je compte te prendre vers cinq
-  heures, au sortir de mon service au Val-de-Grâce.
+  heures, au sortir de mon service au Val‑de‑Grâce.
 
 > Nous dînerons avec quelques bons camarades, et nous terminerons notre
-  soirée au théâtre. Peut-être, ces jours derniers, t’ai-je offert des
+  soirée au théâtre. Peut‑être, ces jours derniers, t’ai‑je offert des
   divertissements un peu graves pour un péripatéticien, retour des solitudes
   espagnoles. Je veux me faire pardonner.
 
-> Si tu avais disposé de ton temps, un pneumatique au Val-de-Grâce, j’y
+> Si tu avais disposé de ton temps, un pneumatique au Val‑de‑Grâce, j’y
   serai jusqu’à quatre heures.
 
 > Tibi.
@@ -45,7 +45,7 @@ disparition du cercle militaire, et le brave médecin concluait :
 Et glissant distraitement le papier dans sa poche :
 
 — Allan me conseillera. Étonnante, ma confiance en cet homme que je ne
-  connaissais pas avant-hier.
+  connaissais pas avant‑hier.
 
 Il eut un sourire navré :
 
@@ -65,7 +65,7 @@ D’un ton tellement impérieux, que l’employé se précipita au pas gymnastiq
 Pierre parcourait sa chambre d’un pas impatient. Deux, trois, cinq minutes
 s’écoulent. Le garçon ne reparaît pas. Enfin le voici.
 
-— Est-il en état de me recevoir ? demande le jeune homme se dirigeant déjà
+— Est‑il en état de me recevoir ? demande le jeune homme se dirigeant déjà
   vers la porte.
 
 — Non, Monsieur, bredouille l’homme.
@@ -80,7 +80,7 @@ s’écoulent. Le garçon ne reparaît pas. Enfin le voici.
 
 C’est un rugissement qui monte aux lèvres du marquis.
 
-— Quitté l’hôtel, sans un mot… Mais quand ? Comment ? Qu’est-il arrivé?
+— Quitté l’hôtel, sans un mot… Mais quand ? Comment ? Qu’est‑il arrivé?
 
 Il gesticule devant le serviteur effaré par sa nervosité.
 
@@ -102,11 +102,11 @@ un siège.
 Il lui semble qu’avec Allan son dernier espoir de débrouiller la situation
 s’est évanoui.
 
-Le contre-temps prend pour lui les proportions d’un malheur.
+Le contre‑temps prend pour lui les proportions d’un malheur.
 
 Que faire ? Que décider ? Ah ! Morand, Morand ! Insoucieux garçon, toi qui,
 à cette heure sans doute, te promènes, docte et important, dans les salles
-du Val-de-Grâce, tu ne te doutes pas que de toutes ces souffrances que tu
+du Val‑de‑Grâce, tu ne te doutes pas que de toutes ces souffrances que tu
 soignes, que tu combats, aucune n’est comparable à celles qui déchirent
 ton pauvre ami Chazelet !
 
@@ -141,7 +141,7 @@ Il s’arrête là. Aucun mot ne vient à ses lèvres.
   Et vous êtes sans doute pour le formalisme !… Moi pas, mais c’est égal,
   je ne contrarierai pas pour si peu. Je vous connais, vous êtes le
   marquis Pierre de Chazelet… Très bien ! Moi, je suis Frey Jemkins, de
-  San-Francisco…
+  San‑Francisco…
   L’Amérique me connaît comme Rockefeller, Carnegie ou Morgan… Vous aussi,
   je pense. Au surplus, cela n’est rien… J’intéresserai davantage votre
   cervelle en vous apprenant que je suis le propre cousin d’une jeune
@@ -160,7 +160,7 @@ front, avec l’impression que son crâne allait éclater.
 — Et c’est comme cousin, chef de la famille, que je viens ici, acheva
   l’Américain.
 
-— Qu’est-ce que tout cela signifie ?
+— Qu’est‑ce que tout cela signifie ?
 
 La question échappa au marquis plutôt qu’il ne la formula de propos
 délibéré. Frey y répondit néanmoins.
@@ -174,13 +174,13 @@ délibéré. Frey y répondit néanmoins.
 
 Pierre était devenu fort pâle.
 
-— Je comprends, Monsieur, fit-il d’une voix tremblante ; elle a en vous un
+— Je comprends, Monsieur, fit‑il d’une voix tremblante ; elle a en vous un
   protecteur suffisant, elle n’a plus besoin d’en avoir d’autre…
 
 Il ne continua point. Jemkins s’était renversé en arrière, faisait
 trembler les vitres d’un formidable éclat de rire.
 
-— Vous ne comprenez rien du tout, s’écria-t-il enfin.
+— Vous ne comprenez rien du tout, s’écria‑t‑il enfin.
 
 — Cependant.
 
@@ -201,7 +201,7 @@ Du coup, Chazelet ouvrit des yeux énormes :
 Cette fois, le jeune homme sentit le sang affluer à son cerveau, ses yeux
 se troublèrent et, d’une voix déchirante, il clama :
 
-— Par grâce, Monsieur, expliquez-vous clairement.
+— Par grâce, Monsieur, expliquez‑vous clairement.
 
 — Bon, voilà ! Vous êtes un marquis authentique, _all right_ ; Linérès est
 une multimillionnaire très authentique aussi. Faisons affaire. Mettez le
@@ -213,7 +213,7 @@ Castille, se transformant en réalité.
 Et pourtant Pierre secoua la tête. La forme employée par le brasseur
 d’affaires l’avait blessé au plus délicat de son être.
 
-— Les millions ne font rien à l’affaire, prononça-t-il fièrement, je ne suis
+— Les millions ne font rien à l’affaire, prononça‑t‑il fièrement, je ne suis
   pas celui qui se vend.
 
 L’hilarité de l’Américain redoubla.
@@ -222,7 +222,7 @@ L’hilarité de l’Américain redoubla.
 
 — Comment, vous le savez ?
 
-— Et tenez, j’ai sur moi des papiers… Signez-les en blanc, je les remplirai
+— Et tenez, j’ai sur moi des papiers… Signez‑les en blanc, je les remplirai
   par des renonciations en bonne et due forme aux biens de ma cousine.
 
 Et avec rondeur :

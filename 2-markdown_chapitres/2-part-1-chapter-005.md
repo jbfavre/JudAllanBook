@@ -19,7 +19,7 @@ velours allongé d’une barbe de dentelle.
 
 Pierre eut un mouvement de mauvaise humeur.
 
-— Je ne suis point masqué, dit-il un peu sèchement, je ne me soucie
+— Je ne suis point masqué, dit‑il un peu sèchement, je ne me soucie
   donc point d’être _intrigué_.
 
 — Bon, repartit le magicien, je suis ici pour _avertir_, non pour
@@ -27,7 +27,7 @@ Pierre eut un mouvement de mauvaise humeur.
 
 — Avertir, je ne m’en soucie pas davantage.
 
-— Peut-être !
+— Peut‑être !
 
 Et sans donner à son interlocuteur le temps de répondre, le masque
 continua :
@@ -35,7 +35,7 @@ continua :
 — Vous l’avez vue. Vous souhaitez la protéger. Mais vous êtes seul,
   sans renseignements sur vos adversaires.
 
-— Comment savez-vous ? s’écria Chazelet stupéfait.
+— Comment savez‑vous ? s’écria Chazelet stupéfait.
 
 Mais l’inconnu l’interrompit vivement :
 
@@ -47,16 +47,16 @@ Il se rapprocha du jeune homme.
 — Un homme existe, qui doit avoir votre confiance ; cet homme, vous le
   rencontrerez ce soir, si vous suivez mes instructions.
 
-— Encore faudrait-il me dire d’où elles émanent.
+— Encore faudrait‑il me dire d’où elles émanent.
 
 Le magicien haussa les épaules.
 
-— Toujours les conventions mondaines ! Est—ce que vous ne vous sentez pas
+— Toujours les conventions mondaines ! Est‑ce que vous ne vous sentez pas
   engagé dans une aventure en dehors de toutes les conventions ?
 
 Pierre ne trouva rien à répliquer. L’évidence de la proposition le réduisait
 au silence. Et l’inconnu, sans doute satisfait de ce résultat, reprit à
-mi-voix :
+mi‑voix :
 
 — Au surplus, ce que l’on vous demande est peu de chose. Rentrez à pied
   au palais d’Orsay ; une promenade agréable par ce beau temps. Il se
@@ -76,7 +76,7 @@ poignets enserrés comme en des étaux.
 Son interlocuteur le maintenait sans effort apparent.
 
 — Un vrai magicien ne se montre que de son plein gré. Rentrez à pied,
-  croyez-moi. Pas d’amour-propre mal placé. Votre vie est en jeu. Cela
+  croyez‑moi. Pas d’amour‑propre mal placé. Votre vie est en jeu. Cela
   vous est égal, fit doucement l’inconnu remarquant un mouvement
   dédaigneux de la tête du marquis, je suis content de le savoir… ;
   mais l’existence de la señorita est aussi menacée. L’ami à rencontrer
@@ -88,7 +88,7 @@ interlocuteur un mouvement de rotation.
 
 Pierre ne s’attendait pas à cette conclusion.
 
-Il pivota sur lui-même, bousculant un petit cercle d’invités où l’on
+Il pivota sur lui‑même, bousculant un petit cercle d’invités où l’on
 pérorait ferme. S’excuser, expliquer qu’il avait glissé et s’élancer
 vers le point où il avait laissé le magicien fut l’affaire d’un moment.
 
@@ -117,10 +117,10 @@ Il était impossible d’insister.
 Une fois encore, Pierre eut le sentiment de sa faiblesse au milieu d’une
 intrigue qu’il jugea formidable et dont les fils lui échappaient.
 
-— Après tout, murmura-t-il, j’ai obéi à toutes les impulsions… Je ne
+— Après tout, murmura‑t‑il, j’ai obéi à toutes les impulsions… Je ne
   m’en repens pas… J’ai vu celle que je devais rencontrer ! Obéissons
   encore et rentrons à pied, puisqu’ils le veulent, ces gens qui me
-  font tourner comme un toton. Seulement, acheva-t-il d’un ton dépité,
+  font tourner comme un toton. Seulement, acheva‑t‑il d’un ton dépité,
   _ils_ auraient juré de me rendre fou, qu’ils ne s’y prendraient pas
   autrement.
 
@@ -129,7 +129,7 @@ Morand, très intéressé par le récit qu’un jeune sportsman lui faisait
 des incidents de la soirée, qu’il allait se coucher. Puis délivré de ce
 devoir de politesse, il sortit de l’ambassade.
 
-À peine avait-il mis le pied sur le trottoir du boulevard de Courcelles,
+À peine avait‑il mis le pied sur le trottoir du boulevard de Courcelles,
 qu’un gamin assis philosophiquement de l’autre côté de l’avenue, le
 long des grilles du parc Monceau, se leva d’un bond et prit sa course
 dans la direction du boulevard Malesherbes.
@@ -141,18 +141,18 @@ C’était M. Allan, l’inventeur aperçu le soir même à la Tour Eiffel.
 
 Le petit arriva près de lui.
 
-— Il est sorti seul, Roi, dit-il.
+— Il est sorti seul, Roi, dit‑il.
 
 L’Américain eut un sourire joyeux.
 
-— Allons, je commence à croire que c’est un brave garçon, fit-il entre ses
+— Allons, je commence à croire que c’est un brave garçon, fit‑il entre ses
   dents… Un instrument dont on se sert pour le briser ensuite… Mais il
   aura l’ami… Je voudrais que l’œuvre de justice ne coûtat pas la vie à
   des innocents.
 
 Puis semblant chasser une pensée inopportune :
 
-— Écoute, tu le désigneras aux autres… comme il est convenu, n’est-ce
+— Écoute, tu le désigneras aux autres… comme il est convenu, n’est‑ce
   pas ? Les quais sont l’endroit le plus favorable… C’est aussi mon
   chemin rationnel, puisque je serai censé sortir du Ministère de la
   Marine.
@@ -162,8 +162,8 @@ Puis semblant chasser une pensée inopportune :
 — Oui… N’oubliez pas les poches.
 
 Il pivota sur ses talons. À grands pas, il descendit le boulevard
-Malesherbes, gagna les Champs-Élysées par la rue d’Astorg, traversa
-l’avenue, le Cours-la-Reine et se posta enfin un peu en aval du pont de
+Malesherbes, gagna les Champs‑Élysées par la rue d’Astorg, traversa
+l’avenue, le Cours‑la‑Reine et se posta enfin un peu en aval du pont de
 la Concorde, semblant attendre.
 
 Un quart d’heure s’écoula ainsi ; le gamin du boulevard de Courcelles
@@ -218,12 +218,12 @@ libre de ses mouvements. Il regarda autour de lui d’un air effaré.
 Ses agresseurs s’étaient enfuis, et un homme d’allure correcte se penchait
 sur lui en disant d’un ton où perçait l’inquiétude :
 
-— Êtes-vous blessé, Monsieur ?
+— Êtes‑vous blessé, Monsieur ?
 
 — Monsieur Allan ! s’exclama Pierre, reconnaissant l’organe de
   l’inventeur.
 
-— Vous me connaissez ? fit celui-ci non sans surprise.
+— Vous me connaissez ? fit celui‑ci non sans surprise.
 
 — Sans doute, j’assistais à la Tour Eiffel à vos si curieuses expériences…
 
@@ -236,7 +236,7 @@ Et se remettant sur ses pieds :
 
 Ce disant, Allan prenait le bras de son interlocuteur.
 
-— Permettez-moi de compléter ce petit service en vous mettant dans votre
+— Permettez‑moi de compléter ce petit service en vous mettant dans votre
   chemin… ; le temps de dissiper la surprise que vous avez éprouvée.
 
 — Oh ! je ne veux pas vous retenir… Je suis arrivé… Je rentre au palais
@@ -244,7 +244,7 @@ Ce disant, Allan prenait le bras de son interlocuteur.
 
 L’Américain eut une exclamation joyeuse :
 
-— Tiens… Moi-même j’habite cet hôtel.
+— Tiens… Moi‑même j’habite cet hôtel.
 
 — Ce qui explique votre arrivée si opportune.
 
@@ -259,8 +259,8 @@ Côte à côte, les deux hommes gagnèrent le pont de Solférino.
 L’Américain parlait, disant sa sympathie pour Paris, qui l’avait
 accueilli de façon charmante. Pierre rêvait, répondant par monosyllabes.
 
-![Êtes-vous blessé, Monsieur ?](../3-images/part1/page-083.jpg
-"Êtes-vous blessé, Monsieur ?")
+![Êtes‑vous blessé, Monsieur ?](../3-images/part1/page-083.jpg
+"Êtes‑vous blessé, Monsieur ?")
 
 La singulière prédiction du magicien de l’Ambassade s’imposait à son
 esprit.
@@ -277,11 +277,11 @@ coïncidence, c’était une scène de cette féerie moderne dont il se
 sentait l’acteur involontaire.
 
 Plus rien dans sa vie n’appartenait à son libre arbitre. Des volontés
-étrangères, inconnues, peut-être contradictoires, le gouvernaient,
+étrangères, inconnues, peut‑être contradictoires, le gouvernaient,
 dirigeant ses mouvements, réglant ses gestes, accaparant ses pensées.
 
 Et dans la brume de ses réflexions confuses, les discours de son compagnon
-lui parvenaient de façon trouble, comme en un demi-sommeil, alors que le
+lui parvenaient de façon trouble, comme en un demi‑sommeil, alors que le
 cerveau, point encore dégagé du rêve, devine néanmoins le voisinage de
 l’état conscient.
 
@@ -291,7 +291,7 @@ Ils ne pouvaient se séparer ainsi.
 
 Un cocktail offert et accepté, Allan s’écria tout à coup :
 
-— Mais j’y songe… Ces méchants drôles ne vous ont-ils point volé ?
+— Mais j’y songe… Ces méchants drôles ne vous ont‑ils point volé ?
 
 La question fit sursauter le marquis de Chazelet.
 
@@ -323,7 +323,7 @@ constatait avec douleur que la perte des derniers billets de mille
 francs est plus pénible que l’effondrement d’une fortune.
 
 Allan s’informa, plein de pitié devant le bouleversement de son
-compagnon. Celui-ci, entraîné par la contagion de la sympathie,
+compagnon. Celui‑ci, entraîné par la contagion de la sympathie,
 obéissant au besoin inné chez l’homme de confier sa peine, parla… Il
 dit sa vie d’autrefois, inutile et brillante ; sa ruine, sa fuite en
 Espagne, et là, là… L’enchaînement extraordinaire de circonstances
@@ -339,7 +339,7 @@ Enfin, il murmura :
 
 — Je pense, que vous avez tort de vous inquiéter.
 
-— Tort ? n’avez-vous donc pas compris… ?
+— Tort ? n’avez‑vous donc pas compris… ?
 
 — J’ai compris, interrompit Allan, ce qui vous échappe en cet instant, où
   vous me semblez hypnotisé par votre dernière aventure. Je ne crois
@@ -356,7 +356,7 @@ question :
 
 Qui provoqua un sourire de l’Américain.
 
-— Comment vous le dirais-je ? J’estime toutefois que vous devez attendre
+— Comment vous le dirais‑je ? J’estime toutefois que vous devez attendre
 avec calme ; montrer la plus grande soumission à vous laisser conduire.
 Le vouloir, ami ou ennemi, qui s’exerce sur vous, sera d’autant plus
 confiant qu’il vous jugera plus disposé à l’obéissance. Jusqu’à ce soir
@@ -367,9 +367,9 @@ intérêts…
 — Vous oubliez ces crimes qui sèment les morts et les blessés autour de
 M^lle^ de Armencita.
 
-— Je n’oublie rien… Permettez—moi de vous faire remarquer que… la 
+— Je n’oublie rien… Permettez‑moi de vous faire remarquer que… la 
 suppression même de rivaux peut être interprétée comme vous constituant
-un avantage voulu… On montait peut-être la garde autour de… votre
+un avantage voulu… On montait peut‑être la garde autour de… votre
 future fiancée.
 
 — En effet, c’est une interprétation acceptable…, que contredit cependant
@@ -379,7 +379,7 @@ Un instant, Allan demeura pensif. Enfin, se levant :
 
 — N’allons pas si vite. Les attaques nocturnes ont une suffisante
   fréquence dans toute grande ville, pour que votre mauvaise chance de
-  cette nuit soit considérée comme un fait isolé en lui-même, et non
+  cette nuit soit considérée comme un fait isolé en lui‑même, et non
   ainsi qu’un chaînon…
 
 — Certes, je le reconnais.
@@ -429,7 +429,7 @@ Après le bandit qui prête, les voleurs qui restituent.
 Cela dépassait la compréhension du marquis… Toutefois, il sourit, glissa
 le portrait, ainsi que la somme venant d’Espagne, dans un tiroir…, puis
 plaça sur la cheminée celle destinée a rembourser le philanthrope Seigneur
-de la Nuit, avec cette réflexion ironique, formulée à mi-voix :
+de la Nuit, avec cette réflexion ironique, formulée à mi‑voix :
 
 — Il ne manque plus qu’une chose à cette fantasmagorie, c’est que ce
   paquet, mis sur la cheminée, parvienne à l’adresse de Sélénitès.

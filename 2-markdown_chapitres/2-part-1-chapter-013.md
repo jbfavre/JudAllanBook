@@ -45,9 +45,9 @@ Et sans s’inquiéter de l’air désappointé de sa compagne, l’aimable Grac
 se replongea dans la lecture du manuscrit.
 
 Jud était seul, prisonnier par l’ordre du « Crâne », de ce chef étrange
-qu’il ne connaissait pas. Il s’irrita contre lui-même.
+qu’il ne connaissait pas. Il s’irrita contre lui‑même.
 
-— Stupide Jud, gronda-t-il. Comment as-tu supposé que l’on aurait tant de
+— Stupide Jud, gronda‑t‑il. Comment as‑tu supposé que l’on aurait tant de
   confiance en toi ? Certes, tu n’es pas maladroit ; des canailles ont pu
   voir en toi une recrue appréciable ; mais avant d’être le confident, il
   faut faire ses preuves…
@@ -66,11 +66,11 @@ Sur ces mots, il regarda autour de lui. La cabine prenait jour par un
 étroit hublot, ouverture ronde tout à fait insuffisante pour livrer
 passage à l’enfant si mince qu’il fût.
 
-— Bon, murmura-t-il, il faut d’abord sortir d’ici.
+— Bon, murmura‑t‑il, il faut d’abord sortir d’ici.
 
 Puis, par réflexion :
 
-— Oui, mais une fois dehors, que ferai-je ?
+— Oui, mais une fois dehors, que ferai‑je ?
 
 Il s’approcha du hublot, l’ouvrit et regarda au dehors.
 
@@ -94,7 +94,7 @@ serrure.
 
 Il tâtonna un instant ; le déclic du pène l’avertit qu’il avait réussi.
 
-— À la bonne heure, fit-il gaiement. Je me demandais pourquoi si souvent
+— À la bonne heure, fit‑il gaiement. Je me demandais pourquoi si souvent
   j’ai dû vivre côte à côte avec des voleurs. Voici la réponse. C’était
   pour apprendre à ouvrir les portes fermées.
 
@@ -159,7 +159,7 @@ destinés à la pêche du squale.
 
 Jud s’accrocha au filin du palan, se laissa glisser dans l’eau.
 
-Peut-être, avant d’y plonger, interrogea-t-il la surface des flots avec
+Peut‑être, avant d’y plonger, interrogea‑t‑il la surface des flots avec
 une vague inquiétude, mais ses mouvements n’en furent pas ralentis.
 
 L’onde se referma sur lui. L’enfant nageait entre deux eaux.
@@ -176,7 +176,7 @@ Il oubliait les requins. Les voraces carnassiers marins devaient être
 absorbés par les appât que les hommes du bord mettaient à leur
 disposition.
 
-Aussi nageait-il avec calme, sans se presser, ménager de ses forces.
+Aussi nageait‑il avec calme, sans se presser, ménager de ses forces.
 
 Tous les deux ou trois cents mètres, il se reposait un moment en faisant
 la planche. Après quoi il repartait.
@@ -187,9 +187,9 @@ la côte, quand un frisson le secoua tout entier.
 À quelques brasses de lui, il venait de distinguer un objet triangulaire,
 ressemblant à une petite voile latine, qui courait à la surface des eaux.
 
-— L’aileron dorsal d’un requin, se dit-il avec angoisse.
+— L’aileron dorsal d’un requin, se dit‑il avec angoisse.
 
-Mais malgré l’imminence du danger, son sang-froid ne l’abandonna pas.
+Mais malgré l’imminence du danger, son sang‑froid ne l’abandonna pas.
 
 Le requin voit mal, si mal que parfois un petit poisson, dénommé
 _remora_, le guide, remplissant les fonctions du caniche pour l’aveugle.
@@ -219,7 +219,7 @@ Jud poussa un soupir de satisfaction profonde. On a beau être brave,
 avoir fait le sacrifice de sa vie, la pensée d’être dépecé par un monstre
 marin ne saurait être accueillie comme une perspective agréable.
 
-Mais l’heure ne permettait pas les longues auto-congratulations. Le gamin
+Mais l’heure ne permettait pas les longues auto‑congratulations. Le gamin
 recommença à nager vers la terre.
 
 Maintenant il était assez rapproché pour discerner nettement la côte où
@@ -247,9 +247,9 @@ réfléchissait.
 
 La côte se montrait rébarbative, et le seul point abordable était gardé.
 
-— Tant pis, fit-il enfin, je vais explorer la crique voisine. Parfois les
+— Tant pis, fit‑il enfin, je vais explorer la crique voisine. Parfois les
   rochers semblent impraticables à distance, et de près, on reconnaît
-  l’escalade possible… D’ailleurs, conclut-il, je n’ai pas d’autre parti
+  l’escalade possible… D’ailleurs, conclut‑il, je n’ai pas d’autre parti
   à prendre.
 
 Mais un regard, jeté encore sur ses ennemis, lui arracha une exclamation.
@@ -262,7 +262,7 @@ Vigoureusement, il se prit à battre l’eau pour couper le courant. Mais
 après quelques minutes d’efforts surhumains, il dut s’arrêter pour
 souffler.
 
-— Terrible, murmura-t-il, il faudrait une chaloupe pour lutter… Maudit
+— Terrible, murmura‑t‑il, il faudrait une chaloupe pour lutter… Maudit
   courant, il va me jeter dans les bras des matelots.
 
 En effet, il était emporté sans pouvoir résister vers l’endroit où
@@ -287,15 +287,15 @@ Soudain, une sensation agréable le pénétra tout entier.
 
 — Bizarre ! On dirait que le courant me pousse moins fort !
 
-Il demeura sur place pour contrôler cette impression, née peut-être de
+Il demeura sur place pour contrôler cette impression, née peut‑être de
 son désir d’échapper à l’étreinte de l’eau.
 
 Non, il ne se trompait pas. Le courant devenait imperceptible. On eût dit
-qu’il s’arrêtait ; les houles elles-mêmes s’apaisaient.
+qu’il s’arrêtait ; les houles elles‑mêmes s’apaisaient.
 
 Cette dernière observation fut un trait de lumière pour le gamin.
 
-— Je comprends, se confia-t-il ; la marée est pleine, la mer devient
+— Je comprends, se confia‑t‑il ; la marée est pleine, la mer devient
   étale ; le courant venant du large cesse en même temps.
 
 Puis, par réflexion :
@@ -319,12 +319,12 @@ Jud va atteindre le cap rocheux qui sépare la déchirure de la falaise, où
 il pense se réfugier, de la plage occupée par ces hommes, quand une voix
 rude parvient jusqu’à lui.
 
-— Voyez donc, garçons, qu’est-ce qui nage là-bas ?
+— Voyez donc, garçons, qu’est‑ce qui nage là‑bas ?
 
 — Bon, un marsouin probablement, riposte un organe non moins rauque. Il
   n’y a que des marsouins pour remuer l’eau comme cela.
 
-— Peut-être vrai. Seulement m’est avis que l’on en serait plus sûr si on
+— Peut‑être vrai. Seulement m’est avis que l’on en serait plus sûr si on
   y allait voir… Après tout, cela nous distraire tout en nous
   dégourdissant les bras.
 
@@ -357,9 +357,9 @@ absorbées par les ténèbres.
 
 Le bruit des rames devient plus distinct. L’ennemi va se montrer.
 
-Est-ce que vraiment l’effort du gamin est destiné à demeurer inutile?
+Est‑ce que vraiment l’effort du gamin est destiné à demeurer inutile?
 
-Est-ce qu’il va succomber, entraînant avec lui, dans la mort, la mignonne
+Est‑ce qu’il va succomber, entraînant avec lui, dans la mort, la mignonne
 inconnue à qui il s’est dévoué ? Cette pensée le galvanise. Il s’enfonce
 dans le fjord sombre.
 
@@ -368,7 +368,7 @@ dans le fjord sombre.
 C’est un soupir d’espérance. La paroi n’est point aussi régulière qu’elle
 le paraissait.
 
-Voici un point où l’on pourrait peut-être se hisser, en risquant de se
+Voici un point où l’on pourrait peut‑être se hisser, en risquant de se
 rompre les reins, cela est vrai…; mais aux heures tragiques on saisit la
 chance qui se présente, si faible, si aléatoire qu’elle soit.
 
@@ -376,7 +376,7 @@ Jud se cramponne au rocher. Il rampe, se hisse, utilisant comme points
 d’appui les moindres aspérités de la falaise.
 
 Pourvu qu’il ait le temps d’atteindre un renflement rocheux qu’il
-discerne à quelques mètres au-dessus de sa tête !
+discerne à quelques mètres au‑dessus de sa tête !
 
 Dans son désir de rester libre, il réalise des prodiges d’équilibre. Il
 réussit dans son invraisemblable ascension.
@@ -402,7 +402,7 @@ et sur les eaux. Ils font le tour de la crique, ramant avec lenteur,
 — Non, j’ai vu, bien vu l’animal disparaître dans cette rue d’eau
   (expression californienne).
 
-— Eh bien, où est-il?
+— Eh bien, où est‑il?
 
 — Où il a pu aller… Un poisson n’est pas une breloque, il est plus
   difficile à mettre sous les yeux des curieux.
@@ -424,14 +424,14 @@ suscité par la Providence, pourra continuer son œuvre de salut.
 — Il s’agit maintenant de me tirer d’ici.
 
 Certes, il a échappé aux regards des hommes, mais sa tâche est loin
-d’être terminée. Ses forces le conduiront-elles jusqu’au bout ? C’est ce
+d’être terminée. Ses forces le conduiront‑elles jusqu’au bout ? C’est ce
 qu’il se demande avec angoisse, en sentant ses membres raidis.
 L’immobilité, à laquelle il a été condamné durant quelques minutes, l’a
 brisé. Ses vêtements mouillés se sont collés à son corps, amenant le
 refroidissement qui ankylose et paralyse. 
 
 Mais dans ce corps de gamin existe une volonté de fer. Il se relève, et
-sur l’étroite corniche, suspendu à mi-hauteur de la falaise, au risque
+sur l’étroite corniche, suspendu à mi‑hauteur de la falaise, au risque
 d’être précipité dans les flots, il se contraint à des mouvements
 d’assouplissement.
 
@@ -440,7 +440,7 @@ rapide en ses veines, son corps recouvre son élasticité.
 
 — En route !
 
-Jud reprend la lutte contre le rocher. S’accrochant de-ci, de-là,
+Jud reprend la lutte contre le rocher. S’accrochant de‑ci, de‑là,
 manquant vingt fois d’être précipité, il rampe sur la paroi, s’agrippe à
 des protubérances presque invisibles… Hors d’haleine, ruisselant de
 sueur, il atteint le sommet.
@@ -449,7 +449,7 @@ Le promontoire se termine par une étroite plateforme triangulaire, que
 tapissent des mousses et des ajoncs brûlés par le soleil.
 
 De ce point, Jud domine la petite plage où campe l’équipage de la
-chaloupe. Mais s’il voit ses adversaires, ceux-ci pourraient également
+chaloupe. Mais s’il voit ses adversaires, ceux‑ci pourraient également
 l’apercevoir.
 
 Alors, sans souci des piqûres, il se couche parmi les ajoncs ; il rampe
@@ -479,12 +479,12 @@ Au sommet, il a une exclamation de surprise. À la bande de terrains
 incultes bordant le rivage, succèdent brusquement des cultures.
 
 Ce sont de hauts palmiers, dont les panaches en rosaces s’étalent, ainsi
-que de verdoyants parasols, au-dessus d’arbres fruitiers d’origine
+que de verdoyants parasols, au‑dessus d’arbres fruitiers d’origine
 européenne, lesquels, grâce à eux, supportent sans être grillés les
 ardeurs du soleil mexicain.
 
 Plus loin, des « prairies » entourées de barrières rustiques, où des
-troupeaux : bœufs, moutons, chèvres, porcs, vivent pêle-mêle avec des
+troupeaux : bœufs, moutons, chèvres, porcs, vivent pêle‑mêle avec des
 ânes et des chevaux.
 
 Pendant près de deux heures, Jud marche dans le sentier que bordent les
@@ -526,22 +526,22 @@ parcourue dans les traces des bandits. Au point d’intersection, une sorte
 de carrefour circulaire a été ménagé parmi les aloès.
 
 Dans ce cercle dénudé, Jud reconnaît les hommes avec lesquels il a fait
-le voyage de San-Francisco à la baie de Sébastian Vizcaïno.
+le voyage de San‑Francisco à la baie de Sébastian Vizcaïno.
 
-Voici l’Américain Tom, l’Irlandais Jetty, Kan-So le Chinois, Zirini
+Voici l’Américain Tom, l’Irlandais Jetty, Kan‑So le Chinois, Zirini
 l’Italien.
 
 Voici Van Foorberg, Van Reek, coquins venus d’Allemagne et de Belgique,
 Elisalt le Basque et l’Espagnol Todero.
 
-Ils sontrangés en demi-cercle. Ils discutent avec animation ; de leurs
+Ils sontrangés en demi‑cercle. Ils discutent avec animation ; de leurs
 discours Jud comprend qu’ils attendent quelqu’un. Quelques mots encore,
 le _quelqu’un_ se précise. C’est le chef, le _Crâne_.
 
 Mais le silence s’établit tout à coup. Les huit bandits semblent
 métamorphosés en statues.
 
-Qu’est-ce ? Un nouveau personnage vient d’entrer dans la clairière.
+Qu’est‑ce ? Un nouveau personnage vient d’entrer dans la clairière.
 
 — C’est lui, devine l’enfant qui le considère de tous ses yeux.
 
@@ -567,17 +567,17 @@ L’homme élève la voix :
 Un murmure s’élève. Les bandits ricanent. Mais tout s’apaise sur un signe
 du chef.
 
-— Comprenez-moi bien, reprend celui-ci… Deux obstacles doivent
+— Comprenez‑moi bien, reprend celui‑ci… Deux obstacles doivent
   disparaître, deux, vous entendez…, pour que ma chère cousine Lily cesse
   de souffrir, pour qu’elle soit seule maîtresse de ce domaine de
-  quarante mille kilomètres carrés [^1-13-1].
+  quarante mille kilomètres carrés [^1‑13‑1].
 
 — Hip ! Hip ! Hurrah pour le domaine de Lily !
 
 Le Crâne hoche la tête. Il doit sourire sous le masque. Il poursuit :
 
 — Le señor Pariset, à qui j’ai accordé naguère la main de cette chère
-  Lily, que j’aime ainsi qu’une fille ; Pariset, dis-je, s’est tout
+  Lily, que j’aime ainsi qu’une fille ; Pariset, dis‑je, s’est tout
   d’abord montré digne de ma confiance. Lily était heureuse, la naissance
   de sa fillette, la petite Lilian, tout semblait promettre un bonheur
   durable.
@@ -591,7 +591,7 @@ d’une voix légère comme un souffle, répétait les noms prononcés :
 
 Ces mots jaillirent aussi des lèvres de la compagne de Grace Paterson.
 
-Mais gravement celle-ci mit un doigt sur sa bouche rose.
+Mais gravement celle‑ci mit un doigt sur sa bouche rose.
 
 — Silence ! Lilian… Il faut tout savoir ! Silence et courage.
 
@@ -604,7 +604,7 @@ lecture.
   cousine. L’insensé en est venu à prendre en haine jusqu’à cette petite
   Lilian qui faisait son bonheur.
 
-— Bon, sifflota Kan-So, j’ai eu assez de mal à attacher ce grelot, et à
+— Bon, sifflota Kan‑So, j’ai eu assez de mal à attacher ce grelot, et à
   accumuler les fausses preuves que l’imbécile a acceptées pour vraies.
 
 — Tenez vos langues, garçons, ordonna rudement le chef. Celui qui se
@@ -616,12 +616,12 @@ Jud écoutait, stupéfié par l’horreur.
 — Donc, plaisanta le Crâne après une courte pause, l’affaire est bien
   menée. Nos amis du haut Commerce de Frisco, avec lesquels nous avons
   mis Pariset en rapports lors de ses derniers voyages, le considèrent
-  comme fou et _dangereux pour ma chère Lily_, — il accentua ces mots
-  avec une indicible ironie. — J’ajoute même que, si je suis dans ce
+  comme fou et _dangereux pour ma chère Lily_, ‑ il accentua ces mots
+  avec une indicible ironie. ‑ J’ajoute même que, si je suis dans ce
   pays, c’est à l’insistance de mes collègues du tribunal de commerce de
-  San-Francisco que je le dois… Ils m’ont poussé à venir à l’improviste,
+  San‑Francisco que je le dois… Ils m’ont poussé à venir à l’improviste,
   à m’assurer que Lily n’est pas en danger… La chose faite, je rentre
-  là-bas, j’affecte une inquiétude profonde… Et, d’ici à quelques
+  là‑bas, j’affecte une inquiétude profonde… Et, d’ici à quelques
   semaines, quand on m’amène Lily, rendue _innocente_ par notre
   _infusion de chanvre_, personne ne doute que Pariset, dans un accès de
   démence aiguë, ne se soit tué et ait donné la mort à sa petite Lilian.
@@ -644,28 +644,28 @@ Jud écoutait, stupéfié par l’horreur.
 — Allons, allons, railla le chef, vous êtes décidément des criminels
   naïfs, garçons. Non seulement je prétends n’être pas soupçonné, mais
   encore forcer l’admiration sentimentale de mes concitoyens. L’enfant
-  disparaît sans laisser de traces, n’est-ce pas ? Je puis supposer
+  disparaît sans laisser de traces, n’est‑ce pas ? Je puis supposer
   qu’elle vit encore. Je mets en mouvement les agences de renseignements,
   les détectives du monde entier pour tâcher de la retrouver. Et
   l’univers s’entretient de mon affection fraternelle pour ma cousine
   Lily. On trouve naturel qu’elle habite chez moi. On m’_admire_ de
   n’économiser ni temps, ni argent, pour lui rendre sa fille, dont la
-  présence peut-être déterminerait son retour à la raison.
+  présence peut‑être déterminerait son retour à la raison.
 
 Un silence flatteur suivit la déclaration du terrible chef de bande.
 
 Le meurtrier qui vole l’admiration de ses contemporains est exceptionnel,
 et la tourbe vulgaire des bandits s’incline devant ces êtres en qui ils
-reconnaissent la toute-puissance pour le mal.
+reconnaissent la toute‑puissance pour le mal.
 
 Maintenant, Jud avait peur de cet homme. Il se sentait vaincu par avance.
 Qui donc ajouterait foi à l’affirmation d’un petit vagabond, évadé de la
-prison d’Alb-Point ?
+prison d’Alb‑Point ?
 
 Mais cette faiblesse ne dura pas. De nouveau il prêta l’oreille au
 discours du chef.
 
-— Nous sommes d’accord, déclamait celui-ci. Personne n’a plus rien à
+— Nous sommes d’accord, déclamait celui‑ci. Personne n’a plus rien à
 objecter. Parfait ! Alors, écoutez comment va s’accomplir l’opération et
 quels en seront les résultats.
 
@@ -676,7 +676,7 @@ enfant, va profiter de son absence pour confier Lilian à des mains amies.
 Fou de colère et de haine, il va revenir par ce chemin traversant la
 clairière où nous nous trouvons.
 
-Lily est seule à l’hacienda avec sa servante Trina… Celle-ci me remettra
+Lily est seule à l’hacienda avec sa servante Trina… Celle‑ci me remettra
 l’enfant comme à un ami sûr.
 
 — Mais elle parlera, fit une voix.
@@ -685,7 +685,7 @@ l’enfant comme à un ami sûr.
 
 Le ton dont ces paroles furent prononcées fit frissonner Jud.
 
-— Le père tombe ici… On trouve la servante égorgée là-bas, l’enfant a
+— Le père tombe ici… On trouve la servante égorgée là‑bas, l’enfant a
   disparu… C’est le fou qui a fait tout le mal.
 
 Il promena sur ses auditeurs un regard triomphant, puis la voix
@@ -694,7 +694,7 @@ abaissée :
 — Maintenant, passons aux résultats de l’affaire.
 
 Je garde ma cousine à San Francisco. Mes affaires, chaque jour plus
-importantes, ne me permettent pas de m’occuper moi-même de l’exploitation
+importantes, ne me permettent pas de m’occuper moi‑même de l’exploitation
 d’Agua Frida. Et cependant je veux que le domaine de Lily continue à
 prospérer. Si elle revient à la raison, je souhaite qu’elle soit contente
 du cousin dont la fatalité a fait son tuteur. Je constitue un conseil
@@ -716,7 +716,7 @@ d’orgueil satisfait.
 
 — L’heure est venue, garçons, de mettre le monde en coupe réglée, de
   réaliser enfin ce but vers lequel notre association n’a cessé de
-  marcher, depuis qu’elle fut constituée dans les prairies du Far-West.
+  marcher, depuis qu’elle fut constituée dans les prairies du Far‑West.
   Toi, Elisalt, et toi, Todero, vous serez les chefs de nos opérations
   internationales pour l’Espagne et la France. Toi, Von Foorberg, je te
   donne l’Allemagne, l’Autriche et les pays scandinaves. L’Angleterre et
@@ -728,12 +728,12 @@ l’insulaire Océanie.
 
 Jud frissonnait aux accents de cette voix sonore, dominatrice. On eût cru
 entendre l’un de ces conquérants barbares des âges des grandes invasions,
-distribuant à ses leudes [^1-13-2] les fiefs arrachés aux vaincus.
+distribuant à ses leudes [^1‑13‑2] les fiefs arrachés aux vaincus.
 
 Le gamin se sentait humilié de sa faiblesse, de sa petitesse devant ce
 géant du mal.
 
-— Y a-t-il quelque observation que l’on désire me présenter encore ?
+— Y a‑t‑il quelque observation que l’on désire me présenter encore ?
 
 Les huit bandits répondirent d’une seule voix :
 
@@ -744,12 +744,12 @@ Les huit bandits répondirent d’une seule voix :
 Et d’un ton impossible à rendre, mélangé d’ironie et de cruauté :
 
 — Je vais chercher l’enfant, apprendre le silence à la servante Trina ;
-  vous, guettez l’homme ; s’il paraît, réduisez-le à l’impuissance ; mais
+  vous, guettez l’homme ; s’il paraît, réduisez‑le à l’impuissance ; mais
   surtout qu’il ne lui soit fait aucun mal.
 
 Jud comprit que les misérables allaient se cacher parmi les aloès.
 
-Tremblant d’être découvert, il se glissa lui-même au milieu des énormes
+Tremblant d’être découvert, il se glissa lui‑même au milieu des énormes
 plantes. D’instinct, il se porta à vingt pas de là, le long du chemin
 d’exploitation traversant la clairière.
 
@@ -765,7 +765,7 @@ Il voulait voir, savoir…, et puis, au petit bonheur… Il se montrerait
 s’il le fallait. Il périrait pour Lilian, ce bébé encore inconnu. Il
 songeait :
 
-— Quel est cet homme ? À San-Francisco, le Tribunal du Commerce est
+— Quel est cet homme ? À San‑Francisco, le Tribunal du Commerce est
   composé d’amis à lui. M^me^ Pariset, Lily comme il la nomme, est sa
   cousine… Et ce personnage occupant une situation honorable, enviée,
   entretient à sa solde une troupe de bandits. Quel peut être cet
@@ -782,13 +782,13 @@ indiquaient un peu d’agrément. À faible distance, des bâtiments blancs,
 aux toitures de tuiles vernissées qui brillaient sous les rayons de la
 lune, attirèrent son attention.
 
-— L’hacienda, murmura-t-il.
+— L’hacienda, murmura‑t‑il.
 
 Un sifflement aux modulations particulières se vrille dans l’air. À dix
 pas, le Crâne s’est arrêté. Masqué par une touffe d’arbres, il ne saurait
 être aperçu de l’hacienda.
 
-Mais qu’est-ce donc ? La-bas, dans la façade blanche de l’habitation, un 
+Mais qu’est‑ce donc ? La‑bas, dans la façade blanche de l’habitation, un 
 rectangle noir vient d’apparaître.
 
 — Une porte a été ouverte, se confie le petit, la gorge serrée par
@@ -821,7 +821,7 @@ d’une voix brève, autoritaire. Elle répond, doucereuse et hypocrite.
 
 — Rentrés à leurs habitations à la chute du jour, ainsi qu’à l’ordinaire.
   Aucun n’aura l’idée d’en sortir. Une généreuse distribution de pulque
-  et de mezcal (eau-de-vie) les y retiendra jusqu’à l’aube.
+  et de mezcal (eau‑de‑vie) les y retiendra jusqu’à l’aube.
 
 — Allons, Trina, tu es une fille intelligente et adroite… On aura soin de
   ta fortune.
@@ -864,7 +864,7 @@ bandits sont réunis autour d’un homme garrotté, réduit à l’impuissance.
 — Ah ! Ah ! Vous avez travaillé, garçons, s’écrie le Crâne d’une voix
   joviale.
 
-— Et sans bruit, j’ose le dire, riposte le chinois Kan-Se, dont la face
+— Et sans bruit, j’ose le dire, riposte le chinois Kan‑Se, dont la face
   maigre et jaune se plisse en un hideux sourire.
 
 — Il a résisté ?
@@ -876,7 +876,7 @@ Alors, le Crâne se baisse, dépose l’enfant au pied d’un aloès, puis
 s’avance lentement vers le prisonnier, dont les yeux se fixent sur lui avec
 une stupeur épouvantée.
 
-— Oui, oui, c’est moi, mon brave Pariset, dit-il. C’est moi, dont tu
+— Oui, oui, c’est moi, mon brave Pariset, dit‑il. C’est moi, dont tu
   crierais le nom aux échos, si mes dignes associés n’avaient pris soin
   de te baillonner.
 
@@ -899,7 +899,7 @@ Et il se penche vers le captif, hors d’état de s’opposer à son
 mouvement ; de la pochette, fixée à la ceinture du malheureux, il tire un
 revolver, l’examine :
 
-— Il est chargé. C’est admirable. L’une des cartouches que toi-même a
+— Il est chargé. C’est admirable. L’une des cartouches que toi‑même a
   glissées dans le barillet, te trouera le front… Eh ! Eh ! Je ne suis
   pas cruel. Une balle, une détonation, ce sera fini.
 
@@ -937,7 +937,7 @@ Ah ! S’il pouvait voler l’enfant !
 
 Il se souvient des pâturages traversés par lui avant d’atteindre la
 pulqueria. Il y avait là des chevaux en liberté… S’il arrivait là, s’il
-bondissait sur le dos d’un des animaux… Ce serait le salut peut-être.
+bondissait sur le dos d’un des animaux… Ce serait le salut peut‑être.
 
 Un coup d’œil à ses adversaires. La discussion s’est animée… Les bandits
 ont oublié tout pour discuter sur l’opportunité d’adjoindre à la troupe
@@ -954,7 +954,7 @@ peut renoncer aux précautions qui ralentissent sa marche.
 
 Il se dresse sur ses pieds, il court, il vole.
 
-Ah ! Voici les palissades… Là-bas, un cheval de robe sombre le regarde
+Ah ! Voici les palissades… Là‑bas, un cheval de robe sombre le regarde
 venir. Sans doute l’animal a déjà senti le poids d’un cavalier, car il ne
 s’enfuit pas comme ses compagnons de pâturage, quand le gamin escalade la
 barrière.
@@ -964,7 +964,7 @@ soudain, il détache sa ceinture, simple tresse de soie, la glisse dans la
 bouche du cheval étonné, et d’un bond se trouve à califourchon sur le dos
 du quadrupède.
 
-Celui-ci veut se débarrasser du cavalier. Mais le gamin lui scie la
+Celui‑ci veut se débarrasser du cavalier. Mais le gamin lui scie la
 bouche avec sa cordelette, il lui enfonce ses talons dans les flancs. 
 
 ![Voici celle que tu cherches](../3-images/part1/page-241.jpg
@@ -1004,7 +1004,7 @@ grotte qu’emplissait une clarté violette, pénétrant à travers des lianes
 fleuries qui retombaient devant une ouverture, servant évidemment
 d’entrée.
 
-Lui-même était étendu sur une natte, fixée par ses angles à des piquets
+Lui‑même était étendu sur une natte, fixée par ses angles à des piquets
 assez élevés pour l’isoler du sol.
 
 Puis il se sent faible. Le mouvement qu’il vient de faire pour s’asseoir
@@ -1023,15 +1023,15 @@ Au centre de la grotte, entre des pierres dressées, des branchages
 flambent, faisant chantonner une marmite d’où s’échappent des vapeurs
 aromatiques.
 
-— Lilian ? fait-il à haute voix.
+— Lilian ? fait‑il à haute voix.
 
-— Le Wacondah (Grand Esprit des Indiens) a-t-il permis que l’intelligence
+— Le Wacondah (Grand Esprit des Indiens) a‑t‑il permis que l’intelligence
   renaisse en mon jeune frère blanc ?
 
 Un organe guttural a prononcé cette question.
 
 Jud cherche autour de lui. Enfin il aperçoit son interlocutrice. C’est
-une Indienne. Elle a peut-être trente ans ; mais la douleur a marqué ses
+une Indienne. Elle a peut‑être trente ans ; mais la douleur a marqué ses
 traits et parmi les tresses noires de sa chevelure, une mèche toute
 blanche trace un sillon d’argent.
 
@@ -1039,18 +1039,18 @@ Avec sa tunique aux ornements multicolores, la plume d’aigle fichée dans
 ses cheveux, cette femme donne l’impression d’une majesté surhumaine.
 Elle tient un baby entre ses bras.
 
-— Lilian ! répète-t-il.
+— Lilian ! répète‑t‑il.
 
 La face grave de l’Indienne s’éclaire. Elle se rapproche, présente
 l’enfant au blessé :
 
 — Voici celle que tu cherches ; celle que j’ai ramassée auprès de toi, à
-  demi-mort.
+  demi‑mort.
 
-— Où sommes-nous ?
+— Où sommes‑nous ?
 
 — En sûreté. Hors de l’atteinte de tes ennemis. Ils ne peuvent rien
-  contre toi. À présent, tais-toi…, dors… ; laisse Marahi achever de
+  contre toi. À présent, tais‑toi…, dors… ; laisse Marahi achever de
   vaincre les maléfices de la mort.
 
 Ses yeux noirs se fixent sur ceux du gamin. Elle n’a point répondu
@@ -1061,7 +1061,7 @@ L’enfant que porte l’Indienne le considère de son regard innocent, puis
 lui sourit.
 
 Ce sourire, le premier que Lilian adresse à son sauveur, se reflète sur
-les traits amaigris de Jud, et celui-ci, fermant doucement les paupières,
+les traits amaigris de Jud, et celui‑ci, fermant doucement les paupières,
 s’endort de ce sommeil profond et réparateur de la convalescence.
 
 Quelques jours s’écoulent encore, partagés entre de longs sommeils et de
@@ -1071,7 +1071,7 @@ Enfin, l’Indienne le juge assez fort pour supporter les explications
 qu’il désire.
 
 Elle lui dit comment, auprès de son cheval expiré, elle l’a trouvé dans
-la savane, inanimé, presque mort lui-même. L’enfant était sortie du
+la savane, inanimé, presque mort lui‑même. L’enfant était sortie du
 pesant sommeil de l’opium. Ses cris avaient attiré Marahi. Et Jud
 regarde tendrement la mignonne, murmurant :
 
@@ -1093,9 +1093,9 @@ combat, il se défend. Des mots, toujours les mêmes, reviennent sans cesse
 Puis un peone de l’hacienda de Agua Frida est arrivé au campement. Il
 raconte une scène horrible.
 
-Pariset devenu fou, tuant la servante Trina, se tuant lui-même, et
+Pariset devenu fou, tuant la servante Trina, se tuant lui‑même, et
 l’enfant, la petite Lilian disparue. On la cherche partout, sur l’ordre
-du généreux Frey Jemkins, le grand négociant de San-Francisco, le cousin
+du généreux Frey Jemkins, le grand négociant de San‑Francisco, le cousin
 dévoué de la veuve, arrivé trop tard pour prévenir l’épouvantable drame.
 
 Marahi connaît Frey sans aucun doute, car elle a caché au peone la
@@ -1126,13 +1126,13 @@ depuis, ont hanté le cerveau de Jud Allan :
 
 — Oui, oui, tu es vif, impatient comme il convient à ceux de ta race ;
   mais je ne permettrai pas que tu entraînes dans l’abîme celle que tu as
-  miraculeusement sauvée. Pars pour San-Francisco ; observe…; tu
+  miraculeusement sauvée. Pars pour San‑Francisco ; observe…; tu
   reviendras ensuite. Si tu crois encore au succès, je ne m’opposerai
   plus à tes desseins. Va, brave enfant, la pauvre Indienne souhaite ton
   bonheur.
 
 En effet, guidé par des hommes rouges, Jud gagne la frontière des
-États-Unis. Ils se rend San-Francisco.
+États‑Unis. Ils se rend San‑Francisco.
 
 Là, il comprend que sa voix ne sera pas entendue si elle s’élève contre
 Frey Jemkins. Qui donc ajoutera foi à ses récits? Qui consentira à croire
@@ -1152,16 +1152,16 @@ l’excellent parent, recueillant chez lui sa cousine démente, incapable de
 comprendre ses bontés, restant inerte et stupide de son dramatique
 veuvage.
 
-Et puis, le riche directeur du All Frisco’s Hall ne promettait-il pas des
+Et puis, le riche directeur du All Frisco’s Hall ne promettait‑il pas des
 sommes énormes aux agents libres ou détectives assermentés, qui
 retrouveraient la trace de la petite Lilian, dont la disparition
 demeurait un mystère ?
 
 Bien plus, à la suite d’une rapide enquête menée dans le pays du crime,
-est-ce que Jemkins n’avait pas relevé la présence d’un jeune vaurien, du
-nom de Jud, récemment évadé de la prison d’Alb-Point.
+est‑ce que Jemkins n’avait pas relevé la présence d’un jeune vaurien, du
+nom de Jud, récemment évadé de la prison d’Alb‑Point.
 
-Ce jeune drôle était-il mêlé à la tragédie ? On ne le savait. Mais comme
+Ce jeune drôle était‑il mêlé à la tragédie ? On ne le savait. Mais comme
 l’avait dit le négociant :
 
 — Quand un louvard (jeune loup) est signalé dans un district, il est bon
@@ -1187,11 +1187,11 @@ Or, pour vivre, pour échapper à la nuée de policiers que la générosité de
 Frey Jemkins avait mis en mouvement, il importait de se blottir dans une
 retraite impénétrable.
 
-Aussi, quittant San-Francisco, Jud regagna la Sonora. L’Indienne Marahi
+Aussi, quittant San‑Francisco, Jud regagna la Sonora. L’Indienne Marahi
 sembla ravie de la façon dont il envisageait les choses.
 
-— Nos montagnes de Sonora sont abris sûr pour des fugitifs, lui dit-elle.
-  Reste avec ta petite compagne parmi mes frères rouges. Ceux-là ne te
+— Nos montagnes de Sonora sont abris sûr pour des fugitifs, lui dit‑elle.
+  Reste avec ta petite compagne parmi mes frères rouges. Ceux‑là ne te
   trahiront pas.
 
 Et comme il murmurait rageusement :
@@ -1201,7 +1201,7 @@ Et comme il murmurait rageusement :
 Marahi répliqua d’un ton étrange, presque prophétique, dont il se sentit
 singulièrement troublé :
 
-— Le chasseur malheureux songe que le lendemain sera peut-être plus
+— Le chasseur malheureux songe que le lendemain sera peut‑être plus
   fortuné.
 
 Bref, Jud reste dans la tribu qui lui a donné asile. Marahi est retournée
@@ -1211,7 +1211,7 @@ femme au visage impénétrable, à la parole mesurée, ressent pour ces deux
 abandonnés une tendresse inexplicable.
 
 Cependant les années s’écoulent. Les sorciers de la tribu s’attachent à
-apprendre au gamin tout ce qu’ils savent eux-mêmes.
+apprendre au gamin tout ce qu’ils savent eux‑mêmes.
 
 Jud est devenu un habile suiveur de pistes, un chasseur adroit. Il sait
 dissimuler sa marche, imiter les mille bruits du désert. Il connaît les
@@ -1227,7 +1227,7 @@ découvreurs du Nouveau Monde deux mille ans avant Christophe Colomb.
 
 Lilian va avoir huit ans.
 
-Son pseudo-frère la voudrait instruire. Ce n’est point seulement le corps
+Son pseudo‑frère la voudrait instruire. Ce n’est point seulement le corps
 de la fillette qui doit grandir et vivre, mais aussi son esprit.
 
 Qu’elle reprenne son rang, par suite d’un concours de circonstances
@@ -1243,8 +1243,8 @@ l’Indienne, Marahi l’approuve :
   désarmera jamais. L’ennemi, c’est Frey Jemkins, c’est l’assassin que
   ses acolytes nommaient le Crâne.
 
-Un dernier voyage à San-Francisco montre au jeune homme, — il a dix-neuf
-ans maintenant, — son ennemi plus puissant que jamais.
+Un dernier voyage à San‑Francisco montre au jeune homme, ‑ il a dix‑neuf
+ans maintenant, ‑ son ennemi plus puissant que jamais.
 
 ![Les sorciers de la tribu lui apprennent tout ce qu’ils savent](../3-images/part1/page-248.jpg
 "Les sorciers de la tribu lui apprennent tout ce qu’ils savent")
@@ -1256,7 +1256,7 @@ Autour de lui gravitent, sinistres satellites, les hommes qui naguère
 assistèrent au crime de l’hacienda de Agua Frida.
 
 Jetty est le principal propriétaire des mines du Colorado ; Van Reek
-figure parmi les administrateurs du trust des chemins de fer ; Kan-So,
+figure parmi les administrateurs du trust des chemins de fer ; Kan‑So,
 Chinois naturalisé Américain, domine l’industrie métallurgique, et Tom,
 qui maintenant soigne sa mise, préside l’association des pétroliers.
 
@@ -1273,7 +1273,7 @@ malheureux Jud. Il a deviné, dans sa maturité précoce née de la douleur,
 que la reconnaissance de la jeunesse est complète seulement quand elle
 s’accompagne de respect.
 
-Pour que Lilian le respecte, au jour où elle apprendra peut-être la
+Pour que Lilian le respecte, au jour où elle apprendra peut‑être la
 vérité, il ne faut pas qu’elle voie en lui un inférieur dévoué, mais un
 égal de savoir, d’intelligence, d’éducation.
 
@@ -1288,10 +1288,10 @@ cesse renaissants.
 Un agent de Frey Jemkins évente la retraite des fugitifs. Jud, dans un
 combat sans merci, le tue et fuit Cincinnati.
 
-À la Nouvelle-Orléans, aventure semblable.
+À la Nouvelle‑Orléans, aventure semblable.
 
 Alors, Jud prend le parti de vivre seul. Lilian est mise en pension en
-Floride ; il réside à New-York, lui, ne paraissant aux yeux de sa
+Floride ; il réside à New‑York, lui, ne paraissant aux yeux de sa
 protégée qu’à de rares intervalles.
 
 Maintenant, une souffrance s’est ajoutée à toutes les autres. Il comprend
@@ -1299,12 +1299,12 @@ qu’il aime celle qu’il appelle sa sœur. Il faut qu’elle ait d’autres
 protecteurs que lui.
 
 Au concours, il a obtenu le titre de professeur à l’école militaire de
-West-Point… Il peut ainsi aborder M. Loosevelt, lui confier sa triste
+West‑Point… Il peut ainsi aborder M. Loosevelt, lui confier sa triste
 histoire.
 
 Sur ces entrefaites, le bruit commence à se répandre discrètement qu’une
 agence européenne aurait trouvé une piste sérieuse, que l’on espère voir
-aboutir à la pauvre mignonne, naguère disparue à Agua-Frida.
+aboutir à la pauvre mignonne, naguère disparue à Agua‑Frida.
 
 Frey prépare l’apparition d’une fausse Lilian.
 
@@ -1336,7 +1336,7 @@ Les lignes suivantes étaient de son écriture. Elles contenaient ceci :
 
 > Jamais il ne vous sera assez reconnaissant.
 
-> Pardonnez-lui d’avoir usurpé durant tant d’années ce titre sacré de
+> Pardonnez‑lui d’avoir usurpé durant tant d’années ce titre sacré de
   frère, et songez qu’un _chevalier du ruisseau_, tel que lui, ne
   soupçonnait pas les délicatesses que l’éducation développa trop
   tardivement.
@@ -1349,7 +1349,7 @@ Les lignes suivantes étaient de son écriture. Elles contenaient ceci :
 
 > Jud Allan
 
-Un post-scriptum suivait, réitérant la double recommandation de brûler
+Un post‑scriptum suivait, réitérant la double recommandation de brûler
 le manuscrit et de ne confier à âme qui vive le secret du passé.
 
 Déjà Grace avait enflammé une allumette. Lilian lui arracha les papiers
@@ -1372,7 +1372,7 @@ Au surplus, la rieuse créature éprouvait une joie frissonnante à se voir
 mêlée à des évènements, à quoi son éducation ne la semblait pas
 prédestinée.
 
-Le Crâne, les bandits, ce Jud si brave, et par-dessus tout son amie,
+Le Crâne, les bandits, ce Jud si brave, et par‑dessus tout son amie,
 enfant séparée de sa famille, héritière dépouillée de ses richesses, lui
 apparaissaient comme des personnages de légende.
 
@@ -1386,7 +1386,7 @@ inquiète, incessante, dévouée, s’était sans trêve interposée entre elle
 et ses cruels ennemis.
 
 Elle admirait l’énergie de l’être qui, de chevalier vagabond, s’était
-élevé au rang des instructeurs de West-Point, des familiers de la
+élevé au rang des instructeurs de West‑Point, des familiers de la
 Présidence.
 
 Et de douces larmes coulaient de ses yeux, en songeant avec quelle
@@ -1397,13 +1397,13 @@ brutal de mourir pour elle.
 Deux coups discrets résonnèrent sur le bois de la porte.
 
 Avant que les deux amies, tirées brusquement de leur rêverie, fussent
-devenues assez maîtresses d’elles-mêmes pour répondre, le battant tourna
+devenues assez maîtresses d’elles‑mêmes pour répondre, le battant tourna
 sur ses gonds et une servante parut, tenant à la main une théière aussi
 volumineuse qu’un coquemar.
 
 — Margaret, firent les jeunes filles d’une voix blanche.
 
-La servante, âgée de vingt-cinq ans environ, assez lourde de formes, la
+La servante, âgée de vingt‑cinq ans environ, assez lourde de formes, la
 face large mais rosée, avec des yeux un peu niais, jolie néanmoins,
 esquissa une révérence soumise.
 
@@ -1496,12 +1496,12 @@ Une heure !
 
 Grace se retourne violemment sur sa couchette de pensionnaire. Cela
 devient ridicule à la fin de passer une nuit blanche pour découvrir
-l’explication cherchée. Est-ce qu’il n’est pas plus raisonnable
+l’explication cherchée. Est‑ce qu’il n’est pas plus raisonnable
 d’attendre la première visite de Jud Allan ?
 
 Lilian l’interrogera alors… Il répondra forcement… On saura sans peine ce
 que l’on s’évertue vainement à deviner… Mais brusquement, Grace cessa de
-discuter avec elle-même. Un bruit insolite vient d’attirer son attention.
+discuter avec elle‑même. Un bruit insolite vient d’attirer son attention.
 
 On croirait que l’on marche dans le couloir. Oh ! avec des précautions
 énormes ; seulement le plancher craque parfois. Le long de la cloison, il
@@ -1514,7 +1514,7 @@ leur marche.
 
 Si c’étaient des voleurs !
 
-L’idée lui vient tout naturellement. Toute la soirée n’a-t-elle pas vécu
+L’idée lui vient tout naturellement. Toute la soirée n’a‑t‑elle pas vécu
 dans un rêve de brigandage ? Grace Paterson se lève, passe un peignoir,
 chausse des mules légères.
 
@@ -1541,7 +1541,7 @@ C’est un organe féminin qui répond :
 — Non, pas de sang. ll importe avant tout de ne laisser aucune trace
   compromettante.
 
-— Qu’en ferons-nous en ce cas? Elle nous gênera.
+— Qu’en ferons‑nous en ce cas? Elle nous gênera.
 
 — Allons, allons, mon brave ami, ne vous irritez pas. Cette fillette
   remplira les fonctions de confidente ; fonction utile, car on
@@ -1554,7 +1554,7 @@ insensibilité que produit le chloroforme.
 Alors ceux qui l’ont saisie enlèvent l’étoffe dont sa tête est entourée.
 Si elle pouvait voir, elle constaterait qu’elle est au milieu de
 plusieurs personne. Des hommes, dont certains portent le costume des
-camionneurs, et deux femmes, la chinoise Rouge-Fleur, et la servante
+camionneurs, et deux femmes, la chinoise Rouge‑Fleur, et la servante
 Margaret.
 
 Une lanterne sourde éclaire la scène. À sa lueur, tous, tous pénètrent dans
@@ -1565,7 +1565,7 @@ Chinoise et Margaret soulèvent doucement Lilian et la font glisser dans
 la manne, dont elles rabattent le couvercle. Elle dort également,
 Lilian ! Elle n’a pas un mouvement. On la croirait morte.
 
-Rouge-Fleur paraît satisfaite. Elle tend la main vers la servante qui
+Rouge‑Fleur paraît satisfaite. Elle tend la main vers la servante qui
 avance la sienne. Un tintement d’or se fait entendre.
 
 Sur un appel, les camionneurs entrent à leur tour. Deux d’entre eux
@@ -1573,7 +1573,7 @@ chargent la manne sur leurs épaules. D’autres portent Grace. Les portes
 sont refermées, et le cortège se met en marche avec d’infines
 précautions.
 
-Ce même-soir, Jemkins, très taciturne depuis l’aventure du Sénat, s’était
+Ce même‑soir, Jemkins, très taciturne depuis l’aventure du Sénat, s’était
 enfermé dans son cabinet de travail, pièce spacieuse aux tentures
 sombres.
 
@@ -1588,7 +1588,7 @@ chargé de tenir à jour lesdits tableaux.
 Les couleurs indiquent la situation du papier dans chaque entreprise,  et
 aussi la situation des relations du milliardaire avec l’administration.
 
-Derrière le bureau, un tableau de sans-fil, lequel par l’intermédiaire
+Derrière le bureau, un tableau de sans‑fil, lequel par l’intermédiaire
 d’une antenne ad hoc, fichées sur le toit de l’hôtel, permet à Jemkins de
 communiquer directement avec ses agents, sans avoir à passer par les
 fourches caudines de la télégraphie officielle.
@@ -1600,35 +1600,35 @@ Frey s’approcha de ce dernier tableau et appuya sur quatre manettes. À
 faible intervalle, quatre sonneries répondaient à son appel.
 
 Alors, il marcha vers l’angle de la cheminée monumentale qui se dressait
-à côté du tableau sans-fil et appuya sur une des moulures.
+à côté du tableau sans‑fil et appuya sur une des moulures.
 
 Le bureau et le disque planchéié qui le portait se mirent en mouvement
 autour d’un invisible pivot à la façon des plaques tournantes de chemins
-de fer, démasquant une ouverture semi-circulaire et les premières marches
+de fer, démasquant une ouverture semi‑circulaire et les premières marches
 d’un escalier semblant s’enfoncer dans les entrailles de la terre.
 
 Jemkins mit le pied sur la marche supérieure et descendit lentement.
 
-Quand sa tête elle-même eut disparu, la rosace reprit sa place. Sans
+Quand sa tête elle‑même eut disparu, la rosace reprit sa place. Sans
 doute un second ressort permettait de remettre les choses en l’état.
 
 Au bas de l’escalier, Frey se trouva dans une petite pièce carrée, percée
 d’une seule porte se découpant dans le mur à l’opposite des degrés. Une 
 ampoule électrique qu’il venait d’actionner éclairait ce réduit.
 
-— Ah ! Ah ! fit-il entre haut et bas. Ceci, les coquins qui haïssent
+— Ah ! Ah ! fit‑il entre haut et bas. Ceci, les coquins qui haïssent
   Jemkins, ne le soupçonnent pas. On peut savoir que le _business man_
   que je suis, a acheté tout le _square_ de maisons attenantes à mon
   hôtel et les loue fort cher. Oui, on peut savoir cela, mais qui
   devinera que la spéculation, n’était point ma seule pensée ? Tandis
-  que des espions guettent peut-être son hôtel, à l’angle de Pensylvania
+  que des espions guettent peut‑être son hôtel, à l’angle de Pensylvania
   Avenue et de la rue de la Bibliothèque du Congrès, Jemkins se glisse
   sous terre, et il tiendra conseil, à l’autre extrémité du square, dans
   cette coquette demeure, dont les portes aux marteaux de cuivre
-  s’ouvrent sur la Rue N. E n°3 et sur À Street S. E. [^1-13-3]
+  s’ouvrent sur la Rue N. E n°3 et sur À Street S. E. [^1‑13‑3]
 
 Il ouvre la porte faisant face à l’escalier, par lequel il est descendu
-dans le sous-sol. Une galerie se présente devant lui. Il s’y engage.
+dans le sous‑sol. Une galerie se présente devant lui. Il s’y engage.
 
 De loin en loin un bouton électrique, qu’il actionne au passage,
 détermine l’allumage d’ampoules éclairant le chemin mystérieux.
@@ -1637,7 +1637,7 @@ Enfin, il parvient devant une muraille. Il semble que le couloir se
 termine en impasse.
 
 Mais Frey pose sa main sur une pierre qu’il connaît bien, car il ne
-marque aucune hésitation, et c’est un pan du mur qui pivote sur lui-même.
+marque aucune hésitation, et c’est un pan du mur qui pivote sur lui‑même.
 Frey à présent pénètre dans une cave.
 
 Des tonneaux, des casiers de fer où s’alignent des bouteilles couchées,
@@ -1646,7 +1646,7 @@ une lourde porte aux ferrures rouillées, gravit un escalier de pierre et
 parvient dans un vestibule garni de patères de bronze, auxquelles sont
 suspendus plusieurs manteaux et chapeaux.
 
-— Quatre, dit-il, tout mon monde est arrivé.
+— Quatre, dit‑il, tout mon monde est arrivé.
 
 Il va vers une large baie, dont les doubles battants entr’ouverts
 laissent passer un rais de lumière avec un murmure de voix prudemment
@@ -1659,7 +1659,7 @@ Et les quatre personnages, qui discouraient autour d’une table de
 précieuse marqueterie, se lèvent avec respect.
 
 Si Jud Allan pouvait les voir, il reconnaîtrait sans peine Jetty, Tom,
-Van Reek et Kan-So.
+Van Reek et Kan‑So.
 
 Les anciens bandits de Agua Frida ont changé d’allure. L’âge a jeté ses
 fils gris dans leur chevelure, a épaissi leur torse. La fortune leur a
@@ -1676,8 +1676,8 @@ lieutenants, le Crâne les salue de la tête, serre les mains respectueuses
 tendues vers lui, puis, prenant une chaise libre, il s’assied, invite les
 assistants à l’imiter.
 
-— Mes garçons, dit-il, il y a trente ans, les bandits infestaient l’État
-  de San-Fransico, la police se montrait impuissante à réprimer leurs
+— Mes garçons, dit‑il, il y a trente ans, les bandits infestaient l’État
+  de San‑Fransico, la police se montrait impuissante à réprimer leurs
   rapines. Je me dis : On se distingue plus aisément parmi les faibles
   que parmi les forts, et  j’entrai dans la police à cheval que l’on
   venait de créer.
@@ -1714,8 +1714,8 @@ Tous répondirent avec ensemble :
 
 — Ordonnez, Crâne.
 
-— Vous êtes tous au courant des violents incidents anti-japonais dont
-  l’État de San-Francisco a été le théâtre.
+— Vous êtes tous au courant des violents incidents anti‑japonais dont
+  l’État de San‑Francisco a été le théâtre.
 
 — Il faudrait être sourd et aveugle pour les ignorer, grommela Jetty. Les
   écoles interdites aux Japonais, leurs boutiques pillées, leurs
@@ -1726,7 +1726,7 @@ Tous répondirent avec ensemble :
 
 — Bon, c’est la guerre dans un avenir plus ou moins prochain.
 
-— Savez-vous ce qui recule cette échéance belliqueuse ?
+— Savez‑vous ce qui recule cette échéance belliqueuse ?
 
 — Ma foi non.
 
@@ -1771,11 +1771,11 @@ dogmatique :
 — Qu’au contraire, des Japonais acquièrent un territoire sur la côte
   américaine, la situation se retourne. C’est eux qui forcent les
   escadres de l’Union à demeurer dans cette région. Et les archipels
-  Hawaï, des Philippines, virtuellement séparés des États-Unis, tombent
+  Hawaï, des Philippines, virtuellement séparés des États‑Unis, tombent
   fatalement en leur pouvoir, ce qui, au point de vue de la domination
   maritime de l’Océan Pacifique constitue une victoire de premier ordre.
   Vous comprenez, mes amis, que si je possédais des propriétés en Chine,
-  reprit Jemkins, mon patriotisme, — il eut un rire cynique, — me
+  reprit Jemkins, mon patriotisme, ‑ il eut un rire cynique, ‑ me
   pousserait à en favoriser nos compatriotes américains. Seulement, je
   n’en ai pas, et j’en possède au contraire, indirectement il est vrai,
   sur la côte mexicaine, dans cette presqu’île de Californie que vous
@@ -1789,11 +1789,11 @@ Ils opinèrent de la tête.
 L’auditoire marqua un frémissement anxieux. Si perdus que fussent les
 bandits, la désinvolture de leur chef leur causait un malaise. Ils
 devinaient que l’affaire annoncée était tout simplement une trahison
-contre les États-Unis.
+contre les États‑Unis.
 
 — Vous savez la situation du propriétaire de l’hacienda de Agua Frida. La
   propriété, à titre de colonisation, lui a été reconnue _totale_,
-  c’est-à-dire que, de même que les anciens chefs féodaux d’Europe, qui
+  c’est‑à‑dire que, de même que les anciens chefs féodaux d’Europe, qui
   commandaient les _marches_ ou frontières des États, les Pariset sont
   tenus, en cas de conflit du Mexique avec une autre puissance, de
   coopérer à la défense du sol ; mais en temps de paix, sous la seule
@@ -1803,7 +1803,7 @@ contre les États-Unis.
   dépendance des maîtres de Agua Frida. En réalité, les Pariset,
   détenteurs d’un territoire plus étendu que celui de la Belgique,
   peuvent donc agir, sous la condition de l’impôt, comme de véritables
-  souverains indépendants,… que dis-je, bien plus librement que des
+  souverains indépendants,… que dis‑je, bien plus librement que des
   souverains, car ils ont la liberté de simples citoyens, lesquels ne
   sont tenus à aucune consultation ou approbation des cours étrangères.
   Eh bien, j’ai négocié l’affaire, mes braves garçons. Deux choses
@@ -1811,12 +1811,12 @@ contre les États-Unis.
 
 1. Que le gouvernement japonais _parût_ dans la transaction ;
 
-2. Que j’y _parusse moi-même_, ce qui aurait, à un moment donné, mis
+2. Que j’y _parusse moi‑même_, ce qui aurait, à un moment donné, mis
    à découvert notre association.
 
 Une société civile japonaise, derrière laquelle se voile le gouvernement,
 s’est constituée. Elle signera une location à bail de Agua Frida pour une
-durée de quatre-vingt-dix-neuf années, au prix à forfait de trois cents
+durée de quatre‑vingt‑dix‑neuf années, au prix à forfait de trois cents
 millions.
 
 — Trois cents millions, répétèrent les bandits, oubliant tout à l’énoncé
@@ -1826,15 +1826,15 @@ millions.
   échéances, durant l’année qui suivra la signature du bail, et qui, quoi
   qu’il arrive par la suite, demeureront acquis au vendeur.
 
-— Admirable, clama Kan-So enthousiasmé ! Admirable en vérité.
+— Admirable, clama Kan‑So enthousiasmé ! Admirable en vérité.
 
 Frey l’invita au calme d’un geste de la main.
 
 — La dite société japonaise créera un port, fortifiera la côte, comme
-  elle l’entendra. Cela nous est indifférent, n’est-ce pas ?
-  Occupons-nous des trois cents millions, beaucoup plus intéressants pour
+  elle l’entendra. Cela nous est indifférent, n’est‑ce pas ?
+  Occupons‑nous des trois cents millions, beaucoup plus intéressants pour
   nous.  
-  Mes huit lieutenants et moi-même, soit neuf personnes, les partageront
+  Mes huit lieutenants et moi‑même, soit neuf personnes, les partageront
   par parts égales.
 
 — Hurrah pour le Crâne, rugirent les assistants, électrisés par la
@@ -1842,8 +1842,8 @@ Frey l’invita au calme d’un geste de la main.
 
 — Bien ! Bien ! Je suis satisfait de constater que vous l’êtes, mes amis.
   Ce fut toujours mon plus cher désir… Mais je poursuis : Le partage
-  donne à chacun de nous un capital de trente-trois millions, trois cent
-  trente-trois mille, trois cent trente-trois francs, ce qui, placé
+  donne à chacun de nous un capital de trente‑trois millions, trois cent
+  trente‑trois mille, trois cent trente‑trois francs, ce qui, placé
   seulement à trois pour cent, et il faut être bien maladroit pour ne pas
   obtenir un taux plus avantageux,  assure deux cent mille dollars , ou
   un million de francs de revenu. Avec cela et les quelques économies que
@@ -1856,7 +1856,7 @@ Frey l’invita au calme d’un geste de la main.
 — Je préférerais Paris, fit courtoisement Jemkins, mais les goûts sont
   libres.
 
-— Moi, je passerai au Brésil, susurra Kan-So ; un homme bien pourvu de
+— Moi, je passerai au Brésil, susurra Kan‑So ; un homme bien pourvu de
   capitaux peut leur faire rendre vingt pour cent dans ce pays fortuné.
 
 Jetty et Tom gardèrent le silence. Sans doute, ils hésitaient sur le
@@ -1865,7 +1865,7 @@ choix d’une résidence.
 Le Crâne accorda quelques instants à l’expression de la joie de ses
 complices. Puis, d’un mot, il ramena toute leur attention à lui :
 
-— La seconde partie de l’affaire, dit-il tranquillement, a été réglée, je
+— La seconde partie de l’affaire, dit‑il tranquillement, a été réglée, je
   crois, de façon tout aussi satisfaisante.
 
 Et souriant :
@@ -1873,7 +1873,7 @@ Et souriant :
 — C’est ici que vous allez comprendre ce qui s’est passé récemment en
   Europe. Vous vous êtes demandé pourquoi je retrouvais ma cousine
   Lilian, pourquoi tous ses prétendants furent victimes d’accidents
-  terribles, tous sauf un. Celui-là, je l’avais choisi pour gendre, parce
+  terribles, tous sauf un. Celui‑là, je l’avais choisi pour gendre, parce
   qu’il n’avait en France aucune attache de nature à le retenir, et que
   d’autre part, il n’était pas inféodé aux Japonais, lesquels ont essayé
   de me « rouler » en mettant le capitaine Anoru sur les rangs.
@@ -1891,7 +1891,7 @@ de faire la lumière.
   qui, ayant été riches, sont tombés dans la misère. Enfin et surtout,
   parce que ce joli marquis est un modèle de naïve chevalerie.
 
-— Qu’est-ce que la chevalerie vient faire là dedans ? grommelèrent les
+— Qu’est‑ce que la chevalerie vient faire là dedans ? grommelèrent les
   assistants.
 
 — Elle nous assure un bouc émissaires, vieux garçons.
@@ -1915,7 +1915,7 @@ de faire la lumière.
 ![Eh bien, il existe quelqu’un qui veut ruiner ce plan](../3-images/part1/page-262.jpg
 "Eh bien, il existe quelqu’un qui veut ruiner ce plan")
 
-— Ah ! s’écria Kan-So, ceci est génial. Le mari de miss Linérès, ou
+— Ah ! s’écria Kan‑So, ceci est génial. Le mari de miss Linérès, ou
   Lilian, Pariset, traite avec le Japon. Il en a toute la
   responsabilité ; il est vilipendé, condamné au supplice des traîtres
   s’il est pris.
@@ -1935,7 +1935,7 @@ Et comme tous le considéraient avec stupeur, immobiles, pétrifiés par
 l’angoisse de la cupidité déçue, il prononça négligemment :
 
 — Pour que je puisse utiliser les signatures de Chazelet, il faut non
-  seulement qu’il ait épousé ma petite cousine, mais encore que celle-ci
+  seulement qu’il ait épousé ma petite cousine, mais encore que celle‑ci
   ait été reconnue administrativement comme héritière des Pariset.
 
 — Eh bien, cela se fera.
@@ -1953,13 +1953,13 @@ Exclamation qui en disait plus long que maint discours.
 — _All right !_ continua Jemkins. Je n’ai rien à vous apprendre, à ce que
   je vois. Tant mieux, il y aura économie de temps. Donc, nous avons un
   ennemi inconnu qui s’oppose à l’envoi en possession d’héritage de
-  Linérès. Quel est-il ? Je l’ignore. Rien ne l’a trahi. Pourtant il faut
+  Linérès. Quel est‑il ? Je l’ignore. Rien ne l’a trahi. Pourtant il faut
   le découvrir et le réduire à l’impuissance, sans cela, adieu le
   succès ; adieu la tranquillité au sein des millions.
 
 Puis lentement :
 
-— Comment avez-vous appris… ?
+— Comment avez‑vous appris… ?
 
 Tous répondirent en même temps :
 
@@ -1979,14 +1979,14 @@ Tous répondirent en même temps :
 
 — Oui, oui. Cela est bien pensé.
 
-— Reste le Sénat, le groupe qui a assisté à la scène. Ceux-là, il
-  convient de les distraire. Kan-So, c’est à vous que ce discours
-  s’adresse. Sous quarante-huit heures, _l’Oil Bank_ de Pittsburg,
-  — la banque du Pétrole comme vous savez — expédiera, à la _Central
-  Bank_ de New-York, dix-sept cents kilogrammes d’or en barre… C’est la
+— Reste le Sénat, le groupe qui a assisté à la scène. Ceux‑là, il
+  convient de les distraire. Kan‑So, c’est à vous que ce discours
+  s’adresse. Sous quarante‑huit heures, _l’Oil Bank_ de Pittsburg,
+  ‑ la banque du Pétrole comme vous savez ‑ expédiera, à la _Central
+  Bank_ de New‑York, dix‑sept cents kilogrammes d’or en barre… C’est la
   production de deux années de nos mines d’or de Agua Frida, avec
   laquelle nous avons acheté, comme trust du pétrole, les derniers stocks
-  disponibles de _l’Oil lmited C°_. Il faut, Kan-So, que vous enleviez
+  disponibles de _l’Oil lmited C°_. Il faut, Kan‑So, que vous enleviez
   cet or. L’événement fera du bruit et nous sera excessivement
   profitable, d’abord parce qu’il lancera l’opinion publique sur une
   nouvelle piste ; ensuite, parce que nous rentrerons dans notre or, tout
@@ -2003,18 +2003,18 @@ grave. Il se tourna vers le Belge Van Reek :
   enclin à s’immiscer dans les affaires d’autrui. Donc, Foorberg, notre
   délégué dans l’Europe centrale, m’a avisé que le Consortium des
   marchands de pierres précieuses d’Amsterdam expédie au Syndicat des
-  joailliers new-yorkais un lot de gemmes, évalué à deux ou trois
+  joailliers new‑yorkais un lot de gemmes, évalué à deux ou trois
   millions de dollars. Le lot se compose de sept cent quarante brillants,
   plus un nombre respectable de saphirs, turquoises, rubis, opales, etc…
 
-— Quand dois-je partir pour New-York, Crâne ?
+— Quand dois‑je partir pour New‑York, Crâne ?
 
 — Le plus tôt sera le mieux, car il faut éviter qu’une corrélation
   quelconque puisse être établie, entre l’arrivée d’un personnage de
   votre importance et celle des chargés d’affaires des courtiers de
   diamants hollandais. Or, le bateau allemand, le _Kaiser Wilhem_, qui
   transporte le trésor, m’a été signalé ce matin à l’escale de Cherbourg.
-  Il sera à New-York dans six jours.
+  Il sera à New‑York dans six jours.
 
 — Je m’y rendrai donc dès demain. Prétexte officiel : les expropriations
   de terrains le long d’East River.
@@ -2023,15 +2023,15 @@ Jemkins hocha la tête d’un air approbateur, et secouant la main de son
 subordonné :
 
 — Voilà qui est tout à fait bien ; Van Reek, je m’en rapporte à vous.
-  Kan-So pour les barres d’or ; vous, pour les diamants ;… les
+  Kan‑So pour les barres d’or ; vous, pour les diamants ;… les
   clabaudages publics auront de quoi se donner carrière, et les gens les
   plus obstinés dans leurs souvenirs devront renoncer à exploiter
   l’aventure du Sénat.
 
 Puis lentement, il énuméra :
 
-— Donc, résumons-nous. Cette nuit même, visite aux journaux et _marché du
-  silence_, ajouta-t-il cyniquement. Demain, Kan-So prend le train pour
+— Donc, résumons‑nous. Cette nuit même, visite aux journaux et _marché du
+  silence_, ajouta‑t‑il cyniquement. Demain, Kan‑So prend le train pour
   les barres d’or ; Van Reek, pour les bijoux. Mais tout ceci n’est
   qu’une riposte. Il importe en outre de découvrir et de réduire à
   l’impuissance celui qui nous a attaqués.
@@ -2048,7 +2048,7 @@ Et les deux interpellés l’interrogeant du regard.
 
 Les yeux du milliardaire lançaient des regards rouges.
 
-— Séparons-nous, chers vieux garçons, et de l’activité. Nous travaillons
+— Séparons‑nous, chers vieux garçons, et de l’activité. Nous travaillons
   à cette heure pour nous assurer une retraite dorée.
 
 On se serra les mains. Un à un, les lieutenants de la terrible
@@ -2071,7 +2071,7 @@ Avec soin il tourna les boutons électriques. L’obscurité se fit autour de
 lui. Mais les aîtres lui étaient admirablement connus. Malgré l’ombre, il
 se dirigea sans hésitation, atteignit la porte accédant à la cave, puis,
 par le couloir souterrain, il regagna le cabinet de travail de son hôtel
-de Pensylvania-Avenue.
+de Pensylvania‑Avenue.
 
 Un quart d’heure plus tard, il dormait de ce sommeil profond, que les
 philosophes ironistes ont qualifié de sommeil du juste.
@@ -2086,13 +2086,13 @@ Deux camionneurs, une femme élégante, en descendirent.
 
 — La manne d’osier sera déposée ici.
 
-— Allons-y.
+— Allons‑y.
 
 Et tandis que les hommes déchargeaient la manne, naguère emportée de
 l’Institution Deffling, la femme se porta vers l’avant du camion, où deux
 autres personnages se tenaient immobiles sur le siège.
 
-— Vous avez bien compris ? leur dit-elle. Vous vous rendrez au quai du
+— Vous avez bien compris ? leur dit‑elle. Vous vous rendrez au quai du
   Bois.
 
 — Yes. Cela est dans nos cervelles.
@@ -2110,12 +2110,12 @@ chargés du panier d’osier.
 Et la porte se referma, tandis que le camion s’éloignait de son côté,
 roulant pesamment à travers la ville endormie.
 
-[^1-13-1]: Un département français a, en moyenne, une superficie de 6.000 kilomètres
+[^1‑13‑1]: Un département français a, en moyenne, une superficie de 6.000 kilomètres
            carrés.
 
-[^1-13-2]: Sujets du roi, vassaux. Tiré du latin _leudes_ (NDLR, voir [Wikipédia](http://fr.wikipedia.org/wiki/Leude])
+[^1‑13‑2]: Sujets du roi, vassaux. Tiré du latin _leudes_ (NDLR, voir [Wikipédia](http://fr.wikipedia.org/wiki/Leude])
 
-[^1-13-3]: À Washington, les avenues rayonnant autour du Capitole ont des noms,
+[^1‑13‑3]: À Washington, les avenues rayonnant autour du Capitole ont des noms,
            comme Pensylvania avenue. Les autres sont désignées soit par des
            chiffres, soit par des lettres.
 
