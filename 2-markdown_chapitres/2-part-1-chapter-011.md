@@ -148,6 +148,8 @@ Il secoue sa tête puissante, lève la main pour réclamer le silence.
   coupable, car je pense que plus les richesses nous conduisent haut, plus
   elles créent de devoirs, notamment le devoir de l’exemple.
 
+![](../3-images/part1/page-177.jpg)
+
 — Hip ! Hip ! bien pensé ! clament les sénateurs, tandis que les tribunes
   applaudissent.
 
@@ -579,6 +581,8 @@ Sur la pointe des pieds, le Japonais quitte sa cachette.
 
 Il parvient à hauteur de la porte demeurée ouverte. Alors, il se donne un
 air dégagé et passe avec l’allure paisible d’un flâneur.
+
+![](../3-images/part1/page-185.jpg)
 
 Précaution inutile. Le gamin lui tourne le dos, ce qui permet au guetteur
 d’observer à quelle besogne il s’occupe.

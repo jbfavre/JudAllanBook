@@ -123,6 +123,8 @@ Du coup, il sursauta :
 
 La posadera se prit à rire, découvrant des dents blanches.
 
+![Vous la connaissez, balbutia-t-il](../3-images/part1/page-022.jpg "Vous la connaissez, balbutia-t-il")
+
 — Cela n’a rien de surprenant. J’habite le pays depuis… — elle hésita,
   retenue par une inconsciente coquetterie au moment de prononcer un chiffre —
   depuis longtemps, acheva-t-elle enfin.

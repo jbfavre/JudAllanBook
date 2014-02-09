@@ -127,6 +127,9 @@ puis, hochant la tête :
 
 Il eut un mouvement d’épaules impatient.
 
+![Là, là, Olinda la faible, Olinda la diaphane](../3-images/part1/page-004.jpg
+"Là, là, Olinda la faible, Olinda la diaphane")
+
 — Oh ! pas de _lamento_, ami Pierre. Ce genre de musique n’est acceptable que
   sur violoncelle. Il est bon pour les oisifs, mais toi qui vas devenir un
   business man, un Américain agissant, tu dois rythmer ta marche sur celle des
