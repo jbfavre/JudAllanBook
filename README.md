@@ -11,7 +11,7 @@ de numérisation seront prochainement disponibles sur les réseaux P2P.
 
 ## Le livre
 
-« Jud Allan, roi des _lads_ » a été écrit par [Paul d'Ivoi](2)
+« Jud Allan, roi des _lads_ » a été écrit par [Paul d'Ivoi](2)
 en 1909. Il fait partie des [Voyages excentriques](3)
 qui comptent 21 volumes.
 
@@ -114,9 +114,9 @@ d'un trait d'union). Le tiret cadratin est plus large que le trait d'union
 Le tiret cadratin est, entre autre, utilisé en incise. Il est alors
 accompagné d'une espace justifiante à l'extérieur et d'une espace insécable
 à l'intérieur.
-Par exemple, ce — texte d'incise — s'écrit:
+Par exemple, ce — texte d'incise — s'écrit:
 
-    `U+2003``U+2014``U+202F`texte d'incise`U+202F``U+2014``U+2003`
+    `U+00A0``U+2014``U+00A0`texte d'incise`U+00A0``U+2014``U+00A0`
 
 [Tiret sur Wikipédia](4)
 
@@ -130,7 +130,7 @@ numérisée. Dans ce cas, on veillera à ne jamais inclure d'espace.
 La version informatique " ne doit jamais être utilisée.
 
 En ce qui concerne les guillemets imbriqués, on peut parfois les remplacer par de
-l’italique, notamment pour noter un mot d’une langue étrangère. Ainsi, on écrira : « Jud Allan, roi des _lads_ » plutôt que « Jud Allan, roi des “lads” ».
+l’italique, notamment pour noter un mot d’une langue étrangère. Ainsi, on écrira : « Jud Allan, roi des _lads_ » plutôt que « Jud Allan, roi des “lads” ».
 
 Enfin, pour les apostrophes, la version informatique ' doit également 
 être bannie, au profit de ’, code `U+2019`.
@@ -177,8 +177,8 @@ rapidement :
     # French typographic replacement
     sed -i 's/ ?/ ?/g' texte/1-page-*.md
     sed -i 's/ !/ !/g' texte/1-page-*.md
-    sed -i 's/ ;/ ;/g' texte/1-page-*.md
-    sed -i 's/ :/ :/g' texte/1-page-*.md
+    sed -i 's/ ;/ ;/g' texte/1-page-*.md
+    sed -i 's/ :/ :/g' texte/1-page-*.md
     sed -i "s/'/’/g" texte/1-page-*.md
     sed -i 's/‘/’/g' texte/1-page-*.md
     sed -i 's/oe/œ/g' texte/1-page-*.md
@@ -186,13 +186,13 @@ rapidement :
     sed -i 's/\.\.\./…/g' texte/1-page-*.md
     sed -i 's/?\.\./?…/g' texte/1-page-*.md
     sed -i 's/!\.\./!…/g' texte/1-page-*.md
-    sed -i 's/« /« /g' texte/1-page-*.md
-    sed -i 's/ »/ »/g' texte/1-page-*.md
-    sed -i 's/Mme /M^me /g' texte/1-page-*.md
-    sed -i 's/Mmes /M^mes /g' texte/1-page-*.md
-    sed -i 's/Mlle /M^lle /g' texte/1-page-*.md
-    sed -i 's/Mlles /M^lles /g' texte/1-page-*.md
-    sed -i 's/M\. /M\. /g' texte/1-page-*.md
+    sed -i 's/« /« /g' texte/1-page-*.md
+    sed -i 's/ »/ »/g' texte/1-page-*.md
+    sed -i 's/Mme /M^me /g' texte/1-page-*.md
+    sed -i 's/Mmes /M^mes /g' texte/1-page-*.md
+    sed -i 's/Mlle /M^lle /g' texte/1-page-*.md
+    sed -i 's/Mlles /M^lles /g' texte/1-page-*.md
+    sed -i 's/M\. /M\. /g' texte/1-page-*.md
     sed -i 's/ A / À /g' texte/1-page-*.md
 
 Attention, n'exécutez ces commandes que sur une page **corrigéé** pour limiter
