@@ -108,15 +108,16 @@ Les dialogues sont précédés d'un tiret cadratin —, code `U+2014` ( et **pas
 d'un trait d'union). Le tiret cadratin est plus large que le trait d'union 
 (ou « tiret du 6 »), code `U+002D`.
 
-    — tiret cadratin
-    - trait d'union
+    — tiret cadratin `U+2014`
+    – tiret d'incise `U+2013`
+    - trait d'union `U+2010`
 
 Le tiret cadratin est, entre autre, utilisé en incise. Il est alors
 accompagné d'une espace justifiante à l'extérieur et d'une espace insécable
 à l'intérieur.
-Par exemple, ce — texte d'incise — s'écrit:
+Par exemple, ce – texte d'incise – s'écrit:
 
-    `U+00A0``U+2014``U+00A0`texte d'incise`U+00A0``U+2014``U+00A0`
+    `U+00A0``U+2013``U+00A0`texte d'incise`U+00A0``U+2013``U+00A0`
 
 [Tiret sur Wikipédia](4)
 
