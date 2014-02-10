@@ -500,7 +500,7 @@ Son interlocuteur lui saisit la main et la porta à ses lèvres.
 — Vengeance ou justice, Roi, c’est la reconnaissance qui nous guide, la
   reconnaissance pour toi.
 
-— Pour l’ami inconnu qui m’a fourni l’or, sans lequl mon rêve ne se fût point
+— Pour l’ami inconnu qui m’a fourni l’or, sans lequel mon rêve ne se fût point
   réalisé.
 
 — Pour lui aussi, oui, cela est équitable. Mais pour toi d’abord.
@@ -636,7 +636,7 @@ Elle fit une légère pause, comme pour triompher d’une dernière hésitation.
   quelqu’un doit mourir pour toi, ce soit Suzan.
 
 Dans la voix de la fillette, il n’y avait pas trace de déclamation. Elle
-parlait avec uns simplicité absolue, exprimant les choses comme elles se
+parlait avec une simplicité absolue, exprimant les choses comme elles se
 présentaient à son esprit.
 
 Jud Allan se sentit touché jusqu’au fond du cœur.
@@ -673,7 +673,7 @@ nuit suivante, Jud quitta alors le syndicat.
 Dans la rue, les hommes aux coiffures de paille et de feutre stationnaient,
 occupés, semblait‑il, à déchiffrer une affiche. Le professeur affecta de ne
 point les voir. Il reprit le chemin de l’hôtel de New‑Villard, et, une fois
-arrivé, après une courte stationau salon de lecture, il remonta dans sa
+arrivé, après une courte station au salon de lecture, il remonta dans sa
 chambre.
 
 Il avait résolu de s’y tenir enfermé jusqu’au moment fixé pour la réunion des

@@ -48,7 +48,7 @@ Il était entré comme les autres. Comme les autres, il avait gardé son chapeau
 claque à la main. De salon en salon, il passait, s’attendant à chaque instant
 à se trouver en face de Frey Jemkins, prêt à soutenir l’entrevue sans broncher.
 
-A plusieurs reprises, Jud l’avait aperçu, pérorant de sa voix puissante et
+À plusieurs reprises, Jud l’avait aperçu, pérorant de sa voix puissante et
 joviale au milieu des groupes. Il avait tenté de le joindre ; mais par une
 série de hasards malheureux, il s’était chaque fois vu arrêter en route, du
 fait de curieux, d’invités, de promeneurs nonchalants devisant de choses
@@ -81,7 +81,7 @@ Sans l’ombre d’une hésitation, Jud serra cordialement les mains du marquis.
 quelques mots, il expliqua son départ brusque de Paris par des affaires
 urgentes.
 
-Puis, à l’aide d’une transition adroite, il en vint a parler de M^lle de
+Puis, à l’aide d’une transition adroite, il en vint a parler de M^lle^ de
 Armencita et demanda s’il ne serait pas admis à lui présenter ses hommages.
 
 Le nom de la jeune fille rembrunit le front de Chazelet.
