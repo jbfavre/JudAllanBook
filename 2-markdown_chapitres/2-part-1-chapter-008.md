@@ -18,13 +18,13 @@ puis il avait essayé de lire, d’écrire.
 impatience.
 
 Son ami Morand lui mandait qu’il ne s’était pas expliqué sa soudaine
-disparition du cercle militaire, et le brave médecin concluait :
+disparition du cercle militaire, et le brave médecin concluait :
 
 > Prends garde, tu m’as l’air de rapporter de ton voyage un amour immodéré de
   l’indépendance. Je t’avertis charitablement, qu’à Paris, ces façons
   d’être te feront juger fou.
 
-> Rappelle cependant ta sagesse en fuite ; cuirasse ton cœur d’un triple
+> Rappelle cependant ta sagesse en fuite ; cuirasse ton cœur d’un triple
   airain afin de te souvenir que, ce soir, je compte te prendre vers cinq
   heures, au sortir de mon service au Val‑de‑Grâce.
 
@@ -42,23 +42,23 @@ disparition du cercle militaire, et le brave médecin concluait :
 
 — Brave Morand, monologua le marquis.
 
-Et glissant distraitement le papier dans sa poche :
+Et glissant distraitement le papier dans sa poche :
 
 — Allan me conseillera. Étonnante, ma confiance en cet homme que je ne
   connaissais pas avant‑hier.
 
-Il eut un sourire navré :
+Il eut un sourire navré :
 
 — C’est fantastique. Tous mes sentiments vont maintenant à des inconnus.
 
-Dans un soupir, il acheva :
+Dans un soupir, il acheva :
 
 — Linérès ! Allan !
 
 Mais d’un geste brusque, comme furieux du désarroi de ses pensées, il
-sonna. Au garçon accouru, il jeta cet ordre :
+sonna. Au garçon accouru, il jeta cet ordre :
 
-— Voyez si M. Allan peut me recevoir.
+— Voyez si M. Allan peut me recevoir.
 
 D’un ton tellement impérieux, que l’employé se précipita au pas gymnastique.
 
@@ -111,7 +111,7 @@ soignes, que tu combats, aucune n’est comparable à celles qui déchirent
 ton pauvre ami Chazelet !
 
 Pierre vient de gémir cela, quand on heurte à sa porte. Instinctivement il
-répond :
+répond :
 
 — Entrez !
 
@@ -128,7 +128,7 @@ veille au soir à l’hôtel de Armencita.
 L’Américain ne semble pas s’apercevoir du trouble du jeune homme. Il entre
 souriant, content de lui. Il prend une chaise, que Pierre ne songe pas à lui
 offrir, s’asseoit, tire un cigare de sa poche, l’allume, puis lançant une
-bouffée bleuâtre vers le plafond :
+bouffée bleuâtre vers le plafond :
 
 — Je gage que vous m’avez pris pour le vieux Nick (le diable). Vous faites
   une figure tout à fait réjouissante.
@@ -174,7 +174,7 @@ délibéré. Frey y répondit néanmoins.
 
 Pierre était devenu fort pâle.
 
-— Je comprends, Monsieur, fit‑il d’une voix tremblante ; elle a en vous un
+— Je comprends, Monsieur, fit‑il d’une voix tremblante ; elle a en vous un
   protecteur suffisant, elle n’a plus besoin d’en avoir d’autre…
 
 Il ne continua point. Jemkins s’était renversé en arrière, faisait
@@ -186,7 +186,7 @@ trembler les vitres d’un formidable éclat de rire.
 
 — Si je suis venu, c’est pour négocier avec vous un engagement.
 
-Du coup, Chazelet ouvrit des yeux énormes :
+Du coup, Chazelet ouvrit des yeux énormes :
 
 — Un engagement ?
 
@@ -199,11 +199,11 @@ Du coup, Chazelet ouvrit des yeux énormes :
   pense aussi comme elle.
 
 Cette fois, le jeune homme sentit le sang affluer à son cerveau, ses yeux
-se troublèrent et, d’une voix déchirante, il clama :
+se troublèrent et, d’une voix déchirante, il clama :
 
 — Par grâce, Monsieur, expliquez‑vous clairement.
 
-— Bon, voilà ! Vous êtes un marquis authentique, _all right_ ; Linérès est
+— Bon, voilà ! Vous êtes un marquis authentique, _all right_ ; Linérès est
 une multimillionnaire très authentique aussi. Faisons affaire. Mettez le
 nom sur les millions.
 
@@ -225,7 +225,7 @@ L’hilarité de l’Américain redoubla.
 — Et tenez, j’ai sur moi des papiers… Signez‑les en blanc, je les remplirai
   par des renonciations en bonne et due forme aux biens de ma cousine.
 
-Et avec rondeur :
+Et avec rondeur :
 
 — Comme cela, ni vous, ni personne ne pourra croire que vous vous êtes vendu.
 
@@ -255,12 +255,12 @@ Après quoi, Jemkins lui secoua vigoureusement la main.
 Le marquis avait joint les mains, exprimant par ce geste sa reconnaissance.
 
 L’oracle de la gitana s’accomplissait de point en point. Chazelet allait se
-diriger vers l’Amérique, après avoir passé par Paris ; il était agréé par
+diriger vers l’Amérique, après avoir passé par Paris ; il était agréé par
 Linérès… L’idylle mystérieuse s’achevait en apothéose.
 
 Et cependant, tandis qu’il cherchait son chapeau, ses gants, Frey Jemkins
 le suivait d’un regard narquois, et il mâchonnait ironiquement, trop bas
-pour que l’intéressé pût l’entendre : 
+pour que l’intéressé pût l’entendre : 
 
 — Il a sauté, le marquis ! J’ai sa signature… Il sera responsable de tout…
   et les millions japonais seront à moi !

@@ -40,7 +40,7 @@ eût aperçu sous le capuchon des yeux noirs d’un éclat fiévreux, des traits
 durs, bronzés, étrangement semblables à ceux de la gitana Ramrah ou de la
 Peau‑Rouge Marahi.
 
-Elle monologuait à mi‑voix :
+Elle monologuait à mi‑voix :
 
 — Oui, oui…, les agents japonais sont aussi fourbes, aussi dangereux que
   le Crâne lui‑même… Mais il m’a ordonné de regagner ma tribu… Trop d’yeux
@@ -57,7 +57,7 @@ Puis son long manteau eut un flottement brusque.
 On eût dit que tout son être s’était raidi dans l’âpreté d’une détermination
 suprême.
 
-Et avec une énergie contenue, elle gronda :
+Et avec une énergie contenue, elle gronda :
 
 — Il le faut. Il _faut_ qu’on les conduise là‑bas… Là‑bas où ma puissance
   peut contrebalancer la sienne.
@@ -83,14 +83,14 @@ minaudière. On la prendrait pour une coquette uniquement préoccupée de
 l’effet admiratif quelle peut produire sur les passants.
 Elle arrive auprès de celle qui l’attend sans doute, car elle s’arrête, fait
 un joli petit salut, menu et manière, puis d’une voix douce, avec une ironie
-indéfinissable :
+indéfinissable :
 
 — Vous le voyez, chère Madame, Rouge‑Fleur (traduction littérale de
 Hiang‑Tchil) s’est empressée de se rendre à votre appel. Sans un embarras
 de tramways, j’aurais eu le plaisir d’arriver la première au rendez‑vous, ce
 qui eût été plus convenable, je le déclare.
 
-Son interlocutrice l’a écoutée sans faire un geste. Elle l’interrompt :
+Son interlocutrice l’a écoutée sans faire un geste. Elle l’interrompt :
 
 — Ne nous perdons pas en compliments inutiles. Je te connais, Rouge‑Fleur,
   et je t’aime parce que tu es ennemie de ces gens d’Amérique.
@@ -98,12 +98,12 @@ Son interlocutrice l’a écoutée sans faire un geste. Elle l’interrompt :
 Cela amène un rire perlé sur les lèvres de la jolie Chinoise.
 
 — Oui, oui, bonne mère, je conçois cela. Peau‑Rouge et Peau‑Jaune ont les
-  mêmes adversaires : ces Figures Pâles…
+  mêmes adversaires : ces Figures Pâles…
 
 — Tu parles selon la raison, aimable Rouge‑Fleur. Aussi vais‑je tenir ce
   que t’a promis mon messager.
 
-Et le visage de la jeune femme séclairant, la vieille poursuit :
+Et le visage de la jeune femme séclairant, la vieille poursuit :
 
 — Tu veux le triomphe du Japon, n’est‑ce pas ?
 
@@ -113,7 +113,7 @@ Dans les yeux de Rouge‑Fleur s’allume un éclair cruel.
   l’écrasement de ces barbares blancs qui croient pouvoir parler en maîtres !
 
 Sa compagne hoche la tête d’un air satisfait et doucement, sa voix étant
-à peine un murmure :
+à peine un murmure :
 
 — Frey et ses amis sont pourtant tes alliés.
 
@@ -137,7 +137,7 @@ de colère.
 Toute sa personne formule une anxieuse interrogation.
 
 — J’ai dit non, prononce lentement son interlocutrice. Cependant ce mot
-  dit trop ou trop peu. Aujourd’hui, l’affaire est engagée ; il convient
+  dit trop ou trop peu. Aujourd’hui, l’affaire est engagée ; il convient
   que le _marchand_ subsiste. Seulement, au lieu de commander, il obéira.
 
 — Lui !
@@ -147,9 +147,9 @@ C’est un cri de joie qui jaillit des lèvres de Rouge‑Fleur.
 Il n’y a point de doute. Elle hait celui dont elle parle.
 
 La vieille femme le constate. Sous son capuchon ses yeux brillent, et elle
-reprend :
+reprend :
 
-— Il ne faut pas le brusquer cependant ; mais il convient de le forcer à se
+— Il ne faut pas le brusquer cependant ; mais il convient de le forcer à se
   rendre là‑bas, dans ce pays de la Californie mexicaine…
 
 — Oui, vous avez raison, bonne mère Marahi. Il serait moins puissant
@@ -166,21 +166,21 @@ les ménagères inscrivent les comptes de blanchisseuses.
 Elle le tend à son interlocutrice, qui la considère avec étonnement.
 
 — Lis ceci… C’est le moyen annoncé. Ce livret contient des
-  renseignements ; Frey Jemkins paierait une fortune pour empêcher qu’ils
+  renseignements ; Frey Jemkins paierait une fortune pour empêcher qu’ils
   fussent connus de toi et de ceux qui t’ont remis le soin de leurs intérêts.
 
 Ah ! si le marquis de Chazelet se trouvait‑là, malgré le manteau, malgré
 le capuchon, il reconnaîtrait, à son attitude dominatrice, la gitana de la
 passe de Castille.
 
-Sa voix devenue gutturale s’élève encore :
+Sa voix devenue gutturale s’élève encore :
 
 — Feuillette ce livre avant de nous séparer. Tu comprendras.
 
 Et Rouge‑Fleur tourne les pages.
 
 Ce qu’elle y lit doit la surprendre prodigieusement, car une rougeur
-ardente envahit sont visage, son sein se soulève, et d’un ton haletant :
+ardente envahit sont visage, son sein se soulève, et d’un ton haletant :
 
 — Tout cela est vrai, réel ?
 
@@ -209,7 +209,7 @@ Mais l’interpellée secoue la tête.
 Et la gracieuse Rouge‑Fleur, dominée par son accent, s’éloigne à pas
 lents, pour s’enfoncer bientôt dans l’une des rues aboutissant au quai.
 
-Marahi est seule. Elle pousse un long soupir :
+Marahi est seule. Elle pousse un long soupir :
 
 — Je puis obéir à présent. Je laisse derrière moi la semence de haine.
   Elle regarde vers le haut du canal. Là, le quai est affecté au
@@ -254,7 +254,7 @@ Le personnage qui y est assis, adossé à la façade, et paraît absorbé par la
 lecture d’un livre ouvert sur ses genoux, ne justifie point pareil émoi.
 
 Marahi redevient maîtresse d’elle‑même. Elle a un geste à l’adresse de
-l’inconnu. On croirait qu’elle lui tend les bras ; mais cette apparence doit
+l’inconnu. On croirait qu’elle lui tend les bras ; mais cette apparence doit
 être mensongère, car elle s’éloigne à reculons, se faufile dans les méandres
 du chantier, de façon à tourner, par côté, l’endroit où rêve l’homme.
 
@@ -304,7 +304,7 @@ Il ramasse le papier roulé, le défripe avec précaution.
 
 Un tressaillement le secoue tout entier. Sur la feuille s’étalent des
 caractères d’imprimerie, évidemment découpés dans des journaux, et ces
-caractères forment les lignes suivantes :
+caractères forment les lignes suivantes :
 
 > À Jud Allan.
 
@@ -336,7 +336,7 @@ Le son prolongé de la sirène annonçait maintenant l’approche du steamer,
 lequel, doublant la pointe de Reclaimed Flats, embouqua bientôt le canal
 Washington.
 
-Quelques minutes plus tard, il accostait au wharf de la Septième Rue ;
+Quelques minutes plus tard, il accostait au wharf de la Septième Rue ;
 
 Les passagers se précipitèrent sur la passerelle pour débarquer, les boys,
 commissionnaires assermentés, facteurs des hôtels, s’élancèrent à la
@@ -360,12 +360,12 @@ parements bleu ciel.
 Ils se tenaient de chaque côté de la passerelle, tels des statues, et leurs
 yeux scrutaient la foule des passagers qui se pressaient encore sur le pont.
 
-Soudain, tous deux eurent un mouvement ; avec ensemble ils lancèrent de
-voix tonitruantes :
+Soudain, tous deux eurent un mouvement ; avec ensemble ils lancèrent de
+voix tonitruantes :
 
 — Master Frey Jemkins!
 
-Du pont on leur répondit d’un ton de belle humeur :
+Du pont on leur répondit d’un ton de belle humeur :
 
 — _All right, come along, boys_. (Parfait, venez ici, garçons).
 
@@ -381,9 +381,9 @@ d’Europe, sans un regard à l’adresse de ses compagnons, Pierre de
 Chazelet, Linérès et la comtesse de Armencita, lesquels, leur étant
 inconnus, auraient pu à juste titre exciter leur curiosité.
 
-Frey, avec sa rondeur habituelle, leur débita ce petit discours :
+Frey, avec sa rondeur habituelle, leur débita ce petit discours :
 
-— Bonjour Totham ; bonjour Jacky… Vous avez pris, je pense, les
+— Bonjour Totham ; bonjour Jacky… Vous avez pris, je pense, les
   dispositions pour l’enlèvement des bagages. Ne répondez pas, même par
   signes. Je suis sûr vous avez pris… Vous avez les deux chariots dont
   j’ai câblé le besoin. Ne pas bousculer les colis, un tas de jolies
@@ -392,7 +392,7 @@ Frey, avec sa rondeur habituelle, leur débita ce petit discours :
   Pensylvania, et prendre les ordres de Miss Linérès. C’est compris, je le
   vois. _All right !_… Où est en station ma voiture ?
 
-Celui qu’il avait désigné sous le nom de Totham répliqua :
+Celui qu’il avait désigné sous le nom de Totham répliqua :
 
 — Angle Huitième Rue, chemin le plus court pour _la maison_.
 
@@ -415,7 +415,7 @@ Ah ! Ce dernier mois écoulé avait été pour tous deux un enchantement.
   que cela est.
 
 — Que dirais‑je alors ? murmura le jeune homme. Vous, Linérès, vous
-  pouviez sans présomption rêver les apothéoses ; mais moi, moi, pauvre
+  pouviez sans présomption rêver les apothéoses ; mais moi, moi, pauvre
   gentilhomme parisien, je tremble de me réveiller, je me sens si indigne
   du bonheur inouï venu à moi.
 
@@ -453,7 +453,7 @@ Elle inclina la tète.
 
 — Ah ! vous ne doutez pas de ma volonté.
 
-— Certes non, chère exquise petite chose ; je souhaite seulement vous
+— Certes non, chère exquise petite chose ; je souhaite seulement vous
   préparer à la voir, l’infortunée Lily, de façon à éviter tout geste,
   toute parole, pouvant inquiéter un esprit vacillant.
 
@@ -461,7 +461,7 @@ Elle inclina la tète.
   qu’elles ne tomberont pas en présence de ma mère.
 
 — Et vous serez récompensée, douce fille. Séparée de vous, votre maman a
-  perdu la raison ; elle la retrouvera sûrement auprès de vous.
+  perdu la raison ; elle la retrouvera sûrement auprès de vous.
 
 Mais la voiture s’arrête.
 
@@ -479,7 +479,7 @@ saute à terre. Il tend la main à Linérès interdite.
 — Ici, petite cousine, dit‑il, moi seul puis vous guider.
 
 Et s’inclinant devant Chazelet d’une façon que le jeune homme, peut‑être à
-tort, juge ironique :
+tort, juge ironique :
 
 — C’est la récompense de mes longs efforts… Je vais présenter l’enfant à
   sa mère.
@@ -492,10 +492,10 @@ paroles.
 Le nouveau venu vient de se dresser brusquement au pied de l’escalier vers
 lequel le milliardaire entraînait ses hôtes.
 
-Il barre le passage. Frey fronce les sourcils ; mais l’étranger parle vite,
+Il barre le passage. Frey fronce les sourcils ; mais l’étranger parle vite,
 comme s’il avait conscience de la valeur des minutes du richissime Américain.
 
-— Vous me connaissez : Goldhurst. Très bien… Représentant du trust des
+— Vous me connaissez : Goldhurst. Très bien… Représentant du trust des
   salaisons, Pontpier Gorman, Président.
 
 Le visage de Jemkins se déride quelque peu à l’audition de ce nom, qui
@@ -514,7 +514,7 @@ Son interlocuteur s’empresse de satisfaire sa curiosité.
   trusts, sociétés, compagnies.
 
 Il chante sa gloire avec la brutalité des financiers yankees. Mais il
-s’interrompt, reprend un accent froid :
+s’interrompt, reprend un accent froid :
 
 — Quel intérêt Gorman voit‑il pour moi dans cette affaire ?
 
@@ -528,12 +528,12 @@ Frey réfléchit. Chazelet, Linérès, la comtesse, regardent avec un
 compter au nombre des administrateurs.
 
 Et le marquis murmure même tout bas, comme s’il craignait que ses
-compagnons le pussent entendre :
+compagnons le pussent entendre :
 
 — Est‑ce qu’en Amérique je vais retrouver les choses stupéfiantes, qui
   m’ont poursuivi en Espagne et en France ?
 
-Mais il tressaille. Frey Jemkins réplique à l’envoyé de Pontpier Gorman :
+Mais il tressaille. Frey Jemkins réplique à l’envoyé de Pontpier Gorman :
 
 — Dites à Gorman que c’est entendu. Cinq mille actions libérées, et
   participation à mon gré après étude de la combinaison.
@@ -544,7 +544,7 @@ pressé d’aller rendre compte du résultat de sa mission.
 Pour Jemkins, aussi calme que si rien ne s’était passé, il met le pied sur
 la première marche de l’escalier.
 
-— Venez, petite cousine ; les ennuis d’une grosse situation ; on conduit
+— Venez, petite cousine ; les ennuis d’une grosse situation ; on conduit
   une enfant à sa mère, et l’on est arrêté par une question d’actions… Ne
   leur en veuillez pas trop… C’est à des _actions_ semblables que j’ai dû
   de pouvoir payer les concours, qui me vaudront les _actions de grâces_
@@ -618,16 +618,16 @@ chanson ?
 
 Mais Frey, sans doute, était accoutumé à des scènes semblables, car sans
 manifester la moindre émotion, il savança vers la pauvre insensée et lui
-touchant le bras :
+touchant le bras :
 
 — Lily, fit‑il, chasse tes rêves. Reconnais en moi une réalité, ton cousin
   dévoué.
 
 Une secousse parcourut le corps de la démente. Ses yeux se tournèrent
 vers son parent, et d’une voix sans expression, semblant indiquer que le
-sens des mots prononcés échappait à son cerveau embrumé :
+sens des mots prononcés échappait à son cerveau embrumé :
 
-— Ah ! mon cousin, redit‑elle, mon cousin… ; bien, bien, bonjour mon
+— Ah ! mon cousin, redit‑elle, mon cousin… ; bien, bien, bonjour mon
   cousin !
 
 — Frey Jemkins, continua le milliardaire, Frey Jemkins qui vous a élevée…
@@ -639,16 +639,16 @@ La femme inclina la tête, un vague sourire passa sur ses lèvres.
 
 Mais Frey l’interrompit rudement.
 
-— Laissez le passé de côté, Lily… ; ou si vous voulez vous souvenir,
+— Laissez le passé de côté, Lily… ; ou si vous voulez vous souvenir,
   rappelez‑vous Pariset !
 
-Au nom de son époux défunt, la veuve tressaillit de tout son être ; elle se
+Au nom de son époux défunt, la veuve tressaillit de tout son être ; elle se
 souleva à demi, puis retomba sur son fauteuil avec un léger cri.
 
 C’en était trop pour les nerfs de Linérès.
 
 D’un bond, elle fut auprès de la pauvre femme et s’agenouillant devant
-elle :
+elle :
 
 — Mère, mère, begaya‑t‑elle éperdument, reconnais ta petite Linérès !
 
@@ -663,12 +663,12 @@ La démente, du geste, repoussait l’enfant prosternée à ses pieds.
 
 ![Lilian ! Ma fille !](../3-images/part1/page-145.jpg "Lilian ! Ma fille !")
 
-Puis, appuyant l’index sur l’épaule de la malheureuse :
+Puis, appuyant l’index sur l’épaule de la malheureuse :
 
 — Lily, gronda‑t‑il d’un ton autoritaire, Lily, je veux que vous m’écoutiez.
 
 Une expression de crainte agita les traits de l’infortunée. Son regard se
-fit humble, presque suppliant :
+fit humble, presque suppliant :
 
 — J’écoute, je promets, j’écoute. Lily écoute toujours.
 
@@ -680,7 +680,7 @@ comme une commotion.
 
 Dans les regards de la comtesse, il lui avait semblé lire une amère ironie.
 
-Mais Jemkins continua, rappelant à lui toute l’attention de Pierre :
+Mais Jemkins continua, rappelant à lui toute l’attention de Pierre :
 
 — Lily, regardez cette jeune fille qui pleure devant vous.
 
@@ -688,7 +688,7 @@ Mais Jemkins continua, rappelant à lui toute l’attention de Pierre :
 
 — Ses larmes ne vous disent‑elles rien ?
 
-La folle haussa les épaules, et d’un ton indifférent :
+La folle haussa les épaules, et d’un ton indifférent :
 
 — Que disent les larmes ? Rien. C’est la grimace d’une souffrance.
   Laquelle ? Personne ne le saurait deviner. La mère qui a perdu son
@@ -700,14 +700,14 @@ La folle haussa les épaules, et d’un ton indifférent :
 Tous écoutaient, stupéfiés par cette poésie d’expression particulière à
 certaines démences.
 
-Frey seul conservait son calme :
+Frey seul conservait son calme :
 
 — Soit, Lily, je ne prétends pas vous contrarier. Les larmes sont vides de
   signification par elles‑mémes. Mais parfois un mot les explique.
 
 — Un mot, redit la veuve ainsi qu’un écho obéissant.
 
-— Oui, un mot ; un nom par exemple… Ces pleurs qui vous paraissent
+— Oui, un mot ; un nom par exemple… Ces pleurs qui vous paraissent
   indéchiffrables, je veux les souligner d’un nom, le nom le plus cher à
   votre esprit.
 
@@ -720,18 +720,18 @@ Mais brutalement l’Américain lui coupa la parole.
   de la comtesse de Armencita ? Le nom dont je parle est celui qui vous
   fut donné à l’heure de votre naissance. C’est ce nom qui peut‑être…
 
-Et s’adressant de nouveau à M^me^ Pariset :
+Et s’adressant de nouveau à M^me^ Pariset :
 
 — Lily, reprit‑il, n’aimez‑vous pas le nom de Lilian ?
 
 Ce fut un coup de théâtre.
 
-La démente se dressa sur ses pieds, clament d’une voix éperdue :
+La démente se dressa sur ses pieds, clament d’une voix éperdue :
 
 — Lilian ! ma fille !
 
 Mais ses bras tendus dans le vide n’appelaient pas la pauvrette Linérés
-affaissée devant elle, stupéfaite et terrifiée ; ses regards ne se fixaient
+affaissée devant elle, stupéfaite et terrifiée ; ses regards ne se fixaient
 point sur la jeune fille.
 
 — Lilian ! ma fille ! répéta la veuve en éclatant en sanglots.
@@ -744,7 +744,7 @@ Jemkins la retint par le bras.
 — Ne la troublez pas, laissez‑moi diriger, si possible, le réveil de son
   intelligence.
 
-Puis revenant à la veuve :
+Puis revenant à la veuve :
 
 — Lilian, ce nom que vous aimez est celui de celle qui pleure auprès de
   vous.
@@ -767,7 +767,7 @@ caressa les cheveux de son interlocutrice.
   d’une tendresse inconnue.
 
 Elle s’arrêta figée, son tendre enthousiasme brusquement éteint. La folle
-répondait :
+répondait :
 
 — Toi, toi… Pourquoi mens‑tu à la malheureuse mère ? Prétends‑tu me
   tromper ? On ne trompe pas celle qui a donné la vie. Lilian est morte.
@@ -787,7 +787,7 @@ fiancée, s’avançait pour la soutenir… Jemkins le prévint.
 La veuve ne répondit pas. Tout son être, ramassé sur lui‑même, sembla se
 raidir pour protester contre l’affirmation de son cousin.
 
-Il eut un geste rageur, et d’un ton plus impérieux :
+Il eut un geste rageur, et d’un ton plus impérieux :
 
 — Je te dis que voici ta fille Lilian. Je veux que tu me croies.
 
@@ -796,7 +796,7 @@ interlocuteur. Une morne indifférence succéda à son agitation.
 
 — Celle‑ci est ta fille, répéta Jemkins pour la troisième fois.
 
-Alors, d’une voix sourde, comme lointaine, la veuve murmura :
+Alors, d’une voix sourde, comme lointaine, la veuve murmura :
 
 — Oui, oui, celle‑ci est ma fille Lilian.
 
@@ -805,9 +805,9 @@ Alors, d’une voix sourde, comme lointaine, la veuve murmura :
 — Ne la presseras‑tu pas dans tes bras, continua le milliardaire, ne lui
   donneras‑tu pas le baiser maternel dont si longtemps elle fut sevrée ?
 
-Docilement, la démente ouvrit ses bras, et paisiblement :
+Docilement, la démente ouvrit ses bras, et paisiblement :
 
-— Je lui tends les bras ; je lui donnerai le baiser qu’elle réclame.
+— Je lui tends les bras ; je lui donnerai le baiser qu’elle réclame.
 
 Ah ! ce ton monocorde, sans vibration, qui paraissait émis par une créature
 absente, était bien loin de ce cri de joie délirante que Linéres avait
@@ -821,12 +821,12 @@ Elle‑même en fut comme paralysée. Ce fut avec réserve qu’elle enlaça la
 veuve, avec désespoir qu’elle sentit s’appuyer sur son front les lèvres
 indifférentes de la malheureuse femme.
 
-Et Frey murmurant sous forme d’encouragement :
+Et Frey murmurant sous forme d’encouragement :
 
 — Elle a tant souffert. Peu à peu, gentille cousine, votre présence
   réchauffera la pauvre âme engourdie.
 
-Elle gémit si bas que l’Américain ne perçut qu’un vague bourdonnement :
+Elle gémit si bas que l’Américain ne perçut qu’un vague bourdonnement :
 
 — Une mère ne doit pas se tromper… Ah ! si je n’étais pas sa fille !
 
@@ -846,7 +846,7 @@ Les mains dans les poches, une courte pipe aux dents, sifflotant malgré cet
 appendice gênant, le boy semblait ravi d’aller passer un moment à terre en
 attendant l’heure où le navire repartirait pour Baltimore.
 
-Comme il posait le pied sur le quai, un des maîtres d’équipage le héla :
+Comme il posait le pied sur le quai, un des maîtres d’équipage le héla :
 
 — Eh ! Tril.
 
@@ -863,7 +863,7 @@ ironique.
 
 — _All right !_ Alors, bonne promenade.
 
-— Je remercie… ; au revoir.
+— Je remercie… ; au revoir.
 
 Sur ce, Tril s’éloigna en flâneur dans la direction du _port du bois_.
 
@@ -892,7 +892,7 @@ Sans hésitation, Tril marcha droit à lui.
 
 — À deux heures ?
 
-Allan répéta ces mots d’un air surpris. Il insista :
+Allan répéta ces mots d’un air surpris. Il insista :
 
 — Tu es certain ?
 
@@ -909,7 +909,7 @@ Un silence suivit.
 Tril regardait son interlocuteur. Mais sur sa physionomie railleuse à 
 l’ordinaire, aucune ironie n’apparaissait en cet instant.
 
-Enfin, le visage contracté d’Allan se détendit, s’éclaira :
+Enfin, le visage contracté d’Allan se détendit, s’éclaira :
 
 — Après tout, pourquoi pas ? murmura‑t‑il entre haut et bas. Les choses
   les plus simples sont celles qui portent le plus.
@@ -921,7 +921,7 @@ Il appuya ses mains sur les épaules du gamin attentif.
 
 — Bon, alors… vous avez partie gagnée, Roi.
 
-Allan tressaillit à ce dernier mot. Vivement il grommela :
+Allan tressaillit à ce dernier mot. Vivement il grommela :
 
 — Pas ce titre ici… Jamais, entends‑tu, dans un endroit public.
 
@@ -972,7 +972,7 @@ au _cabby_ (cocher):
 
 — École de Miss Deffling, Kendall Green.
 
-L’automédon eut un geste hésitant :
+L’automédon eut un geste hésitant :
 
 — C’est loin, Gentleman.
 
@@ -987,7 +987,7 @@ et dix cents (0 fr. 50) en plus pour chaque groupe ou fraction de groupe
 de cinq squares suivants.
 
 Mais Allan n’ignorait pas ce détail sans doute, car il démêla aussitôt le
-sens de l’exclamation du cabby, et il répondit paisiblement :
+sens de l’exclamation du cabby, et il répondit paisiblement :
 
 — C’est une course d’un dollar, mon ami, je le sais. Ainsi marchez.
 
@@ -997,11 +997,11 @@ sens de l’exclamation du cabby, et il répondit paisiblement :
 
 Cette fois le cocher n’insista plus. Il eut un regard empreint de
 considération pour son client et cinglant son cheval d’un magistral coup
-de fouet, il lança joyeusement :
+de fouet, il lança joyeusement :
 
 — Ho ! Cherries !
 
-Encouragement hippique qui équivaut à celui des automédons parisiens :
+Encouragement hippique qui équivaut à celui des automédons parisiens :
 
 — Hue, Cocotte !
 
@@ -1017,7 +1017,7 @@ les maisons séparées par des jardins.
 
 Un haut portique se découpe dans un long mur récemment blanchi.
 
-Au sommet de la voûte, des lettres d’or figurent ces mots :
+Au sommet de la voûte, des lettres d’or figurent ces mots :
 
 > _MISS DEFFLING’S INSTITUTE_  
   DAY AND BOARDING SCHOOL [^1‑09‑3]
@@ -1028,7 +1028,7 @@ l’ouverture de la porte.
 
 Le jeune homme est pâle. Sur ses traits il y a une expression de souffrance.
 
-Mais il la chasse d’un brusque mouvement de tête, et il murmure :
+Mais il la chasse d’un brusque mouvement de tête, et il murmure :
 
 — Allons, Jud,… vous n’allez pas être lâche à l’heure où vous avez besoin
   de tout votre courage.

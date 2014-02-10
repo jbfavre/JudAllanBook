@@ -10,20 +10,20 @@ trouvaient réunis.
 Allan tressaillit.
 
 D’un coup d’œil, il s’assura que ni Linérès, ni Pierre, ni la comtesse,
-ne l’observaient, et se penchant à l’oreille de M. Lorenaud, il murmura :
+ne l’observaient, et se penchant à l’oreille de M. Lorenaud, il murmura :
 
 — C’est _Lui_. Il vient.
 
 Avant que le Chef de la Sûreté eût achevé le mouvement de surprise
-provoqué par cette affirmation, l’Américain continua :
+provoqué par cette affirmation, l’Américain continua :
 
-— Je disparais. Pour vous, Monsieur, recevez mes remerciements ; je ne
+— Je disparais. Pour vous, Monsieur, recevez mes remerciements ; je ne
   vous reverrai plus qu’au jour de la victoire, s’il doit jamais luire.
 
 — Où allez‑vous donc ?
 
-— Je m’enfonce dans la nuit, M. Lerenaud…, et j’espère en vous pour faire
-  savoir à M. le Président Loosevelt tout ce qui se sera passé ici.
+— Je m’enfonce dans la nuit, M. Lerenaud…, et j’espère en vous pour faire
+  savoir à M. le Président Loosevelt tout ce qui se sera passé ici.
 
 — Je le ferai, vous avez ma parole.
 
@@ -32,11 +32,11 @@ provoqué par cette affirmation, l’Américain continua :
 Sur ce, l’Américain se glissa sans bruit hors du salon, dont la porte
 retomba sur lui.
 
-M. Lerenaud demeurait pensif. Certes, celui qui venait de sortir avait
+M. Lerenaud demeurait pensif. Certes, celui qui venait de sortir avait
 été accrédité auprès de lui par le Président même de la grande république
 des États‑Unis… Il lui avait conté une terrible histoire de ce banditisme
 américain au regard duquel les bandits d’Europe apparaissent comme des
-écoliers, ânonnant l’alphabet du crime ; mais, tout en se mettant à la
+écoliers, ânonnant l’alphabet du crime ; mais, tout en se mettant à la
 disposition de son hôte, le Chef de la Sûreté comprenait que l’ensemble
 de l’affaire lui échappait.
 
@@ -68,14 +68,14 @@ Obscurité partout.
 Cinq jours auparavant, quand Allan s’était présenté à son domicile
 particulier, il l’eût certes considéré comme un fou, il l’eût envoyé à
 l’infirmerie du Dépôt, si le jeune homme ne lui avait remis la lettre
-d’introduction que voici :
+d’introduction que voici :
 
 > La Maison‑Blanche, Washington (État‑Unis).
 
 > Monsieur le Chef de la Sûreté de France,
 
 > Une œuvre de Justice justifie toutes les infractions au protocole.
-  C’est pourquoi j’accrédite M. Allan, auprès de vous, de façon ultra
+  C’est pourquoi j’accrédite M. Allan, auprès de vous, de façon ultra
   confidentielle.
 
 > Veuillez l’entendre, lui garder le secret le plus absolu et l’aider de
@@ -89,10 +89,10 @@ d’introduction que voici :
 
 > LOOSEVELT
 
-À diverses reprises, M. Loosevelt, le grand homme d’État américain, avait
+À diverses reprises, M. Loosevelt, le grand homme d’État américain, avait
 surpris l’Europe par l’audace de ses conceptions, la promptitude de ses
 décisions, le dédain qu’il professait pour les formes surannées des
-protocoles officiels. Et cependant M. Lerenaud n’avait pas été maître de
+protocoles officiels. Et cependant M. Lerenaud n’avait pas été maître de
 sa stupéfaction à la lecture de cette missive originale.
 
 Un chef d’État adressant au directeur de la Sûreté d’un autre État une
@@ -102,7 +102,7 @@ citoyen, c’était déjà fort inusité.
 Mais quand Allan s’expliqua, le policier eut l’impression de sortir du
 monde réel pour s’enfoncer dans une légende des mille et une nuits du crime.
 
-Voici au surplus ce que le jeune Américain lui avait conté :
+Voici au surplus ce que le jeune Américain lui avait conté :
 
 En 186… [^expeditionMexique], lors de cette fatale expédition du Mexique, qui ébranla le trône
 de Napoléon III, coûta à la France quelques centaines de millions,
@@ -171,7 +171,7 @@ voisinage, il demeura de longs mois entre la vie et le trépas. Enfin, il
 entra en convalescence, au moment où les troupes françaises, rappelées en
 Europe cinglaient vers les côtes de France.
 
-Certes, il eût pu se faire rapatrier ; mais, effet inattendu, son cœur
+Certes, il eût pu se faire rapatrier ; mais, effet inattendu, son cœur
 était devenu Mexicain et cela grâce à la présence d’une charmante señorita
 aux doux yeux noirs, qui s’était improvisée sa garde‑malade.
 
@@ -202,7 +202,7 @@ adresse achevèrent l’entente, et un beau jour, le chef des tribus Mayos
 ayant rendu son âme au Grand‑Esprit, les guerriers assemblés proclamèrent
 _Cacique_, en son lieu et place, l’ancien chasseur de Vincennes.
 
-Nanti de ce « grade », Pariset agit auprès du gouvernement mexicain et
+Nanti de ce « grade », Pariset agit auprès du gouvernement mexicain et
 obtint la reconnaissance officielle des droits de Juan Annina sur la
 presqu’île californienne, c’est‑à‑dire sur un territoire représentant la
 superficie de dix départements français.
@@ -237,7 +237,7 @@ relative, se fit beaucoup prier… Et enfin, il épousa Lily, au mois de
 novembre 1889, au milieu d’un immense concours d’invités venus de tous les
 points du Mexique, de la Sonora, de la Californie américaine.
 
-M. Lerenaud se remémorait rapidement ces choses… Ni Chazelet, ni Linérès,
+M. Lerenaud se remémorait rapidement ces choses… Ni Chazelet, ni Linérès,
 absorbés par leurs propres pensées, ne songeaient à interrompre ses
 réflexions.
 
@@ -304,7 +304,7 @@ Quant à sa fille, la petite Lilian, alors âgée de deux ans environ, elle
 avait disparu.
 
 Sans doute le fou l’avait emportée, jetée dans quelque précipice. On n’en
-avait retrouvé aucune trace. Et la servante se lamentait :
+avait retrouvé aucune trace. Et la servante se lamentait :
 
 — Pauvre maîtresse… Elle tomber raide, et puis plus jamais comprendre ce
 que parler veut dire. Et pas plus de cervelle qu’un tronc de palmier.
@@ -313,10 +313,10 @@ Jemkins remua ciel et terre pour retrouver la petite disparue. L’enfant,
 répétait‑il avec obstination, rendrait la raison à son infortunée cousine.
 
 Durant des années, sans se lasser, il alla passer ses vacances à Agua
-Frida, dépensant sans compter pour améliorer l’exploitation : « Afin,
+Frida, dépensant sans compter pour améliorer l’exploitation : « Afin,
 disait‑il avec une constance touchante, que l’héritière retrouvât tout en
 pleine prospérité, le jour où il plairait au Seigneur de la rendre à sa
-famille. » 
+famille. » 
 
 Entre temps, il correspondait avec les agences de recherches les plus
 réputées du globe.
@@ -329,23 +329,23 @@ comtesse de Armencita avait adopté une jeune fille du nom de Linérès,
 naguère recueillie par elle, à l’âge de deux ans environ, dans le désert
 calcaire qui borde la rive orientale de la mer Vermeille.
 
-Et M. Allan avait terminé cette étrange histoire en disant :
+Et M. Allan avait terminé cette étrange histoire en disant :
 
 — Celui qui viendra réclamer Linérès comme l’enfant de Lily Pariset,
   celui‑là apportera ainsi la première des preuves qui amèneront le
   châtiment d’un criminel si puissant qu’il semblait au‑dessus des lois.
 
-Et à une interrogation curieuse du policier, l’Américain avait répondu :
+Et à une interrogation curieuse du policier, l’Américain avait répondu :
 
-— Pour que M. Loosevelt vous ait écrit comme il l’a fait, Vous devez être
+— Pour que M. Loosevelt vous ait écrit comme il l’a fait, Vous devez être
   assuré de l’importance de ma mission. Il vous demande de faire pour
   m’aider tout ce qui est en votre pouvoir. Eh bien, parmi les choses que
   vous pouvez, il en existe tout d’abord deux que je vous supplie de
-  m’accorder : ne me questionner que sur ce que je puis vous dire ; ne point
+  m’accorder : ne me questionner que sur ce que je puis vous dire ; ne point
   chercher à comprendre au‑delà de mes paroles.
 
 Impressionné par la lettre autographe et aussi par l’accent de cet
-ambassadeur étrange, M. Lerenaud avait promis.
+ambassadeur étrange, M. Lerenaud avait promis.
 
 ![Jean trouvé mort au bord de la mer, son revolver à côté de lui](../3-images/part1/page-115.jpg
 "Jean trouvé mort au bord de la mer, son revolver à côté de lui")
@@ -367,12 +367,12 @@ l’ancien militaire.
 
 — _All right !_ s’exclama‑t‑il, voici du monde avec lequel on peut causer.
 
-Et se tournant vers les laquais :
+Et se tournant vers les laquais :
 
-— À l’office, garçons ; tenez, ramassez cela et décampez.
+— À l’office, garçons ; tenez, ramassez cela et décampez.
 
 Il jeta au dehors quelques pièces d’or, sur lesquelles les serviteurs se
-ruèrent avec un ensemble merveilleux, puis, fermant la porte derrière lui :
+ruèrent avec un ensemble merveilleux, puis, fermant la porte derrière lui :
 
 — Enchanté de vous voir, fit‑il, en s’adressant aux personnes présentes,
   médusées par sa manière d’agir. Je suis Frey Jemkins, de Frisco,
@@ -384,12 +384,12 @@ Personne ne répondit.
 
 Tous considéraient le nouveau venu avec stupéfaction.
 
-M. Lerenaud marmonnait tout bas les paroles naguère prononcées par Allan :
+M. Lerenaud marmonnait tout bas les paroles naguère prononcées par Allan :
 
 — Celui qui viendra réclamer Linérès comme la fille de Lily Pariset,
   celui‑là apportera ainsi la première preuve contre un bandit.
 
-Tout à l’heure encore, le jeune homme avait dit :
+Tout à l’heure encore, le jeune homme avait dit :
 
 — C’est _lui_. Je disparais.
 
@@ -409,7 +409,7 @@ De nouveau la salle retentit de son rire sonore.
 Il avait fait un pas en avant, plongeant son regard gris dans celui de
 M^lle^ de Armencita.
 
-Celle‑ci murmura :
+Celle‑ci murmura :
 
 — Je suis en effet Linérès.
 
@@ -426,11 +426,11 @@ Il prit la main de la jeune fille et la conservant dans les siennes.
 — Oui, Lily, la maman du baby que je cherche, et qui, si c’est vous, est
   devenu un bien charmant baby en courant le monde.
 
-Une rougeur monta aux joues de Linérès ; ses paupières palpitèrent.
+Une rougeur monta aux joues de Linérès ; ses paupières palpitèrent.
 
 — Maman ! redit‑elle d’un accent impossible à rendre.
 
-Mais M. Lerenaud s’interposa :
+Mais M. Lerenaud s’interposa :
 
 — Monsieur, prononça‑t‑il lentement, désolé de troubler vos effusions.
 
@@ -449,15 +449,15 @@ Le visage du visiteur exprima l’étonnement.
 — _Indeed_, dans cette demeure ?
 
 — Et moi, Chef de la Sûreté, je procédais à une enquête préliminaire, en
-  attendant M. le juge d’instruction que l’on a avisé.
+  attendant M. le juge d’instruction que l’on a avisé.
 
-Ce disant, M. Lerenaud scrutait les traits de son interlocuteur.
+Ce disant, M. Lerenaud scrutait les traits de son interlocuteur.
 
 Mais rien ne décela chez celui‑ci une émotion quelconque. Il écoutait avec
 l’indifférence polie d’un gentleman qui ne saurait prendre grand intérêt à
 une opération policière.
 
-Cependant il reprit :
+Cependant il reprit :
 
 — La présence de Miss Linérès est‑elle nécessaire à votre enquête ?
 
@@ -469,7 +469,7 @@ Cependant il reprit :
 — Sans doute
 
 — Car j’ai hâte de contrôler les renseignements qui m’ont amené à Paris…
-  Je serais très satisfait quelle fût ma petite cousine ; d’abord parce
+  Je serais très satisfait quelle fût ma petite cousine ; d’abord parce
   que cela réjouirait Lily, et ensuite parce qu’il vaut mieux avoir dans
   son logis une jolie figure qu’un laideron.
 
@@ -478,14 +478,14 @@ Il consulta Linérès du regard.
 — Vous voulez conduire chez votre maman jusqu’à ce jour ?
 
 Elle inclina la tête, se sentant incapable de proférer une syllabe. Des
-idées confuses cavalcadaient en son cerveau : sa mère adoptive, sa mère
+idées confuses cavalcadaient en son cerveau : sa mère adoptive, sa mère
 réelle, la voyante qui lui avait annoncé cela, le crime, Pierre de
 Chazelet qu’elle allait quitter pour ne le revoir peut‑être jamais.
 
 — Montrez donc le chemin, _nice young lady_ (gentille demoiselle), fit
   Frey Jemkins, je vous suivrai avec le plaisir le plus grand.
 
-Puis au moment de sortir, s’arrêtant sur le seuil : 
+Puis au moment de sortir, s’arrêtant sur le seuil : 
 
 — Monsieur le chef de la police, demanda‑t‑il, le crime est‑il complet ?
 
@@ -505,7 +505,7 @@ Il lança un adieu de la main et sortit sur les pas de Linérès, dont les
 grands yeux d’émeraude s’étaient oubliés un long moment sur ceux du
 marquis de Chazelet.
 
-Alors, Pierre balbutia d’une voix sourde :
+Alors, Pierre balbutia d’une voix sourde :
 
 — Je vais me retirer.
 
@@ -531,7 +531,7 @@ Et il le laissa partir.
 Le marquis sortit de l’hôtel complètement désemparé. L’attitude de Linérès
 lui avait déchiré le cœur. Elle refusait son dévouement. Avec l’humilité
 de qui aime réellement, Pierre n’avait point compris les regards de la
-jeune fille ; il n’avait point su y lire la reconnaissance pour son
+jeune fille ; il n’avait point su y lire la reconnaissance pour son
 courage et l’épouvante de le livrer aux périls qui avaient supprimé les
 prétendants à la main de la Fiancée du Diable.
 
@@ -545,11 +545,11 @@ irrésistibles qui nous dominent aux heures douloureuses.
 
 À grands pas, il regagna le Palais d’Orsay.
 
-— M. Allan est‑il chez lui ?
+— M. Allan est‑il chez lui ?
 
-À sa question, il fut répondu :
+À sa question, il fut répondu :
 
-— Non… M. Allan n’est pas rentré !
+— Non… M. Allan n’est pas rentré !
 
 Ce lui fut une tristesse nouvelle.
 
@@ -565,7 +565,7 @@ l’entêtement de l’enfant qui cherche la protection de ceux qu’il devine
   paroles lui eussent apporté une espérance.
 
 Cependant Jemkins, conduit par Linérès, avait pénétré dans la chambre où
-M^me de Armencita, affalée au fond d’un fauteuil, se remettait en une vague
+M^me de Armencita, affalée au fond d’un fauteuil, se remettait en une vague
 somnolence des événements de la soirée.
 
 À son entrée, annoncée par la jeune fille, la vieille dame avait sursauté.
@@ -575,7 +575,7 @@ inexplicable terreur.
 Celui‑ci ne parut pas le remarquer.
 
 Il s’installa commodément, avec ce sans‑gène, cette bonne humeur qui
-semblaient former le fonds de son caractère, et sans préambule :
+semblaient former le fonds de son caractère, et sans préambule :
 
 — Madame, dit‑il, moi, Frey Jemkins, de San‑Francisco, je cherche depuis
   seize ans une enfant, disparue dans des circonstances qui n’ont jamais
@@ -596,20 +596,20 @@ L’inflexion de sa voix était bizarre.
 On eût dit qu’elle récitait une leçon apprise à l’avance. Son accent
 n’avait point la spontanéité, la vivacité que la situation semblait exiger.
 
-Linérès eut une vague intuition de cela ; mais accoutumée à la froideur de
+Linérès eut une vague intuition de cela ; mais accoutumée à la froideur de
 sa mère adoptive, elle lui attribua encore la sécheresse de son débit
 
 — Je m’explique, reprit Jemkins. Après tout. je ne saurais m’y refuser
   puisque j’ai traversé l’Atlantique uniquement pour cet objet.
 
-Et lentement :
+Et lentement :
 
 — Donc, voilà qui est convenu… Si mes soupçons se confirment, Miss Linérès
   aura deux mères au lieu d’une. Abondance de biens ne nuit pas.
 
 — Cela, fit la comtesse, me paraît cordialement pensé. Oui, en effet, je
   ne me résoudrais pas à ne plus voir cette enfant qui a grandi auprès de
-  moi. ‑ Elle regarda fixement la jeune fille, puis continua : ‑ Je ne
+  moi. ‑ Elle regarda fixement la jeune fille, puis continua : ‑ Je ne
   suis pas démonstrative, mais les sentiments inexprimés n’ont que plus de
   force, crois‑le, mon enfant.
 
@@ -636,7 +636,7 @@ attestait un long usage.
 — Voici, dit‑elle, le grand livre de mon existence. J’y ai inscrit tout ce
   qu’il m’est arrivé d’intéressant.
 
-Et après avoir feuilleté le Volume :
+Et après avoir feuilleté le Volume :
 
 — Voilà 1892. Janvier, départ pour le Nord‑Mexicain. Exploration
   géologique et commerciale. Mission du Gouvernement accordée par le
@@ -656,7 +656,7 @@ M^me^ de Armencita tourna plusieurs pages.
 — C’est une année fertile en aventures… Elle tient plus de place que
   certaines périodes dix fois plus longues.
 
-Puis posant le doigt sur une ligne :
+Puis posant le doigt sur une ligne :
 
 — Voici… 1^er^ au 7 août, attaque de fièvre dans la petite ville de
   Mazatlan, province de Sinaloa, sur la côte du Pacifique.
@@ -697,13 +697,13 @@ celle de sa mère adoptive.
 
 — Le 18 août 1892, prononça Frey Jemkins d’un ton grave.
 
-Comme ses interlocutrices l’interrogeaient du regard :
+Comme ses interlocutrices l’interrogeaient du regard :
 
 — Poursuivez, Madame, je vous en conjure, je m’expliquerai après.
 
 — Soit donc, consentit la comtesse.
 
-Et reprenant sa lecture :
+Et reprenant sa lecture :
 
 — L’enfant était privée de sentiment. Pour tout vêtement, une petite
   chemise sans aucune marque. Elle avait dû être jetée sur la côte par le
@@ -715,15 +715,15 @@ Et reprenant sa lecture :
 
 Il semblait en proie à une émotion profonde.
 
-Peut‑être un observateur en eût‑il jugé la manifestation outrée ; peut‑
-être eût‑il pensé à une comédie savante ; mais les observateurs sont gens
+Peut‑être un observateur en eût‑il jugé la manifestation outrée ; peut‑
+être eût‑il pensé à une comédie savante ; mais les observateurs sont gens
 défiants dont l’avis ne saurait devenir article de foi.
 
-La jeune fille crut à l’émoi du visiteur. Lui cependant, poursuivait :
+La jeune fille crut à l’émoi du visiteur. Lui cependant, poursuivait :
 
-— Vous prîtes l’enfant, Madame ; à Guaymas vous vous êtes présentée au
+— Vous prîtes l’enfant, Madame ; à Guaymas vous vous êtes présentée au
   Consulat espagnol. Il a été pris acte de votre déclaration. L’on vous a
-  dit : Dans ce pays, inutile de chercher. Si la petite est réclamée, on
+  dit : Dans ce pays, inutile de chercher. Si la petite est réclamée, on
   vous avisera. Vous l’avez ramenée en Espagne, et jamais plus vous n’avez
   entendu parler de sa famille.
 
@@ -734,13 +734,13 @@ M^me^ de Armencita se dressa toute droite.
 — Les renseignements qui me sont parvenus, renseignements qui m’ont fait
   quitter mes affaires, venir à Paris…
 
-Et avec un profond soupir :
+Et avec un profond soupir :
 
 — Où je me tiens à quatre pour ne pas ouvrir mes bras à miss Linérès, en
   l’appelant ma petite cousine, l’enfant de ma pauvre Lily que j’aime
   comme une sœur.
 
-Mais s’apaisant par degrés :
+Mais s’apaisant par degrés :
 
 — Non, il faut réunir toutes les preuves. Une désillusion serait trop
   cruelle. Écoutez‑moi. Le 18 août 1892, Jean Pariset, devenu fou depuis
@@ -786,7 +786,7 @@ Linérès chancela.
 La prédiction de la voyante se réalisait. Elle allait retrouver sa mère
 véritable. Et dans son esprit une pensée se mêlait à celle‑ci. La voyante
 lui avait aussi montré les traits de Pierre de Chazelet, avec ces paroles
-prophétiques :
+prophétiques :
 
 — Voici celui qui t’épousera !
 
@@ -799,16 +799,16 @@ Elle perçut vaguement ses paroles affectueuses, et aussi les phrases
 plaintives que sa mère adoptive débitait d’un ton monotone.
 
 Une brume l’enveloppait. Elle avait la certitude de vivre et l’épouvante
-de rêver. Soudain on gratta à la porte ; une femme de chambre parut :
+de rêver. Soudain on gratta à la porte ; une femme de chambre parut :
 
-— M. le juge d’instruction vient d’arriver ; il souhaite interroger ces
+— M. le juge d’instruction vient d’arriver ; il souhaite interroger ces
   dames.
 
 — Le fâcheux ! grommela Frey. Enfin, on ne peut éconduire ces gens de
   justice. Venez, je vous accompagnerai, et je tâcherai qu’on vous laisse
   tranquille le plus rapidement possible.
 
-Et les faisant passer devant, il murmura pour lui seul :
+Et les faisant passer devant, il murmura pour lui seul :
 
 — Délicieux, ce juge d’instruction… Mon histoire figurera au
   procès‑verbal… Une estampille officielle… Délicieux !
@@ -816,9 +816,9 @@ Et les faisant passer devant, il murmura pour lui seul :
 Il souriait avec une ironie, qui eût fort donné à penser à Linérès si elle
 avait pu remarquer ce sourire.
 
-Mais son « Cousin Frey », avait repris son apparence habituelle,
+Mais son « Cousin Frey », avait repris son apparence habituelle,
 lorsqu’elle pénétra, entre lui et M^me^ de Armencita, dans le grand salon,
-où le juge attendait en compagnie de M. Lerenaud.
+où le juge attendait en compagnie de M. Lerenaud.
 
 [^expeditionMexique]: il s’agit des années 1860. L’expédition du Mexique
                       mentionnée ici a débuté en 1861 pour s’achever en 1867.

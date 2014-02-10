@@ -24,16 +24,16 @@ Un élégant cavalier, comme l’avait dit la maritorne. De stature moyenne,
 souple et nerveux, les cheveux châtains de même que la moustache fine,
 les yeux mobiles et rieurs, le nez impeccable, le jeune homme, portant
 vingt‑cinq à vingt‑six ans, conservait, sous son costume de touriste
-quelque peu défraichi, une distinction, une « race » bien rares à notre
+quelque peu défraichi, une distinction, une « race » bien rares à notre
 époque. Sa présence surprenait dans cette chambrette blanchie à la chaux,
-auprès de ce lit boiteux, couvert d’une « indienne » fanée, de cette
+auprès de ce lit boiteux, couvert d’une « indienne » fanée, de cette
 table de bois blanc et de ces escabeaux grossiers… On sentait qu’elle
 était le résultat d’un naufrage social.
 
 Il avait jeté sur la table l’enveloppe et la lettre qu’il montrait un
 instant plus tôt à la posadera Olinda.
 
-L’enveloppe au timbre de France, portait la suscription suivante :
+L’enveloppe au timbre de France, portait la suscription suivante :
 
 
     Marquis PIERRE DE CHAZELET
@@ -89,28 +89,28 @@ appuyés à la table, il relut machinalement l’épître étalée devant lui.
 — Brave Morand, murmura le jeune homme… Une amitié fidèle, dont je ne
   suivrai d’ailleurs pas le conseil…
 
-Et avec un geste sec :
+Et avec un geste sec :
 
 — Rentrer à Paris, subir la pitié fastueuse d’anciens compagnons de fête.
   Non, non, petit marquis de Chazelet, tu as mauvaise tête; tu ne saurais
   faire cela.
 
-Il demeura un instant pensif, puis résolument :
+Il demeura un instant pensif, puis résolument :
 
 — J’ai dévoré, comme disent les bonnes gens, une fortune; je me dois
   d’en réédifier une autre. Dix mille francs c’est peu, mais courage, volonté
   et Amérique c’est beaucoup. Je suis désormais un chercheur de dollars…,
   et comme mes ancêtres pourraient, dans un monde meilleur, juger piteuse
-  une enseigne ainsi conçue : _Marquis Pierre de Chazelet, chercheur de
+  une enseigne ainsi conçue : _Marquis Pierre de Chazelet, chercheur de
   dollars_, je cesserai d’être marquis, je deviendrai Chazelet tout court,
   un joli nom plébéien. Mais dans les jours d’ennui, de rancœurs, de
   tristesse, je me souviendrai de notre devise guerrière, et je murmurerai
-  pour moi seul :
+  pour moi seul :
 
 > _Chazelet, chasse‑les!_
 
 Il se leva brusquement, remit la lettre de Morand sous son enveloppe qu’il
-glissa dans sa poche, puis gaiement :
+glissa dans sa poche, puis gaiement :
 
 — Chasse‑les de suite, petit marquis. Tu es assuré du lendemain immédiat.
   Une longue promenade dans la montagne rétablira l’équilibre de tes esprits.
@@ -121,7 +121,7 @@ coudait à angle droit et se raccordait a un escalier aux marches hautes et
 raides, accédant en pleine salle commune de la posada.
 
 Des voix, rudes, gutturales, sonnaient en bas. Un instant, le marquis écouta,
-puis, hochant la tête :
+puis, hochant la tête :
 
 — Des arrieros (muletiers), fit‑il. Ils sont peut‑être plus heureux que moi.
 
@@ -143,7 +143,7 @@ Et il mit délibérément le pied sur la première marche.
 De nouveau, il s’arrêta. Quelques mots lui avaient appris que l’on parlait de
 lui.
 
-— Carrabane ! (juron du Léon) disait un organe jovial ; la belle Olinda
+— Carrabane ! (juron du Léon) disait un organe jovial ; la belle Olinda
   dédaigne les muletiers. Ses yeux noirs se fatiguent à contempler le Français
   du premier… Je pense que bientôt la posada del Cid aura un maître. 
 
@@ -157,7 +157,7 @@ lui.
   refuserais‑tu… ou seulement une outre de vin de Tolima?
 
 Un éclat de rire homérique accueillit la réplique… Forte de son succès,
-Olinda continua :
+Olinda continua :
 
 — Par la Madone, une honnête posadera n’a‑telle plus le droit de préférer à
   des gens qui lui parlent sans respect, un étranger poli, observant la
@@ -167,7 +167,7 @@ La faible femme pesait bien près de cent kilogs.
 
 — Là, là, Olinda la faible, Olinda la diaphane, plaisanta celui qu’elle
   appelait Perez Caldero, j’ai voulu simplement te rappeler le proverbe de
-  Catalogne : _à langue dorée, escarcelle vide_. Depuis sept années que je 
+  Catalogne : _à langue dorée, escarcelle vide_. Depuis sept années que je 
   circule de Léon en Castille avec mes mules, et que je me repose chaque fois,
   dans cette maison, je suis ton ami. Je ne veux pas qu’un étranger te ruine.
 
@@ -206,7 +206,7 @@ Olinda se précipita au‑devant de son hôte.
 
 Tous se retournèrent vers Perez, lequel entrait ainsi dans la conversation.
 
-Le muletier, un robuste gaillard au regard futé, continua :
+Le muletier, un robuste gaillard au regard futé, continua :
 
 — Je me mets en route dans cinq petites minutes. Mes mules sont à vide (sans
   charge), et si le señor voulait honorer l’une d’elles de sa clientèle, je le 
@@ -216,7 +216,7 @@ Le muletier, un robuste gaillard au regard futé, continua :
 Les assistants se regardèrent. On eût cru que leurs yeux échangeaient des
 lueurs satisfaites, mais peut‑être n’était‑ce là qu’une idée.
  
-Le marquis, lui, répondit sans fausse honte par le dicton espagnol :
+Le marquis, lui, répondit sans fausse honte par le dicton espagnol :
 
 — Le _rico hombre_ (homme riche) peut disposer de _quatre_ pieds, le pauvre
   doit se contenter de _deux_.
@@ -229,9 +229,9 @@ Le marquis, lui, répondit sans fausse honte par le dicton espagnol :
   mules est à vous.
 
 Et comme Pierre hésitait, craignant de froisser son obligeant interlocuteur,
-celui‑ci acheva, clignant de la paupière d’un air malin :
+celui‑ci acheva, clignant de la paupière d’un air malin :
 
-— Je conçois, le señor est fier ; il lui coûte de ne pouvoir répondre à une
+— Je conçois, le señor est fier ; il lui coûte de ne pouvoir répondre à une
   gracieuseté par une autre. Eh ! qu’à cela ne tienne ! Tous les jours ne sont
   point vides de piécettes. Si la pluie d’argent tombe dans sa poche, il lui
   suffira de laisser un petit souvenir pour moi que dame Olinda me remettra
@@ -270,12 +270,12 @@ au cours de ses voyages. Carlistes, bandits, mendiants, gitanes, miquelets,
 se mêlaient dans ses récits, entrecoupés d’indications du pays, ou
 d’encouragements à son compagnon.
 
-— Quelle chaleur, señor ; un savant, que j’ai conduit un jour à Avila,
+— Quelle chaleur, señor ; un savant, que j’ai conduit un jour à Avila,
   s’est donné la peine de m’expliquer que sous la terre, il y a du feu…
   Catalane ! Cela se sent… Quoiqu’à vrai dire, le soleil qui tape sur les
   rochers suffise, lui aussi, à expliquer cette température d’étuve.
 
-Puis, insinuant :
+Puis, insinuant :
 
 — Au retour, vous aurez moins chaud… Le soleil descendra vers l’horizon et
   les pics vous feront de l’ombre… Au surplus, en montant, on met
@@ -324,16 +324,16 @@ Il regardait non pas seulement de tous ses yeux, mais de tout son être,
 éprouvant cette griserie distillée par l’air pénétrant des hauteurs, par
 l’illumination féerique de l’immense panorama.
 
-— Lumière d’or, rico hombre (riche homme, équivalent de gentilhomme) ; 
+— Lumière d’or, rico hombre (riche homme, équivalent de gentilhomme) ; 
   lumière d’or, rêve et réalité de la vie !
 
 Ces paroles bizarres frappent les oreilles de Chazelet. Comme le caillou
 soulevant en lames la surface calme d’un étang, les mots déterminent des
 mouvements d’âme. Le marquis promène autour de lui le regard incertain
-d’un dormeur qui s’éveille. Il doute du témoignage de ses sens ; sa pensée
+d’un dormeur qui s’éveille. Il doute du témoignage de ses sens ; sa pensée
 était si loin de la terre.
 
-Il ne voit personne, et cela lui semble tout naturel. Mais la voix reprend :
+Il ne voit personne, et cela lui semble tout naturel. Mais la voix reprend :
 
 — Demain… demain attire les regards des humains, mais demain se cache sous un
   voile, sous un voile que la sage Ramrah peut soulever.
@@ -375,72 +375,72 @@ Mais elle étend la main, sa voix se fait quémandeuse et persuasive.
 
 — Riche homme, dit‑elle, demande l’avenir à la voyante Ramrah.
 
-La phrase dissipe le charme. C’est dans un frisson de rire qu’il répond :
+La phrase dissipe le charme. C’est dans un frisson de rire qu’il répond :
 
 — La voyante voit mal ! Le riche homme qu’elle sollicite n’a point de
   quoi payer ses prédictions. La machine pneumatique du destin a fait le vide
   dans ses poches.
 
 Mais tandis qu’il raille, la gitana s’est approchée de lui. Elle le regarde
-d’un air pensif, et comme se parlant à elle‑même :
+d’un air pensif, et comme se parlant à elle‑même :
 
 — Le destin s’amuse. Lui aussi s’exerce à dérouter l’esprit des hommes,
   seulement il ne saurait tromper Ramrah.
 
 Pierre ne cherche point à cacher l’étonnement né chez lui de cette
-affirmation. La femme hoche la tête, puis doucement :
+affirmation. La femme hoche la tête, puis doucement :
 
 — Interroge cependant, Ramrah te répondra.
 
 — Mais, commence‑t‑il, je t’affirme, pauvre gitana, que je n’ai…
 
-— Pas un maravedi vaillant ; j’en suis sûre, puisque tu l’as déclaré et
+— Pas un maravedi vaillant ; j’en suis sûre, puisque tu l’as déclaré et
   que tu ne peux mentir.
 
 Du coup, le marquis demeure muet. Certes, la réplique de la bizarre créature
 est aimable, mais elle est surtout vraie. Le mensonge est l’indice de
-la lâcheté morale ; comme tous les êtres courageux, de Chazelet en a horreur.
+la lâcheté morale ; comme tous les êtres courageux, de Chazelet en a horreur.
 
 — Interroge Ramrah, poursuit la bohémienne… Elle te fera crédit. Le jour
   seulement où ton destin sera accompli, elle viendra à toi pour que tu assures
   le pain à sa vieillesse.
 
 Elle lui en impose véritablement. Lui, le Parisien ironique, incrédule,
-frondeur ; lui, le lettré, le gentilhomme, se sent dominé par cette pauvresse
+frondeur ; lui, le lettré, le gentilhomme, se sent dominé par cette pauvresse
 aux haillons multicolores.
 
 Elle lui prend la main sans qu’il ose résister. Elle se penche sur la paume,
 et son index maigre semble suivre les plis qui la sillonnent. Elle prononce
-vite :
+vite :
 
 — Ligne du cœur, ligne de tête, ligne de vie… Égales, égales… ! Tu seras plus
-  riche qu’un roi ; le pain de mes vieux jours est assuré !
+  riche qu’un roi ; le pain de mes vieux jours est assuré !
 
 Riche !
 
 La prédiction fit tressaillir Pierre de Chazelet.
 
-Non qu’il fut avide ; l’homme qui, en cinq années, avait semé à tous les
+Non qu’il fut avide ; l’homme qui, en cinq années, avait semé à tous les
 vents les deux millions touchés à sa majorité, ne tenait évidemment pas à
-l’argent ; mais l’annonce de la richesse future le flattait dans son orgueil,
+l’argent ; mais l’annonce de la richesse future le flattait dans son orgueil,
 ce sentiment noble entre tous parce qu’il pousse l’individu à _être quelqu’un_.
 
 Il s’était juré d’expier ses folies en réédifiant une fortune, et la gitana,
-semblant répondre à sa pensée, lui disait :
+semblant répondre à sa pensée, lui disait :
 
 — Tu feras ce que tu as décidé.
 
 Aussi, inconsciemment pris par le rapprochement qui s’imposait à son esprit,
-questionna‑t‑il :
+questionna‑t‑il :
 
 — J’aurais donc raison de partir pour l’Amérique ?
 
 Sans la moindre apparence d’hésitation, absolument comme si les idées du
-jeune homme lui étaient connues, la vieille femme répondit :
+jeune homme lui étaient connues, la vieille femme répondit :
 
 — Oui.
 
-Mais elle ajouta aussitôt :
+Mais elle ajouta aussitôt :
 
 — Seulement la fortune ne te viendra pas du négoce, ainsi que tu le penses.
 
@@ -448,7 +448,7 @@ Mais elle ajouta aussitôt :
 
 — Non, non… Elle naîtra de ta tendresse, de ton dévouement.
 
-Il sursauta :
+Il sursauta :
 
 — Tendresse ! Dévouement, redit‑il d’un ton léger. Tu erres, bonne femme.
 
@@ -461,7 +461,7 @@ Il sursauta :
 Un rire grelottant de la gitana coupa la phrase.
 
 — Il se croit libre, il se croit libre… Ah ! ah ! ah ! Comme si l’esprit, à
-  l’heure même de sa naissance, n’avait point sa tâche tracée déjà ; cette
+  l’heure même de sa naissance, n’avait point sa tâche tracée déjà ; cette
   tâche, que les lignes de la main révèlent à qui sait les lire, que les
   protubérances du crâne expliquent au toucher clairvoyant. Libre ! Libre ! Mot
   vide de sens, hochet qu’agite follement l’homme, cet éternel enfant, ce jouet
@@ -509,35 +509,35 @@ Mais Ramrah ne se troubla point.
 — Justement, approuva le marquis avec moins dassurance, car le ton de
   son interlocutrice l’impressionnait de nouveau.
 
-Un instant elle riva son regard sur celui du jeune homme, puis lentement :
+Un instant elle riva son regard sur celui du jeune homme, puis lentement :
 
 — Tu es bon, rico hombre… Je te pardonne tes doutes… Tu verras celle dont
   tu as tort de parler légèrement, car elle sera la compagne de ta vie.
 
 D’une voix douce, monotone, les mots se succédant sur ses lèvres comme
-des flots berceurs sur la grève, elle prononça :
+des flots berceurs sur la grève, elle prononça :
 
 — Les Zingares, nos ancêtres à nous les Gitanas d’Espagne, venaient de bien
-  loin vers l’Est, où les anciens plaçaient le support du monde ; de là où
-  les modernes ont supposé le paradis terrestre ; de cet endroit que les
+  loin vers l’Est, où les anciens plaçaient le support du monde ; de là où
+  les modernes ont supposé le paradis terrestre ; de cet endroit que les
   savants, négateurs de rêves, appellent cependant le mystérieux plateau
   central Asiatique.
 
 Le marquis l’écoutait, pénétré d’un respect incompréhensible, presque
 courbé sous l’autorité du geste, de l’accent de cette étrange mendiante.
 
-Elle continua :
+Elle continua :
 
 — Crois‑tu qu’un territoire, où l’unanimité des hommes les plus divers
-  d’esprits, de croyances, de savoir, ont reconnu d’instinct un centre ;
+  d’esprits, de croyances, de savoir, ont reconnu d’instinct un centre ;
   crois‑tu que ce territoire n’ait point de vertus particulières ? La terre
   du mystère a porté, a nourri des créatures éprises de mystère. Avec les
   fruits, les végétaux jaillis de cette terre, les êtres ont absorbé des
-  forces inconnues des autres mortels. Le mystère est en eux ; il fait
+  forces inconnues des autres mortels. Le mystère est en eux ; il fait
   partie de leur être. Ils ont la forme des hommes, et ils sont plus que
   les hommes, car ils ont conscience de ce qui échappe au reste de
   l’humanité. Ils voient ce que les regards ordinaires ne sauraient
-  distinguer ; des voix, imperceptibles pour d’autres, vibrent à leurs
+  distinguer ; des voix, imperceptibles pour d’autres, vibrent à leurs
   oreilles. Et tandis que le troupeau des créatures oscille
   interminablement entre le doute et la foi, entre le désir de croire et
   celui de nier, dans une pénombre où rêves et réalités se confondent
@@ -555,7 +555,7 @@ Elle serra fortement les doigts du marquis.
 
 — Ces lignes qui s’entrecroisent à l’intérieur de ta main, toi, _roum_
   (tout individu non zingari) superficiel, tu les juges tracées par le
-  hasard ; nous, nous savons par nos pères quels sont les caractères d’une
+  hasard ; nous, nous savons par nos pères quels sont les caractères d’une
   écriture mystérieuse, dont le sens est, pour nous, aussi facile à lire
   que ceux des livres frivoles où se complaisent tes heures d’oisiveté.
   C’est l’avertissement du destin… C’est quand il le connaît que l’être
@@ -590,12 +590,12 @@ Mais la Gitana lui serra rudement le bras.
 
 — Sapristi, est‑ce aussi la petite croix qui t’a appris cela ?
 
-Elle eut un geste d’inexprimable dédain :
+Elle eut un geste d’inexprimable dédain :
 
 — Pauvre _roum_,… il est fier de son intelligence… Mais je veux le
   convaincre, puisqu’il est le dispensateur de mon existence de demain.
 
-Et lentement :
+Et lentement :
 
 — Les lignes de la main avertissent que l’_esprit_, jeté dans la vie
   humaine, a reçu les instructions de la destinée. Tout ce qui doit nous
@@ -618,12 +618,12 @@ scolaires.
 
 — Dès longtemps, les Gitanas savent forcer l’esprit à dévoiler ses secrets,
   reprit la bohémienne, ainsi j’ai su que je rencontrerais mon bienfaiteur
-  futur à la passe de Castille ; qu’il y arriverait, accompagné d’un
+  futur à la passe de Castille ; qu’il y arriverait, accompagné d’un
   muletier…
 
 — Que de détails ! plaisanta encore Chazelet, décidément incorrigible.
 
-— J’en ai d’autres qui te surprendront davantage. Je sais ton âge : vingt‑
+— J’en ai d’autres qui te surprendront davantage. Je sais ton âge : vingt‑
   six ans depuis trois jours.
 
 Le jeune homme eut un mouvement si brusque qu’il faillit perdre
@@ -643,11 +643,11 @@ Cela le stupéfiait….. Peut‑être eût‑il pu penser que la bizarre créatu
 avait avoué être la depuis plusieurs mois. Mais elle ne laissa pas à son
 interlocuteur le temps de s’engager dans les méandres du soupçon, et,
 procédant à l’instar de Nicolet, le bateleur d’illustre mémoire, dont la
-devise est restée légendaire : 
+devise est restée légendaire : 
 
 > De plus fort en plus fort…
 
-Ramrah termina audacieusement :
+Ramrah termina audacieusement :
 
 — Enfin, je t’aurais reconnu entre mille, car mon esprit avait gravé sur
   la plaque magique ton portrait ressemblant.
@@ -665,7 +665,7 @@ Elle le toisa d’un air étonné.
 
 — Ce que je veux dire….. Par ma foi, c’est clair. Je suis au courant des
   expériences tentées par d’honorables personnalités pour photographier la
-  pensée ; je n’ignore pas, par conséquent, que les opérateurs
+  pensée ; je n’ignore pas, par conséquent, que les opérateurs
   consciencieux n’ont obtenu jusqu’ici que des séries de taches, de
   pointillés, lesquels semblent produits par la projection d’_ions_
   magnéto‑électriques, que provoqueraient, dit‑on, les mouvements du
@@ -675,13 +675,13 @@ Elle le toisa d’un air étonné.
   de songer à l’avenir, ta fortune serait faite.
 
 Toute droite, sans un mouvement, elle l’écouta, le laissa aller jusqu’au
-bout, puis lentement elle laissa tomber :
+bout, puis lentement elle laissa tomber :
 
 — Insensé….. Ne t’ai‑je pas affirmé que tous les fils des zingares
   _savent_ ?… Et cependant les autres hommes _ignorent_. Notre science du
   mystère doit nous servir à vivre et non pas à devenir riches.
 
-Et comme il ricanait :
+Et comme il ricanait :
 
 — 0h ! Je te convaincrai, acheva‑t‑elle. À toi, Je puis montrer la science,
   puisque tu représentes des années de mon existence.
@@ -724,12 +724,12 @@ Chazelet obéit. Au fond de lui‑même, bien qu’il s’efforçât de n’en l
 rien voir, une curiosité intense grandissait.
 
 Deux minutes, les interlocuteurs demeurèrent immobiles, silencieux. Après
-quoi, la Gitane murmura :
+quoi, la Gitane murmura :
 
 — Donne‑moi le miroir.
 
 Elle le prit, l’appliqua sur le front du jeune homme devenu grave, et avec
-autorité :
+autorité :
 
 — Ordonne à ton esprit de te faire connaître celle qu’il voit, lui. Ordonne
   de toutes tes forces, de toute ta volonté.
@@ -755,7 +755,7 @@ Soudain, Ramrah poussa un cri, dont Pierre fut secoué dans tout son être.
 
 Elle éloigna brusquement la main qui maintenait l’ovale de métal sur le
 front de Chazelet et lui présentant la plaque, sans y jeter les yeux
-elle‑même, comme certaine de la réussite du prodige :
+elle‑même, comme certaine de la réussite du prodige :
 
 — Regarde celle que ta pensée aime.
 
@@ -776,7 +776,7 @@ règles convenues.
 
 Pendant quelques minutes, le marquis demeura les yeux fixés sur la
 gracieuse image. Enfin, d’une voix incertaine, trahissant ainsi la
-gradation de pensées qui venait de s’effectuer en son cerveau, il demanda :
+gradation de pensées qui venait de s’effectuer en son cerveau, il demanda :
 
 — Quel est son nom ?
 
@@ -784,7 +784,7 @@ La Gitane eut un geste triomphant.
 
 — La jeune fille se montre donc sur le miroir magique ?
 
-— Oui, oui… ; vois… Mais réponds. Son nom ?
+— Oui, oui… ; vois… Mais réponds. Son nom ?
 
 Ramrah haussa les épaules.
 
@@ -809,7 +809,7 @@ considérer attentivement la paume.
 — Non, interrompit le jeune homme avec force… Sous peu de jours, je compte
   me rendre à Cadix, et là, m’embarquer pour l’Amérique.
 
-De nouveau, la vieille femme fit entendre son rire grelottant :
+De nouveau, la vieille femme fit entendre son rire grelottant :
 
 — Je ne t’interroge pas, prononça‑t‑elle après cette manifestation
   railleuse, je ne me soucie pas de tes projets, je t’enseigne ce qui sera.
@@ -817,7 +817,7 @@ De nouveau, la vieille femme fit entendre son rire grelottant :
   c’est fort heureux, car c’est 1à que les lignes de rencontre indiquent
   que tu te trouveras en présence de la personne chère à ton esprit.
 
-Puis, arrêtant net toute nouvelle question :
+Puis, arrêtant net toute nouvelle question :
 
 — Retourne à ta demeure. Prends ton repas en ayant soin de placer
   l’image sur la table, à ta gauche.
@@ -827,12 +827,12 @@ Puis, arrêtant net toute nouvelle question :
 — Obéis sans explications, répliqua rudement la Gitane. Le mystère est
   désormais en toi.
 
-Son organe s’adoucit pour achever :
+Son organe s’adoucit pour achever :
 
 — Va‑t‑en. Le destin satisfait, tu me reverras.
 
 Elle se tenait droite, le bras étendu vers l’étroite sente que Pierre avait
-suivie pour arriver à la passe de Castille. ll balbutia :
+suivie pour arriver à la passe de Castille. ll balbutia :
 
 — Adieu.
 
@@ -850,7 +850,7 @@ Un objet s’en échappa, roula à ses pieds avec un bruit métallique.
 C’était un ovale de nickel poli, identique à celui que Chazelet emportait
 avec lui.
 
-Ramrah le ramassa vite, et le pétrissant dans ses mains :
+Ramrah le ramassa vite, et le pétrissant dans ses mains :
 
 — Stupides, s’écria‑t‑elle, stupides ces hommes au visage pâle. Celui‑ci
   s’en va, convaincu par un simple tour d’escamotage… Et 1’autre, 1’autre

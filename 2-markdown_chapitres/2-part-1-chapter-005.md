@@ -7,7 +7,7 @@ Mais le marquis n’en avait pas fini avec les surprises.
 Comme il s’était arrêté près d’une sortie, accédant à l’escalier d’honneur
 garni de feuillages fleuris, et qu’adossé au Chambranle, il suivait
 distraitement des yeux la foule élégante se mouvant autour de lui, une
-voix légère prononça à son oreille :
+voix légère prononça à son oreille :
 
 — Bonsoir, marquis de Chazelet.
 
@@ -30,21 +30,21 @@ Pierre eut un mouvement de mauvaise humeur.
 — Peut‑être !
 
 Et sans donner à son interlocuteur le temps de répondre, le masque
-continua :
+continua :
 
 — Vous l’avez vue. Vous souhaitez la protéger. Mais vous êtes seul,
   sans renseignements sur vos adversaires.
 
 — Comment savez‑vous ? s’écria Chazelet stupéfait.
 
-Mais l’inconnu l’interrompit vivement :
+Mais l’inconnu l’interrompit vivement :
 
 — Plus bas, plus bas… Vous attireriez l’attention, et je veux pouvoir vous
   donner un bon avis.
 
 Il se rapprocha du jeune homme.
 
-— Un homme existe, qui doit avoir votre confiance ; cet homme, vous le
+— Un homme existe, qui doit avoir votre confiance ; cet homme, vous le
   rencontrerez ce soir, si vous suivez mes instructions.
 
 — Encore faudrait‑il me dire d’où elles émanent.
@@ -56,10 +56,10 @@ Le magicien haussa les épaules.
 
 Pierre ne trouva rien à répliquer. L’évidence de la proposition le réduisait
 au silence. Et l’inconnu, sans doute satisfait de ce résultat, reprit à
-mi‑voix :
+mi‑voix :
 
 — Au surplus, ce que l’on vous demande est peu de chose. Rentrez à pied
-  au palais d’Orsay ; une promenade agréable par ce beau temps. Il se
+  au palais d’Orsay ; une promenade agréable par ce beau temps. Il se
   produira en route une chose qui vous assurera l’ami, sans lequel vous ne
   pourriez rien.
 
@@ -67,8 +67,8 @@ mi‑voix :
 
 — Je l’ignore. Les destins ne se dévoilent jamais tout entiers.
 
-— Certes ; mais les magiciens se démasquent, riposta Chazelet, levant
-  vivement la main vers le « loup » de l’inconnu.
+— Certes ; mais les magiciens se démasquent, riposta Chazelet, levant
+  vivement la main vers le « loup » de l’inconnu.
 
 Le mouvement commencé ne s’acheva pas. Pierre se sentit immobilisé, les
 poignets enserrés comme en des étaux.
@@ -78,7 +78,7 @@ Son interlocuteur le maintenait sans effort apparent.
 — Un vrai magicien ne se montre que de son plein gré. Rentrez à pied,
   croyez‑moi. Pas d’amour‑propre mal placé. Votre vie est en jeu. Cela
   vous est égal, fit doucement l’inconnu remarquant un mouvement
-  dédaigneux de la tête du marquis, je suis content de le savoir… ;
+  dédaigneux de la tête du marquis, je suis content de le savoir… ;
   mais l’existence de la señorita est aussi menacée. L’ami à rencontrer
   peut seul la sauver… Voilà ce que les destins m’ont appris. Voilà ce
   que je souhaitais vous faire connaître.
@@ -137,7 +137,7 @@ dans la direction du boulevard Malesherbes.
 À l’angle de cette dernière voie, devant le bureau des tramways, (les
 contrôleurs fermaient à ce moment) un homme attendait.
 
-C’était M. Allan, l’inventeur aperçu le soir même à la Tour Eiffel.
+C’était M. Allan, l’inventeur aperçu le soir même à la Tour Eiffel.
 
 Le petit arriva près de lui.
 
@@ -150,7 +150,7 @@ L’Américain eut un sourire joyeux.
   aura l’ami… Je voudrais que l’œuvre de justice ne coûtat pas la vie à
   des innocents.
 
-Puis semblant chasser une pensée inopportune :
+Puis semblant chasser une pensée inopportune :
 
 — Écoute, tu le désigneras aux autres… comme il est convenu, n’est‑ce
   pas ? Les quais sont l’endroit le plus favorable… C’est aussi mon
@@ -166,7 +166,7 @@ Malesherbes, gagna les Champs‑Élysées par la rue d’Astorg, traversa
 l’avenue, le Cours‑la‑Reine et se posta enfin un peu en aval du pont de
 la Concorde, semblant attendre.
 
-Un quart d’heure s’écoula ainsi ; le gamin du boulevard de Courcelles
+Un quart d’heure s’écoula ainsi ; le gamin du boulevard de Courcelles
 se dressa à ses côtés.
 
 Ils viennent Roi… Master Chazelet se dirige vers le quai longeant la
@@ -216,7 +216,7 @@ Il y eut des cris, des secousses brutales, puis Chazelet se sentit
 libre de ses mouvements. Il regarda autour de lui d’un air effaré.
 
 Ses agresseurs s’étaient enfuis, et un homme d’allure correcte se penchait
-sur lui en disant d’un ton où perçait l’inquiétude :
+sur lui en disant d’un ton où perçait l’inquiétude :
 
 — Êtes‑vous blessé, Monsieur ?
 
@@ -227,7 +227,7 @@ sur lui en disant d’un ton où perçait l’inquiétude :
 
 — Sans doute, j’assistais à la Tour Eiffel à vos si curieuses expériences…
 
-Et se remettant sur ses pieds :
+Et se remettant sur ses pieds :
 
 — Le marquis Pierre de Chazelet.
 
@@ -237,12 +237,12 @@ Et se remettant sur ses pieds :
 Ce disant, Allan prenait le bras de son interlocuteur.
 
 — Permettez‑moi de compléter ce petit service en vous mettant dans votre
-  chemin… ; le temps de dissiper la surprise que vous avez éprouvée.
+  chemin… ; le temps de dissiper la surprise que vous avez éprouvée.
 
 — Oh ! je ne veux pas vous retenir… Je suis arrivé… Je rentre au palais
   d’Orsay.
 
-L’Américain eut une exclamation joyeuse :
+L’Américain eut une exclamation joyeuse :
 
 — Tiens… Moi‑même j’habite cet hôtel.
 
@@ -289,7 +289,7 @@ Ainsi, les promeneurs atteignirent le palais d’Orsay.
 
 Ils ne pouvaient se séparer ainsi.
 
-Un cocktail offert et accepté, Allan s’écria tout à coup :
+Un cocktail offert et accepté, Allan s’écria tout à coup :
 
 — Mais j’y songe… Ces méchants drôles ne vous ont‑ils point volé ?
 
@@ -325,17 +325,17 @@ francs est plus pénible que l’effondrement d’une fortune.
 Allan s’informa, plein de pitié devant le bouleversement de son
 compagnon. Celui‑ci, entraîné par la contagion de la sympathie,
 obéissant au besoin inné chez l’homme de confier sa peine, parla… Il
-dit sa vie d’autrefois, inutile et brillante ; sa ruine, sa fuite en
+dit sa vie d’autrefois, inutile et brillante ; sa ruine, sa fuite en
 Espagne, et là, là… L’enchaînement extraordinaire de circonstances
-l’amenant à ce dénouement ridicule : Un vol banal, le réduisant à
+l’amenant à ce dénouement ridicule : Un vol banal, le réduisant à
 l’impossibilité de solder la chambre retenue pour lui à l’hôtel.
 
 L’Américain écoutait. On eût cru que le récit l’intéressait au plus
 haut degré. Des scintillements subits s’allumaient dans ses yeux
-bleus ; il hochait la tête, approuvant les résolutions en suite
+bleus ; il hochait la tête, approuvant les résolutions en suite
 desquelles Chazelet était venu à Paris pour se dévouer.
 
-Enfin, il murmura :
+Enfin, il murmura :
 
 — Je pense, que vous avez tort de vous inquiéter.
 
@@ -343,21 +343,21 @@ Enfin, il murmura :
 
 — J’ai compris, interrompit Allan, ce qui vous échappe en cet instant, où
   vous me semblez hypnotisé par votre dernière aventure. Je ne crois
-  pas au merveilleux, moi : j’explique donc toutes vos tribulations
+  pas au merveilleux, moi : j’explique donc toutes vos tribulations
   _par une volonté qui tend à vous rapprocher de la senorita Linérès_.
 
 Pierre approuva du geste.
 
 Évidemment, lui aussi se rangeait à cette opinion. Seulement cette
 _volonté_ lui demeurait inexplicable, ce qu’il traduisit par cette
-question :
+question :
 
 — Mais pourquoi ? Pourquoi ?
 
 Qui provoqua un sourire de l’Américain.
 
 — Comment vous le dirais‑je ? J’estime toutefois que vous devez attendre
-avec calme ; montrer la plus grande soumission à vous laisser conduire.
+avec calme ; montrer la plus grande soumission à vous laisser conduire.
 Le vouloir, ami ou ennemi, qui s’exerce sur vous, sera d’autant plus
 confiant qu’il vous jugera plus disposé à l’obéissance. Jusqu’à ce soir
 d’ailleurs, l’aventure n’a rien de désagréable. La rencontre d’une
@@ -375,7 +375,7 @@ future fiancée.
 — En effet, c’est une interprétation acceptable…, que contredit cependant
 l’agression de tout à l’heure.
 
-Un instant, Allan demeura pensif. Enfin, se levant :
+Un instant, Allan demeura pensif. Enfin, se levant :
 
 — N’allons pas si vite. Les attaques nocturnes ont une suffisante
   fréquence dans toute grande ville, pour que votre mauvaise chance de
@@ -387,7 +387,7 @@ Un instant, Allan demeura pensif. Enfin, se levant :
 — Bien. Alors, une proposition. Allons nous reposer. Demain, nous
   serons plus frais pour discuter, car…
 
-Allan marqua une légère hésitation, puis acheva :
+Allan marqua une légère hésitation, puis acheva :
 
 — Car, si vous ne me jugez pas importun, je souhaiterais rechercher de
   concert avec vous les _causes_ dont vous venez de me révéler les
@@ -398,15 +398,15 @@ Allan marqua une légère hésitation, puis acheva :
   prononça cette phrase sans avoir le sentiment de parler à haute voix.
 
 — Eh bien, répartit nettement l’inventeur, il est possible que l’on ne
-  vous ait pas menti. Je ne suis pas encore votre ami, M. de Chazelet,
+  vous ait pas menti. Je ne suis pas encore votre ami, M. de Chazelet,
   mais si, comme on le prétend, la sympathie est l’antichambre de
   l’amitié…
 
 Pierre lui tendit la main.
 
-— Je vous répondrai : Ne restons pas là… entrons au salon.
+— Je vous répondrai : Ne restons pas là… entrons au salon.
 
-Les deux hommes échangèrent un cordial _shake hand_ en se répétant :
+Les deux hommes échangèrent un cordial _shake hand_ en se répétant :
 
 — À demain.
 
@@ -420,8 +420,8 @@ nouveau de son aile.
 
 Dans l’un, ses lettres et le potrait de Linérès étaient enveloppés.
 
-Les deux autres contenaient : le premier, les dix mille francs avancés par
-Sélénitès, moins la somme dépensée en voyage ; le second, les billets
+Les deux autres contenaient : le premier, les dix mille francs avancés par
+Sélénitès, moins la somme dépensée en voyage ; le second, les billets
 remis par Morand au voyageur.
 
 Après le bandit qui prête, les voleurs qui restituent.
@@ -429,7 +429,7 @@ Après le bandit qui prête, les voleurs qui restituent.
 Cela dépassait la compréhension du marquis… Toutefois, il sourit, glissa
 le portrait, ainsi que la somme venant d’Espagne, dans un tiroir…, puis
 plaça sur la cheminée celle destinée a rembourser le philanthrope Seigneur
-de la Nuit, avec cette réflexion ironique, formulée à mi‑voix :
+de la Nuit, avec cette réflexion ironique, formulée à mi‑voix :
 
 — Il ne manque plus qu’une chose à cette fantasmagorie, c’est que ce
   paquet, mis sur la cheminée, parvienne à l’adresse de Sélénitès.
@@ -441,6 +441,6 @@ n’eût pu l’espérer, étant données les émotions de la soirée, il
 constata avec stupéfaction que les billets avaient disparu.
 
 À leur place, un reçu en bonne forme, signé Sélénitès, et suivi de ces
-deux mots :
+deux mots :
 
 > Exact. Merci.
