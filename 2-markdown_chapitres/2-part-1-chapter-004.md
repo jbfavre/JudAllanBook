@@ -30,7 +30,7 @@ poètes, politiques, financiers.
 
 Les cartes d’invitation portaient, en effet, ces mots :
 
-> La Peau‑Rouge Marahi, cacique et voyante de sa tribu, sera présentée
+> La Peau-Rouge Marahi, cacique et voyante de sa tribu, sera présentée
   par le major von Foorberg, de Hambourg.
 
 Von Foorberg, ce nom avait mis les cervelles à l’envers. Ce n’était point
@@ -44,10 +44,10 @@ charlatanesque n’était à redouter.
 
 Ce puissant manieur d’argent ne s’abaisserait point au rôle de bateleur.
 
-Et la confiance en lui s’étendait à la peau‑rouge Marahi.
+Et la confiance en lui s’étendait à la peau-rouge Marahi.
 
 Introduite par un homme aussi sérieux, la voyante apparaissait sérieuse.
-Qu’allait‑elle dire durant son sommeil hypnotique ?
+Qu’allait-elle dire durant son sommeil hypnotique ?
 
 Des attachés de la légation, adroitement interrogés, avaient conté à vingt
 personnes, sous le sceau du secret, que la voyante et son introducteur
@@ -72,7 +72,7 @@ Six morts ou blessés, six fiancés hors de combat en peu de semaines, cela
 « convenabilité ».
 
 Ce à quoi les personnes plus tolérantes avaient répondu, en faisant
-remarquer que les victimes s’étaient proclamées elles‑mêmes fiancés de
+remarquer que les victimes s’étaient proclamées elles-mêmes fiancés de
 Linérès, sans qu’elle les eût agréés d’aucune façon, et que dès lors
 elle ne devait aucune concession à leur mémoire.
 
@@ -86,7 +86,7 @@ guère de sympathies, mais Linérès rayonnait d’éclatante beauté. Il
 devait y avoir bien des jalousies cachées sous les critiques formulées
 naguère contre elle.
 
-Dix‑huit ans, le visage plein disant la santé, le teint doré, la jeune
+Dix-huit ans, le visage plein disant la santé, le teint doré, la jeune
 fille avait les traits à la fois caractérisés et délicats. Ses cheveux
 d’un ton inaccoutumé d’or bruni, ses grands yeux glauques semblant
 distiller des rayons d’émeraudes, sa bouche mélancolique contrastant
@@ -104,7 +104,7 @@ citant cette phrase du poème héroïque des olympes septentrionaux :
 
 À cette heure, la vaillance de la jeune fille se trahissait par le
 geste inconsciemment protecteur dont elle soutenait sa mère ; le visage
-de celle‑ci, accentué et dur, exprimait une gêne, un trouble qu’elle
+de celle-ci, accentué et dur, exprimait une gêne, un trouble qu’elle
 s’efforçait vainement de cacher.
 
 — Du courage, mère, murmura la jeune fille.
@@ -132,7 +132,7 @@ Et comme récitant de souvenir, la comtesse prononça lentement :
 Puis d’un ton résolu :
 
 — Je vous ai dit : Mère, on nous annonce la fin des tristesses… Levons la
-  tête pour conquérir le bonheur et allons à ce rendez‑vous.
+  tête pour conquérir le bonheur et allons à ce rendez-vous.
 
 — Oui, oui, murmura la comtesse d’un ton indéfinissable, j’ai cédé…
   parce que l’on parlait de ton bonheur.
@@ -155,7 +155,7 @@ Marahi et à von Foorberg, cet Allemand blond entrevu a la station d’Avila.
 
 Un murmure passe parmi l’assistance.
 
-La voyante est une femme âgée, à la peau rouge‑brun, aux yeux perçants.
+La voyante est une femme âgée, à la peau rouge-brun, aux yeux perçants.
 
 Elle offre bien le type de ces indiens, naguère maîtres des immenses
 solitudes américaines, aujourd’hui décimés, dispersés par
@@ -183,17 +183,17 @@ intonations allemandes lui échappent parfois, il dit :
   hypnotisée. Non, c’est l’héritière d’une science psychique, que l’on
   croyait jusqu’ici appartenir seulement à quelques brahmes hindous.
   Elle lit la pensée à travers la boîte du crâne. Elle lit ce qui,
-  prétend‑elle, dort dans la pensée sans être perceptible à notre
-  intelligence. Cela semble fou, n’est‑ce pas ? Je n’y comprends rien
+  prétend-elle, dort dans la pensée sans être perceptible à notre
+  intelligence. Cela semble fou, n’est-ce pas ? Je n’y comprends rien
   pour ma part, mais elle m’a stupéfié. J’en ai parlé un jour à notre
   hôte actuel. Il a pensé que Marahi apporterait une attraction plus
   grande à cette soirée. La voici. Éprouvez son talent, et je crois
-  pouvoir affirmer que vous serez aussi surpris que moi‑même.
+  pouvoir affirmer que vous serez aussi surpris que moi-même.
 
 Ceci ne ressemblait en rien aux annonces emphatiques des professionnels
 de la divination.
 
-Aussi le public en fut‑il d’autant plus impressionné, d’autant plus
+Aussi le public en fut-il d’autant plus impressionné, d’autant plus
 disposé à croire.
 
 Seulement, quand Herr Von Foorberg demanda :
@@ -208,14 +208,14 @@ Il y eut des chuchotements, des sourires médisants ; rien de plus.
 
 Von Foorberg attendait toujours.
 
-— Voyons, reprit‑il, n’est‑il personne ici qui souhaite le mot d’une
+— Voyons, reprit-il, n’est-il personne ici qui souhaite le mot d’une
   énigme de la vie ? Marahi ne lira rien d’autre. Il arrive, à chaque
   instant, une chose inexplicable pour qui en est atteint. Ceci n’est
   point un secret que l’on craigne de voir dévoiler… ; c’est l’x d’un
   problème que l’on doit désirer connaître.
 
-![La voyante est une femme âgée, à la peau rouge‑brun](../3-images/part1/page-068.jpg
-"La voyante est une femme âgée, à la peau rouge‑brun")
+![La voyante est une femme âgée, à la peau rouge-brun](../3-images/part1/page-068.jpg
+"La voyante est une femme âgée, à la peau rouge-brun")
 
 — Moi, j’aurais ce désir.
 
@@ -237,8 +237,8 @@ desséchées se refusaient à laisser passer les paroles :
 
 — Depuis notre arrivée à Paris, un mystère menaçant entoure ma fille et
 moi. Des journaux se sont emparés de nos personnes, nous devenons des
-faits divers vivants. Qu’est‑ce que cela signifie ? Pourquoi ces choses
-que nous ne comprenons pas ? Que devons‑nous faire ?
+faits divers vivants. Qu’est-ce que cela signifie ? Pourquoi ces choses
+que nous ne comprenons pas ? Que devons-nous faire ?
 
 On ne respirait plus.
 
@@ -271,7 +271,7 @@ restant individuellement inutiles.
 Mais les réflexions s’interrompirent net. Von Foorberg demandait à
 l’Indienne :
 
-— Marahi a entendu. Peut‑elle ce que l’on réclame de son pouvoir ?
+— Marahi a entendu. Peut-elle ce que l’on réclame de son pouvoir ?
 
 La voyante haussa les épaules d’un air de doute, puis lentement elle
 s’approcha de la comtesse et appliqua la main sur son front.
@@ -285,8 +285,8 @@ La voix sonna autoritaire, tel un appel de clairon.
 
 Tous avaient tressailli. Ils regardaient le groupe formé par les deux
 femmes si différentes de race, de condition, surpris de constater que
-la peau‑ rouge semblait dominer la grande dame. Peut‑être quelques‑uns,
-à cette heure, avaient‑ils la vague intuition que la noblesse ne tient
+la peau- rouge semblait dominer la grande dame. Peut-être quelques-uns,
+à cette heure, avaient-ils la vague intuition que la noblesse ne tient
 pas à une particule.
 
 Mais la stupeur fut à son comble quand Marahi murmura d’un ton pensif :
@@ -300,7 +300,7 @@ Un cri vibra :
 
 Linérès était debout, bouleversée :
 
-— Adoptée ? redit‑elle.
+— Adoptée ? redit-elle.
 
 — Tu ne le savais pas ? jeune fille, questionna la voyante.
 
@@ -320,8 +320,8 @@ Elle avait lu dans l’esprit de M^me^ de Armencita le secret ignoré de tous.
 
 Marahi a prononcé cela d’une voix lente, monotone. L’attention redouble.
 
-— Jeune fille, reprend‑elle, consens‑tu à ce que la femme rouge sonde les
-  profondeurs de ta pensée, où tu n’as jamais pénétré toi‑même ?
+— Jeune fille, reprend-elle, consens-tu à ce que la femme rouge sonde les
+  profondeurs de ta pensée, où tu n’as jamais pénétré toi-même ?
 
 Il y eut un instant de lourd silence. Les regards convergeaient sur
 Linérès qui, très pâle, le visage contracté, semblait en proie à une
@@ -350,7 +350,7 @@ bas que personne autre ne put saisir ses paroles.
 
 Puis élevant la voix :
 
-— Tu n’es pas Espagnole, dit‑elle.
+— Tu n’es pas Espagnole, dit-elle.
 
 — Pas Espagnole ! répéta Linérès abasourdie de se voir, en quelques
   répliques dépouiller d’une mère et d’une nationalité.
@@ -366,7 +366,7 @@ Puis élevant la voix :
 
 Mais l’ironie n’éveilla aucun écho. Marahi continuait :
 
-— De l’or, des propriétés immenses… Je les vois, là‑bas, sous la clarté
+— De l’or, des propriétés immenses… Je les vois, là-bas, sous la clarté
   aveuglante, entre deux mers, s’étendant plus vastes que dix départements
   de ce pays de France.
 
@@ -391,12 +391,12 @@ Le feuilleton le plus audacieux était dépassé.
 Et l’héroïne de ce roman apparaissait auréolée par une douleur surhumaine,
 adorable et touchante.
 
-— Je reverrai ma mère ? balbutia‑t‑elle d’une voix éteinte.
+— Je reverrai ma mère ? balbutia-t-elle d’une voix éteinte.
 
 On eût entendu une mouche voler. Chacun retenait sa respiration pour
 percevoir la réponse de la voyante.
 
-— Oui, bientôt, fit doucement celle‑ci.
+— Oui, bientôt, fit doucement celle-ci.
 
 Il se produisit un mouvement dans l’assistance. La nervosité trop
 longtemps contenue demandait à s’exprimer.
@@ -409,7 +409,7 @@ L’Indienne profita de cet instant.
 Sa main quitta le front de la jeune fille, s’abaissa à hauteur de ses
 yeux.
 
-— Regarde dans ma main, jeune fille, murmura‑t‑elle. L’ovale magique a
+— Regarde dans ma main, jeune fille, murmura-t-elle. L’ovale magique a
   parlé. Regarde celui qui doit t’épouser.
 
 Linérès fit ce qu’on lui demandait.
@@ -447,13 +447,13 @@ Ainsi qu’un cours d’eau qui rompt ses digues les conversations
 s’entrecroisaient chacun commentant avec animation la scène étrange qui
 venait devoir lieu.
 
-La comtesse de Armencita, Linérès étaient elles‑mêmes oubliées,
+La comtesse de Armencita, Linérès étaient elles-mêmes oubliées,
 absorbées en quelque sorte par l’intérêt qu’accaparait la voyante.
 
 Les problèmes déconcertants, soupçonnés par les grands maîtres du
-Psychisme, étaient‑ils réels ?
+Psychisme, étaient-ils réels ?
 
-Linéres cependant reprenait peu à peu possession de son sang‑froid.
+Linéres cependant reprenait peu à peu possession de son sang-froid.
 
 Elle promena autour d’elle un regard aigu, constata que l’on ne
 s’occupait pas d’elle, et se glissant à travers les groupes, elle gagna
@@ -488,7 +488,7 @@ plaque métallique :
 
 Pierre de Chazelet.
 
-— Vous me connaissez ? fit‑il d’une voix tremblante, tandis qu’une pâleur
+— Vous me connaissez ? fit-il d’une voix tremblante, tandis qu’une pâleur
 s’abaissait sur ses traits.
 
 Et elle, encouragée par le trouble où elle le voyait, répondit :
@@ -512,8 +512,8 @@ reconnu son image.
 
 — Étrange !
 
-— Mais, continuez… Je m’étonne que ma mère ‑ Linéres prononça ce mot avec
-  une douloureuse inflexion ‑ que ma mère ne se soit pas encore
+— Mais, continuez… Je m’étonne que ma mère - Linéres prononça ce mot avec
+  une douloureuse inflexion - que ma mère ne se soit pas encore
   inquiétée de mon absence…; continuez.
 
 Il s’inclina, puis doucement :
@@ -524,7 +524,7 @@ Il s’inclina, puis doucement :
 Le mot sonna en glas dans le cerveau de la jeune fille. Elle jeta les bras
 en avant comme pour repousser sa pensée.
 
-— Non, non, fit‑elle la voix s’étranglant dans sa gorge… Il ne faut pas
+— Non, non, fit-elle la voix s’étranglant dans sa gorge… Il ne faut pas
   vouloir m’épouser… Voyez, l’on en meurt…
 
 — Cela n’est pas pour m’effrayer… Qui sait, répliqua doucement Pierre, je
@@ -534,7 +534,7 @@ en avant comme pour repousser sa pensée.
 
 Et comme la porte du salon s’ouvrait lentement, il acheva vite :
 
-— Permettez‑moi de me présenter chez vous demain, Mademoiselle. En
+— Permettez-moi de me présenter chez vous demain, Mademoiselle. En
   présence de M^me^ votre mère, je vous conterai dans ses moindres
   détails l’aventure qui m’a amené, moi, marquis Pierre de Chazelet,
   jusqu’ici.
@@ -543,12 +543,12 @@ La comtesse, entourée par plusieurs personnes, apparaissait sur le seuil.
 
 Il fallait répondre sans retard, le loisir de la discussion n’existait pas.
 
-— Demain soir, fit‑elle dans un murmure, nous serons seules ; nous vous
+— Demain soir, fit-elle dans un murmure, nous serons seules ; nous vous
   attendrons.
 
 Puis courant à M^me^ de Armencita :
 
-— Ah ! sécria‑t‑elle, toute la fantasmagorie de ce soir m’a brisée, et je
+— Ah ! sécria-t-elle, toute la fantasmagorie de ce soir m’a brisée, et je
   me serais endormie, je crois, si M. le marquis de Chazelet n’avait
   réussi à m’intéresser à une histoire de gitana qu’il rapporte d’Espagne.
 
@@ -569,7 +569,7 @@ quitta le petit salon.
 
 Chazelet y demeura, avec quelques curieux, espérant tirer de lui
 quelques bribes de sa conversation avec Linérès, ce point de mire des
-curiosités du Tout‑Paris élégant rassemblé à la Légation.
+curiosités du Tout-Paris élégant rassemblé à la Légation.
 
 Mais Pierre n’était point en humeur de se prêter aux désirs bavards des
 oisifs.

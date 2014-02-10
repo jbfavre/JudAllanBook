@@ -2,9 +2,9 @@
 
 ![](../3-images/part1/page-196.jpg)
 
-Qu’est‑ce que Jud ?
+Qu’est-ce que Jud ?
 
-Où a‑t‑il vu le jour ?
+Où a-t-il vu le jour ?
 
 Quels parents l’ont abandonné à l’instant où ses yeux s’ouvraient sur la
 vie ?
@@ -12,19 +12,19 @@ vie ?
 Quels êtres ont recueilli tout d’abord le petit être et lui ont conservé
 le souffle ?
 
-Cela, Jud n’en sait rien lui‑même. Il est une fleur du pavé, une
+Cela, Jud n’en sait rien lui-même. Il est une fleur du pavé, une
 hirondelle du ruisseau, comme disent les gens heureux, dotés d’une
 famille.
 
 Un profond soupir de Lilian ponctua la phrase. Mais Grace ne parut pas
 l’entendre et poursuivit :
 
-Avait‑il quatre ans, Jud, ou cinq, ou moins, quand la faculté d’observer
+Avait-il quatre ans, Jud, ou cinq, ou moins, quand la faculté d’observer
 naquit chez lui ? Cela ne saurait être élucidé.
 
-Toujours est‑il qu’à cette époque, il appartenait à une troupe d’enfants,
+Toujours est-il qu’à cette époque, il appartenait à une troupe d’enfants,
 abandonnés comme lui, qui trouvaient le vivre et le couvert dans une
-grande bâtisse, située à Oakland, en face de San‑Francisco. 
+grande bâtisse, située à Oakland, en face de San-Francisco. 
 
 Le chef et nourricier de la troupe était un industriel de la rue qui,
 selon les aptitudes de ses « pupilles », les dressait à la mendicité ou au
@@ -34,7 +34,7 @@ Or, Jud ne voulut s’adonner à aucun de ces « métiers », ainsi que l’on
 désignait ces occupations à Oakland. Mais par contre, il se montrait
 robuste, adroit, audacieux. Le « patron » le loua à une compagnie de
 gymnastes ambulants, avec lesquels il parcourut le territoire des
-États‑Unis. ll grandit, et sept ou huit ans plus tard, la dislocation, le
+États-Unis. ll grandit, et sept ou huit ans plus tard, la dislocation, le
 trapèze, le bâton, la boxe n’avaient plus de secrets pour lui.
 
 Pour son malheur, Jud avait conservé un certain don quichottisme inné.
@@ -46,30 +46,30 @@ Le 15 septembre 1892, le jeune Jud, agé de douze ans environ, ainsi que
 l’établit l’instruction avec autant d’exactitude qu’en comporte l’état
 civil d’un orphelin, sans répondants d’aucune sorte et sans domicile fixe,
 le jeune Jud, dit Allan, fut condamné à deux mois de détention dans la
-_prison moralisatrice_ d’Alb‑Point, établie par un philanthrope sur la
-hauteur de Fall‑Hill, à quelques milles de San‑Francisco.
+_prison moralisatrice_ d’Alb-Point, établie par un philanthrope sur la
+hauteur de Fall-Hill, à quelques milles de San-Francisco.
 
 Le délit qui motivait sa condamnation provoqua la gaieté de l’auditoire
 rassemblé autour du tribunal.
 
 Jud avait rossé deux policemen, coupables selon lui d’avoir tenté
-d’arrêter arbitrairement une petite marchande de fleurs. Celle‑ci s’était
+d’arrêter arbitrairement une petite marchande de fleurs. Celle-ci s’était
 enfuie à la faveur de la bagarre, et Jud avait obstinément refusé
 d’apprendre à ses juges, le nom, l’adresse de la fugitive.
 
 À toutes leurs questions il avait répondu :
 
 — Vous êtes juges. Votre métier est de condamner. Vous me tenez,
-condamnez‑moi ; mais ne me demandez pas d’être votre pourvoyeur de
+condamnez-moi ; mais ne me demandez pas d’être votre pourvoyeur de
 victimes.
 
-Durant trois jours, tout San‑Francisco s’était entretenu du _Chevalier
+Durant trois jours, tout San-Francisco s’était entretenu du _Chevalier
 vagabond_, ainsi qu’on le désignait avec une nuance de bienveillance ;
 puis le tribunal, impressionné par l’inconsciente sympathie publique,
 avait fait bénéficier le prévenu des circonstances atténuantes… Ici, deux
 mois d’emprisonnement.
 
-Donc Jud fut interné à Alb‑Point.
+Donc Jud fut interné à Alb-Point.
 
 La prison, édifiée sur la pente de la colline de Fall, se compose de deux
 « quartiers distincts ».
@@ -91,31 +91,31 @@ petit vagabond semblait vouloir faire provision de chaleur et de lumière
 pour l’hiver tout proche.
 
 Ses compagnons de captivité l’avaient déjà reconnu comme chef, grâce à
-quelques coups de poing appliqués avec mæstria. Aussi l’avaient‑ils laissé
+quelques coups de poing appliqués avec mæstria. Aussi l’avaient-ils laissé
 seul, évitant de troubler sa sieste.
 
 Jud avait fermé les yeux, non pour dormir, mais pour regarder en dedans de
-lui‑même. Au fond de sa juvénile pensée, il voyait des choses étranges
+lui-même. Au fond de sa juvénile pensée, il voyait des choses étranges
 souvent entrevues déjà, et entre autres l’iniquité d’une société qui le
 retenait prisonnier, uniquement pour avoir accompli un acte de justice.
 
 De justice, parfaitement.
 
-Qu’avait‑il fait en somme ? Il avait défendu une enfant inconnue, coupable
+Qu’avait-il fait en somme ? Il avait défendu une enfant inconnue, coupable
 seulement de vendre des fleurs afin de gagner sa nourriture. De quel droit
-les policemen, qu’il avait prestement jetés à terre, prétendaient‑ils
+les policemen, qu’il avait prestement jetés à terre, prétendaient-ils
 empêcher la fillette de gagner les quelques cents nécessaires à sa
 subsistance.
 
-Quel tort la pauvrette causait‑elle à la société ?
+Quel tort la pauvrette causait-elle à la société ?
 
-Est‑ce que les misérables devaient renoncer au droit de vivre ?
+Est-ce que les misérables devaient renoncer au droit de vivre ?
 
 Soudain, une phrase articulée tomba au milieu de ses pensées.
 
 Tout près de lui, une voix avait prononcé :
 
-— Enfin, décide‑toi, Tom, tu es bien dégoûté… Cinq cents dollars à gagner,
+— Enfin, décide-toi, Tom, tu es bien dégoûté… Cinq cents dollars à gagner,
 la clef des champs… et de l’avenir… Tout cela pour ramasser une gamine de
 deux ans et la laisser tomber dans le rio (rivière) le plus proche.
 
@@ -124,7 +124,7 @@ Grace s’arrêta net. Elle échangea un regard anxieux avec Lilian.
 Toutes deux, sans s’être consultées, avaient ressenti la même commotion.
 
 Tantôt, au Sénat, on avait aussi parlé d’une fillette de deux ans,
-arrachée à sa famille. Était‑ce la même ?
+arrachée à sa famille. Était-ce la même ?
 
 Pas un mot ne fut prononcé… Grace reporta les yeux sur le manuscrit et
 poursuivit sa lecture.
@@ -138,7 +138,7 @@ ne se montrait.
 Le gamin se frotta les yeux, scruta les alentours sans découvrir celui qui
 venait de parler. Et comme il cherchait encore, la voix reprit :
 
-— Est‑ce dit ?
+— Est-ce dit ?
 
 Un organe assourdi répliqua :
 
@@ -151,20 +151,20 @@ Et en petit « chevalier de la belle étoile », accoutumé à observer, il
 comprit aussitôt.
 
 Il avait choisi comme lieu de sieste un point de la muraille voisin du
-conduit ; celui‑ci fonctionnait comme un tube acoustique, lui apportant la
+conduit ; celui-ci fonctionnait comme un tube acoustique, lui apportant la
 conversation de deux inconnus se croyant à l’abri de toute indiscrétion
 dans la cour la plus élevée.
 
 Toute la petite âme du gamin fut bouleversée. Il ne raisonna pas, ne
-discuta point avec lui‑même ; mais le désir d’empêcher l’attentat
+discuta point avec lui-même ; mais le désir d’empêcher l’attentat
 l’envahit. Après avoir battu les policemen, il se sentit disposé à rosser
 les bandits !
 
-Comment s’y prendrait‑il, lui, petit prisonnier, gardé par d’épaisses
+Comment s’y prendrait-il, lui, petit prisonnier, gardé par d’épaisses
 murailes et par une armée de geôliers ?
 
-Il ne se le demanda pas tout de suite. Mais avec une confiance peut‑être
-excessive en lui‑même, il se déclara sans hésiter :
+Il ne se le demanda pas tout de suite. Mais avec une confiance peut-être
+excessive en lui-même, il se déclara sans hésiter :
 
 — Je suivrai Tom et Jetty,… et je leur arracherai leur victime.
 
@@ -196,7 +196,7 @@ Il y eut un court silence. Enfin, l’organe de Jetty reprit :
   des _boys_ (enfants) ; elle y sera… Il assure que les geôliers seront
   aveugles… Ils le seront… Donc, à minuit, je viendrai ici, et, avec ou
   sans toi, je passerai dans le quartier des « petits », puis hors
-  d’Alb‑Point.
+  d’Alb-Point.
 
 — Parbleu ! repartit Tom, je ne suis pas plus bête qu’un autre…, et si le
   « Crane » a réellement promis ces choses, je suis de la partie.
@@ -235,7 +235,7 @@ suite, il se répondit :
 
 Le signal annonçant la fin de la récréation ayant été donné, il se mit en
 rang avec ses codétenus pour se rendre ainsi à « l’atelier », où les
-prisonniers travaillaient à la fabrication de boîtes de fer‑blanc
+prisonniers travaillaient à la fabrication de boîtes de fer-blanc
 destinées aux grandes usines de conserves de Chicago.
 
 Le vagabond avait son idée.
@@ -258,7 +258,7 @@ Chose étrange, l’enfant qui n’avait cessé de gémir tant qu’avait duré 
 pansement, s’apaisa dès qu’il demeura seul dans l’un des petits dortoirs
 affectés aux malades. Bien plus, un sourire passa sur ses traits.
 
-— Cela fait mal, mmurmura‑t‑il, mais ici, les portes ne sont point
+— Cela fait mal, mmurmura-t-il, mais ici, les portes ne sont point
   cadenassées, je pourrai plus facilement filer dans la cour.
 
 — Quel courage ! murmura Lilian, exprimant son sentiment sans en avoir
@@ -268,7 +268,7 @@ affectés aux malades. Bien plus, un sourire passa sur ses traits.
 
 Et taquine : 
 
-— Trembles‑tu encore à cette lecture ?
+— Trembles-tu encore à cette lecture ?
 
 — Oui, pour lui.
 
@@ -278,7 +278,7 @@ Et taquine :
 
 Une teinte rosée se répandit sur les joues de linterpellée.
 
-— Le malheur n’est point une honte, prononça‑t‑elle…
+— Le malheur n’est point une honte, prononça-t-elle…
 
 Mais la pétulante Grace lui coupa la parole :
 
@@ -300,7 +300,7 @@ dans la nuit.
   viendra nous apporter le thé et éteindre les lumières… Si nous marchons
   de ce train, nous n’aurons jamais fini.
 
-Mais à peine eut‑elle jeté les yeux sur le manuscrit qu’elle s’écria :
+Mais à peine eut-elle jeté les yeux sur le manuscrit qu’elle s’écria :
 
 — Ce n’est plus la même écriture.
 
@@ -314,20 +314,20 @@ Et sa compagne se taisant, elle lut :
 Le soir vint. Jud connaissait une nouvelle inquiétude. Son bras blessé
 avait enflé ; une intolérable souffrance engourdissait le gamin.
 
-Est‑ce qu’au moment d’agir, il allait se trouver sans force pour réaliser
+Est-ce qu’au moment d’agir, il allait se trouver sans force pour réaliser
 le plan conçu d’enthousiasme ?
 
-— Voilà où conduit l’ignorance, se disait‑il. Plus instruit, j’aurais
+— Voilà où conduit l’ignorance, se disait-il. Plus instruit, j’aurais
   mesuré, dosé la brûlure, de façon à obtenir l’infirmerie, tout en
   conservant la vigueur nécessaire.
 
-Ce fut ce soir‑là, récompense sans doute d’une pensée de justice, que le
+Ce fut ce soir-là, récompense sans doute d’une pensée de justice, que le
 _chevalier vagabond_ comprit la nécessité de l’instruction. C’est de ce
 moment que lui vint la volonté de savoir.
 
 Vers huit heures, l’infirmier renouvela le pansement du blessé. Il fit la
 grimace en constatant la poussée de la fièvre. Le thermomètre accusait
-chez Jud une température de 39° 9. Aussi obligea‑t‑il le gamin à se
+chez Jud une température de 39° 9. Aussi obligea-t-il le gamin à se
 coucher immédiatement.
 
 Jud ne résista aucunement au brave homme. Il se glissa dans sa couchette
@@ -387,7 +387,7 @@ hommes a commencé sa descente.
 C’est vrai, Jud n’y a pas songé. Ils ne doivent descendre que l’un après
 l’autre.
 
-Qu’arrivera‑t‑il, si le premier aperçoit le gamin ? Il donnera l’alarme
+Qu’arrivera-t-il, si le premier aperçoit le gamin ? Il donnera l’alarme
 à son compagnon. Et alors ?
 
 L’enfant s’applique contre le mur sombre, faisant corps avec lui,
@@ -407,11 +407,11 @@ pour distinguer celui qui les espionne.
 
 Tous deux sont à présent dans la cour inférieure. Ils chuchotent :
 
-— Eh bien, Tom, vieux garçon, cela marche‑t‑il à vos souhaits ?
+— Eh bien, Tom, vieux garçon, cela marche-t-il à vos souhaits ?
 
-— Bien sûr, Jetty…, bien sûr… Si cela continue, je serai comme vous‑même.
+— Bien sûr, Jetty…, bien sûr… Si cela continue, je serai comme vous-même.
 
-— Que voulez‑vous exprimer par ces mots ?
+— Que voulez-vous exprimer par ces mots ?
 
 — Que je croirai au « Crâne » avec autant de dévotion qu’au vieux Nick
   (le diable).
@@ -420,7 +420,7 @@ Ils rient sans bruit.
 
 — Et la corde ? reprend Tom.
 
-— Laissons‑la… Ce sera une consolation pour le _manager_ (directeur,
+— Laissons-la… Ce sera une consolation pour le _manager_ (directeur,
   forme burlesque). Il perd deux bouches à nourrir, et il gagne un beau
   filin qui vaut trois dollars comme dix cents… C’est une superbe
   affaire.
@@ -443,12 +443,12 @@ broussaille, comme des yeux de fauve dans un buisson.
 
 Il n’y a pas à s’y méprendre ; ce sont là de dangereux compagnons.
 
-Et cependant, Jud comprend qu’il lui faut jouer un va‑tout.
+Et cependant, Jud comprend qu’il lui faut jouer un va-tout.
 
-Brusquement, il sort de l’ombre où il s’est tapi jusque‑là. À sa vue, les
+Brusquement, il sort de l’ombre où il s’est tapi jusque-là. À sa vue, les
 bandits se mettent en défense avec un grondement étouffé.
 
-Mais le gamin a un sang‑froid que rien ne saurait démonter… Puis, sa vie
+Mais le gamin a un sang-froid que rien ne saurait démonter… Puis, sa vie
 errante l’a sans doute blasé sur les rencontres semblables.
 
 — N’ayez pas peur, gentlemen, ce n’est pas un ennemi, c’est un bon
@@ -468,10 +468,10 @@ interlocuteurs. Pourtant, Jetty grommelle d’un ton peu rassurant :
 Tous deux ricanent à la réplique audacieuse de ce gamin, que chacun
 suppose pouvoir écraser d’une chiquenaude.
 
-— Et tu prétends nous imposer ta convenance, peut‑être ?
+— Et tu prétends nous imposer ta convenance, peut-être ?
 
 L’accent ferait frémir quiconque l’entendrait. Seulement, Jud sait qu’il
-joue un va‑tout, et il riposte en souriant :
+joue un va-tout, et il riposte en souriant :
 
 — Parfaitement…
 
@@ -480,16 +480,16 @@ joue un va‑tout, et il riposte en souriant :
 — À quoi ? Si vous faites un pas vers moi… J’approche de mes lèvres le
   sifflet que je tiens à la main, et j’en tire une telle musique que
   j’attirerai tout le personnel de la prison… Vous n’avez pas acheté la
-  complicité de tout le monde, n’est‑ce pas… ? Alors, vous comprenez.
+  complicité de tout le monde, n’est-ce pas… ? Alors, vous comprenez.
 
 Les bandits sont stupéfiés par cette déclaration faite avec le plus grand
-sang‑froid. Et comme malgré lui, Jetty demande :
+sang-froid. Et comme malgré lui, Jetty demande :
 
-— Que veux‑tu donc, entêté moucheron ?
+— Que veux-tu donc, entêté moucheron ?
 
 — M’évader avec vous, c’est bien facile à comprendre.
 
-— Et qu’est‑ce qui te fait croire que nous pensons à nous évader ?
+— Et qu’est-ce qui te fait croire que nous pensons à nous évader ?
 
 Du coup, Jud se met à rire de bon cœur.
 
@@ -499,7 +499,7 @@ Du coup, Jud se met à rire de bon cœur.
   veux pas tromper d’honorables gentlemen comme vous. Tantôt, à l’heure
   de la récréation, vous avez causé de vos petites affaires…
 
-— Comment le sais‑tu ? rugit Tom en faisant un pas en avant.
+— Comment le sais-tu ? rugit Tom en faisant un pas en avant.
 
 — Halte ! ou je siffle.
 
@@ -520,7 +520,7 @@ Rien ne maîtrise les bandits comme l’audace tranquille.
 — Parle donc, consentit Jetty, tandis que Tom acquiesçait d’un geste
   rageur de sa tête embroussaillée.
 
-— Ainsi fais‑je. J’ai appris ainsi que le « Crâne » avait préparé votre
+— Ainsi fais-je. J’ai appris ainsi que le « Crâne » avait préparé votre
   évasion ; naturellement je me suis dit : Par le diable ! Je m’ennuie
   ici… Je partirai avec ces braves gentlemen. À l’atelier, je me suis
   blessé exprès pour être envoyé à l’infirmerie, d’où il était plus
@@ -534,11 +534,11 @@ Rien ne maîtrise les bandits comme l’audace tranquille.
 Puis lentement, avec une assurance qui médusa ses interlocuteurs :
 
 — Primo… Je profiterai des dispositions prises en votre faveur, et je
-  quitterai Alb‑Point avec vous.
+  quitterai Alb-Point avec vous.
 
 Jetty et Tom échangèrent un regard.
 
-— Soit, fit le premier…, jusque‑là c’est possible…
+— Soit, fit le premier…, jusque-là c’est possible…
 
 — Bien. Secundo : Je n’ai aucun moyen de gagner ma vie… Je veux entrer au
   service du « Crâne », qui s’occupe si bien de la liberté de ses amis.
@@ -552,7 +552,7 @@ Cette fois, les deux hommes éclatèrent de rire.
 
 Mais le gamin interrompit leurs plaisanteries.
 
-— Peut‑être plus de gré que vous ne le supposez. Je suis jeune, mais
+— Peut-être plus de gré que vous ne le supposez. Je suis jeune, mais
   notre rencontre vous démontre que je ne suis pas plus maladroit
   qu’un autre.
 
@@ -568,7 +568,7 @@ Décidément, ce petit bonhomme montrait une confiance déconcertante. Voilà
 qu’il critiquait le « Crâne », ce chef dont eux, des vétérans du crime,
 ne parlaient qu’avec déférence.
 
-— Vous désirez des preuves, poursuivit Jud, en voici. Savez‑vous pourquoi
+— Vous désirez des preuves, poursuivit Jud, en voici. Savez-vous pourquoi
   je suis interné dans cette hôtellerie du gouvernement ?
 
 — Ma foi non, garçon, tu t’en doutes bien.
@@ -583,7 +583,7 @@ Les bandits ne riaient plus. Le ton du gamin les troublait.
 
 — Toi ? répéta Jetty.
 
-— Moi‑même… Une fois dehors d’ailleurs, si tu doutes encore, je me fais
+— Moi-même… Une fois dehors d’ailleurs, si tu doutes encore, je me fais
   fort de te _tomber_ autant de fois qu’il sera nécessaire, pour te
   persuader que ta vigueur n’est rien auprès de l’adresse.
 
@@ -609,7 +609,7 @@ Puis, s’adressant à son compagnon :
 
 — Tape aussi, Tom, je le veux.
 
-Et celui‑ci ayant obéi, non sans faire la grimace :
+Et celui-ci ayant obéi, non sans faire la grimace :
 
 — À présent, assez causé… En route !
 
@@ -635,7 +635,7 @@ Réflexion qui accentua encore la satisfaction de son interlocuteur.
 Sans encombre, on parvint ainsi à la double porte, bardée de fer,
 accédant à l’extérieur.
 
-À droite, la loge du gardien‑concierge, éclairée par une ampoule
+À droite, la loge du gardien-concierge, éclairée par une ampoule
 électrique indiquait un obstacle infranchissable en apparence.
 
 Mais Jetty ouvrit la porte vitrée. Tournant le dos à l’entrée, le gardien
@@ -669,7 +669,7 @@ sourd s’ébranla, accéléra sa marche et s’enfonça à grande vitesse dans 
 nuit.
 
 Durant deux heures, Jud fut emporté à travers la banlieue de
-San‑Francisco sans comprendre les mouvements de l’automobile.
+San-Francisco sans comprendre les mouvements de l’automobile.
 
 À plusieurs reprises, on stoppa devant des maisons, villas ou autres.
 
@@ -684,7 +684,7 @@ Au pied d’un escalier du _pier_, un canot se balançait sur l’eau.
 
 — Embarque, ordonna Jetty à son jeune compagnon.
 
-Celui‑ci hocha la tête.
+Celui-ci hocha la tête.
 
 — Ah ! Ah ! nous allons voir le Crâne.
 
@@ -707,7 +707,7 @@ Celui‑ci hocha la tête.
 
 Et se penchant vers le gamin, Jetty ajouta d’un ton bourru :
 
-— Souviens‑toi que je suis responsable de ta conduite, garçon…, et que
+— Souviens-toi que je suis responsable de ta conduite, garçon…, et que
   j’aimerais mieux te faire avaler quelques pouces de fer qu’avoir des
   ennuis à cause de toi.
 
@@ -719,7 +719,7 @@ Et se penchant vers le gamin, Jetty ajouta d’un ton bourru :
 Déjà Jud prenait place dans la barque, avec un empressement qui dérida
 son répondant.
 
-Celui‑ci et Tom imitèrent le gamin. Puis, tandis que l’automobile,
+Celui-ci et Tom imitèrent le gamin. Puis, tandis que l’automobile,
 évoluant sur le quai, s’engouffrait dans une rue latérale, le canot
 s’éloigna du rivage.
 
@@ -733,7 +733,7 @@ qu’il s’était enfoncé dans un lourd sommeil que la fièvre peuplait
 d’imprécis cauchemars.
 
 Le jeune garçon dut dormir longtemps, car en rouvrant les yeux, il
-éprouva une sensation de bien‑être merveilleux.
+éprouva une sensation de bien-être merveilleux.
 
 La fièvre l’avait quitté. Son bras blessé ne pesait plus à son épaule.
 Surpris, il y porta la main. Le contact n’occasionna aucune douleur.
@@ -741,15 +741,15 @@ Surpris, il y porta la main. Le contact n’occasionna aucune douleur.
 Et comme il s’étonnait de cette guérison rapide, la porte de la cabine
 s’ouvrit livrant passage à Jetty.
 
-— Eh bien, mon garçon, fit‑il gaiement, vous pouvez vous vanter d’être un
+— Eh bien, mon garçon, fit-il gaiement, vous pouvez vous vanter d’être un
 dormeur intrépide.
 
 — Moi.
 
-— Bon, allez‑vous faire le modeste…? Il est vrai que vous aviez le bras
+— Bon, allez-vous faire le modeste…? Il est vrai que vous aviez le bras
   dans un vilain état. Qui vous avait donc brûlé ainsi ?
 
-— C’était moi‑même.
+— C’était moi-même.
 
 — Pristi ! Vous qui vantiez votre adresse…!
 
@@ -759,7 +759,7 @@ dormeur intrépide.
 
 La figure du bandit exprima l’étonnement et l’admiration :
 
-— Mâtin ! _C’est le grillon qui mangerait l’ours !_ [^1‑12‑1]
+— Mâtin ! _C’est le grillon qui mangerait l’ours !_ [^1-12-1]
 
 Puis, d’un ton adouci :
 
@@ -784,7 +784,7 @@ Jetty se prit à rire bruyamment :
   disait à l’instant : je vais me lever, car je me sens frais et dispos.
 
 — Et vous casseriez bien une croûte, fit joyeusement son interlocuteur…
-  Levez‑vous donc, puis, votre estomac satisfait, vous viendrez sur le
+  Levez-vous donc, puis, votre estomac satisfait, vous viendrez sur le
   pont, où vous trouverez de bons compagnons.
 
 Le gamin n’attendit pas qu’on lui répétât l’invitation.
@@ -793,21 +793,21 @@ Il se mit sur son séant. Mais à ce moment, il eut une impression étrange.
 Il lui sembla éprouver un balancement analogue au roulis d’un navire en
 marche.
 
-— Oh ! Oh ! murmura‑t‑il, j’ai le vertige… On dirait que tout remue
+— Oh ! Oh ! murmura-t-il, j’ai le vertige… On dirait que tout remue
   autour de moi.
 
 De nouveau, Jetty emplit la cabine de son rire sonore :
 
 — Pas du tout, mon garçon, pas du tout le vertige… Nous sommes en pleine
   mer. Vous pensez bien que, depuis quatre jours, nous avons quitté la
-  rade de San‑Francisco, et que _la porte d’Or_ (entrée du port)
+  rade de San-Francisco, et que _la porte d’Or_ (entrée du port)
   franchie, on a _labouré des milles_ sur l’Océan Pacifique.
 
 La déclaration du bandit surprit le petit ; mais il était naturel que les
 criminels, dont il avait découvert les projets, s’éloignassent rapidement
-de la prison d’Alb‑Point.
+de la prison d’Alb-Point.
 
-— Et où allons‑nous ?
+— Et où allons-nous ?
 
 Cette fois, Jetty applique son index sur ses lèvres.
 
@@ -825,7 +825,7 @@ dents quelques tranches de jambon fumé, accompagnées dune copieuse ration
 de haricots rouges, le tout arrosé d’un verre de vin rosé de Californie.
 
 Son compagnon l’avait quitté et s’entretenait à voix basse, avec
-plusieurs hommes, à l’autre extrémité de la cabine‑réfectoire.
+plusieurs hommes, à l’autre extrémité de la cabine-réfectoire.
 
 Tout en mangeant, le _chevalier vagabond_ les considéra.
 
@@ -854,7 +854,7 @@ vocable basque d’Elisalt et à l’appellation florentine de Zirini.
 
 Puis venait un personnage long, sec, maigre, dont la face anguleuse
 montrait une teinte jaune, des yeux bridés, dénotant une origine chinoise,
-ce que confirmait du reste son nom bien célestial : Kan‑So.
+ce que confirmait du reste son nom bien célestial : Kan-So.
 
 Enfin, deux individus, de haute stature, le teint coloré, adornés, qui de
 cheveux roux, qui d’une tignasse blonde. Le roux se déclarait Allemand et
@@ -872,7 +872,7 @@ esprit, ainsi que la nationalité et le caractère de chacun.
 
 Jetty s’aperçut que l’enfant ne mangeait plus.
 
-— Eh ! mon jeune coq, votre faim est‑elle apaisée ?
+— Eh ! mon jeune coq, votre faim est-elle apaisée ?
 
 — Ma foi oui, et j’en suis surpris. J’aurais cru pouvoir dévorer
   indéfiniment, tant je sonnais le creux.
@@ -904,7 +904,7 @@ La cérémonie terminée, Foorberg grommela :
 L’Allemand fronça le sourcil, tandis que Jetty et Tom s’esclaffaient,
 entraînant au rire les autres assistants.
 
-— Sacrament ! gronda Foorberg ; est‑ce ainsi que tu démontres ton
+— Sacrament ! gronda Foorberg ; est-ce ainsi que tu démontres ton
   respect pour des gens qui t’honorent en te recevant dans leur société ?
 
 Avec un sourire, le petit riposta aussitôt :
@@ -923,7 +923,7 @@ S’il avait pensé terrifier son interlocuteur, Foorberg dut être
 désagréablement déçu par l’événement. Jud se prit à rire aux éclats. Et
 l’Allemand, irrité, lui ayant demandé rudement :
 
-— Ah ah ! Qu’est‑ce qui te fait rire ainsi, petite vermine?
+— Ah ah ! Qu’est-ce qui te fait rire ainsi, petite vermine?
 
 — C’est vous, bégaya son interlocuteur.
 
@@ -931,7 +931,7 @@ l’Allemand, irrité, lui ayant demandé rudement :
 
 — C’est votre faute aussi, avec cette idée de m’écraser d’une pichenette.
 
-— En quoi cela est‑il risible ? Douterais‑tu de la possibilité de la
+— En quoi cela est-il risible ? Douterais-tu de la possibilité de la
   chose ?
 
 — Je pense bien que j’en doute… Pour m’écraser comme cela, il faudrait
@@ -951,7 +951,7 @@ Quant à von Foorberg, son visage était devenu cramoisi.
 À ce défi que tous considérèrent comme une plaisanterie, von Foorberg parut
 prêt à s’élancer sur le railleur. Jetty se jeta entre eux.
 
-— Allons Foorberg, vous n’allez pas brutaliser ce garçon. Souvenez‑vous
+— Allons Foorberg, vous n’allez pas brutaliser ce garçon. Souvenez-vous
   que c’est un pupille du Crâne qui veut essayer de faire des élèves…
 
 Mais il ne continua pas. Jud Allan l’avait saisi par le bras.
@@ -977,11 +977,11 @@ Mais tandis que tous passaient par l’escalier du pont, l’Irlandais retint
 l’enfant en arrière.
 
 — Vous savez, petite chose, il a la main lourde, Foorberg… Aussitôt que
-  vous en aurez assez, appelez‑moi…; et les couteaux dussent‑ils prendre
+  vous en aurez assez, appelez-moi…; et les couteaux dussent-ils prendre
   l’air, je vous ferai lâcher.
 
 — Bon, murmura Jud, je vous remercie, Jetty… Mais vous oubliez ce que je
-  vous ai dit à Alb‑Point ; la force n’est rien, l’adresse est tout.
+  vous ai dit à Alb-Point ; la force n’est rien, l’adresse est tout.
 
 — C’était donc sérieusement que vous me proposiez de _me tomber_ ?
 
@@ -1024,7 +1024,7 @@ s’adonnant à la contrebande à l’occasion. Et cependant tous sont choqués
 par la disproportion des forces des deux combattants.
 
 Mais l’anxiété fait place à une véritable stupeur. Jud a sauté de côté,
-évité le choc de l’Allemand, et celui‑ci, projeté comme par une
+évité le choc de l’Allemand, et celui-ci, projeté comme par une
 catapulte, s’est étalé rudement sur le plancher.
 
 — Première touche, gouaille le gamin, le nez du gentleman a porté. S’il
@@ -1052,7 +1052,7 @@ tranquillité stupéfiante, prononce :
 
 Et à la stupéfaction générale, on entend l’Allemand geindre :
 
-— Là !… Je m’excuse, mais lâche‑moi.
+— Là !… Je m’excuse, mais lâche-moi.
 
 — Comment donc, avec plaisir.
 
@@ -1062,9 +1062,9 @@ s’engouffre dans l’escalier des cabines où il disparut.
 
 Alors Jud s’approche de Jetty.
 
-— Vous voyez… Croc‑en‑jambe et jujitsu rendent la force inutile. C’est
+— Vous voyez… Croc-en-jambe et jujitsu rendent la force inutile. C’est
   comme cela que j’avais tombé les policemen ; seulement ils se sont mis
-  une quinzaine sur moi, ce qui fait que vous m’avez rencontré à Alb‑Point.
+  une quinzaine sur moi, ce qui fait que vous m’avez rencontré à Alb-Point.
 
 ![De nouveau le géant silésien est à terre…, mais sur le dos](../3-images/part1/page-218.jpg
 "De nouveau le géant silésien est à terre…, mais sur le dos")
@@ -1073,14 +1073,14 @@ Enthousiasmé, l’Irlandais élève l’enfant à bout de bras, puis l’embras
 cordialement. Le bandit est fier de sa « recrue ». Jamais il ne se sentit
 autant de sympathie pour personne.
 
-Tom, Kan‑So, Elisalt, Todero, Zirini tiennent à serrer la main du
+Tom, Kan-So, Elisalt, Todero, Zirini tiennent à serrer la main du
 vainqueur. Seul, van Reek, vexé sans doute de la déconfiture de la
 noblesse, s’abstient en maugréant.
 
 Quoi qu’il en soit, depuis cet instant, Jud Allan jouit de la
 considération de ses sinistres compagnons. Jetty et Tom
 s’enorgueillissaient de l’avoir _découvert_ dans le pénitencier
-d’Alb‑Point. Ils oubliaient que l’audacieux gamin les avait un peu
+d’Alb-Point. Ils oubliaient que l’audacieux gamin les avait un peu
 contraints à l’emmener avec eux. Et, vingt fois par jour, l’Irlandais
 grommelait à l’oreille de l’Américain :
 
@@ -1096,7 +1096,7 @@ Observations qui déterminaient chez les deux camarades une douce gaieté.
 
 Maintenant, Jud était admis dans les conciliabules des bandits, malgré
 l’opposition non dissimulée des inséparables Von et Van. Aux objections
-de ceux‑ci, les autres répondaient invariablement :
+de ceux-ci, les autres répondaient invariablement :
 
 — C’est une nature… Il ira loin… Pour le surplus, c’est au Crâne à
 décider comment il l’emploiera.
@@ -1105,7 +1105,7 @@ En attendant, et le petit ayant prouvé par ses paroles qu’il connaissait
 le but de l’expédition, on lui apprit sans difficulté que le bébé de deux
 ans, dont la disparition était décidée, se trouvait dans la presqu’île
 mexicaine de Californie, immense langue de terre qui s’étend, longue de
-plus de douze cents kilomètres sur une largeur variable de vingt‑cinq à
+plus de douze cents kilomètres sur une largeur variable de vingt-cinq à
 soixante, entre l’océan Pacifique et la mer Vermeille.
 
 Et lui, restait impassible, ne trahissant par aucun geste, aucune
@@ -1119,7 +1119,7 @@ Trois jours se passèrent ainsi. Le quatrième, Jud remarqua à bord une
 agitation insolite. Il en conclut que l’on était près d’arriver, ce que
 Jetty et Tom lui confirmèrent sans difficulté.
 
-— La nuit prochaine, dirent‑ils, le navire sera sur ses ancres dans la
+— La nuit prochaine, dirent-ils, le navire sera sur ses ancres dans la
   baie de _Sébastian Vizcaïno_, et nous descendrons à terre pour gagner
   les dollars, qui nous assureront du bon temps au retour.
 
@@ -1142,13 +1142,13 @@ pu dérober durant son séjour à bord, et le glissa dans sa poche.
  
 Puis, prêt à toute éventualité, il songe à remonter sur le pont.
 
-Mais qu’est‑ce donc ? La porte de sa cabine résiste à sa poussée
+Mais qu’est-ce donc ? La porte de sa cabine résiste à sa poussée
 impatiente.
 
 Il essaie encore d’ouvrir. Effort inutile. Le gamin pâlit. Qui donc,
 depuis qu’il est entré dans l’étroite pièce, a fermé à clef ?
 
-On ne se défie pas de lui ; il en est certain. Alors, c’est peut‑être une
+On ne se défie pas de lui ; il en est certain. Alors, c’est peut-être une
 niche de Foorberg ou de van Reek.
 
 — Parbleu ! nous allons bien voir.
@@ -1170,5 +1170,5 @@ Et brusquement il demeure stupide, atterré par ce qu’il entend.
 
 Et le silence se fit.
    
-[^1‑12‑1]: Locution américaine intraduisible en français : Elle signifie à peu
+[^1-12-1]: Locution américaine intraduisible en français : Elle signifie à peu
            près : Ce petit être a le cœur d’un héros.

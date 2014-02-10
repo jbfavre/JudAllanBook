@@ -8,7 +8,7 @@
 
 — Et le capitaine japonais ?
 
-— Savez‑vous son nom?
+— Savez-vous son nom?
 
 Ces exclamations accueillirent l’entrée du chef de la Sûreté dans une
 salle du cercle militaire, par les fenêtres duquel montaient les mille
@@ -80,11 +80,11 @@ Ce fut un concert d’éloges.
 
 Mais le général Dantun éleva la voix :
 
-— Enfin, il ne court aucun danger, nous affirmez‑vous. 
+— Enfin, il ne court aucun danger, nous affirmez-vous. 
 
 — Je pense, Général, répliqua le chef de la Sûreté, que la décision
   irrévocable de M^lle^ de Armencita, décision qu’elle m’a confirmée
-  elle‑même, va mettre Anoru à l’abri de la fâcheuse influence qui
+  elle-même, va mettre Anoru à l’abri de la fâcheuse influence qui
   s’est appesantie sur ses prédécesseurs.
 
 — Tant mieux. Alors, vous inclinez à croire…
@@ -109,9 +109,9 @@ Et comme tous l’interrogeaient du regard, le général continua :
 
 M. Lerenaud approuva de la tête :
 
-— Aussi, fit‑il, ai‑je procédé comme si l’hypothèse était fausse.
+— Aussi, fit-il, ai-je procédé comme si l’hypothèse était fausse.
 
-— C’est‑à‑dire…?
+— C’est-à-dire…?
 
 — … Que j’ai attaché à la personne du capitaine quelques gaillards
   résolus, dont les yeux sont des plus clairvoyants, de sorte que le
@@ -129,7 +129,7 @@ Ils entrevoyaient vaguement la possibilité de nouvelles sensationnelles.
 — Je suis tenu au courant, heure par heure, de ses faits et gestes…
 
 — Bon, grommela Morand, voila qui est agréable… Et le mystère de la vie
-  privée, mon cher Lerenaud, qu’en faites‑vous ?… Vous auriez dû au
+  privée, mon cher Lerenaud, qu’en faites-vous ?… Vous auriez dû au
   moins le prévenir.
 
 — Il est prévenu.
@@ -167,12 +167,12 @@ plat, sans couleur. L’épilogue apparaissait indigne des prémisses.
 
 Chazelet s’était levé sans que personne fît attention à ce mouvement.
 
-Par une porte‑fenêtre, il avait gagné le balcon et là, la brise du soir
+Par une porte-fenêtre, il avait gagné le balcon et là, la brise du soir
 jetant la fraîcheur à son front brûlant, il regardait la place de
 l’Opéra inondée de lumières, incessamment traversée par le flot des
 voitures et des piétons.
 
-Là‑bas, en face de lui, se dressait le bâtiment massif de l’Opéra.
+Là-bas, en face de lui, se dressait le bâtiment massif de l’Opéra.
 Quelques automobiles stoppaient au long du trottoir, déposant des
 gentlemen corrects, des femmes dont les manteaux de soirée cachaient
 mal les toilettes élégantes.
@@ -183,7 +183,7 @@ milieu du spectacle, gravissaient les degrés, pénétraient dans l’édifice.
 Involontairement, le marquis se reporta en pensée aux articles de
 journaux consacrant autrefois les débuts de Linérès dans le monde.
 
-Une soirée à l’Opéra, avaient‑ils dit, une visite au Salon de
+Une soirée à l’Opéra, avaient-ils dit, une visite au Salon de
 l’automobile !
 
 M^lle^ de Armencita était venue là. Sa gracieuse silhouette s’était
@@ -226,10 +226,10 @@ Le fonctionnaire se leva sans précipitation, disant d’un ton détaché :
 — On me prévient sans doute que le capitaine est entré à l’hôtel de
   Armencita.
 
-Ce disant, son regard ne quittait pas M. Allan. Celui‑ci se leva à son
+Ce disant, son regard ne quittait pas M. Allan. Celui-ci se leva à son
 tour.
 
-— Ma foi, cher Monsieur, dit‑il, je n’attendrai point l’assurance que
+— Ma foi, cher Monsieur, dit-il, je n’attendrai point l’assurance que
   cet officier prend le thé bien paisiblement, car je m’aperçois que j’ai
   oublié l’heure. Je n’ai que le temps de réparer ma distraction.
 
@@ -247,12 +247,12 @@ semblait très occupé à retrousser le bas de son pantalon.
 ![Il fut arrêté par un monsieur qui semblait très occupé à retrousser le bas de son pantalon](../3-images/part1/page-091.jpg
 "Il fut arrêté par un monsieur qui semblait très occupé à retrousser le bas de son pantalon")
 
-Avant que le chef de la Sûreté eût pu tourner l’obstacle vivant, celui‑ci,
+Avant que le chef de la Sûreté eût pu tourner l’obstacle vivant, celui-ci,
 sans lever la tête, murmura :
 
-— Me permettrez‑vous de vous rejoindre là‑bas ?
+— Me permettrez-vous de vous rejoindre là-bas ?
 
-— Vous, M. Allan ! ‑ et avec surprise : ‑ Comment savez‑vous que j’y
+— Vous, M. Allan ! - et avec surprise : - Comment savez-vous que j’y
   vais ?
 
 L’Américain haussa les épaules :
@@ -281,7 +281,7 @@ Il eut un geste rageur.
 — Oh ! je reconnais la main qui mène tout… mais cela est insuffisant…
 
 Il faut que je persuade M. Loosevelt… Il faut que le Président de la
-République des États‑Unis soit avec moi… ou bien je reste seul,
+République des États-Unis soit avec moi… ou bien je reste seul,
 impuissant, comme depuis seize ans…
 
 Il s’était adossé au mur. Dans ses regards scintillait une émotion
@@ -297,7 +297,7 @@ Qu’il soit oublié, lui, qui se souviendra !
 
 Il saisit la rampe d’un geste brusque.
 
-— Allons à l’hôtel de la rue François Ⅰ^er^… C’est peut‑être là que se cache
+— Allons à l’hôtel de la rue François Ⅰ^er^… C’est peut-être là que se cache
 le bonheur de Lilian et mon malheur, à moi… mais qu’importe, je suis si
 peu de chose.
 
@@ -311,24 +311,24 @@ Alors il héla un fiacre et à l’automédon il lança ces mots :
 — Rue François Ⅰ^er^, je vous arrêterai…
 
 Par la rue de la Paix, la place Vendôme, la rue de Rivoli, le véhicule
-gagna l’avenue des Champs‑Êlysées.
+gagna l’avenue des Champs-Êlysées.
 
 Allan ne bougeait pas. Mais si son corps demeurait immobile, sa pensée,
 elle, n’était point inactive.
 
-— Ah ! grommelait‑il… c’est _Lui_, lui qui dirige tout cela… Quel est son
+— Ah ! grommelait-il… c’est _Lui_, lui qui dirige tout cela… Quel est son
 but…? Je l’ignore… Mais je le découvrirai s’il consent seulement à se
 montrer. Que je tienne une extrémité du fil et je le suivrai jusqu’au
 bout… En écrasant cet homme, je briserai ma vie… Bah !… Que Lilian soit
 riche, adulée, heureuse… Cela seul est à considérer.
 
-Le fiacre atteignait le Rond‑Point et s’engageait dans la rue Montaigne.
+Le fiacre atteignait le Rond-Point et s’engageait dans la rue Montaigne.
 
-— Nous arrivons, fit encore l’Américain… Mais lui, où est‑il ? Il a
-quitté New‑York depuis huit jours, à bord du paquebot _La Provence_…
-Hier, Tril m’a signalé son arrivée au Havre… Ai‑je raisonné juste ?
-Va‑t‑il se montrer ?… Pourrai‑je dire au président Loosevelt : L’homme
-se juge au‑dessus de tout soupçon… ll croit le moment venu de jouer sa
+— Nous arrivons, fit encore l’Américain… Mais lui, où est-il ? Il a
+quitté New-York depuis huit jours, à bord du paquebot _La Provence_…
+Hier, Tril m’a signalé son arrivée au Havre… Ai-je raisonné juste ?
+Va-t-il se montrer ?… Pourrai-je dire au président Loosevelt : L’homme
+se juge au-dessus de tout soupçon… ll croit le moment venu de jouer sa
 dernière carte… Vous m’avez demandé une seule preuve, une seule, pour
 me prêter votre appui dans l’œuvre de justice… Cette preuve, la voici.
 
@@ -337,7 +337,7 @@ Une brusque secousse le tira de ses réflexions.
 La voiture s’était arrêtée à l’intersection de l’avenue Montaigne et de la
 rue François Ⅰ^er^ ; le cocher, se penchant sur son siège, demandait :
 
-— À droite ou à gauche, patron… Vers le Cours‑la‑Reine, ou vers l’avenue
+— À droite ou à gauche, patron… Vers le Cours-la-Reine, ou vers l’avenue
   de l’Alma?
 
 Allan ouvrit la portière.
@@ -350,7 +350,7 @@ client généreux, en portant la main à son chapeau.
 
 L’Américain répondit par une légère inclination de la tête et s’éloigna
 vivement, descendant la rue François Ⅰ^er^ dans la direction du
-Cours‑la‑Reine.
+Cours-la-Reine.
 
 Presque à l’extrémité, se dressait un hôtel spacieux, à un seul étage, que
 dominaient de grands arbres indiquant le jardin placé en arrière.
@@ -407,11 +407,11 @@ s’inclina, bredouillant des excuses. Allan l’interrompit pour demander :
   été bouleversées, vous comprenez…
 
 L’Américain ne l’écoutait déjà plus. À grandes enjambées, il traversait
-la cour, gravissait le perron et poussant l’une des portes‑fenêtres,
+la cour, gravissait le perron et poussant l’une des portes-fenêtres,
 disparaissait dans l’hôtel. Pierre le suivait comme son ombre.
 
 Guidés par la lumière, ils venaient de pénétrer dans le grand salon,
-vaste pièce au mobilier riche, trop riche peut‑être, au plafond décoré
+vaste pièce au mobilier riche, trop riche peut-être, au plafond décoré
 d’une ronde d’amours joufflus et roses s’ébattant sur un fond bleu pâle.
 
 À leur entrée, un homme, assis auprès d’une liseuse, se leva vivement.
@@ -425,14 +425,14 @@ légère comme un souffle, laissa tomber cette interrogation :
 
 Un haussement d’épaules fut la seule réponse du chef de la Sûreté.
 
-— Voulez‑vous dire que vous ne savez rien ?…
+— Voulez-vous dire que vous ne savez rien ?…
 
 M. Lerenaud inclina affirmativement la tète, puis, en présence de la
 surprise évidente de ses interlocuteurs, il se décida à prononcer :
 
 — La comtesse et la jeune fille sont dans leurs chambres… Le drame les
   a terriblement secouées. Je les attends, pour obtenir de leur bouche
-  le récit de l’événement. Jusque‑là, je ne veux pas formuler une opinion.
+  le récit de l’événement. Jusque-là, je ne veux pas formuler une opinion.
 
 — Pourquoi ?
 
@@ -442,10 +442,10 @@ surprise évidente de ses interlocuteurs, il se décida à prononcer :
 
 — Impossibilité matérielle ?
 
-— Absolue… Au surplus, ajouta‑t‑il avec un regard rapide désignant le
+— Absolue… Au surplus, ajouta-t-il avec un regard rapide désignant le
   marquis, puisqu’un souci de justice qui me fait vous estimer
   profondément vous transforme à cette heure en… policier amateur…
-  venez voir par vous‑même. J’ai pu apprécier, depuis nos brèves
+  venez voir par vous-même. J’ai pu apprécier, depuis nos brèves
   relations, votre rectitude d’esprit. Examiner les lieux, en votre
   compagnie ne sera pas du temps perdu pour l’enquête… Je prierai M. de
   Chazelet de vouloir bien nous attendre ici.
@@ -523,7 +523,7 @@ l’on servait le thé ici…
 
 — C’est votre avis ?
 
-— N’est‑ce point le vôtre, M. Lerenaud ?
+— N’est-ce point le vôtre, M. Lerenaud ?
 
 Un instant, l’interpellé demeura silencieux, puis lentement, détachant les
 syllabes, comme pour les mieux faire pénétrer dans l’intellect de son
@@ -549,7 +549,7 @@ compagnon :
 Et hochant la tête, M. Lerenaud continua :
 
 — Quoique, à vrai dire, votre hypothèse me semble bien inacceptable…
-  Voyez‑vous ce meurtrier qui peut frapper le capitaine Anoru partout
+  Voyez-vous ce meurtrier qui peut frapper le capitaine Anoru partout
   ailleurs et qui s’amuse à jouer la difficulté… ? Car c’est jouer la
   difficulté que de venir commettre un crime, à neuf heures du soir,
   dans un hôtel habité, au milieu de nombreux serviteurs.
@@ -562,8 +562,8 @@ sans en avoir conscience, il murmura :
 — Et puis pourquoi ce meurtre, où le crime se trahit, au lieu d’avoir
   infligé à Anoru un accident comme aux autres.
 
-— Nest‑ce pas ? chuchota le Chef de la Sûreté sur le même ton ‑ et
-  avec une anxiété qu’il ne cherchait plus à dissimuler : ‑ Si vos
+— Nest-ce pas ? chuchota le Chef de la Sûreté sur le même ton - et
+  avec une anxiété qu’il ne cherchait plus à dissimuler : - Si vos
   suppositions sont exactes ; si tous ces malheurs s’abattant sur les
   fiancés de M^lle^ Linérés de Armencita sont préparés par une volonté
   unique, nous nous trouvons en face du plus prodigieux criminel que la
@@ -574,7 +574,7 @@ sans en avoir conscience, il murmura :
 Plus bas encore, l’Américain lui glissa à l’oreille :
 
 — Le nom que j’ai confié à votre honneur, sur l’autorisation de M. le
-  Président des États‑Unis, ce nom que connaissent trois hommes dont aucun
+  Président des États-Unis, ce nom que connaissent trois hommes dont aucun
   ne trahira le secret, M. Loosevelt, vous et moi… ce nom correspondrait
   assez bien au signalement que vous donniez à l’instant.
 
@@ -585,7 +585,7 @@ Plus bas encore, l’Américain lui glissa à l’oreille :
 — C’est ce qu’il s’agit de démontrer, mon cher Monsieur… C.Q.F.D. Je
   vous en ai averti dès notre première rencontre.
 
-— Eh ! Vous êtes peut‑être _droit_, pour vous emprunter une locution 
+— Eh ! Vous êtes peut-être _droit_, pour vous emprunter une locution 
   américaine… Seulement, je me débats dans l’incompréhensible. Le
   besoin seul explique le crime… Et puis, on ne devient pas bandit tout
   d’un coup, surtout quand on brasse des millions sans avoir rien à
@@ -636,12 +636,12 @@ Le marquis avait déjà dominé ses nerfs.
 Le Chef de la Sûreté sourit à cette promesse d’attention et s’expliqua :
 
 — Avant tout, il me faut établir les phases réelles du crime !… Le juge
-  d’instruction pensera peut‑être que j’ai empiété sur ses
+  d’instruction pensera peut-être que j’ai empiété sur ses
   attributions… Mais bah ! j’aurai facilité son enquête… Les souvenirs
   de ces dames sont tout frais… Nous rétablirons la scène dans ses plus
   minutieux détails… C’est le détail qui nous doit fournir la lumière.
 
-Il s’arrêta net. Une voix douce, mélodieuse, gaie, pourrait‑on dire, en
+Il s’arrêta net. Une voix douce, mélodieuse, gaie, pourrait-on dire, en
 dépit de l’émotion violente qui la faisait encore trembler, venait de
 prononcer :
 
@@ -673,14 +673,14 @@ Il n’y avait pas à s’y méprendre ; la jeune fille exposait simplement,
 sincèrement, son état d’esprit.
 
 Les trois hommes se regardèrent, un peu surpris par cette énergie, rare
-chez des enfants de dix‑huit ans.
+chez des enfants de dix-huit ans.
 
 Elle comprit leur pensée et doucement :
 
 — Vous songez, Messieurs, qu’à l’ordinaire, une señorita doit s’évanouir
   devant un cadavre. Eh bien je ne suis pas ainsi… La mort ne m’effraie
-  pas… Pourquoi suis‑je différente de la plupart des charmantes
-  Parisiennes qui m’ont accueillie dans cette belle cité ? Est‑ce parce
+  pas… Pourquoi suis-je différente de la plupart des charmantes
+  Parisiennes qui m’ont accueillie dans cette belle cité ? Est-ce parce
   que nous avons vécu seules, ma mère adoptive et moi, dans notre vieux
   château ruiné de Armencita ?… Ruiné, oui, car nous étions pauvres
   alors… Un seul domestique, notre vieux Patricio, auquel nous ne
@@ -711,25 +711,25 @@ Involontairement, ils levèrent les yeux sur le corps raidi dans le
 fauteuil, et par un effet reflexe, le front de la jeune fille se
 rembrunit.
 
-— Oui, dit‑elle entre haut et bas, c’est de cela qu’il faut parler.
+— Oui, dit-elle entre haut et bas, c’est de cela qu’il faut parler.
 
-La phrase rappela le Chef de la Sûreté à lui‑même.
+La phrase rappela le Chef de la Sûreté à lui-même.
 
 — Vous avez raison, Mademoiselle.
 
-— Oui, reprit‑elle, un éclair dans ses beaux yeux… Il faut le venger,
+— Oui, reprit-elle, un éclair dans ses beaux yeux… Il faut le venger,
   me venger aussi.
 
 — Vous venger, vous ?
 
-— Sans doute… N’y a‑t‑il point, à votre avis, une conspiration dont je
+— Sans doute… N’y a-t-il point, à votre avis, une conspiration dont je
   suis victime ?
 
 — Si, si, la conspiration existe, s’écria Pierre, incapable de se
   contenir plus longtemps. Et si je suis là, c’est que je veux
-  combattre l’ennemi inconnu, dussé‑je y laisser la vie.
+  combattre l’ennemi inconnu, dussé-je y laisser la vie.
 
-— J’aurais voulu éviter cela, répondit‑elle avec une nuance de tristesse,
+— J’aurais voulu éviter cela, répondit-elle avec une nuance de tristesse,
   et cependant je vous suis reconnaissante infiniment.
 
 Et comme les interlocuteurs se taisaient, impressionnés par ces dernières
@@ -738,16 +738,16 @@ paroles, reproduisant celles qui les obsédaient, elle poursuivit:
 — Victime par ricochet, victime parce que l’on me casse mes jouets de
   coquetterie… Je suis coquette, je l’avoue, et j’ai été joyeuse de
   voir tant de gens distingués solliciter ma main… Oh ! je n’ai point
-  hâte de me marier… J’ai dix‑huit ans, et sainte Catherine, comme vous
+  hâte de me marier… J’ai dix-huit ans, et sainte Catherine, comme vous
   dites en France, est encore loin de ma porte, mais il est agréable de
   s’entendre dire que l’on est jolie, aimable, que l’on peut faire le
-  bonheur de quelqu’un… Donner le bonheur, est‑il rien de plus charmant ?
+  bonheur de quelqu’un… Donner le bonheur, est-il rien de plus charmant ?
 
 Sa physionomie mobile s’embruma de nouveau.
 
 — Au lieu de cela, une influence néfaste pèse sur moi… On croirait que
   je porte malheur à ceux qui m’approchent… Six Français en deux mois…
-  Encore ceux‑là on pouvait croire à des accidents… Mais le capitaine
+  Encore ceux-là on pouvait croire à des accidents… Mais le capitaine
   Anoru, tué, là, devant nous, à l’instant même où il demandait à ma
   mère d’être admis à me faire sa cour.
 
@@ -756,7 +756,7 @@ Sa physionomie mobile s’embruma de nouveau.
 
 — Mais je suis prête à répondre à toutes vos questions, Monsieur le
   Chef de la Sûreté ; maman et moi nous étions fatiguées, nous sortons
-  beaucoup, n’est‑ce pas… Alors nous devions fermer notre porte ce soir
+  beaucoup, n’est-ce pas… Alors nous devions fermer notre porte ce soir
   et nous coucher de bonne heure.
 
 Elle eut un regard mélancolique à l’adresse de Pierre.
@@ -765,7 +765,7 @@ Elle eut un regard mélancolique à l’adresse de Pierre.
 
 — Oh ! je le regrette, hélas !… Vers deux heures, il avait envoyé un
   mot à maman. Il la priait de vouloir bien lui accorder un entretien, ce
-  soir même, parce que, expliquait‑il, son service l’obligeait à quitter
+  soir même, parce que, expliquait-il, son service l’obligeait à quitter
   Paris quelques jours, et il souhaitait, en termes très flatteurs pour
   moi, ne pas retarder sa communication.
 
@@ -774,7 +774,7 @@ Elle eut un regard mélancolique à l’adresse de Pierre.
 — Maman a répondu oui… bien que je l’eusse prévenue de ma résolution
   irrévocable.
 
-— Puis‑je vous prier de me la faire connaître ?
+— Puis-je vous prier de me la faire connaître ?
 
 — Mais, certainement… Étant donnée l’épidémie qui sévit sur ceux qui me
   font l’honneur de me trouver digne de leur nom, je comptais remercier
@@ -782,23 +782,23 @@ Elle eut un regard mélancolique à l’adresse de Pierre.
   songeais pas à me marier, et obtenir de lui qu’il renonçât à ses
   projets.
 
-— Ah ! soupira la comtesse d’une voix dolente. Pourquoi ne lui ai‑je pas
+— Ah ! soupira la comtesse d’une voix dolente. Pourquoi ne lui ai-je pas
   écrit tout cela, au lieu de laisser ce malheureux jeune homme venir
   chercher la mort ici ?
 
 M. Lerenaud esquissa un geste insouciant, le geste du fonctionnaire que
 l’accoutumance du crime a cuirassé de philosophie.
 
-— Cette mort, fit‑il lentement, motive ma présence chez vous, Madame la
+— Cette mort, fit-il lentement, motive ma présence chez vous, Madame la
   Comtesse, cette mort à propos de laquelle je souhaite réunir les
   renseignements les plus exacts.
 
 La mère adoptive de Linérès poussa un gémissement.
 
-— Que pourrais‑je vous dire ? La foudre frappe… Elle passe… Elle
+— Que pourrais-je vous dire ? La foudre frappe… Elle passe… Elle
   disparaît, Il reste un éblouissement.
 
-— Interrogez‑moi, Monsieur, interrompit Linérès, je répondrai de mon
+— Interrogez-moi, Monsieur, interrompit Linérès, je répondrai de mon
   mieux.
 
 Allan et le marquis s’inclinèrent sans en avoir conscience.
@@ -806,7 +806,7 @@ Allan et le marquis s’inclinèrent sans en avoir conscience.
 Ils saluaient le courage. Si bas que nul ne le put entendre, l’Américain se
 confia cette opinion étrange :
 
-— Celle‑ci non plus ne sait rien… Elle n’est point complice… Une victime
+— Celle-ci non plus ne sait rien… Elle n’est point complice… Une victime
   encore !… Pauvre enfant !
 
 Cependant la jeune fille installait affectueusement la señora de
@@ -816,15 +816,15 @@ Ce soin pris, elle revint se planter devant M. Lerenaud et répéta :
 
 — Interrogez, Monsieur.
 
-— Ainsi ferai‑je, Mademoiselle, en vous remerciant de votre fermeté…
+— Ainsi ferai-je, Mademoiselle, en vous remerciant de votre fermeté…
   Un détail, si minime qu’il soit, peut aider puissamment l’enquête…
   Veuillez rappeler vos souvenirs…
 
-— Ils sont très précis, dit‑elle. Je vous affirme sans forfanterie, je
+— Ils sont très précis, dit-elle. Je vous affirme sans forfanterie, je
   suis brave…, et si je me suis sentie profondément affectée par
   l’évènement, mes idées ne se sont pas troublées un seul instant.
 
-De nouveau les trois hommes s’entre‑regardèrent, et M. Lerenaud murmura :
+De nouveau les trois hommes s’entre-regardèrent, et M. Lerenaud murmura :
 
 — Une nature exceptionnelle.
 
@@ -836,14 +836,14 @@ Elle devint grave, un léger pli se creusa entre ses sourcils mordorés, et
 lentement :
 
 — Nous avions décidé de recevoir M. Anoru dans ce petit salon. Une
-  tasse de thé, une demi‑heure de conversation, cela ne nous aurait
+  tasse de thé, une demi-heure de conversation, cela ne nous aurait
   pas conduites bien tard, et il nous eût été encore loisible de
   goûter une longue nuit de repos. À neuf heures moins cinq, on
   annonça le capitaine.
 
 — À neuf heures moins cinq, vous êtes certaine de l’heure ?
 
-— Absolument… J’étais très impatiente du contre‑temps ; j’avais hâte d’en
+— Absolument… J’étais très impatiente du contre-temps ; j’avais hâte d’en
   finir avec un entretien… désagréable, vous comprenez… et je
   consultais fréquemment la pendule… Quand on annonça le visiteur, je
   dis même à maman : neuf moins cinq, à neuf et demie, ta petite
@@ -884,17 +884,17 @@ voix sourde :
 — Pauvre maman !
 
 Légère comme un oiseau, la señorita courut à la vieille dame, l’embrassa
-fougueusement, puis‑revenant à ses interlocuteurs :
+fougueusement, puis-revenant à ses interlocuteurs :
 
 — Je vous demande pardon, mais cela m’inquiète de la voir ainsi… Où en
-  étais‑je ?
+  étais-je ?
 
 — Vous entendez un sifflement, indiqua le Chef de la Sûreté.
 
 — Ah oui ! merci… Et le capitaine se renverse en arrière tout net… Maman
   se dresse avec un cri : Santa Virgen ! Je pose ma théière… Le vieux
   Fabricio lâche son assiette qui se brise sur le marbre de la
-  cheminée… Vous voyez les morceaux… Il crie : Qu’est‑ce que c’est que
+  cheminée… Vous voyez les morceaux… Il crie : Qu’est-ce que c’est que
   ça… ? Du sang ! du sang ! J’ai un frisson, vous pensez bien ; mais
   je regarde… Le capitaine ne fait plus un mouvement… Il a un trou au
   front, et une trainée rouge coule sur sa joue… Blessé ? Je le crois
@@ -934,12 +934,12 @@ Elle secoua énergiquement la tête.
 
 Le visage de la jeune fille exprima la stupéfaction.
 
-— De revolver ? fit‑elle pour la seconde fois… Mais c’est impossible.
+— De revolver ? fit-elle pour la seconde fois… Mais c’est impossible.
 
 — Cela est cependant…
 
 — Mais un coup de revolver s’entend… Et puis pour tirer au revolver, il
-  est essentiel d’en avoir un…, à moins, fit‑elle par réflexion, que
+  est essentiel d’en avoir un…, à moins, fit-elle par réflexion, que
   le capitaine en eût un dans sa poche.
 
 — Il n’en a pas, déclara M. Lerenaud… Je m’en suis assuré… Je puis même
@@ -1018,9 +1018,9 @@ M^me^ de Armencita se lamentait dans le grand salon, où on lui avait
 permis de se réfugier pour ne plus voir ce _pobre señor Anoru_, mais
 Linérès suivait le Chef de la Sûreté partout, insistant auprès des
 domestiques, multipliant les interrogations… La solution du problème
-semblait maintenant lui tenir au cœur autant qu’au policier lui‑même.
+semblait maintenant lui tenir au cœur autant qu’au policier lui-même.
 
-— C’est effrayant, s’exclamait‑elle… Un revolver, je dois vous croire…
+— C’est effrayant, s’exclamait-elle… Un revolver, je dois vous croire…
   Un revolver frappe à côté de moi… et je ne vois rien, je n’entends
   rien… Cela, ah cela ! Il y a de quoi devenir folle.
 
