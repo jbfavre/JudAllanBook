@@ -12,14 +12,14 @@ Avant qu’il eût répondu, le battant tourna légèrement sur ses gonds, et le
 petit chasseur Tril parut.
 
 Le gamin mit un doigt sur ses lèvres, s’approcha de son interlocuteur, et si
-bas que celui‑ci l’entendit à peine, il murmura :
+bas que celui-ci l’entendit à peine, il murmura :
 
 — Il doit y avoir du nouveau. Suzan se promène sur le quai et elle a fait le
   signe convenu. Or, les _roundsmen_ gardent toutes les sorties.
 
 — Alors, qu’elle entre.
 
-— Ce serait attirer l’attention sur elle, la mettre en danger peut‑être…
+— Ce serait attirer l’attention sur elle, la mettre en danger peut-être…
 
 Instinctivement, le pseudo Grey Assford se dirigea vers la fenêtre.
 
@@ -27,14 +27,14 @@ Juste en face de la Troisième rue, bornant la façade de l’hôtel, une fillet
 avec sur l’épaule un petit singe à la fourrure olivâtre, regardait dans la
 direction du Meyer’s. C’était Suzan.
 
-A l’apparition du professeur de West‑Point, elle eut un geste satisfait, puis
+A l’apparition du professeur de West-Point, elle eut un geste satisfait, puis
 ses mains décrivirent plusieurs signes dans l’air.
 
 — Quelque chose à nous communiquer, traduisit Tril. Vous voyez.
 
 — Sans doute… et même une chose importante, mon pauvre Tril.
 
-— Quel drôle d’exercice fait Suzan ! Regardez‑la donc, Master.
+— Quel drôle d’exercice fait Suzan ! Regardez-la donc, Master.
 
 En effet, la fillette avait élevé son singe à bout de bras. Elle semblait lui
 adresser un discours, lui désignant la croisée. Brusquement, Suzan traversa la
@@ -52,10 +52,10 @@ ficelle, un objet garni d’ornements métalliques, car le soleil y piquait des
 points brillants. Le petit animal parvint à la croisée, et sautant sur la
 table, sembla inviter le pseudo Assford à le débarrasser de son fardeau.
 
-Celui‑ci ne se méprit pas à la mimique du zaïmziri. Il détacha la ficelle.
+Celui-ci ne se méprit pas à la mimique du zaïmziri. Il détacha la ficelle.
 L’objet qu’elle soutenait, était un élégant carnet à fermoir d’or.
 
-A peine le professeur l’eut‑il pris, que Zinka bondit sur la barre d’appui et
+A peine le professeur l’eut-il pris, que Zinka bondit sur la barre d’appui et
 disparut à l’extérieur. Jud avait ouvert le carnet. Sur la première feuille,
 quelques lignes au crayon :
 
@@ -64,7 +64,7 @@ quelques lignes au crayon :
 
 Tril et le professeur échangèrent un regard.
 
-— Où a‑t‑il pu se cacher ? murmura le premier. J’ai fureté partout.
+— Où a-t-il pu se cacher ? murmura le premier. J’ai fureté partout.
 
 — Un complice probablement, répliqua son interlocuteur…
 
@@ -85,10 +85,10 @@ Et reprenant sa lecture :
 Le jeune homme tourna les pages. Des notes chiffrées appelèrent son attention.
 Elles affectaient cette disposition :
 
-> — 85‑<u>10</u>1‑85. — 85‑4‑<u>11</u> <u>12</u>‑45‑8 . 19‑8 . 3‑110‑10‑8905 : <u>11</u>‑<u>10</u>‑<span style="text‑decoration:overline;">10</span>.
-  5<u>12</u>53‑6‑8‑<u>11</u> . 1901‑<u>12</u>‑6 . — 7<u>12</u>5‑3 : <span style="text‑decoration:overline;">50</span>.
+> — 85-<u>10</u>1-85. — 85-4-<u>11</u> <u>12</u>-45-8 . 19-8 . 3-110-10-8905 : <u>11</u>-<u>10</u>-<span style="text-decoration:overline;">10</span>.
+  5<u>12</u>53-6-8-<u>11</u> . 1901-<u>12</u>-6 . — 7<u>12</u>5-3 : <span style="text-decoration:overline;">50</span>.
 
-D’autres encore s’étalaient sur divers feuillets ; mais celles‑ci,
+D’autres encore s’étalaient sur divers feuillets ; mais celles-ci,
 relativement courtes, furent l’objet d’un examen plus approfondi de la part de
 Jud.
 
@@ -114,7 +114,7 @@ trouver suivant quelle loi on avait procédé à la numérotation.
 
 — Sûrement ! Puisque les lads ont aussi leur écriture chiffrée.
 
-— Les combinaisons sont indéfiniment variées, mon enfant. Apprends‑le.
+— Les combinaisons sont indéfiniment variées, mon enfant. Apprends-le.
 
 Tantôt on possède une grille découpée, divisée en petits carrés réguliers
 ainsi qu’une table de Pythagore ; certains carrés déterminés sont affectés aux
@@ -135,14 +135,14 @@ lettres du volume.
 
 Puis doucement :
 
-— Mais occupons‑nous du chiffre que j’ai sous les yeux… Je sais que les notes
+— Mais occupons-nous du chiffre que j’ai sous les yeux… Je sais que les notes
   ont été tracées par Van Reek, soit donc dans une des trois langues qui lui
   sont familières. Ceci est du français, de l’anglais ou du flamand.
 
 — Tant mieux, bougonna le gamin, seulement cela ne m’avance pas.
 
 — Erreur. Un premier point est acquis. L’alphabet usité est le _latin_ de
-  vingt‑cinq lettres. Nous éliminons les alphabets russe, grec et autres.
+  vingt-cinq lettres. Nous éliminons les alphabets russe, grec et autres.
 
 — Ah ! s’exclama Tril. Je commence à comprendre le raisonnement.
 
@@ -151,10 +151,10 @@ Seulement après cela, je serais incapable d’aller plus loin.
 — Et pourtant je crois pouvoir affirmer que Van Reek a écrit ses notes en
   français.
 
-— En français !… Celle‑là est forte… À quoi reconnaissez‑vous cela ?
+— En français !… Celle-là est forte… À quoi reconnaissez-vous cela ?
 
 — Toujours le raisonnement, Tril. Van Reek parle anglais, flamand, français.
-  Mais l’anglais est l’idiome général aux États‑Unis, il l’a écarté comme
+  Mais l’anglais est l’idiome général aux États-Unis, il l’a écarté comme
   augmentant la facilité de traduction pour le plus grand nombre.
 
 Le petit chasseur eut un cri de joie.
@@ -178,7 +178,7 @@ Du coup, le chasseur battit des mains.
 
 — Seulement le grimoire ne m’en paraît pas plus clair…
 
-— Un peu de patience, Tril, et nous arriverons peut‑être à te satisfaire. Tout
+— Un peu de patience, Tril, et nous arriverons peut-être à te satisfaire. Tout
   d’abord, en français, certaines lettres sont beaucoup plus employées que les
   autres. Parmi les consonnes, celles de la première moitié de l’alphabet,
   parmi les voyelles _a_ et _e_. D’autre part, la phonétique française
@@ -200,7 +200,7 @@ tenir pour certain que 5 et _e_ sont une même notation.
 — Et je continuerais ainsi, si je ne faisais des constatations capitales qui
   rétrécissent aussitôt le champ d’exploration. Sur la première ligne, je
   remarque les nombres 12 et 3, et sur la seconde les mêmes nombres mais
-  précédés du signe ‑, qui peut se traduire par _moins_ ; c’est le signe
+  précédés du signe -, qui peut se traduire par _moins_ ; c’est le signe
   mathématique qui s’oppose au signe + ou _plus_.
 
 — Et vous concluez ?
@@ -211,7 +211,7 @@ tenir pour certain que 5 et _e_ sont une même notation.
   positions similaires dans les deux fractions de l’alphabet.
 
 Si à côté de cela, je relève le chiffre le plus élevé des inscriptions, je
-trouve 12 et 12. Or deux fois douze font vingt‑quatre… la vingt‑cinquième
+trouve 12 et 12. Or deux fois douze font vingt-quatre… la vingt-cinquième
 lettre est donc figurée par O, que tu aperçois, petit Tril, à la ligne
 supérieure. Je tiens compte de ce que Van Reek, Jemkins ont souvent à
 correspondre avec des agents subalternes d’une intelligence médiocre ; la
@@ -219,30 +219,30 @@ combinaison doit être simple, et je pense qu’elle pourrait s’établir ainsi
 
 Ce disant, Allan dressait sur la feuille le tableau suivant :
 
-    a…..  1     m…..0       n….. ‑ 12
-    b…..  2                 o….. ‑ 11
-    c…..  3                 p….. ‑ 10
-    d…..  4                 q….. ‑  9
-    e…..  5                 r….. ‑  8
-    f…..  6                 s….. ‑  7
-    g…..  7                 t….. ‑  6
-    h…..  8                 u….. ‑  5
-    i…..  9                 v….. ‑  4
-    j….. 10                 x….. ‑  3
-    k….. 11                 y….. ‑  2
-    l….. 12                 z….. ‑  1
+    a…..  1     m…..0       n….. - 12
+    b…..  2                 o….. - 11
+    c…..  3                 p….. - 10
+    d…..  4                 q….. -  9
+    e…..  5                 r….. -  8
+    f…..  6                 s….. -  7
+    g…..  7                 t….. -  6
+    h…..  8                 u….. -  5
+    i…..  9                 v….. -  4
+    j….. 10                 x….. -  3
+    k….. 11                 y….. -  2
+    l….. 12                 z….. -  1
 
 Le petit chasseur regardait bouche bée. Du ton de la prière, il demanda :
 
-— Oh ! laissez‑moi remplacer les lettres, pour voir si j’ai compris.
+— Oh ! laissez-moi remplacer les lettres, pour voir si j’ai compris.
 
 Pour toute réponse, Jud lui tendit la plume ; et alla s’accouder à la fenêtre.
 Cinq minutes plus tard, Tril triomphant se précipitait vers lui, agitant le
-papier, sur lequel, au‑dessous des lignes chiffrées, il avait tracé :
+papier, sur lequel, au-dessous des lignes chiffrées, il avait tracé :
 
 > Réparé revolver air comprimé : 10 dollars probablement ?
 
-> Electro‑aimant Slex : 50.
+> Electro-aimant Slex : 50.
 
 Mais il fut surpris par l’effet produit sur Allan.
 
@@ -255,7 +255,7 @@ Et Tril, ahuri, balbutiant :
 
 — Ah ! Tril ! Le revolver, qui n’a produit aucune détonation…
 
-— Le revolver à air comprimé. Mais l’électro‑aimant ? Qu’est‑ce ?
+— Le revolver à air comprimé. Mais l’électro-aimant ? Qu’est-ce ?
 
 — L’art d’ouvrir et de refermer serrures et verrous sans laisser de traces.
   Tu as dû entendre parler des « _Dompteurs de portes_ » ?
@@ -263,7 +263,7 @@ Et Tril, ahuri, balbutiant :
 — Ah ! oui, ces voleurs qui pillaient les maisons, refermant les portes, les
   fenêtres derrière eux.
 
-— C’était avec des électro‑aimants qu’ils opéraient.
+— C’était avec des électro-aimants qu’ils opéraient.
 
 — Alors, ils attirent du dehors les pênes des serrures, les targettes des
   verrous. Seulement, après cela, il n’y a plus qu’à supprimer les serrures
@@ -276,25 +276,25 @@ Et les feuillets tournent sous la main impatiente du jeune homme.
 
 Maintenant toutes les annotations sont claires pour lui. C’étaient, pour la
 plupart, des notes relatives soit au voyage récent de Van Reek, dépenses,
-itinéraires, heures de trains, soit aux terrains expropriés d’East‑River.
+itinéraires, heures de trains, soit aux terrains expropriés d’East-River.
 
 Sur l’une des dernières pages, deux paragraphes firent bouillonner le sang du
 faux Assford. Ils étaient ainsi conçus :
 
-> Great Trunk (gare de New‑York) ; train de 5h45.
+> Great Trunk (gare de New-York) ; train de 5h45.
 
 > Télégraphier Vaning. Prendre tige chez Airnalt. La fixer sur terrasse, dalle
   6/4. Appeler F. C. pour direction définitive.
 
 Évidemment, le second était le corollaire du premier, indiquant nettement à
-quel moment, par quelle gare, Van Reek avait quitté New‑York ; mais le second
+quel moment, par quelle gare, Van Reek avait quitté New-York ; mais le second
 demeurait intraduisible.
 
 Qu’était cette tige à dresser sur une terrasse, à l’appui d’une dalle 6/4… ?
 Une antenne de téléphone sans fil vraisemblablement, le membre de phrase
 suivant incitait à le supposer… Appeler F.C.
 
-Puis, où chercher la terrasse dans l’étendue des Etats‑Unis ?
+Puis, où chercher la terrasse dans l’étendue des Etats-Unis ?
 
 Et Allan commençait à s’impatienter, quand un garçon d’étage vint annoncer que
 le juge enquêteur attendait les voyageurs.
@@ -309,11 +309,11 @@ Suzan, à travers une fenêtre ouverte. Quand Allan et Tril s’arrêtèrent en 
 de l’ouverture, la petite Suzan se pencha à la croisée.
 
 — Reçu télégramme Top et Fall. Même train que Van Reek. Great Trunk. Tickets
-  directs pour San‑Francisco.
+  directs pour San-Francisco.
 
 — Pour Frisco ! s’exclama Jud… terrasse, dalle, seraient donc là ?
 
-Quel train pourrons‑nous prendre pour les suivre ?
+Quel train pourrons-nous prendre pour les suivre ?
 
 — Le premier à voitures directes part à 4 heures du soir.
 
@@ -321,8 +321,8 @@ Ce disant, la petite passait à son interlocuteur un feuillet d’indicateur.
 
 Jud y jeta les yeux, puis doucement :
 
-— Rendez‑vous à 3h45 à la gare. Trois tickets pulmann [^2-05-1] pour Frisco.
-  As‑tu de l’argent ?
+— Rendez-vous à 3h45 à la gare. Trois tickets pulmann [^2-05-1] pour Frisco.
+  As-tu de l’argent ?
 
 — Oh ! la réserve du syndicat est loin d’être épuisée.
 
@@ -330,8 +330,8 @@ Jud y jeta les yeux, puis doucement :
 
 Et Allan se remit en marche.
 
-— Tril, dit‑il, cours au télégraph‑office ; adresse une dépêche, chiffre des
-  lads, au syndicat de San‑Francisco.
+— Tril, dit-il, cours au télégraph-office ; adresse une dépêche, chiffre des
+  lads, au syndicat de San-Francisco.
 
 — Pour leur dire ?
 
@@ -339,8 +339,8 @@ Et Allan se remit en marche.
   carnet ; puis charger une équipe de lads des exploitations électriques
   d’accorder un récepteur identique à celui de notre adversaire au syndicat
   même. Que l’on monte la garde auprès de l’appareil, afin de noter la moindre
-  communication. Ilfaut à Van Reek, comme à nous‑mêmes, environ six jours pour
-  effectuer le parcours New‑York‑Frisco. Tout doit être prêt lors de son
+  communication. Ilfaut à Van Reek, comme à nous-mêmes, environ six jours pour
+  effectuer le parcours New-York-Frisco. Tout doit être prêt lors de son
   arrivée.
 
 Son jeune compagnon lui saisit la main, la porta à ses lèvres, murmura avec
@@ -355,7 +355,7 @@ A quatre heures moins un quart, Allan se rencontrait avec Tril et Suzan,
 cette dernière chargée du fantasque zaïmziri Zinka, sur les quais de la gare
 monumentale du Great Trunk, littéralement du Grand Tronc, la formule
 abrégée sous laquelle les Américains désignent la voie ferrée qui traverse
-de part en part les États‑Unis, de l’Atlantique au Pacifique.
+de part en part les États-Unis, de l’Atlantique au Pacifique.
 
 Parcourir le Grand Tronc est un voyage moins terrifiant qu’il n’apparaît aux
 voyageurs européens. Les wagons spacieux, où les couchettes de nuit se transforment de jour en mœlleux fauteuils, le restaurant roulant, la bibliothèque, les lavabos confortables, les coiffeurs attachés au convoi, donnent au touriste l’impression de vivre dans un hôtel qui marche, voilà tout.
@@ -368,7 +368,7 @@ Les compagnies américaines ont, en effet, adopté récemment l’appareil d’u
 
 ![Cette dernière chargée du fantasque zaïmziri Zinka.](../3-images/part2/page-367.jpg "Cette dernière chargée du fantasque zaïmziri Zinka.")
 
-Jud Allan dans un pulmann, où avaient également pris place Tril, Suzan et le zaïmziri, roulèrent durant six jours, lurent, prirent leurs repas, dormirent, reçurent diverses dépêches chiffrées, tant de Top et de Fall emportés à quelques heures d’intervalle par le même train que Van Reek, que des lads de San‑Francisco, mettant Tril au courant de leurs recherches.
+Jud Allan dans un pulmann, où avaient également pris place Tril, Suzan et le zaïmziri, roulèrent durant six jours, lurent, prirent leurs repas, dormirent, reçurent diverses dépêches chiffrées, tant de Top et de Fall emportés à quelques heures d’intervalle par le même train que Van Reek, que des lads de San-Francisco, mettant Tril au courant de leurs recherches.
 
 Et le train filait, passant d’un État dans un autre, traversant des plaines
 fertiles, des collines boisées, franchissant des rivières larges comme des
@@ -382,11 +382,11 @@ dépassées. Les riches vignobles californiens se développaient à perte de vue
 
 La végétation devenait étrange, mêlant les flores des zones tempérées et
 torride. Enfin, la ligne ferrée touchait Oakland, faubourg de la cité
-californienne, situé sur la rive ouest de la baie de San‑Francisco.
+californienne, situé sur la rive ouest de la baie de San-Francisco.
 
-Jud Allan et ses compagnons durent traverser la baie en ferry‑boat.
+Jud Allan et ses compagnons durent traverser la baie en ferry-boat.
 
-Une heure après, ils débarquaient dans l’agglomération bruyante de San‑
+Une heure après, ils débarquaient dans l’agglomération bruyante de San-
 Francisco à l’_Union Ferry Dépôt_.
 
 Et comme ils se tenaient sur le quai, bousculés par les voyageurs, étourdis
@@ -394,22 +394,22 @@ par les hurlements des cochers des voitures, des omnibus d’hôtels, par les
 cloches des tramways funiculaires, électriques ou à traction animale, un
 jeune ouvrier en veste de toile bleue les aborda :
 
-— Connaissez‑vous un roi ? fit‑il à mi‑voix.
+— Connaissez-vous un roi ? fit-il à mi-voix.
 
 Jud sursauta. C’était le mot d’ordre convenu avec les lads.
 
-— J’en connais un seul, répliqua‑t‑il, roi sans couronne.
+— J’en connais un seul, répliqua-t-il, roi sans couronne.
 
 L’ouvrier s’inclina.
 
-— Je suis un lad, dit‑il, employé aux usines électriques de la ville.
+— Je suis un lad, dit-il, employé aux usines électriques de la ville.
 
 — Un électricien ! Il y a donc du nouveau ?
 
 L’adolescent affirma du geste.
 
-— Vaning est sous‑directeur à l’usine où je travaille. Il s’est rendu chez
-  Airnalt, fabricant d’appareils de physique de Market‑Street. Airnalt a fait
+— Vaning est sous-directeur à l’usine où je travaille. Il s’est rendu chez
+  Airnalt, fabricant d’appareils de physique de Market-Street. Airnalt a fait
   porter une antenne de sans fil et ses accessoires dans la rue Montgomery, au
   domicile de Frey Jemkins, sénateur de l’État et propriétaire du Bazar géant…
 
@@ -424,7 +424,7 @@ Nous avons relevé le numéro de catalogue du récepteur disposé par Airnalt,
 acheté et mis en place au Syndicat un récepteur semblable. Nous possédons
 l’antenne du sans fil et sommes heureux qu’elle puisse servir au « roi ».
 
-Comme à Washington, comme à Ottawa, le délégué des Lads de San‑Francisco
+Comme à Washington, comme à Ottawa, le délégué des Lads de San-Francisco
 exprimait la reconnaissance des petits pour le chef généreux qui les avait
 naguère groupés.
 
@@ -437,7 +437,7 @@ naguère groupés.
 
 ![C’est dans cette maison que Jud Allan et ses jeunes compagnons avaient été conduits.](../3-images/part2/page-369.jpg "C’est dans cette maison que Jud Allan et ses jeunes compagnons avaient été conduits.")
 
-L’une des curiosités de San‑Francisco est sans contredit son quartier
+L’une des curiosités de San-Francisco est sans contredit son quartier
 chinois. C’est un quadrilatère, borné par les rues Stockton, Sacramento,
 Pacific et Kearny, où s’entassent de hautes maisons séparées par d’étroites et
 malpropres ruelles. Au sortir de la ville saxonne, on se croirait brusquement
@@ -456,13 +456,13 @@ En quelques répliques, le professeur avait été mis au courant.
 
 — Van Reek ?
 
-— Descendu dans Montgomery Street, Jemkins‑House.
+— Descendu dans Montgomery Street, Jemkins-House.
 
-— L’hôtel accolé au bazar, n’est‑ce pas ?
+— L’hôtel accolé au bazar, n’est-ce pas ?
 
 — Oui, avec communication intérieure.
 
-— A‑t‑il usé du sans fil ?
+— A-t-il usé du sans fil ?
 
 — Non. Au surplus, nous le saurons de suite, puisque l’on a installé ici, sur
   la terrasse, un récepteur accordé avec le sien.
@@ -486,7 +486,7 @@ Allan demeure au Syndicat, prêt à poursuivre son adversaire au premier signal.
 Chaque heure, Lally introduit auprès d’Allan un gamin qui revient du bazar
 Jemkins, et le dialogue suivant sengage :
 
-— On n’a pas téléphoné sans fil du cabinet du sous‑directeur ?
+— On n’a pas téléphoné sans fil du cabinet du sous-directeur ?
 
 — Non. Jokel, la petite chargée du téléphone pour le magasin, n’a pas quitté
   le cabinet un seul instant. On a téléphoné pour des commandes, des
@@ -500,9 +500,9 @@ quitté la maison, il s’est promené, a rencontré plusieurs personnages du ha
 commerce, avec lesquels il s’est entretenu amicalement. Il s’est rendu ensuite
 au commissariat central de police. Un jeune secrétaire a mis l’oreille au trou
 de la serrure et l’a entendu s’enquérir auprès du _Central officer_ du crime
-de New‑York dont tout le monde parle.
+de New-York dont tout le monde parle.
 
-— J’ai quitté New‑York le matin même de la découverte de ce meurtre étrange ;
+— J’ai quitté New-York le matin même de la découverte de ce meurtre étrange ;
   les récits des journaux m’apparaissent tellement fantastiques.
 
 Et le _central policer_, avec une amabilité en rapport avec l’importance de
@@ -528,7 +528,7 @@ Van Reek rend ensuite diverses visites et soupe avec un de ses amis, président
 du Tribunal au Criminel.
 
 La nuit est venue. Van Reek se rend à l’_Orpheum_, le théâtre français de
-Fanell street. Il y séjourne une heure, puis rentre à pied à Jemkins‑house. La
+Fanell street. Il y séjourne une heure, puis rentre à pied à Jemkins-house. La
 lumière s’éteint bientôt dans la chambre qu’il occupe. Les guetteurs en
 concluent qu’il s’est couché.
 
@@ -551,25 +551,25 @@ Frisco, était attentif et éveillé auprès du récepteur Airnalt.
 
 Avec la rapidité de l’éclair, le professeur devine le fait important.
 
-— Une communication ? dit‑il.
+— Une communication ? dit-il.
 
 — Oui.
 
 Le jeune homme regarde le papier que son interlocuteur lui remet.
 
-Plusieurs lignes. Va‑t‑il connaître la prison de Lilian ? Et il lit, son cœur
+Plusieurs lignes. Va-t-il connaître la prison de Lilian ? Et il lit, son cœur
 frappant à grands coups les parois :
 
 > — Il fait froid à Chicago, mais le soleil réchauffe Frisco, a dit le Belge.
 
-> — Le soleil est un brave boy ; mais la lune n’est point méprisable, a‑t‑on
+> — Le soleil est un brave boy ; mais la lune n’est point méprisable, a-t-on
   répondu.
 
 Sans hésiter, le jeune homme s’explique ces phrases.
 
 > — Sans doute, des paroles de reconnaissance convenues.
 
-Et il poursuit, prononçant à mi‑voix le dialogue surpris :
+Et il poursuit, prononçant à mi-voix le dialogue surpris :
 
 > — Allo ! Allo ! C’est moi, Van Reek.
 
@@ -578,13 +578,13 @@ Et il poursuit, prononçant à mi‑voix le dialogue surpris :
 
 > — Clairon si vous voulez ; j’attends vos ordres, vous savez.
 
-> — Vous n’attendrez pas longtemps. Au plus tôt, partez pour San‑Diego. On
-  vous y attendra pour vous guider vers ma résidence. Défiez‑vous de tout, ne
+> — Vous n’attendrez pas longtemps. Au plus tôt, partez pour San-Diego. On
+  vous y attendra pour vous guider vers ma résidence. Défiez-vous de tout, ne
   téléphonez plus, ce serait inutile.
 
 Un instant, Jud demeura pensif. La communication lui apprenait le point où des
 affiliés attendraient Van Reek. Au matin, Jud se rendra à la gare du Southern
-Pacific Railroad, tête de la ligne qui prolonge la côte du Pacifique de San‑
+Pacific Railroad, tête de la ligne qui prolonge la côte du Pacifique de San-
 Francisco à la frontière mexicaine. Il attendrait Van Reek au débarqué, et le
 guide du criminel conduirait aussi le justicier.
 
@@ -604,7 +604,7 @@ Tril était auprès du lit, clamant avec de grands gestes :
 — Raconte.
 
 — Voilà. Je m’étais établi pour la nuit en face de la maison Jemkins. Il y a
-  une demi‑heure, la porte de service s’est ouverte sans bruit. Un homme est
+  une demi-heure, la porte de service s’est ouverte sans bruit. Un homme est
   sorti. Je n’ai pas eu de peine à reconnaître l’individu. Il regarde à droite
   et à gauche, ne m’aperçoit pas naturellement, et se met en route à grandes
   enjambées. Dans unerue adjacente, il arrête une voiture et se fait conduire à
@@ -622,14 +622,14 @@ Tril était auprès du lit, clamant avec de grands gestes :
   gares, pour assurer la voie libre. Mais vous pouvez prendre place.
 
 Remerciements. Le chef court au télégraphe. Van Reek gagne les quais et
-disparaît dans son train spécial : Une machine, son tender et un wagon‑salon
+disparaît dans son train spécial : Une machine, son tender et un wagon-salon
 stationnant sur la voie 9.
 
 Jud avait pris son chapeau, son pardessus, une valise peu volumineuse.
 
 — Courons !
 
-— Inutile. Votre train spécial ne pourra partir qu’une demi‑heure après celui
+— Inutile. Votre train spécial ne pourra partir qu’une demi-heure après celui
   de Van Reek.
 
 — Mon train spécial ?
@@ -642,17 +642,17 @@ sur sa poitrine.
 
 — Attendez donc, acheva le gamin. J’ai fait un saut au dépôt, vu le mécanicien
   et le chauffeur qui vous conduiront. Je leur ai dit qu’il s’agissait d’un
-  pari, que vous deviez arriver à San‑Diego en même temps que le train Van
+  pari, que vous deviez arriver à San-Diego en même temps que le train Van
   Reek et qu’il y avait mille dollars de gratification si M. Grey Assford
   était satisfait.
 
 — Décidément, Tril, tu as le génie des mesures utiles. En route, mon enfant,
-  et mon train parti, télégraphie aux lads de San‑Diego et des environs. La
+  et mon train parti, télégraphie aux lads de San-Diego et des environs. La
   bataille est proche, j’aurai besoin de mes petits soldats.
 
 — Et moi, et Suzan, Top, Fall, Storm, Zinka ?
 
-— Vous me rejoindrez par le prochain train régulier. Là‑bas, on vous
+— Vous me rejoindrez par le prochain train régulier. Là-bas, on vous
   renseignera sur le chemin à suivre, chemin que je ne connais pas encore.
 
 [^2-05-1]: Les voitures pulmann sont des véhicules à couchettes mobiles.

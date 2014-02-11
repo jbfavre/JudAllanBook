@@ -3,10 +3,10 @@
 ![](../3-images/part2/page-287.jpg)
 
 Non loin de l’habitation de Frey Jemkins se dresse l’hôtel à voyageurs
-New‑Villard de Washington.
+New-Villard de Washington.
 
 Malgré son jardin d’hiver renommé, son confortable, son service exceptionnel,
-sa cuisine et ses caves réputées, le New‑Villard a des prix modérés, au moins
+sa cuisine et ses caves réputées, le New-Villard a des prix modérés, au moins
 par rapport à ses concurrents américains, et l’on s’y peut procurer une belle
 chambre pour la bagatelle de deux dollars cinquante cents (douze francs
 cinquante) par jour [^2-01-1].
@@ -20,12 +20,12 @@ frais et la marche apaiseraient ses nerfs surexcités.
 Maintenant il allait au hasard, sans s’inquiéter où le portaient ses pas.
 
 Les choses extérieures lui importaient peu, occupé qu’il était à regarder
-en lui‑même. 
+en lui-même. 
 
-Qu’y voyait‑il ? La douleur de l’enfant trouvé, sans nom, sans famille. Il se
+Qu’y voyait-il ? La douleur de l’enfant trouvé, sans nom, sans famille. Il se
 revoyait _chevalier vagabond_, petit Jud, puis fugitif, puis Jud Allan ayant
 conquis tout ce qu’un malheureux peut conquérir par le travail : une position
-honorable, certes, mais modeste. Professeur à West‑Point !
+honorable, certes, mais modeste. Professeur à West-Point !
 
 Comme cela était peu en regard de la situation de celle à qui, malgré lui, il
 avait donné son cœur ! Lilian, mais c’était une princesse des mille et une
@@ -52,7 +52,7 @@ Oh ! le souvenir de ce qui a été, de ce qui ne sera plus.
 Lilian maintenant a lu le manuscrit qu’il lui a confié. Elle sait le pauvre
 être qu’il est. Elle sait que son nom même peut lui être contesté !
 
-Et puis une question s’implante dans son cerveau. Comment a‑t‑elle accueilli
+Et puis une question s’implante dans son cerveau. Comment a-t-elle accueilli
 son aveu ?
 
 A cette heure matinale, il ne saurait se présenter à l’Institution Deffling.
@@ -66,18 +66,18 @@ Il remonte North Capital street.
 
 Le voici en face de la gare du chemin de fer Baltimore Ohio, tête des lignes
 qui desservent, d’une part, la côte Atlantique jusqu’à Baltimore, avec raccord
-sur New‑York, et d’autre part, les territoires de l’Ouest sur Pittsburg et
+sur New-York, et d’autre part, les territoires de l’Ouest sur Pittsburg et
 l’Ohio.
 
-Il heurte un promeneur, aussi pressé que lui‑même.
+Il heurte un promeneur, aussi pressé que lui-même.
 
-— Tiens, murmure‑t‑il, Kan‑So, l’un des acolytes de Jemkins… À quoi s’occupe‑t‑
+— Tiens, murmure-t-il, Kan-So, l’un des acolytes de Jemkins… À quoi s’occupe-t-
   il pour se mettre en route de si bonne heure ?
 
 Il achève à peine, qu’à vingt pas de lui, il remarque un second voyageur, qui
 marche à pas précipités.
 
-— Van Reek maintenant, se dit‑il. Ah ça ! toute la bande part donc en voyage ?
+— Van Reek maintenant, se dit-il. Ah ça ! toute la bande part donc en voyage ?
 
 Il hésite une seconde, puis il secoue la tête, comme s’il prenait une
 résolution.
@@ -88,33 +88,33 @@ Sur ces mots, il s’élance à la suite des deux lieutenants de Jemkins.
 
 A quelques pas d’eux, il pénètre dans la station du railway.
 
-Selon la coutume américaine, Kan‑So et Van Reek se sont munis à l’avance de
+Selon la coutume américaine, Kan-So et Van Reek se sont munis à l’avance de
 leurs tickets. Ils passent devant les guichets de distribution, gagnent le
 quai principal, d’où se détachent, ainsi que les dents d’un rateau, les quais
 affectés aux diverses directions desservies.
 
-Kan‑So se dirige vers un train, portant cette indication :
+Kan-So se dirige vers un train, portant cette indication :
 
 > Pittsburg et Ohio.
 
 Van Reek, lui, sans paraître apercevoir son complice, prend place dans un
-convoi à destination d’Atlantic Coast, Baltimore, New‑York and Canadian lakes.
+convoi à destination d’Atlantic Coast, Baltimore, New-York and Canadian lakes.
 
-— Où vont‑ils ? Que préparent‑ils ? se demande vainement le jeune homme.
+— Où vont-ils ? Que préparent-ils ? se demande vainement le jeune homme.
 
 Il ne saurait deviner que le Chinois part en expédition contre les barres d’or
-qui seront expédiées, dans quarante‑huit heures, de Pittsburg sur New‑York ;
+qui seront expédiées, dans quarante-huit heures, de Pittsburg sur New-York ;
 que Van Reek va s’installer dans cette dernière ville, pour y voler les
 pierres précieuses envoyées d’Amsterdam aux joailliers américains.
 
 Il regarde autour de lui. Adossés à la muraille, il distingue deux gamins à la
-livrée des boys de service des Pulmann‑Cars (wagons‑lits).
+livrée des boys de service des Pulmann-Cars (wagons-lits).
 
 Il s’approche d’eux en se frottant les yeux, ainsi qu’un homme qu’une
 poussière importune fatigue. Les boys mettent les mains dans leurs poches et
 sifflotent. Alors il n’hésite pas. Il va à eux. D’une voix brève, il prononce :
 
-— Le Chinois Kan‑So. Train de Pittsburg. Savoir son but. Dépèche chiffrée au
+— Le Chinois Kan-So. Train de Pittsburg. Savoir son but. Dépèche chiffrée au
   syndicat.
 
 — _All right_, répond sur le même ton, l’un de ses interlocuteurs.
@@ -124,7 +124,7 @@ Et Jud s’adresse à l’autre :
 — Train de Baltimore… Van Reek… Mêmes instructions.
 
 Cela a été si rapide que personne certainement n’a pu prêter attention au
-conciliabule. Le pseudo‑frère de Lilian s’éloigne, se dirigeant vers la
+conciliabule. Le pseudo-frère de Lilian s’éloigne, se dirigeant vers la
 sortie, tandis que les boys se précipitent vers les quais.
 
 Allan franchit les arcades s’ouvrant sur la rue, quand un groupe de
@@ -132,7 +132,7 @@ voyageurs retardataires lui barre le passage. Il est quelque peu coudoyé,
 bousculé par ces gens craignant sans doute de manquer le train.
 
 Il n’y attache aucune importance. En Amérique, on sait que les affaires
-n’attendent pas, et que les _business‑men_ n’ont point de temps à perdre en
+n’attendent pas, et que les _business-men_ n’ont point de temps à perdre en
 vaines politesses.
 
 Il hausse les épaules, s’éloigne de la gare, reprenant sa marche vers Kendall
@@ -148,7 +148,7 @@ A dix mètres de l’individu, une jeune femme, debout au bord du trottoir,
 semblait tout entière à la lecture d’une brochure. Sans hésiter cependant,
 l’étrange voyageur s’approcha d’elle.
 
-— C’est fait ! Lady Rouge‑Fleur.
+— C’est fait ! Lady Rouge-Fleur.
 
 Et il passa, sans que la jolie Chinoise eût fait un mouvement.
 
@@ -174,8 +174,8 @@ s’engouffrent sous le portail de l’Institution.
 
 Il ressasse toutes les choses pénibles qu’il s’est déjà répétées. Lilian le
 méprise à présent. Quelle apparence qu’elle puisse conserver son affection à
-l’ex‑chevalier vagabond, au petit saltimbanque qu’une heure d’exaltation a
-conduit à se dévouer pour elle ? Alors qu’est‑il venu faire ici ? Il se
+l’ex-chevalier vagabond, au petit saltimbanque qu’une heure d’exaltation a
+conduit à se dévouer pour elle ? Alors qu’est-il venu faire ici ? Il se
 gourmande, se plaisante durement.
 
 À ses tempes transsudent des gouttelettes glacées. Machinalement il porte la
@@ -190,26 +190,26 @@ cela ? Un billet cacheté avec cette suscription tracée au dactylographe :
 
 En voilà bien d’une autre ! D’où vient cette missive ? Il n’a aucun souvenir
 de l’avoir reçue, de l’avoir glissée dans sa poche. Et cependant elle a dû lui
-être remise à l’hôtel. Est‑ce qu’il perd l’esprit ?
+être remise à l’hôtel. Est-ce qu’il perd l’esprit ?
 
 Il décachette la lettre. Il la déplie. La feuille porte quelques lignes,
 écrites comme l’adresse à la machine. Et avec stupeur ses yeux déchiffrent ces
 syllabes menaçantes :
 
-> Vous êtes intelligent. Comprenez donc à demi‑mot. Vous avez entrepris une
+> Vous êtes intelligent. Comprenez donc à demi-mot. Vous avez entrepris une
   campagne odieuse qui doit prendre fin. Désormais vous y renoncerez, cela est
   certain, car votre prétexte vous échappe. Révoltée de vos agissements
   misérables, Lilian a cherché une protection, un refuge, auprès de ceux que
-  vous vous proposiez de mettre à contribution. Puissiez‑vous vous repentir !
+  vous vous proposiez de mettre à contribution. Puissiez-vous vous repentir !
 
 Le billet n’est point signé.
 
-Le sens n’en apparaît pas clairement d’abord au professeur de West‑Point. Mais
+Le sens n’en apparaît pas clairement d’abord au professeur de West-Point. Mais
 tout à coup une phrase se détache lumineuse, flamboyante :
 
-Lilian, dit‑on, a cherché une protection, un refuge, contre lui‑même !
+Lilian, dit-on, a cherché une protection, un refuge, contre lui-même !
 
-— Folie, gronde‑t‑il. Folie… Lilian ne saurait se défier de moi.
+— Folie, gronde-t-il. Folie… Lilian ne saurait se défier de moi.
 
 Mais une pensée le secoue :
 
@@ -220,15 +220,15 @@ Deffling, frappe du marteau à coups redoublés, et se trouve enfin devant la
 directrice accourue au bruit, qui considère avec inquiétude le jeune homme
 dont l’apparence est celle d’un dément.
 
-— Lilian ! Où est Lilian ? clame‑t‑il d’une voix faussée par l’angoisse…
-  Laissez‑moi passer… Il le faut ! Il le faut !
+— Lilian ! Où est Lilian ? clame-t-il d’une voix faussée par l’angoisse…
+  Laissez-moi passer… Il le faut ! Il le faut !
 
 Le mouvement de recul de Miss Deffling, terrifiée par cette exaltation,
 l’avertit de l’incorrection de son attitude.
 
 Il domine ses nerfs par un effort surhumain dont tout son être frissonne.
 
-— Je vous prie de m’excuser, fait‑il d’un accent assourdi, mais une lettre,
+— Je vous prie de m’excuser, fait-il d’un accent assourdi, mais une lettre,
   qui m’est parvenue ce matin, m’a causé les plus vives alarmes. On m’annonce
   que ma sœur a quitté la pension.
 
@@ -241,7 +241,7 @@ en un geste de dénégation.
   calomnier ma maison, qui, j’ose le dire, est tenue comme aucune autre de la
   ville.
 
-Son assurance gagne Allan lui‑même. Cependant il insiste :
+Son assurance gagne Allan lui-même. Cependant il insiste :
 
 — J’aurais dû me dire cela de suite. Seulement, je fais appel à votre
   condescendance. J’ai ressenti une émotion violente, vous le comprenez, et
@@ -253,7 +253,7 @@ Son assurance gagne Allan lui‑même. Cependant il insiste :
 Le calme est contagieux comme l’affolement. La placidité de Miss Deffling
 réagit sur le visiteur.
 
-Paisiblement il la suit à travers les couloirs du rez‑de‑chaussée, sur lesquels
+Paisiblement il la suit à travers les couloirs du rez-de-chaussée, sur lesquels
 s’alignent les portes closes des classes, où s’élèvent, monotones et scandées,
 les voix des professeurs enseignant leurs élèves.
 
@@ -277,7 +277,7 @@ Miss Deffling, Allan, ont répété ces trois syllabes avec une intonation
 impossible à rendre. Le trouble de la directrice est tel qu’elle referme la
 porte.
 
-— Pas paru… Qu’est‑ce que cela signifie ? Une élève exceptionnelle !… Grace
+— Pas paru… Qu’est-ce que cela signifie ? Une élève exceptionnelle !… Grace
   Paterson, passe encore…; une véritable écervelée… Mais Lilian, Lilian… c’est
   inconcevable.
 
@@ -285,9 +285,9 @@ Et ses regards se portant sur Allan, elle s’épouvante de sa pâleur, de
 l’égarement qui trouble ses yeux… Elle souhaite l’apaiser, le calmer, le
 consoler.
 
-— Bon ! La jeune fille est peut‑être un peu souffrante. Paterson, elle, lui
+— Bon ! La jeune fille est peut-être un peu souffrante. Paterson, elle, lui
   est toute affectionnée; elle sera restée à la soigner, à lui faire la
-  lecture, que sais‑je ?
+  lecture, que sais-je ?
 
 — Je vous en prie, allons nous en assurer.
 
@@ -296,7 +296,7 @@ toute velléité de résistance.
 
 — Mais oui, allons, allons de suite… Vous pensez bien que je suis aussi
   soucieuse que vous d’éclaircir ce mystère. Songez donc, une élève disparue…
-  Que dis‑je une ? C’est deux à présent ! Quel coup pour la réputation de mon
+  Que dis-je une ? C’est deux à présent ! Quel coup pour la réputation de mon
   établissement…, dont la tenue me vaut la confiance des meilleures familles.
 
 Il n’y a point à s’y méprendre, Miss Deffling est très agitée.
@@ -321,9 +321,9 @@ Miss Deffling :
 
 — Un crime !
 
-— Comment pouvez‑vous affirmer pareille chose ?
+— Comment pouvez-vous affirmer pareille chose ?
 
-— Respirez… ne sentez‑vous pas une légère odeur de chloroforme ?
+— Respirez… ne sentez-vous pas une légère odeur de chloroforme ?
 
 La directrice tressaille de plus belle. Toute l’Amérique a été émue par les
 exploits de la bande des _chloroformistes_. Ces bandits auraient opéré dans
@@ -362,10 +362,10 @@ Elle s’interrompt brusquement. Jud Allan vient d’appuyer la main sur son
   pense, mettre la police en mouvement et causer la mort des malheureuses
   victimes.
 
-Est‑ce qu’elle rêve ? Le frère de Lilian aurait‑il pareil souci de ses
+Est-ce qu’elle rêve ? Le frère de Lilian aurait-il pareil souci de ses
 intérêts ? Mais il reprend :
 
-— Nul ne saura l’aventure si vous la taisez vous‑même.
+— Nul ne saura l’aventure si vous la taisez vous-même.
 
 — Si je la tairai, moi ; vous pensez bien que, dans ma situation, j’aimerais
   mieux me couper la langue que donner le signal de ma ruine.
@@ -386,7 +386,7 @@ intérêts ? Mais il reprend :
 
 La curiosité, cette autre vertu de Miss Deffling, l’incite alors à murmurer :
 
-— Ne serait‑il pas plus simple de me mettre à même de les lui fournir ?
+— Ne serait-il pas plus simple de me mettre à même de les lui fournir ?
 
 — Non, répond sèchement le jeune homme, M. Loosevelt seul a qualité pour cela.
 
@@ -394,13 +394,13 @@ Puis sans ajouter une parole, il tourne le dos à Miss Deffling et s’éloigne.
 Cinq minutes après, il franchissait le portail de l’avenue de Kendall,
 monologuant :
 
-— La lettre mystérieuse, d’un ami celle‑là, qui me parvint naguère sur le quai
+— La lettre mystérieuse, d’un ami celle-là, qui me parvint naguère sur le quai
   du Bois, me faisait cette recommandation : « Quoi qu’il arrive, ne désespère
-  jamais. » Mon correspondant inconnu avait‑il prévu cela ?
+  jamais. » Mon correspondant inconnu avait-il prévu cela ?
 
 Et tristement :
 
-— Suis‑je réduit à l’impuissance totale ? Il est sûr qu’il me faut renoncer à
+— Suis-je réduit à l’impuissance totale ? Il est sûr qu’il me faut renoncer à
   l’appui de la police officielle… Oui… M. Loosevelt doit être avisé de suite…
   Mais me rendre à la Maison Blanche serait imprudent. Mes ennemis savaient
   que, leur lettre reçue, j’irais à l’Institution Deffling. Par conséquent dès
@@ -415,7 +415,7 @@ Un instant, il marcha pensivement, puis comme prenant un parti :
   le chef, le _roi_, comme ils disent, des _lads_, de tous les abandonnés. Ils
   m’ont servi maintes fois. À présent encore, ils me serviront. Oui, c’est
   l’armée des gamins qui luttera contre les troupes du crime. Un enfant a
-  arraché un autre enfant à la mort ; des enfants amèneront peut‑être l’heure
+  arraché un autre enfant à la mort ; des enfants amèneront peut-être l’heure
   de justice.
 
 Avec une émotion attendrie, il conclut lentement :
@@ -427,10 +427,10 @@ les remerciements ; il rencontra deux hommes, coiffés, l’un d’un chapeau 
 paille, l’autre d’un feutre gris, qui, à peu de distance, causaient avec
 animation.
 
-— Je n’aperçois que ces deux causeurs, murmura‑t‑il… Eux m’aperçoivent aussi.
-  Sont‑ce des espions ? Nous allons bien le voir.
+— Je n’aperçois que ces deux causeurs, murmura-t-il… Eux m’aperçoivent aussi.
+  Sont-ce des espions ? Nous allons bien le voir.
 
-![Sont‑ce des espions ? Nous allons bien le voir.](../3-images/part2/page-296.jpg "Sont‑ce des espions ? Nous allons bien le voir.")
+![Sont-ce des espions ? Nous allons bien le voir.](../3-images/part2/page-296.jpg "Sont-ce des espions ? Nous allons bien le voir.")
 
 Et sa douleur brusquement apaisée par la volupté de l’action :
 
@@ -438,10 +438,10 @@ Et sa douleur brusquement apaisée par la volupté de l’action :
   déductions graves.
 
 Il se mit en marche d’un air indifférent, non sans jeter de temps à autre un
-coup d’œil par‑dessus son épaule. Les hommes avaient, eux aussi, pris le pas
+coup d’œil par-dessus son épaule. Les hommes avaient, eux aussi, pris le pas
 de promenade. Jud sourit.
 
-— Allons, fit‑il encore, chapeau de paille et chapeau de feutre sortent des
+— Allons, fit-il encore, chapeau de paille et chapeau de feutre sortent des
 magasins de Jemkins.
 
 D’un bon pas il gagna la ruelle, où la veille au matin il s’était rendu avant
@@ -508,10 +508,10 @@ Son interlocuteur lui saisit la main et la porta à ses lèvres.
 Et d’un ton mi badin, mi ému, Tril expliqua :
 
 — À quoi bon discuter cela, Roi ? Que nous le voulions ou non, nous t’aimons.
-  Qu’étions‑nous auparavant ? Des enfants du ruisseau, nus, sans appui,
+  Qu’étions-nous auparavant ? Des enfants du ruisseau, nus, sans appui,
   condamnés presque fatalement au vol, à la honte, à la mendicité. Tu nous as
-  réunis, toi, qui travaillais tant ! Tu nous as dit : Groupez‑vous ; soutenez‑vous ;
-  défendez‑vous. Aujourd’hui, notre syndicat s’est étendu sur tout le
+  réunis, toi, qui travaillais tant ! Tu nous as dit : Groupez-vous ; soutenez-vous ;
+  défendez-vous. Aujourd’hui, notre syndicat s’est étendu sur tout le
   territoire de l’Union. Chaque ville a une agence. Les emplois de grooms,
   boys, petites bonnes d’enfant, bureaucrates débutants, etc., nous sont
   réservés mieux rétribués, plus considérés qu’autrefois,… nous sommes devenus
@@ -519,7 +519,7 @@ Et d’un ton mi badin, mi ému, Tril expliqua :
   de toute société ; à toi qui, pauvre, fugitif, as refusé d’en distraire la
   moindre parcelle à ton profit.
 
-— Enfant trouvé moi‑même, fit mélancoliquement Jud, j’ai voulu éviter aux
+— Enfant trouvé moi-même, fit mélancoliquement Jud, j’ai voulu éviter aux
   autres les horreurs de l’isolement.
 
 Et il avait réussi : des économistes, durant les dix dernières années, avaient
@@ -530,11 +530,11 @@ l’origine.
 
 Tril reprit :
 
-— Qu’y a‑t‑il à faire ?
+— Qu’y a-t-il à faire ?
 
 — Ceci. Je suis escorté par des espions…
 
-— Veux‑tu qu’on les fasse disparaître ?…
+— Veux-tu qu’on les fasse disparaître ?…
 
 — Non, mon bon Tril. Seulement, il faudra que la nuit prochaine, pour la
   réunion générale convoquée sur ma demande, on veille à ce que nul ennemi ne
@@ -550,7 +550,7 @@ Tril reprit :
 
 Un sourire d’orgueil illumina le visage du gamin.
 
-— Que dois‑je faire ?
+— Que dois-je faire ?
 
 — Remettre au Président une lettre que je vais écrire.
 
@@ -577,11 +577,11 @@ coup d’ongle, il fit sauter une larme prête à tomber de ses yeux, et se
 dirigeant vers la porte :
 
 — Je pars, Roi. Sois tranquille, personne ne rapportera à Jemkins que Tril est
-  entré à la Maison‑Blanche.
+  entré à la Maison-Blanche.
 
 La double porte était retombée sur lui. Jud demeurait seul.
 
-— Allons, murmura‑t‑il. Mes « petits sujets », – il y eut une infinie
+— Allons, murmura-t-il. Mes « petits sujets », – il y eut une infinie
   tristesse dans son intonation,  – mes petits sujets me restent. C’est avec
   eux qu’il faut vaincre.
 
@@ -592,9 +592,9 @@ petite, frêle. Son visage maigre, pâle, où de grands yeux noirs prenaient une
 importance exagérée, décelait les privations de la misère, qui arrête le
 développement physique, qui appauvrit le sang des enfances misérables.
 
-— C’est moi, Roi, fit‑elle d’une voix douce, légèrement voilée.
+— C’est moi, Roi, fit-elle d’une voix douce, légèrement voilée.
 
-— Toi, petite Suzan, pourquoi as‑tu quitté ta machine à écrire ?
+— Toi, petite Suzan, pourquoi as-tu quitté ta machine à écrire ?
 
 — Tril m’a chargé de te dire qu’il était en route.
 
@@ -614,24 +614,24 @@ aucune précaution.
 
 Mais Suzan s’avança d’un pas, joignit ses mains menues.
 
-— Roi, dit‑elle… Je mendiais ; une méchante femme me battait quand la recette
+— Roi, dit-elle… Je mendiais ; une méchante femme me battait quand la recette
   ne lui semblait pas assez forte. Tu m’as amenée ici… On m’a appris à lire, à
   écrire, à compter. À présent, je gagne ma vie, je comprends que tu m’as
   tirée de la boue, que tu m’as donné la possibilité de l’existence honorable,
-  peut‑être heureuse. Tout ce que j’ai de bon me vient de toi.
+  peut-être heureuse. Tout ce que j’ai de bon me vient de toi.
 
 Elle fit une légère pause, comme pour triompher d’une dernière hésitation.
 
 — Tril m’a glissé à l’oreille que le moment était venu où l’on pourrait se
   dévouer pour toi.
 
-![C’est moi, Roi, fit‑elle d’une voix douce.](../3-images/part2/page-300.jpg "C’est moi, Roi, fit‑elle d’une voix douce.")
+![C’est moi, Roi, fit-elle d’une voix douce.](../3-images/part2/page-300.jpg "C’est moi, Roi, fit-elle d’une voix douce.")
 
 — Tril est un affreux bavard, je le gronderai à la première occasion.
 
-— Non, non, supplia‑t‑elle. Tril sait mes pensées, il a voulu me donner joie
+— Non, non, supplia-t-elle. Tril sait mes pensées, il a voulu me donner joie
   et contentement… Et je viens, je viens te supplier de ne pas oublier Suzan
-  dans le danger. Pardonne‑moi. Tous t’aiment, tous voudraient se sacrifier
+  dans le danger. Pardonne-moi. Tous t’aiment, tous voudraient se sacrifier
   pour toi… Ils ignorent encore, je prends l’avance. Roi, fais que si
   quelqu’un doit mourir pour toi, ce soit Suzan.
 
@@ -641,12 +641,12 @@ présentaient à son esprit.
 
 Jud Allan se sentit touché jusqu’au fond du cœur.
 
-— Oh ! murmura‑t‑il, oui, nous vaincrons… La tendresse aura raison de la haine.
+— Oh ! murmura-t-il, oui, nous vaincrons… La tendresse aura raison de la haine.
 
 Et comme Suzan répétait, suppliante autant que si elle avait sollicité une
 faveur :
 
-— N’est‑ce pas, s’il faut mourir, tu donneras la préférence à Suzan.
+— N’est-ce pas, s’il faut mourir, tu donneras la préférence à Suzan.
 
 Il éleva la petite dans ses bras, fit sonner deux baisers sur ses joues pâles,
 et doucement :
@@ -656,7 +656,7 @@ et doucement :
 
 Il avait reposé l’enfant à terre. Elle éclata en sanglots.
 
-— C’est le bonheur, déclara‑t‑elle au milieu de ses larmes… le bonheur… Tu
+— C’est le bonheur, déclara-t-elle au milieu de ses larmes… le bonheur… Tu
   crois que je puis être utile… Ah ! quel bonheur !
 
 Un quart d’heure plus tard, Tril était de retour, rapportant l’assurance que
@@ -671,15 +671,15 @@ Renouvelant ses recommandations à Tril, en vue de l’assemblée des lads de la
 nuit suivante, Jud quitta alors le syndicat.
 
 Dans la rue, les hommes aux coiffures de paille et de feutre stationnaient,
-occupés, semblait‑il, à déchiffrer une affiche. Le professeur affecta de ne
-point les voir. Il reprit le chemin de l’hôtel de New‑Villard, et, une fois
+occupés, semblait-il, à déchiffrer une affiche. Le professeur affecta de ne
+point les voir. Il reprit le chemin de l’hôtel de New-Villard, et, une fois
 arrivé, après une courte station au salon de lecture, il remonta dans sa
 chambre.
 
 Il avait résolu de s’y tenir enfermé jusqu’au moment fixé pour la réunion des
 lads.
 
-Mais, de même que la plupart des décisions humaines, celle‑ci devait être
+Mais, de même que la plupart des décisions humaines, celle-ci devait être
 modifiée par une circonstance imprévue.
 
 Vers midi, en même temps que le déjeuner qu’il avait manifesté le désir de
@@ -688,19 +688,19 @@ surchargée de ratures, indiquait une promenade assez longue à travers les
 bureaux de poste de l’Union.
 
 En effet, la missive avait été adressée primitivement à l’école militaire de
-West‑Point, qui l’avait fait suivre à Baltimore, d’où elle était revenue à
-Washington pour toucher enfin l’intéressé au New‑Villard Hôtel.
+West-Point, qui l’avait fait suivre à Baltimore, d’où elle était revenue à
+Washington pour toucher enfin l’intéressé au New-Villard Hôtel.
 
 Jud déchira l’enveloppe et resta stupéfait, déconcerté. Elle contenait une
 invitation en bonne et due forme par laquelle Frey Jemkins, de Pensylvania
-Street, priait M. Jud Allan, professeur à West‑Point, licencié ès lettres et
+Street, priait M. Jud Allan, professeur à West-Point, licencié ès lettres et
 en droit, de vouloir bien honorer de sa présence, la fête par laquelle il
 célébrait le retour de son heureux voyage en Europe.
 
 La date fixée fit rêver le jeune homme. La fête se donnait le soir.
 
 Son ennemi venait à lui. Ayant enlevé Lilian, la nuit  précédente, il voulait
-se rencontrer, dans les vingt‑quatre heures, avec le champion de la
+se rencontrer, dans les vingt-quatre heures, avec le champion de la
 malheureuse héritière des Pariset.
 
 Il repoussa d’abord cette idée. La lettre, à raison de ses pérégrinations,
@@ -713,14 +713,14 @@ d’oblitération apparaissaient confus. Les chiffres indiquant les date, les
 numéros de levée, ou bien étaient effacés, ou bien n’avaient point marqué.
 
 Une autre constatation résulta de l’examen. Ce n’était pas le vaguemestre de
-l’école qui avait écrit à West‑Point la mention : faire suivre à Baltimore,
+l’école qui avait écrit à West-Point la mention : faire suivre à Baltimore,
 Scolia Hôtel. Or, Jud savait avec quelle conscience l’honorable Sooreland,
 vaguemestre de l’école militaire, remplissait ses fonctions, avec quel soin
 jaloux il s’acquittait des plus minuscules attributions de son emploi.
 
-— Ah ça ! murmura‑t‑il, est‑ce que cette enveloppe aurait été truquée ?
+— Ah ça ! murmura-t-il, est-ce que cette enveloppe aurait été truquée ?
 
-Il touchait du doigt la vérité. Après le départ de Rouge‑Fleur, Frey Jemkins
+Il touchait du doigt la vérité. Après le départ de Rouge-Fleur, Frey Jemkins
 avait été pris d’un irrésistible désir de se trouver en face de ce Jud Allan
 qui, depuis seize ans, avait déjoué toutes ses recherches.
 
@@ -733,7 +733,7 @@ Jud se déclara :
 
 [^2-01-1]: Des écrivains, peu avertis, comparent sans cesse les gains des
            travailleurs d’Amérique et d’Europe. Ils oublient que si, en France
-           par exemple, l’unité monétaire est le franc, aux États‑Unis, l’unité
-           est le dollar (cinq francs). De la sorte un homme gagnant là‑bas
+           par exemple, l’unité monétaire est le franc, aux États-Unis, l’unité
+           est le dollar (cinq francs). De la sorte un homme gagnant là-bas
            vingt dollars (cent francs) a seulement un gain équivalent à celui
            du Français qui gagne vingt francs.

@@ -5,20 +5,20 @@
 Appels de sirènes, tintements de cloches, grincements de poulies, halètement
 des grues à vapeur, roulement sourd des trains du Métropolitain aérien,
 vibrations aiguës du réseau télégraphique tendu sur le ciel ainsi qu’une toile
-d’araignée, telle est l’harmonie bruyante de New‑York, douloureuse et
+d’araignée, telle est l’harmonie bruyante de New-York, douloureuse et
 insupportable aux étrangers.
 
 Sans doute. Le garçon d’hôtel, reconnaissable à sa casquette portant en
-broderie d’or les mots _Meyer‑Hôtel_, qui déambulait sur la rive de l’Hudson‑
+broderie d’or les mots _Meyer-Hôtel_, qui déambulait sur la rive de l’Hudson-
 River, avait une grande habitude de la cacophonie de la grande cité, car il
 allait, souriant, semblant goûter un plaisir sans bornes à la contemplation du
 spectacle mouvementé se déroulant sous ses yeux.
 
 Il suivait les quais de l’Hudson, dénommé aussi Rivière du Nord (North River),
-prolongeant les débarcadères des grandes lignes de navigation Europe‑Amérique
+prolongeant les débarcadères des grandes lignes de navigation Europe-Amérique
 et vice versa. Il contemplait la forêt de mâts, de cheminées, se dressant en
-bordure des quais ; les innombrables ferry‑boats (bacs à vapeur reliant
-incessamment Jersey‑City, Newport, Brooklyn, ces divers quartiers de New‑York,
+bordure des quais ; les innombrables ferry-boats (bacs à vapeur reliant
+incessamment Jersey-City, Newport, Brooklyn, ces divers quartiers de New-York,
 séparés par les eaux profondes de la rivière du Nord et de la rivière de l’Est
 (East River).
 
@@ -27,36 +27,36 @@ que les négociants appellent _maisons d’affaires_, et le peuple,
 _égratigneuses du ciel_ (Skycrapers).
 
 Et dans le crépuscule commençant, juste au milieu du chenal, qui conduit à la
-pleine mer, à travers Upper‑Bay, les Narrows et Lower‑Bay, il discernait la
-lanterne‑phare, la colossale statue de la Liberté de Bartholdi, juchée sur le
+pleine mer, à travers Upper-Bay, les Narrows et Lower-Bay, il discernait la
+lanterne-phare, la colossale statue de la Liberté de Bartholdi, juchée sur le
 piédestal de l’île Bedlœ.
 
 Ainsi, il parvint auprès des débarcadères des compagnies de navigation
-Norddeutsche Lloyd et Hamburg‑America. Le mouvement annonçait qu’un navire
+Norddeutsche Lloyd et Hamburg-America. Le mouvement annonçait qu’un navire
 d’Europe était attendu.
 
-Voitures, garçons d’hôtel, coudoyaient les _Custom‑house‑officers_
+Voitures, garçons d’hôtel, coudoyaient les _Custom-house-officers_
 (douaniers), les commissionnaires, les badauds, les gens venus pour recevoir
 au débarqué parents ou correspondants.
 
 Le promeneur s’arrêta net. Puis, avisant un gamin dépenaillé, il l’interpella :
 
-— Boy, veux‑tu répondre à une question ?
+— Boy, veux-tu répondre à une question ?
 
 Le jeune garçon le toisa d’un air ironique.
 
-— Quel avantage y trouverai‑je, Gentleman ?
+— Quel avantage y trouverai-je, Gentleman ?
 
-Ce qui fit rire l’employé du Meyer‑Hôtel et l’incita à ajouter :
+Ce qui fit rire l’employé du Meyer-Hôtel et l’incita à ajouter :
 
 — _All right !_ Tu es pratique, j’aime cela. Une question, deux _cents_ (dix
-  centimes). Cela joue‑t‑il ?
+  centimes). Cela joue-t-il ?
 
 L’autre inclina la tête :
 
 — Cela joue, si la question n’est pas trop difficile.
 
-— Voici… Dis‑moi ce que tout le monde attend ici ?
+— Voici… Dis-moi ce que tout le monde attend ici ?
 
 — Alors, passez les deux cents.
 
@@ -64,21 +64,21 @@ L’autre inclina la tête :
 
 Le boy fit un saut qui le mit hors de la portée du maître d’hôtel.
 
-— On attend le paquebot _Kaiser‑Wilhelm_ annoncé par le sémaphore de Sandy‑
+— On attend le paquebot _Kaiser-Wilhelm_ annoncé par le sémaphore de Sandy-
   Hook.
 
 Sur ce, le petit bonhomme esquissa un salut grotesque et se jeta dans la
 foule, emportant les deux cents du curieux.
 
-— _Poor old thing_ (pauvre vieille chose – locution amicale), murmura celui‑
+— _Poor old thing_ (pauvre vieille chose – locution amicale), murmura celui-
   ci, tu ne te doutes pas que la nouvelle vaut pour moi plus de deux cents.
 
 Il achevait à peine ce monologue qu’un second gamin, vêtu de la tenue de
-« chasseur » du Meyer‑Hôtel, le tira par la manche.
+« chasseur » du Meyer-Hôtel, le tira par la manche.
 
-— Oakes, dit‑il, je vous rencontre…
+— Oakes, dit-il, je vous rencontre…
 
-— Ah ! c’est toi, petit Tril, que cherches‑tu ?
+— Ah ! c’est toi, petit Tril, que cherches-tu ?
 
 — Vous, pour vous dire que le gérant de l’hôtel vocifère contre vous.
 
@@ -98,22 +98,22 @@ La réflexion parut toucher le maitre d’hôtel.
 — _Good fellow_ tout à fait… Je laisserai quelque chose pour toi, à titre de
   souvenir… Va au Railroad, old boy; moi, je vais toucher mon argent.
 
-Et d’un pas rapide, le flâneur se dirigea vers le Meyer‑Hôtel, situé, comme on
+Et d’un pas rapide, le flâneur se dirigea vers le Meyer-Hôtel, situé, comme on
 le sait, à proximité des débarcadères, au point de croisement des Troisième et
 Hudson Streets.
 
 Tril le regarda s’éloigner. Un instant après, il rejoignait le boy mal vêtu,
 auquel l’employé renvoyé avait remis tout à l’heure deux cents.
 
-— Eh bien ? fit‑il.
+— Eh bien ? fit-il.
 
 — _Il_ m’a demandé ce que l’on attendait ici. L’annonce de l’arrivée du
-  _Kaiser‑Wilhelm_ l’a réjoui ?
+  _Kaiser-Wilhelm_ l’a réjoui ?
 
 — Il ne renonce donc pas à son projet, grommela le _chasseur_ d’un accent
-  pensif. Alors, pourquoi s’est‑il fait renvoyer par le gérant ? Toujours
+  pensif. Alors, pourquoi s’est-il fait renvoyer par le gérant ? Toujours
   dehors malgré les observations ; et ce matin, il a répondu grossièrement au
-  « patron ». Donc il voulait… Est‑ce que tu comprends, toi, Top ?
+  « patron ». Donc il voulait… Est-ce que tu comprends, toi, Top ?
 
 L’autre secoua négativement la tête.
 
@@ -127,7 +127,7 @@ frappant le plancher de coups de talon rageurs.
 
 Il bondit vers le nouveau venu.
 
-— Enfin, vous daignez arriver, Oakes ! gronda‑il… Je vous demanderai si vous
+— Enfin, vous daignez arriver, Oakes ! gronda-il… Je vous demanderai si vous
   êtes disposé à quitter la maison.
 
 L’autre riposta tranquillement:
@@ -135,7 +135,7 @@ L’autre riposta tranquillement:
 — Je suis tout à fait disposé. Si vous voulez me régler mon compte, je monte à
   ma chambre et je disparais avec mon mince bagage.
 
-— Allons ! Allons ! je vois que vous êtes parfois raisonnable. Quittons‑nous
+— Allons ! Allons ! je vois que vous êtes parfois raisonnable. Quittons-nous
   sans complications nouvelles, et une fois placé ailleurs, tâchez de donner
   plus de soin à vos devoirs.
 
@@ -152,12 +152,12 @@ dernier étage des « chambres à voyageurs ». Là, il gagna l’escalier d
 accédant au _servant’s floor_ (étage du personnel) et s’engouffre dans une
 chambre, sur la porte de laquelle se lisait le numéro 34.
 
-— Là, murmura‑t‑il. Je pourrai déménager comme je l’entends.
+— Là, murmura-t-il. Je pourrai déménager comme je l’entends.
 
 Ceci dit, il souleva une valise rebondie qui néanmoins devait être légère à en
 juger par la facilité qu’il montrait à la manier.
 
-— Grâce à la double enveloppe pneumatique, j’ai l’air d’avoir une garde‑robe
+— Grâce à la double enveloppe pneumatique, j’ai l’air d’avoir une garde-robe
   bien fournie… Et il n’y a là dedans que ma… pipe.
 
 Ce dernier mot fut prononcé d’un ton étrange, presque menaçant.
@@ -174,7 +174,7 @@ En hâte, tel un homme qui craint d’être surpris, il courut à la porte numé
 Un garçon était debout devant la glace, en manches de chemise, très occupé à
 façonner le nœud de sa cravate blanche.
 
-— Ah ! vous voilà, Oakes, fit‑il sans manifester la moindre surprise.
+— Ah ! vous voilà, Oakes, fit-il sans manifester la moindre surprise.
 
 — Oui. Vous voyez que le plus difficile est fait. Vous allez servir à table,
   ensuite vous serez de garde de nuit. Moi, je dors chez vous. Vers cinq heures
@@ -183,14 +183,14 @@ façonner le nœud de sa cravate blanche.
 
 — Ce n’est pas trop pour le risque.
 
-— D’accord, je ne récrimine pas. Les hôtels sont hors de prix à New‑York. Sauf
+— D’accord, je ne récrimine pas. Les hôtels sont hors de prix à New-York. Sauf
   les maisons de voleurs, les hôtels convenables me prendraient dix dollars.
 
 — Vous avez donc trouvé quelque chose ?
 
-— C’est à peu près fait. J’ai rendez‑vous demain matin.
+— C’est à peu près fait. J’ai rendez-vous demain matin.
 
-— Eh bien, Oakes, s’exclama cordialement l’ex‑collègue de l’employé, j’en suis
+— Eh bien, Oakes, s’exclama cordialement l’ex-collègue de l’employé, j’en suis
   heureux pour vous. Je comprends que le gérant ne vous garde pas, vous vous
   moquez trop du service, mais comme camarade, je vous regretterai. Vous avez
   le whisky facile avec vos amis, et cela ne s’oublie pas.
@@ -224,11 +224,11 @@ valise.
 
 Tril, cependant, arrivait au Pensylvania Railroad.
 
-Comme les autres employés des divers hôtels new‑yorkais, il se posta près de
+Comme les autres employés des divers hôtels new-yorkais, il se posta près de
 la sortie des voyageurs en provenance de l’Ohio, il distingua l’original
 personnage qui répondait au nom de Grey Assford.
 
-— Meyer‑Hôtel, Gentleman ? fit‑il en retirant sa casquette.
+— Meyer-Hôtel, Gentleman ? fit-il en retirant sa casquette.
 
 La politesse n’est point le fort de la domesticité américaine. Le geste du
 petit chasseur parut flatter le voyageur, car il répondit sans hésiter :
@@ -245,18 +245,18 @@ gagna une rue voisine. Alors, il demanda :
 
 — J’ai une chambre retenue ?
 
-— Oui, la 215…, qui est située juste au‑dessus du 115, et d’où un microphone,
+— Oui, la 215…, qui est située juste au-dessus du 115, et d’où un microphone,
   installé par moi, vous permettra de ne pas perdre une parole prononcée dans
   cette dernière chambre, que les deux gentlemen qui convoitent les diamants
   expédiés par le Consortium Néerlandais occuperont ce soir.
 
 — Tu es sûr, mon enfant ?
 
-— Oui, les joailliers de la ville, avisés hier, par sans‑fil, que le steamer
-  _Kaiser‑Wilhelm_ ne toucherait que ce soir, la nuit venue, ont retenu la
+— Oui, les joailliers de la ville, avisés hier, par sans-fil, que le steamer
+  _Kaiser-Wilhelm_ ne toucherait que ce soir, la nuit venue, ont retenu la
   chambre 115 pour les voyageurs.
 
-— Pourquoi ne prennent‑ils pas livraison de suite ?
+— Pourquoi ne prennent-ils pas livraison de suite ?
 
 — Prudents, les manieurs de pierres précieuses. L’envoi doit être examiné en
   séance plénière, d’où nécessité d’attendre à demain…
@@ -267,7 +267,7 @@ Et, après un coup d’œil circulaire, il murmura :
 
 — Ah ! Ah ! Vous l’avez retrouvé ?
 
-— Facilement… Les expropriations d’East‑River, prétexte de sa venue à New‑
+— Facilement… Les expropriations d’East-River, prétexte de sa venue à New-
   York, nous permirent de le joindre dès notre arrivée en discussion avec des
   propriétaires, des entrepreneurs.
 
@@ -299,7 +299,7 @@ Jud tapota amicalement l’épaule du gamin.
 — Bien, cela. De cette façon, tu peux le surveiller à tout instant.
 
 — Oh ! fit modestement le petit; nous nous sommes partagé la besogne. Top au
-  débarcadère, Fall à la maison de la Troisième rue, Suzan à East‑River, et
+  débarcadère, Fall à la maison de la Troisième rue, Suzan à East-River, et
   moi chez Meyer.
 
 ![On croirait les voir tous les deux.](../3-images/part2/page-349.jpg "On croirait les voir tous les deux.")
@@ -311,16 +311,16 @@ soucieuse.
 
 — Depuis ce matin, je ne sais plus que penser.
 
-— Que s’est‑il donc passé ?
+— Que s’est-il donc passé ?
 
 — Van Reek ou Oakes, c’est le nom qu’il a pris à l’hôtel, a montré une
   grossièreté _voulue_, telle que le gérant l’a congédié. À cette heure il a dû
   quitter la maison Meyer.
 
-— Qu’est‑ce que cela veut dire ?
+— Qu’est-ce que cela veut dire ?
 
 — Je l’ignore, Roi… Mais il s’est probablement retiré dans son logis de la
-  Troisième rue. Peut‑être Fall aura‑t‑il remarqué quelque chose.
+  Troisième rue. Peut-être Fall aura-t-il remarqué quelque chose.
 
 — Prenons une voiture, proposa Allan, cela nous fera gagner du temps, et
   voyons tes petits associés.
@@ -336,8 +336,8 @@ noix.
 Sans affectation, le faux Grey Assford s’arrêta devant le petit animal, parut
 se complaire à l’examiner et finalement le caressa.
 
-— Joli _monkey_ (singe) en vérité, prononça‑t‑il à mi‑voix… Je n’en vis jamais
-  de plus joli, sauf un peut‑être qu’une étroite amitié unissait à un gros
+— Joli _monkey_ (singe) en vérité, prononça-t-il à mi-voix… Je n’en vis jamais
+  de plus joli, sauf un peut-être qu’une étroite amitié unissait à un gros
   chien.
 
 Il achevait à peine, que la tête d’un dogue du Texas, à la robe gris de fer,
@@ -348,17 +348,17 @@ se montrait dans l’ouverture.
 Une voix légère comme un souffle jaillit de la chambre, dans l’obscurité de
 laquelle personne ne se montrait.
 
-— Vous pouvez parler, disait‑elle. Je suis seule et enfermée.
+— Vous pouvez parler, disait-elle. Je suis seule et enfermée.
 
 — Bien, petite Suzan, riposta Allan sans marquer la moindre surprise. Quoi de
-  nouveau à East‑River ?
+  nouveau à East-River ?
 
 — Van Reek a interrompu les pourparlers avec les propriétaires des terrains,
   sous couleur d’aller consulter ses coassociés.
 
-— Quand part‑il ?
+— Quand part-il ?
 
-— Ce soir, a‑t‑il affirmé.
+— Ce soir, a-t-il affirmé.
 
 — Ce soir… Le navire arrive tard, et le temps lui manquerait.
 
@@ -386,7 +386,7 @@ Adossée à une grille, une ombre falote s’agita à leur approche.
 
 — La charité, mes bons Gentlemen… Un pauvre boy a faim.
 
-Le pseudo‑Assford s’arrêta net, fouilla dans son gousset comme pour y prendre
+Le pseudo-Assford s’arrêta net, fouilla dans son gousset comme pour y prendre
 une pièce de monnaie. En même temps, il murmurait :
 
 — Van Reek est rentré chez lui ?
@@ -402,25 +402,25 @@ Allan entraîna le chasseur vers le quai.
 
 — Qu’a donc combiné ce misérable ? monologuait le professeur.
 
-Au débarcadère des bateaux allemands, où le _Kaiser‑Wilhelm_ venait
+Au débarcadère des bateaux allemands, où le _Kaiser-Wilhelm_ venait
 d’accoster, Top se présenta à ses yeux, s’agitant, braillant, à l’unisson de
 la foule rassemblée autour de la passerelle.
 
 — Il est venu tantôt, expliqua le gamin. Il m’a demandé ce que l’on attendait.
   Il m’a même donné deux _cents_ pour apprendre que c’était le paquebot
-  _Kaiser‑Wilhelm_.
+  _Kaiser-Wilhelm_.
 
 Et il se rejeta au plus épais de la foule en vociférant de plus belle.
 
 Avec un haussement d’épaules, Jud conclut :
 
-— Enfin, rendons‑nous au Meyer… Une fois que tu m’auras conduit au bureau
+— Enfin, rendons-nous au Meyer… Une fois que tu m’auras conduit au bureau
   comme un voyageur du Pensylvania Railroad, tu t’assureras que Van Reek, ou
   Oakes, a bien quitté l’hôtel.
 
 Cinq minutes après, Grey Assford déclinait ses nom et qualité au comptable du
 bureau du Meyer’s Hôtel, recevait la clef de la chambre 215, se faisait
-indiquer les _toilet‑room_, afin, expliqua‑t‑il, de procéder à une toilette
+indiquer les _toilet-room_, afin, expliqua-t-il, de procéder à une toilette
 sommaire avant de souper, et pénétrait dans le couloir aux murs recouverts de
 plaques vernissées, où s’alignaient les lavabos surmontés des robinets à eau
 chaude et à eau froide.
@@ -432,11 +432,11 @@ chaude et à eau froide.
 Ainsi, Il remarqua l’arrivée de deux voyageurs blonds, calmes, au teint blanc,
 déambulant avec cette placidité spéciale aux citoyens hollandais.
 
-L’un des deux portait avec précaution, religieusement pourrait‑on dire, une
+L’un des deux portait avec précaution, religieusement pourrait-on dire, une
 sorte de valise plate recouverte de maroquin noir, laquelle rappelait
 vaguement la forme d’un écrin à couverts d’argenterie.
 
-Et Jud tressaillit en entendant le gérant, accouru en personne au‑devant de
+Et Jud tressaillit en entendant le gérant, accouru en personne au-devant de
 ces personnages, donner cet ordre :
 
 — Montez le souper de ces gentlemen chambre 115.
@@ -447,13 +447,13 @@ ces personnages, donner cet ordre :
 Mais un sourire confiant éclaira son visage.
 
 — Après tout ! C’est une nuit à passer. Demain, ils remettent leur précieux
-  dépôt au syndicat des joailliers, qui possède des coffres‑forts solides.
+  dépôt au syndicat des joailliers, qui possède des coffres-forts solides.
   Et Van Reek n’a plus qu’à se mettre en route pour rejoindre son chef, me
   guidant ainsi vers la prison de Lilian.
 
-Sur ce, il quitta le _toilet‑room_, gagna la salle à manger.
+Sur ce, il quitta le _toilet-room_, gagna la salle à manger.
 
-— Je puis souper à l’aise, se confia‑t‑il. Van Reek n’agira évidemment pas
+— Je puis souper à l’aise, se confia-t-il. Van Reek n’agira évidemment pas
   à l’heure où tout le monde, personnel et voyageurs, est debout.
 
 Toutefois, vers la fin du second service, il fut troublé par la venue d’un
@@ -472,14 +472,14 @@ La missive contenait ces lignes :
 Après cette lecture, Jud Allan demeura un instant pensif.
 
 — Quel peut être le plan de Van Reek ? Il quitte l’hôtel quand les diamants y
-  entrent. Aurait‑il confié le risque à des complices ?
+  entrent. Aurait-il confié le risque à des complices ?
 
 Il secoua la tête.
 
 Vraisemblablement aucune réponse à l’interrogation ne se formula dans son
 esprit, car il dépêcha la fin de son souper, se fit indiquer la manœuvre de
 l’ascenseur et gagna ainsi la porte désignée par le numéro gravé sur sa clef,
-c’est‑à‑dire le 215.
+c’est-à-dire le 215.
 
 Une fois à l’interieur, il poussa le verrou de sûreté appliqué sous la
 serrure, puis examinant successivement les divers angles de la pièce, il parut
@@ -488,9 +488,9 @@ métallique, semblant sortir du plancher, montait à mihauteur du mur, contre
 lequel de petites pinces volantes le maintenaient fixé. Il aboutissait à une
 sorte de boîte de sept à huit centimètres de côté.
 
-— Le renforçateur, fit‑il à voix basse. Tril ne m’a pas trompé, le microphone
+— Le renforçateur, fit-il à voix basse. Tril ne m’a pas trompé, le microphone
   est prêt à fonctionner. Les gardiens des diamants occupent la chambre située
-  juste au‑dessous de la mienne. Écoutons un peu ces braves gens.
+  juste au-dessous de la mienne. Écoutons un peu ces braves gens.
 
 Les habitants du 115 causaient sans défiance, évidemment convaincus que
 personne ne pouvait percevoir leur conversation.
@@ -516,7 +516,7 @@ des observations échangées. Puis Van Dilijck reprit la parole :
 — Vous reconnaîtrez, Daloom, que le travail est largement rétribué.
 
 — Largement, Meinherr, c’est le mot. Une fois les pierres remises au Syndicat
-  des Joailliers New‑Yorkais, je bénirai le Consortium qui nous a chargés de
+  des Joailliers New-Yorkais, je bénirai le Consortium qui nous a chargés de
   les accompagner. J’aurai gagné en un mois…, je dis un mois à cause de
   l’aller et retour, plus qu’à l’ordinaire en une année, sans compter
   l’honneur et le plaisir de votre compagnie.
@@ -537,9 +537,9 @@ subordonné.
 — Sans doute, j’aurais préféré dormir comme dans ma petite maison des bords de
   l’Amstel.
 
-— Moi aussi, bon Daloom, moi aussi, soyez‑en persuadé… Et je pense que je me
-  souviendrai de la traversée du _Kaiser‑Wilhelm_ comme d’un cauchemar
-  compliqué d’insomnie… Ah ! Ah ! Ah ! que répondrez‑vous à cela, mon
+— Moi aussi, bon Daloom, moi aussi, soyez-en persuadé… Et je pense que je me
+  souviendrai de la traversée du _Kaiser-Wilhelm_ comme d’un cauchemar
+  compliqué d’insomnie… Ah ! Ah ! Ah ! que répondrez-vous à cela, mon
   gaillard ?
 
 — Que Van Dilijck est le plus sage des habitants d’Amsterdam et qu’il a
@@ -557,7 +557,7 @@ Puis le microphone apporta à Jud le bruit d’un baillement.
 
 — Je voudrais être à demain, bégaya Van Dilijck d’une voix incertaine. Au
   retour de notre entrevue avec les joailliers, j’aurai joie à me coucher et
-  à dormir durant deux fois vingt‑quatre heures.
+  à dormir durant deux fois vingt-quatre heures.
 
 — Depuis huit jours, nous veillons tour à tour, afin de ne pas perdre de vue
   le précieux dépôt qui nous a été confié.
@@ -567,7 +567,7 @@ Puis le microphone apporta à Jud le bruit d’un baillement.
   paisible Hollande. Et nous n’en jouirons pas encore cette nuit. Voyons,
   Daloom, à qui la première faction ?
 
-— À moi. Je vous rappellerai que vous‑même étiez de garde ce matin à l’aube.
+— À moi. Je vous rappellerai que vous-même étiez de garde ce matin à l’aube.
 
 — Alors donc, ne perdons pas notre temps en discours inutiles… Je vous
   souhaite le bonsoir, Daloom ; à minuit, vous me remettrez la garde.
@@ -592,9 +592,9 @@ Puis le microphone apporta à Jud le bruit d’un baillement.
   comment on y arriverait.
 
 Jud eut un léger frisson à cette phrase prononcée par le convoyeur en second.
-Mais n’allait‑il pas veiller sur les inconnus ?
+Mais n’allait-il pas veiller sur les inconnus ?
 
-Ne passerait‑il pas la nuit auprès du microphone ?
+Ne passerait-il pas la nuit auprès du microphone ?
 
 Un lit craqua sous un poids lourd. Van Dilijck se couchait.
 
@@ -614,7 +614,7 @@ l’oreille à hauteur de la tablette vibrante du renforçateur. Dans cette
 position, les sons les plus légers lui parvenaient avec netteté.
 
 De temps à autre, un froissement de papier lui indiquait l’occupation de
-Daloom. Celui‑ci lisait.
+Daloom. Celui-ci lisait.
 
 Les heures coulèrent ainsi, une à une, lentes au gré du guetteur.
 
@@ -623,7 +623,7 @@ Dilijck prenant place à la table ; Daloom se jetant sur le lit.
 
 De nouveau le calme peuplé seulement des bruits habituels de l’hôtel.
 
-Ceux‑ci même s’éteignent peu à peu. Il est trois heures.
+Ceux-ci même s’éteignent peu à peu. Il est trois heures.
 
 Jud commence à croire que rien d’anormal ne se produira.
 
@@ -642,7 +642,7 @@ Pourvu que Fall, Top et Suzan aient relevé les traces du bandit.
 Et Jud, ramené ainsi au duel géant dont la vie, la richesse de Lilian sont
 l’enjeu, s’absorbe dans une rêverie faite d’espérance et de tristesse.
 
-‑‑
+--
 
 A ce moment même, celui dont Jud Allan se préoccupait sortait de la chambre où
 son _collègue_ lui avait accordé l’hospitalité.
@@ -653,7 +653,7 @@ maintenant et repliée en accordéon.
 A pas de loup, Oakes, alias _Van Reek_, gagna l’escalier de service et parvint
 au dernier étage à voyageurs.
 
-Un instant plus tard, il arrivait au palier de la deuxième centaine, c’est‑à‑
+Un instant plus tard, il arrivait au palier de la deuxième centaine, c’est-à-
 dire à l’étage desservant les chambres numérotées de 101 à 200.
 
 Il semblait glisser plutôt que marcher sur les _chemins de tapisserie_
@@ -664,24 +664,24 @@ En face de la porte du n°115, il fit halte et écouta.
 — Il y en a un qui veille. Traitons donc la serrure avec prudence. C’est le
   point délicat de l’opération.
 
-Avait‑il la prétention d’ouvrir alors que le pène de la serrure était au
+Avait-il la prétention d’ouvrir alors que le pène de la serrure était au
 double tour et que le verrou de sûreté se trouvait engagé à fond ?
 
 Sans aucun doute, car il tira de dessous son vêtement une sorte de boîte
 cubique d’environ sept centimètres dans chaque dimension, disant :
 
-— L’accumulateur est en communication avec l’électro‑aimant, les pènes de fer
+— L’accumulateur est en communication avec l’électro-aimant, les pènes de fer
   doux vont céder à l’attraction aimantée et le tour sera joué… Seulement, il
   s’agit de ne pas attirer l’attention de l’imbécile qui veille.
 
-Sur ce, il appliqua les deux piles de l’électro‑aimant sur la porte, à hauteur
+Sur ce, il appliqua les deux piles de l’électro-aimant sur la porte, à hauteur
 du verrou, hauteur qu’il mesura à l’aide d’une ficelle ornée de nœuds.
 
 Probablement il avait relevé les mesures antérieurement.
 
-— Le verrou a obéi, fit‑il encore, il n’y a plus de résistance de frottement.
+— Le verrou a obéi, fit-il encore, il n’y a plus de résistance de frottement.
 
-Il descendit l’électro‑aimant sur la plaque de serrure, et sembla redoubler de
+Il descendit l’électro-aimant sur la plaque de serrure, et sembla redoubler de
 précautions.
 
 Les ressorts des pènes ont des détentes brusques. Un claquement sec
@@ -707,7 +707,7 @@ Puis plus rien ; à travers les volets passe une lueur grise.
 C’est l’aube qui chasse les imaginations enfantées par les ténèbres.
 
 Tout à l’heure, les jeunes amis du Syndicat des Lads se présenteront. Ils
-diront où se cache le lieutenant de Frey Jemkins. Il faudra peut‑être se
+diront où se cache le lieutenant de Frey Jemkins. Il faudra peut-être se
 lancer à sa poursuite. La sagesse consiste à ménager ses forces.
 
 Sur cette réflexion, le jeune homme se jette sur son lit.
@@ -717,7 +717,7 @@ La fatigue a raison de son être. Il s’endort profondément.
 Un bruit le tira du fond du rêve. Il se souleva sur son séant, regarda autour
 de lui avec l’impression que l’on parlait dans sa chambre.
 
-— Le microphone, murmura‑t‑il… C’est en bas que l’on fait ce vacarme !
+— Le microphone, murmura-t-il… C’est en bas que l’on fait ce vacarme !
 
 Vacarme ! Le mot n’était pas trop fort. Des voix stupéfaites clamaient des
 répliques stupéfiantes.
@@ -736,7 +736,7 @@ Jud écoutait, stupéfait, avec l’intuition qu’une chose anormale se produis
 Un officier de police dans la chambre des Hollandais ; on parlait de
 détonation…
 
-Un drame s’était‑il déroulé au 115, échappant à sa vigilance ?
+Un drame s’était-il déroulé au 115, échappant à sa vigilance ?
 
 Une détonation ! Il comprenait mal. Le microphone l’eut répercutée.
 
@@ -744,7 +744,7 @@ Il s’était approché de l’appareil, les sons lui arrivaient plus nets.
 
 Et soudain, il demeura figé. Ces paroles venaient de monter jusqu’à lui :
 
-— Allons voir au dessus… Les chambres sont occupées, n’est‑ce pas ?
+— Allons voir au dessus… Les chambres sont occupées, n’est-ce pas ?
 
 — Oui, oui, Monsieur le chef de police… Juste au dessus, au 215, est un
   jeune monsieur, répondant au nom de Grey Assford.
@@ -762,13 +762,13 @@ Le jeune homme achevait, quand on frappa à la porte.
 — Je demande le pardon, susurrra l’organe du gérant, mais une enquête
   policière nécessite l’interrogatoire des clients de l’hôtel.
 
-— Qu’est‑ce que les clients ont à voir dans une enquête ? grommela Jud assez
+— Qu’est-ce que les clients ont à voir dans une enquête ? grommela Jud assez
   haut pour être entendu.
 
 Toutefois il ouvrit. Aussitôt le gérant, le chef de police, des agents ou
 _roundsmen_ firent irruption dans la pièce.
 
-— Ah ça, que voulez‑vous ? gronda le professeur en fronçant les sourcils.
+— Ah ça, que voulez-vous ? gronda le professeur en fronçant les sourcils.
 
 — Vous adresser une question, riposta l’officier de police, et je suppose,
   Gentleman, que vous êtes assez respectueux de la loi pour y répondre.
@@ -779,7 +779,7 @@ _roundsmen_ firent irruption dans la pièce.
 
 Et dardant son regard sur celui du faux Grey Assford :
 
-— Vers quelle heure à peu près avez‑vous entendu les coups de feu ?
+— Vers quelle heure à peu près avez-vous entendu les coups de feu ?
 
 Certes, l’officier ne se doutait pas de l’effet qu’il allait produire. Allan le
 considéra avec un ahurissement absolument sincère.
@@ -787,12 +787,12 @@ considéra avec un ahurissement absolument sincère.
 — Les coups de feu ? Quels coups de feu ?
 
 — Eh ! Vous me comprenez bien… Ceux qui ont été tirés dans la salle située
-  directement au‑dessous de celle‑ci…
+  directement au-dessous de celle-ci…
 
 Des coups de feu au 115 ! Allan resta sans Voix. Un instant il pensa que le
 policier était atteint d’aliénation mentale.
 
-— Mais je n’ai rien entendu de semblable ! fit‑il enfin.
+— Mais je n’ai rien entendu de semblable ! fit-il enfin.
 
 Du coup, le policier ébranla le parquet d’un formidable coup de talon.
 
@@ -804,7 +804,7 @@ Mais s’apaisant soudain :
   témoignage ; mais il s’agit de sommes énormes ; c’est s’associer à une œuvre
   de salut public, qu’aider les investigations de la police.
 
-— Je serais enchanté de vous aider ; mais encore de quoi s’agit‑il ?
+— Je serais enchanté de vous aider ; mais encore de quoi s’agit-il ?
 
 — D’un crime !
 
@@ -815,36 +815,36 @@ Jud se sentit frissonner.
 
 — Assassiné !
 
-Quel que fut son pouvoir sur lui‑même, Jud pâlit.
+Quel que fut son pouvoir sur lui-même, Jud pâlit.
 
 Il comprenait. Les Hollandais du 115 étaient morts, leurs gemmes avaient
 disparu. Van Reek avait donc mené à bien son entreprise. Par quel moyen
-inédit le misérable avait‑il dépisté la surveillance ?
+inédit le misérable avait-il dépisté la surveillance ?
 
 — Eh bien ? grommela l’officier de police.
 
-— Eh bien, Monsieur, balbutia Allan reprenant avec peine son sang‑froid, un
+— Eh bien, Monsieur, balbutia Allan reprenant avec peine son sang-froid, un
   crime a dû être commis puisque vous le dites, seulement j’avoue n’avoir
   rien entendu.
 
 — C’est trop fort… Vous me soutiendrez que deux détonations de revolver de
   fort calibre n’ont pas attiré votre attention ?
 
-— Je le soutiendrai. Qu’est‑ce qui vous fait croire qu’un revolver… ?
+— Je le soutiendrai. Qu’est-ce qui vous fait croire qu’un revolver… ?
 
 L’agent éclata d’un rire rageur, et les dents serrées :
 
 — Il y a en bas deux cadavres, chacun a une balle dans la tête. Or, pour
-  lancer une balle de revolver, il faut un revolver, n’est‑ce pas ? Et quand le
+  lancer une balle de revolver, il faut un revolver, n’est-ce pas ? Et quand le
   projectile s’échappe de l’arme, il y a détonation, je pense.
 
 Jud n’avait pas besoin de feindre la surprise. À quelques pas de lui, la
 poudre avait agi, et, malgré le microphone, rien n’avait décelé le crime.
 
-— Qu’est‑ce que vous répondez à cela ? glapit le policier mis hors de lui par
+— Qu’est-ce que vous répondez à cela ? glapit le policier mis hors de lui par
   la stupéfaction évidente de son interlocuteur.
 
-— Êtes‑vous bien certain que ce sont des balles de revolver ?
+— Êtes-vous bien certain que ce sont des balles de revolver ?
 
 La question, que Jud ne put retenir, porta à son paroxysme la rage de
 l’officier de police.
@@ -877,5 +877,5 @@ grommela pensif, avec la rage sourde du limier qui perd la trace :
 Et il sortit, entraînant à sa suite le gérant, les agents qui l’avaient accompagné.
 
 [^2-04-1]: C’est le titre correspondant à celui de commissaire de police. La
-           police municipale de New‑York compte 8100 hommes (officiers et
-           roundsmen) répartis entre quatre‑vingts stations ou postes.
+           police municipale de New-York compte 8100 hommes (officiers et
+           roundsmen) répartis entre quatre-vingts stations ou postes.

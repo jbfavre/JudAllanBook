@@ -31,7 +31,7 @@ Jud venait de se mêler au groupe. Sans qu’on l’entendit venir, il avait
 quitté la « chambre », dans laquelle Jemkins et lui s’étaient rencontrés, et
 tout à coup il avait paru au milieu des auditeurs de Suzan.
 
-— Suzan, fit‑il d’un ton abaissé, prends avec toi ce brave Tril, et aussi Top
+— Suzan, fit-il d’un ton abaissé, prends avec toi ce brave Tril, et aussi Top
   et Fall. Que Storm et Zinka te suivent. Ils serviront de courriers. Allez
   surveiller l’hacienda. Je veux savoir tout ce qui s’y produira, tout.
 
@@ -57,7 +57,7 @@ peau, trahissant l’effort violent, et il desserra son étreinte, s’enfuit,
 disparut dans l’ombre, dans la direction de l’alvéole, où ce torturé
 d’aujourd’hui emprisonnait sa surhumaine souffrance.
 
-L’arrivée de Rouge‑Fleur et de Porfirio Raëz que, selon son engagement, Frey
+L’arrivée de Rouge-Fleur et de Porfirio Raëz que, selon son engagement, Frey
 Jemkins, de retour à l’hacienda de Agua Frida, avait remis aux Indiens qui
 l’acompagnaient, apporta quelque diversion à l’anxiété de tous.
 
@@ -77,12 +77,12 @@ pensée à haute vois:
 
 L’Indienne lui toucha le bras.
 
-— De qui parlez‑vous, gracieuse Rouge‑Fleur ?
+— De qui parlez-vous, gracieuse Rouge-Fleur ?
 
-![Il le déplia, le secoua au‑dessus de la cruche d’eau](../3-images/part2/page-468.jpg "Il le déplia, le secoua au‑dessus de la cruche d’eau")
+![Il le déplia, le secoua au-dessus de la cruche d’eau](../3-images/part2/page-468.jpg "Il le déplia, le secoua au-dessus de la cruche d’eau")
 
 La mignonne créature rougit légèrement, mais presqu’aussitôt redevenue
-maîtresse d’elle‑même :
+maîtresse d’elle-même :
 
 — De celui qui, en ce jour, m’a conservé non seulement l’existence, mais
 une somme énorme dont je suis dépositaire.
@@ -97,10 +97,10 @@ lui apparaissait sans lien avec la conversation en cours.
 — Non, je le vois. Alors, vous me permettrez de servir Jud Allan ?
 
 Et quand les lads, tels une corvée militaire, vinrent disposer à l’entrée du
-temple le repas grossier préparé au campement, Rouge‑Fleur se glissa dans la
+temple le repas grossier préparé au campement, Rouge-Fleur se glissa dans la
 cellule d’Allan.
 
-— Gentleman, fit‑elle gracieusement, je tenais à vous exprimer ma gratitude.
+— Gentleman, fit-elle gracieusement, je tenais à vous exprimer ma gratitude.
   Je fus votre adversaire et vous m’avez généreusement sauvée…
 
 Comme il semblait repousser l’éloge d’un geste de la main, elle reprit :
@@ -115,7 +115,7 @@ Il répondit lentement :
 — De l’eau.
 
 Dans son regard avait passé une flamme rapide. Si fugitive qu’elle fût, elle
-n’avait point échappé aux yeux perçants de Rouge‑Fleur. À part elle, la fille
+n’avait point échappé aux yeux perçants de Rouge-Fleur. À part elle, la fille
 du pays de Han se confia cette phrase incompréhensible :
 
 — J’en suis sûre maintenant.
@@ -140,7 +140,7 @@ la cellule d’Allan, et avançant la tête avec précaution, elle regarda.
 Le jeune homme ne se doutait pas qu’on l’observait.
 
 Il était debout à présent. Lentement, d’une sorte de sachet, il tira un petit
-papier. Il le déplia, le secoua au‑dessus de la cruche d’eau, et enfin
+papier. Il le déplia, le secoua au-dessus de la cruche d’eau, et enfin
 l’enflamma au feu de l’une des torches.
 
 Alors, il le jeta a terre, où le léger feuillet acheva de se consumer, et
@@ -152,7 +152,7 @@ liquide :
 — Douze heures à vivre…, à minuit j’aurai vécu…; la dose étant calculée pour
   ces amphores habituellement employées dans le pays…
 
-Rouge‑Fleur se retira sans bruit.
+Rouge-Fleur se retira sans bruit.
 
 Une fois auprès de Marahi, elle l’entretint un instant à voix basse.
 
@@ -162,10 +162,10 @@ La conversation s’acheva par cette recommandation :
   lads qui surveillent Agua Frida… Je suis infiniment curieuse de savoir ce
   que veut faire Jemkins.
 
-Sans que personne y fit attention dans le désordre général, Rouge‑Fleur
+Sans que personne y fit attention dans le désordre général, Rouge-Fleur
 quitta bientôt le sanctuaire et gagna le campement.
 
-L’Indienne, qui s’était avancée sur la plate‑forme pour la suivre des yeux, la
+L’Indienne, qui s’était avancée sur la plate-forme pour la suivre des yeux, la
 vit traverser le bivouac et gagner la passe accédant à la plaine d’Agua Frida.
 
 Et quand la jolie Chinoise eut disparu, la femme rouge rentra, branlant la
@@ -185,7 +185,7 @@ extrême.
 Il avait rassemblé autour de lui ses lieutenants et les peones qui, la veille
 au soir, l’entouraient en armes.
 
-— Mes braves garçons, la police sera ici demain au jour ; rassurez‑vous, elle
+— Mes braves garçons, la police sera ici demain au jour ; rassurez-vous, elle
   ne pourra arrêter personne. Cette nuit, je vous conduirai tous hors de son
   atteinte. Nous sommes roulés pour une fois ; mais bah ! les gens riches ne
   manquent pas, et des gaillards comme nous sauront toujours se faire la part
@@ -193,7 +193,7 @@ au soir, l’entouraient en armes.
   Oro. Il faut qu’ils nous croient décidés à attendre l’attaque. Aussi, qu’un
   banquet monstre précède notre départ.
 
-Étables, basse‑cour, plantations avaient été mises au pillage.
+Étables, basse-cour, plantations avaient été mises au pillage.
 
 Jemkins, lui, méthodique dans le désordre, s’était réservé le choix des vins
 dans la cave dont l’appellation coutumière disait la destination.
@@ -205,7 +205,7 @@ La nuit vint.
 Comme poussé par une force invisible, Jud Allan quitta sa cellule, où personne
 n’osait troubler sa rêverie désespérée.
 
-Il vint à la plate‑forme, s’assit au bord de l’escarpement et considéra le
+Il vint à la plate-forme, s’assit au bord de l’escarpement et considéra le
 ravin, où dans l’ombre s’allumaient les feux de ses partisans, puis le ciel
 dont l’indigo se peuplait d’étoiles, ces foyers de l’infini autour desquels vont rêver les âmes curieuses ou dolentes.
 
@@ -214,7 +214,7 @@ cette heure elle occupait toute la pensée d’Allan. Et elle s’approcha de lu
 s’assit à son côté, emprisonna l’une de ses mains dans les siennes.
 
 Il la laissa faire, sans un mouvement, sans une parole, sans que ses yeux se
-détournassent de la voûte d’étoiles scintillant au‑dessus de leurs têtes.
+détournassent de la voûte d’étoiles scintillant au-dessus de leurs têtes.
 
 Soudain, un bruit monte du fond de la vallée. Une course précipitée martèle le silence.
 
@@ -237,7 +237,7 @@ les dents de laquelle il tient une large enveloppe.
 Et le jeune homme surpris prend la missive, sans que le dogue fasse mine de la
 lui disputer. Il s’approche d’une torche, regarde.
 
-— La signature de Jemkins ! fait‑il à mi‑voix.
+— La signature de Jemkins ! fait-il à mi-voix.
 
 Mais tous ceux qui l’aiment l’ont suivi. Ils sont là autour de lui. Ils ont
 entendu. Lilian s’est appuyée au bras de Jud et pensant à haute voix :
@@ -248,8 +248,8 @@ Et Allan lit l’étrange lettre que voici :
 
 > Mon _cher_ Jud,
 
-> Comment m’êtes‑vous devenu cher ? Sur ma parole, je n’en sais rien… vous qui
-  avez conquis des grades universitaires, vous trouverez peut‑être une
+> Comment m’êtes-vous devenu cher ? Sur ma parole, je n’en sais rien… vous qui
+  avez conquis des grades universitaires, vous trouverez peut-être une
   explication, dont je serai privé par exemple.
 
 > N’en ayez cure. Je me soucie des raisonnements comme un poisson d’un habit
@@ -257,7 +257,7 @@ Et Allan lit l’étrange lettre que voici :
   devenu cher… Que m’importe le reste ?
 
 > Donc, j’ai vu une de vos affreux gamins, que le diable rôtisse ! surveiller
-  l’hacienda tout cet après‑midi.
+  l’hacienda tout cet après-midi.
 
 > Et leur chien m’a suggéré l’idée de vous envoyer un petit bout d’adieu.
   D’abord parce que le geste m’apparaît correct, ensuite qu’il me permet de
@@ -281,7 +281,7 @@ Lilian au contraire semblait transfigurée. elle supplia :
   alors… deux caractères de notre trempe…
 
 > Mais je vous ai abandonné… Le hasard s’est amusé à nous mettre en
-  opposition. Jusque‑là je comprends.
+  opposition. Jusque-là je comprends.
 
 > Après, c’est la bouteille à l’encre.
 
@@ -289,8 +289,8 @@ Lilian au contraire semblait transfigurée. elle supplia :
 
 > Ne vous récriez pas, Jemkins a toujours exprimé carrément sa pensée.
 
-> Niais et ridicule, ai‑je dit… Oui, voilà bien ma pensée… Alors,
-  Monsieur le philosophe, expliquez‑moi un peu pourquoi je vous admire !
+> Niais et ridicule, ai-je dit… Oui, voilà bien ma pensée… Alors,
+  Monsieur le philosophe, expliquez-moi un peu pourquoi je vous admire !
 
 > Car je vous admire, et cela me chiffonne horriblement à cette heure, je ne
   me rends pas compte de ce qui peut susciter ce sentiment absurde.
@@ -298,7 +298,7 @@ Lilian au contraire semblait transfigurée. elle supplia :
 > Oui, mille diables, ma partie est perdue à cause de vous… Ma vie était
   orientée de telle sorte, qu’il me fallait toujours triompher. Je suis battu,
   je dois sauter. Or, à cette heure, un peu dure à passer, je vous prie de le
-  croire, il y aurait peut‑être quelque plaisir à vous entraîner avec moi,
+  croire, il y aurait peut-être quelque plaisir à vous entraîner avec moi,
   vous, l’artisan de ma débâcle.
 
 > Eh bien ! _Je ne veux pas vous entraîner, moi !_
@@ -324,7 +324,7 @@ Il poursuivit :
   endroit, je vais les forcer au silence.
 
 > Venez à l’hacienda sans retard. Les forces policières l’envahiront cette
-  nuit, je pense, et peut‑être ne vous serait‑il pas agréable d’entendre leurs
+  nuit, je pense, et peut-être ne vous serait-il pas agréable d’entendre leurs
   appréciations sur mon œuvre.
 
 ![Tous sont morts.](../3-images/part2/page-473.jpg "Tous sont morts.")
@@ -335,7 +335,7 @@ Il poursuivit :
 > Me creuser un trou dans la pulqueria, m’y enfouir, et ne dire à personne où
   je suis enterré.
 
-> Une coquetterie, que voulez‑vous. Je ne veux pas être mensuré, même mort,
+> Une coquetterie, que voulez-vous. Je ne veux pas être mensuré, même mort,
   par un service anthropométrique. Je ne veux pas que la police _identifie_ le
   cadavre de Frey Jemkins.
 
@@ -344,7 +344,7 @@ Il poursuivit :
 
 > FREY JEMKINS.
 
-‑‑
+--
 
 Jud avait prononcé les dernières lignes d’une voix sourde. Quand il se tut, les assistants parurent pris de vertige. Ils s’empressèrent joyeux au cou de
 Jud Allan, lui serrant les mains.
@@ -361,7 +361,7 @@ Et M^me^ Pariset, Marahi l’étreignaient à leur tour, avec ces mots bénis�
 
 Il les repoussa, affolé, tragique.
 
-— Qu’avez‑vous ? demandèrent‑elles surprises de ce désespoir inexpliqué.
+— Qu’avez-vous ? demandèrent-elles surprises de ce désespoir inexpliqué.
 
 — J’ai… que votre affection me rend la mort plus douloureuse.
 
@@ -393,8 +393,8 @@ Qu’étaient leurs angoisses d’autrefois, auprès de celles de l’heure pré
 Une pensée seule les soutient, les pousse en avant. Donner à Jemkins la
 dernière satisfaction sollicitée par la lettre où il pardonne.
 
-Car il a pardonné. Même son souci de n’être point mensuré, ne démontre‑t‑il
-pas le désir de ne laisser aucune trace légale de son existence ? N’est‑ce
+Car il a pardonné. Même son souci de n’être point mensuré, ne démontre-t-il
+pas le désir de ne laisser aucune trace légale de son existence ? N’est-ce
 point encore protéger l’_incognito_ qu’il voulait assurer à Jud Allan ?
 
 Pour une fois, le crime fut plus clément que la vertu ! Grâce à lui, Jud eût
@@ -425,7 +425,7 @@ Nulle voix avinée ne traverse le silence angoissant.
 
 Et puis, quelle immobilité terrifiante !
 
-Celui‑ci est renversé en arrière sur son siège, la face distendue par un rire
+Celui-ci est renversé en arrière sur son siège, la face distendue par un rire
 immobile. Sa bouche demeure ouverte, ses muscles contractés, dans une gaieté
 que la mort a pétrifiée de sa main de glace.
 
@@ -433,7 +433,7 @@ Son voisin, le coude sur la table, élève son verre à hauteur de sa bouche… 
 soif s’est éteinte à jamais. Jamais il ne boira ce vin doré qu’irise la flamme
 des bougies.
 
-D’autres offrent des faces angoissées… Ont‑ils eu conscience de quitter la
+D’autres offrent des faces angoissées… Ont-ils eu conscience de quitter la
 vie ? Mystère. Mais tous sont morts, morts en dégustant les boissons
 évidemment empoisonnées par Jemkins.
 
@@ -451,13 +451,13 @@ dernier sacrifice réussi.
 Et plus pâle que les morts, en une allure spectrale, Lilian va vers le chef
 de bandits qui, si longtemps, a exploité les deux mondes.
 
-— Ta dernière pensée fut bonne, murmure‑t‑elle. Jemkins, meurtrier de mon
-  père, bourreau de maman, de moi‑même, je te pardonne.
+— Ta dernière pensée fut bonne, murmure-t-elle. Jemkins, meurtrier de mon
+  père, bourreau de maman, de moi-même, je te pardonne.
 
 — À la bonne heure, s’écrient des voix rieuses, maintenant nous aurons un roi
   et une reine.
 
-Tous font volte‑face. Sur le seuil, Rouge‑Fleur, avec auprès d’elle, Tril et
+Tous font volte-face. Sur le seuil, Rouge-Fleur, avec auprès d’elle, Tril et
 ses petits camarades, le dogue Storm, de nouveau monte par Zinka, se tiennent
 radieux, épanouis… Comme Lilian, comme tous semblent médusés par cette gaieté
 qui ravive leur tristesse, la Chinoise reprend :
@@ -482,9 +482,9 @@ qui ravive leur tristesse, la Chinoise reprend :
   seulement vous avez pris en même temps une dose de chlore liquide qui
   neutralise l’acide prussique.
 
-— Que dites‑vous ?
+— Que dites-vous ?
 
-— Antidote… acheva gaiement Rouge‑Fleur, que j’avais jeté dans la cruche, où
+— Antidote… acheva gaiement Rouge-Fleur, que j’avais jeté dans la cruche, où
   votre servante vous apporta l’eau pure destinée à votre repas.
 
 Un quadruple cri poctua la phrase. Lilian, Jud, Marahi, M^me^ Pariset se
@@ -501,7 +501,7 @@ Il désignait Jemkins.
 
 Et Lilian marchait vers la Chinoise, les bras ouverts.
 
-Mais Rouge‑Fleur l’arrête du geste.
+Mais Rouge-Fleur l’arrête du geste.
 
 — Miss Lilian, j’ai payé ma dette. Je redeviens l’Asiate, ennemie des gens de
   race blanche. Adieu.
@@ -509,7 +509,7 @@ Mais Rouge‑Fleur l’arrête du geste.
 Profitant de la stupéfaction provoquée par cette déclaration, elle quitta la
 salle. Elle allait, entraînant avec elle ses serviteurs japonais, reprendre le
 travail souterrain qui doit mettre aux prises l’empire du Japon et la république
-des États‑Unis pour la domination de l’océan Pacifique.
+des États-Unis pour la domination de l’océan Pacifique.
 
 Au matin, quand les détachements de police, simultanément débarqués en
 plusieurs points de la côte, envahirent Agua Frida, ils trouvèrent cinquante

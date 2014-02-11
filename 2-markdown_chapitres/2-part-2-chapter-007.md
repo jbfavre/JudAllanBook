@@ -40,7 +40,7 @@ dans un invincible engourdissement du vouloir et de la pensée.
 Auprès d’elle s’empressait, le premier jour de traversée, une gentille et
 pétulante Américaine, répondant au nom de Grace Paterson, elle aussi élève
 à l’institution Deffling… et, chose incroyable, elle contait que son amie et
-elle‑même avaient été enlevées nuitamment par des _chloroformistes_.
+elle-même avaient été enlevées nuitamment par des _chloroformistes_.
 
 Linérès avait remarqué certaines hésitations, dans ses réponses… Au soir,
 elle était rentrée dans sa cabine, se promettant de reprendre l’entretien le
@@ -51,22 +51,22 @@ incompréhensive, annihilée à l’égal de sa compagne Lilian.
 
 Cela dura pendant toute la traversée. Linérès n’avait d’autre ressource que
 la conversation avec une jeune et charmante Chinoise, qui semblait bien
-étrangère à toutes ces aventures. Rouge‑Fleur était son nom.
+étrangère à toutes ces aventures. Rouge-Fleur était son nom.
 
-On signala les phares du mouillage de la Vera‑Cruz, sur la côte mexicaine de
+On signala les phares du mouillage de la Vera-Cruz, sur la côte mexicaine de
 la mer des Antilles.
 
 Ici, une lacune dans les souvenirs de la jeune fille. Ceux qui l’entraînent
-ont‑ils voulu qu’elle dorme, qu’elle n’ait pas conscience de débarquer ? Le
+ont-ils voulu qu’elle dorme, qu’elle n’ait pas conscience de débarquer ? Le
 certain est qu’elle ne se rappelle pas avoir quitté le steamer.
 
 Cependant, elle revient à elle dans un train qui la transporte sur la côte du
-Pacifique par la voie de la Vera‑Cruz à San‑Blas.
+Pacifique par la voie de la Vera-Cruz à San-Blas.
 
 Là, une chaloupe à vapeur la reçoit, ainsi que ses compagnes, toujours
 plongées dans une sorte d’hébétude.
 
-Mais la Chinoise Rouge‑Fleur aussi se trouve là. Elle semble commander à
+Mais la Chinoise Rouge-Fleur aussi se trouve là. Elle semble commander à
 l’équipage. Et cet équipage se compose d’hommes petits, trapus, à la large
 face safranée. Ce sont des Japonais.
 
@@ -103,7 +103,7 @@ Ces femmes étaient Lilian Allan et la pauvre Lily Pariset, en qui Linérès
 avait espéré retrouver sa mère !
 
 Un serviteur armé, japonais d’aspect, avait couru sus aux visiteurs. Sous la
-menace d’un revolver, ceux‑ci durent regagner la brèche.
+menace d’un revolver, ceux-ci durent regagner la brèche.
 
 Le lendemain, l’ouverture avait disparu, aveuglée par des cactus épineux si
 serrés que le passage ne pouvait plus être tenté.
@@ -119,13 +119,13 @@ Dans une heure d’exaspération impuissante, le marquis s’était écrié :
 — Ah ! J’aurais dû demeurer à Washington coûte que coûte. Agir autrement
   _que l’on ne nous y poussait_ eût été le moyen le plus sûr de savoir.
 
-Ne croyez pas à une critique de ma part, ma chère Linérès, mais ne regrettez‑
+Ne croyez pas à une critique de ma part, ma chère Linérès, mais ne regrettez-
 vous pas de m’avoir écrit ?
 
-— Je vous ai écrit, dites‑vous ?… Où ?… Quand ?
+— Je vous ai écrit, dites-vous ?… Où ?… Quand ?
 
 Il lui mit sous les yeux le billet qui lui était parvenu à Washington, ce
-billet remis à Jemkins par la jolie Chinoise Rouge‑Fleur.
+billet remis à Jemkins par la jolie Chinoise Rouge-Fleur.
 
 Linérès considéra le papier, le retourna en tous sens, avec un effarement
 grandissant. Enfin, elle murmura cette phrase affolante :
@@ -150,7 +150,7 @@ Pariset parlaient de l’autre côté de la barrière végétale.
 — J’ai rêvé longtemps, ma Lilian ! Autour de moi, en moi régnait un
   brouillard, dans lequel s’agitaient des ombres imprécises…
 
-— Mère ! répondait‑on d’un ton si doux que l’on eût dit une palpitation
+— Mère ! répondait-on d’un ton si doux que l’on eût dit une palpitation
   d’ailes.
 
 Haletants, Pierre et Linérès échangèrent un regard.
@@ -180,7 +180,7 @@ Un silence craintif succède. Il répète :
 
 Il a un soupir de joie, auquel Linérès fait écho. La sœur d’Allan répond :
 
-— Oui, oui, nous pouvons peut‑être vaincre Jemkins l’assassin, Jemkins le
+— Oui, oui, nous pouvons peut-être vaincre Jemkins l’assassin, Jemkins le
   fourbe… Le défenseur s’est manifesté. . 
 
 — Le défenseur ?
@@ -189,7 +189,7 @@ Il a un soupir de joie, auquel Linérès fait écho. La sœur d’Allan répond�
 
 — Mais vous, votre mère êtes sorties de cet état d’engourdissement…
 
-— Ma mère, répéta Lilian d’une voix profonde, comment savez‑vous !
+— Ma mère, répéta Lilian d’une voix profonde, comment savez-vous !
 
 — Tout à l’heure, nous avons entendu votre entretien.
 
@@ -217,7 +217,7 @@ Avec une angoisse frissonnante, la jeune fille ajouta :
 — Vite ! Le factionnaire va nous enjoindre de nous éloigner.
 
 — Le défenseur a trouvé le moyen de neutraliser le poison, et ce matin il m’a
-  fait tenir une lettre… Une boulette de papier qui, par‑dessus les
+  fait tenir une lettre… Une boulette de papier qui, par-dessus les
   feuillages, a pénétré dans ma chambre par la fenêtre ouverte…
 
 — Il vous disait d’espérer ?
@@ -268,7 +268,7 @@ Assis ou vautrés sur les sièges de bois recourbé, Jetty, Tom, Frey Jemkins,
 faisaient face à Van Foorberg, Todero, Elisalt et Zirini.
 
 Comment, pourquoi ces derniers, chargés de diriger en Europe les opérations de
-la bande internationale, se trouvaient‑ils au Mexique ?
+la bande internationale, se trouvaient-ils au Mexique ?
 
 Tous quatre avaient répondu à la question inquiète de leur chef, en produisant
 des câblogrammes les invitant à gagner, toute affaire cessante, Agua Frida,
@@ -277,7 +277,7 @@ _afin de procéder au partage._
 Et le matin même, ils étaient tombés à Agua Frida, tels des aérolithes.
 
 Or, la reconnaissance de Linérès comme héritière n’était point encore décrétée
-par le gouvernement mexicain. Et la Chinoise Rouge‑Fleur se trouvait
+par le gouvernement mexicain. Et la Chinoise Rouge-Fleur se trouvait
 actuellement à Mexico, mettant en jeu des influences inconnues, pour activer
 la décision si impatiemment attendue.
 
@@ -291,20 +291,20 @@ Mais Jemkins ne trouvait pas à les rassurer.
 
 Bien plus, chacune de ses paroles faisait se dresser une anxiété nouvelle.
 
-— Je ne vois pas Kan‑So, avait murmuré l’un des assistants.
+— Je ne vois pas Kan-So, avait murmuré l’un des assistants.
 
 Et le Crane avait dû répondre :
 
-— Kan‑So est fou, enfermé dans une maison de santé.
+— Kan-So est fou, enfermé dans une maison de santé.
 
-— Fou ? De quelle façon cela s’est‑il produit ? À quelle occasion ?
+— Fou ? De quelle façon cela s’est-il produit ? À quelle occasion ?
 
 — Je l’ignore. Chargé d’enlever un convoi d’or en barres, il a obéi.
-  Seulement, l’or a disparu, et lui‑même a été arrêté, errant dans la
+  Seulement, l’or a disparu, et lui-même a été arrêté, errant dans la
   campagne, sa raison envolée.
 
 — Van Reek, lui, n’a pas perdu l’esprit, certainement. C’est un homme trop
-  bien équilibré. Pourquoi n’est‑il point parmi nous ?
+  bien équilibré. Pourquoi n’est-il point parmi nous ?
 
 Et Frey Jemkins avait laissé tomber cette phrase sinistre :
 
@@ -312,7 +312,7 @@ Et Frey Jemkins avait laissé tomber cette phrase sinistre :
 
 Tout à coup, Jetty, qui regardait au dehors, s’écria :
 
-— Qu’est‑ce que c’est que cet olibrius‑là ?
+— Qu’est-ce que c’est que cet olibrius-là ?
 
 Un cavalier entrait au pas dans la haute cour ménagée en avant du bâtiment
 principal. Il était coiffé d’un large sombrero, mi partie blanc, mi partie
@@ -329,7 +329,7 @@ d’or les bordant. Ses pieds étaient chaussés de brodequins rouges.
 — Qu’est cet individu ? grommela Frey Jemkins.
 
 — Humph ! riposta Jetty ; m’est avis que c’est un sorcier rouge. Et parbleu !
-  il tient à la main la baguette‑médecine.
+  il tient à la main la baguette-médecine.
 
 En effet, l’inconnu était armé d’une baguette longue de quarante centimètres
 environ, sur laquelle des bandes alternées jaune et noir s’enroulaient en
@@ -349,12 +349,12 @@ Tous se regardèrent.
 La voix du singulier personnage leur avait causé une impression désagréable.
 Sèche, grinçante, elle sonnait en inflexions ironiques.
 
-Quant au visage du visiteur, il offrait la teinte rouge‑brun caractéristique
+Quant au visage du visiteur, il offrait la teinte rouge-brun caractéristique
 de la race indienne, mais les lignes peintes en bleu sur les joues, le front,
 autour des lèvres, selon l’usage des « Sorciers indigènes », le rendaient
 effrayant.
 
-— Ne regardez pas ainsi l’homme qui vient à vous, reprit‑il du même ton
+— Ne regardez pas ainsi l’homme qui vient à vous, reprit-il du même ton
   railleur. Vous êtes des blancs et ne sauriez être effrayés par un pauvre
   sorcier rouge, encore que ses congénères l’appellent El Dieblo.
 
@@ -366,7 +366,7 @@ effrayant.
 
 Jemkins s’impatiente.
 
-— Dis donc, l’homme, fit‑il rudement, tu es entré sans en être prié. Si tu
+— Dis donc, l’homme, fit-il rudement, tu es entré sans en être prié. Si tu
   n’as pas de bonnes raisons à faire valoir, tout diable que tu es, sortir te
   paraîtra moins facile.
 
@@ -377,7 +377,7 @@ Mais l’interpellé ne s’émut point de la menace.
 
 L’aplomb du sorcier rendit le milliardaire muet.
 
-— Ne me demandes‑tu pas quel était le maître que tu remplaceras ?
+— Ne me demandes-tu pas quel était le maître que tu remplaceras ?
 
 — Par Satan, je te le demande en effet.
 
@@ -392,14 +392,14 @@ douleur.
 Jemkins s’avança lentement vers le sorcier, et lui appuyant le doigt sur la
 poitrine :
 
-— On meurt de braver Jemkins, gronda‑t‑il sourdement.
+— On meurt de braver Jemkins, gronda-t-il sourdement.
 
 L’homme étendit sa baguette aux spires jaunes et noires, toucha la poitrine de
 son interlocuteur, et lentement :
 
 — On vit à servir Jemkins, qui sent le besoin d’un serviteur exceptionnel.
 
-— Prétends‑tu être celui‑là ?
+— Prétends-tu être celui-là ?
 
 — Je le prétends.
 
@@ -408,7 +408,7 @@ son interlocuteur, et lentement :
 
 L’Indien s’inclina avec aisance.
 
-— Je prouverai donc. Près de San‑Diego, Van Reek, qui se rapprochait de toi
+— Je prouverai donc. Près de San-Diego, Van Reek, qui se rapprochait de toi
   par train spécial, intercepta un télégramme expédié par les rails à un
   second train qui le poursuivait.
 
@@ -442,8 +442,8 @@ point à l’horreur de la vision évoquée par le lugubre messager.
 
 — Mais Van Reek n’est pas mort, lui ?
 
-— Hélas, si ! Nous sommes tombés dans un parti d’Indiens non soumis. Le casse‑
-  tête d’un guerrier a brisé le crane de mon compagnon. Moi‑même j’ai été
+— Hélas, si ! Nous sommes tombés dans un parti d’Indiens non soumis. Le casse-
+  tête d’un guerrier a brisé le crane de mon compagnon. Moi-même j’ai été
   blessé dans l’obscurité, les assaillants n’ayant point reconnu mon
   caractère… Un mois durant, ils m’ont soigné…
 
@@ -451,7 +451,7 @@ point à l’horreur de la vision évoquée par le lugubre messager.
 
 L’indien haussa les épaules.
 
-— Aux mains des policiers de San‑Diego, ainsi que le
+— Aux mains des policiers de San-Diego, ainsi que le
   _revolver que l’on n’entend pas_.
 
 — Le revolver à air comprimé ! Alors, nous sommes menacés ?
@@ -469,7 +469,7 @@ rassérénèrent.
 — En effet, tu as raison, El Dieblo ; tu as paré au plus pressé de façon
   simple…
 
-— Suis‑je ton serviteur ? interrompit l’indien.
+— Suis-je ton serviteur ? interrompit l’indien.
 
 — Oh ! Oh ! s’exclama Frey avec un rire bruyant, tu vas trop vite en besogne.
 
@@ -491,14 +491,14 @@ l’assistance :
 
 Des cris joyeux interrompirent l’entretien des deux hommes.
 
-— Rouge‑Fleur ! Voici Rouge‑Fleur !
+— Rouge-Fleur ! Voici Rouge-Fleur !
 
 Les lieutenants du milliardaire s’étaient précipités aux fenêtres, saluant de
 leurs vivats la gracieuse Chinoise qui venait d’apparaître dans la cour.
 
 — Celle qui parle au nom du Japon, glissa Frey à l’oreille de l’Indien.
 
-Cependant, Rouge‑Fleur, précédée par un peone respectueux, pénétrait dans le
+Cependant, Rouge-Fleur, précédée par un peone respectueux, pénétrait dans le
 salon. Toutes les mains se tendirent vers elle ; toutes les voix lancèrent des
 questions anxieuses :
 
@@ -521,13 +521,13 @@ Une tempête de clameurs enthousiastes salua l’affirmation.
   accompagner d’un représentant du gouvernement, chargé d’instaurer
   officiellement votre cousine en possession de son héritage.
 
-— Un représentant ! Que l’on mande sur‑le‑champ Miss Linérès..
+— Un représentant ! Que l’on mande sur-le-champ Miss Linérès..
 
 La Chinoise arrêta l’ordre qui jaillissait des lèvres de Frey Jemkins.
 
 — Un instant, mon cher Sénateur, je n’ai pas fini.
 
-— Excusez‑moi, je pensais…
+— Excusez-moi, je pensais…
 
 — Vous ne pensez pas de moi tout le bien que je mérite, minauda la mutine
   Chinoise. J ’ai songé… remarquez combien je tiens compte du caractère même
@@ -545,7 +545,7 @@ Et tous se regardant interdits, la railleuse créature acheva :
   supplément d’information vous aurait conduit à vous supposer cousin d’une
   autre que la jolie Linérès.
 
-— Comment pouvez‑vous croire ? s’écria le milliardaire…
+— Comment pouvez-vous croire ? s’écria le milliardaire…
 
 Elle l’interrompit sans façon.
 
@@ -553,23 +553,23 @@ Elle l’interrompit sans façon.
   pour une affaire qui nous tient tous au cœur. Si donc Linérès vous paraît
   toujours votre cousine, c’est son nom qui remplira le blanc du décret, le
   soir même où elle signera le contrat de mariage lui assurant l’époux… aussi
-  cher à nous qu’à elle‑même.
+  cher à nous qu’à elle-même.
 
 Les auditeurs ricanèrent à la plaisanterie. Elle poursuivit :
 
 — En ce cas, c’est Linérès et son fiancé que vous présenterez demain à don
   Porfirio Raëz, envoyé extraordinaire du gouvernement.
 
-— Demain, dites‑vous. Il viendra donc ici ?
+— Demain, dites-vous. Il viendra donc ici ?
 
 — Pas de suite… Vous irez d’abord vers lui. À tout seigneur tout honneur. La
   goëlette qui nous a amenés est dans le petit port de Presios, à vingt milles
-  d’Agua Frida. Une ravissante promenade à cheval pour demain…; qu’en dites‑
+  d’Agua Frida. Une ravissante promenade à cheval pour demain…; qu’en dites-
   vous ?
 
 — Que rien n’est plus doux qu’obéir à une charmante femme.
 
-Rouge‑Fleur eut un petit rire minaudier.
+Rouge-Fleur eut un petit rire minaudier.
 
 — Vous préviendrez donc les… principaux intéressés : votre cousine, son
   fiancé, cette noble comtesse de Armencita, Lily.
@@ -581,9 +581,9 @@ apparaître un peone empressé.
   suite.
 
 Et l’homme sorti, tandis que ses lieutenants se livraient à des commentaires
-réjouis, Jemkins se pencha vers Rouge‑Fleur.
+réjouis, Jemkins se pencha vers Rouge-Fleur.
 
-— Ce Porfirio Raëz… quel homme est‑ce ?
+— Ce Porfirio Raëz… quel homme est-ce ?
 
 — C’est le plus parfait des caballeros… Il a perdu trois millions de piastres
   dans les tripots de Mexico.
@@ -592,9 +592,9 @@ réjouis, Jemkins se pencha vers Rouge‑Fleur.
 
 Elle affirma d’un gentil mouvement de tête.
 
-— Un personnage à vendre, fit‑il avec gaieté.
+— Un personnage à vendre, fit-il avec gaieté.
 
-Rouge‑fleur le menaça du doigt.
+Rouge-fleur le menaça du doigt.
 
 — Comme vous parlez en termes rudes, vous autres, Américains du nord… Porfirio
   est un homme bienveillant, disposé à toute complaisance. Plus la
@@ -615,14 +615,14 @@ expression hautaine dans les yeux.
 
 Et avec une bonhomie feinte :
 
-— Vous ne dites mot… Pauvres fiancés éprouvés par le destin cruel, rassurez‑
+— Vous ne dites mot… Pauvres fiancés éprouvés par le destin cruel, rassurez-
   vous, vous avez fini de souffrir.
 
 — Un hourrah pour Jemkins, s’écria Jetty enthousiasmé.
 
 — Pas d’interruptions intempestives, lança la voix grinçante d’El Dieblo.
 
-— Quel est cet Indien ? murmura Rouge‑Fleur entre haut et bas.
+— Quel est cet Indien ? murmura Rouge-Fleur entre haut et bas.
 
 — Un serviteur de Jemkins, répondit sans hésiter le singulier personnage. Un
   serviteur dévoué… eh ! eh ! eh ! qui blâme les paroles inutiles… Les fiancés
@@ -652,7 +652,7 @@ cesserait donc jamais de les poursuivre.
 
 — All right ! Bien dit et bien pensé !
 
-Rouge‑Fleur mêlait sa voix à celle des complices de Frey.
+Rouge-Fleur mêlait sa voix à celle des complices de Frey.
 
 Du geste, le marquis de Chazelet réclama le silence.
 
@@ -662,12 +662,12 @@ Du geste, le marquis de Chazelet réclama le silence.
 
 — Cela n’est point matière à occuper l’esprit…
 
-— Le vôtre peut‑être, cher Monsieur Jemkins ; mais pour le mien, il en va
+— Le vôtre peut-être, cher Monsieur Jemkins ; mais pour le mien, il en va
   autrement… J’ai une mentalité française, moi ; une mentalité des Vieux pays,
   comme disent vos compatriotes… Et il n’est pas en mon pouvoir de me défaire
   de mes souvenirs comme d’un vieil habit.
 
-— Enfin, où voulez‑vous en venir ? grommela le milliardaire avec impatience.
+— Enfin, où voulez-vous en venir ? grommela le milliardaire avec impatience.
 
 — À bien établir que je vous suis obligé, cher Monsieur Jemkins… Au surplus,
   vous avez fait tous vos efforts pour m’assurer une fortune considérable, ce
@@ -681,7 +681,7 @@ Les mains de Jemkins s’étaient crispées sur les bras de son fauteuil.
 
 D’une voix sifflante, il demanda :
 
-— Peut‑on connaître cet état d’âme ?
+— Peut-on connaître cet état d’âme ?
 
 — Comment donc ! Linérès et moi avons beaucoup réfléchi, depuis que nous
   sommes arrivés à Agua Frida ; nous avons mis en commun nos esprits et nos
@@ -698,7 +698,7 @@ aucun son n’en jaillit. L’excès de la colère étranglait sa voix. Mais le
 flamboiement de son regard disait sa fureur. Cependant il se domina. De la
 main il rappela ses complices au silence. Puis il demanda :
 
-— Pouvez‑vous préciser davantage ?
+— Pouvez-vous préciser davantage ?
 
 Sous le calme voulu, on sentait l’orage. Le marquis ne s’en émut pas.
 
@@ -718,7 +718,7 @@ Sous le calme voulu, on sentait l’orage. Le marquis ne s’en émut pas.
 — Nous ne nous entendons pas. Je souhaite ardemment travailler avec vous à
   faire la lumière, quelque danger que puisse présenter l’aventure.
 
-— Alors, laissez‑vous conduire.
+— Alors, laissez-vous conduire.
 
 — Pardon ! Pardon ! rechercher la vérité est une chose ; accepter une fortune
   en est une autre. Je tiens à honneur de faire la première ; mon honneur me
@@ -742,14 +742,14 @@ détruite. Un brouillard passa devant ses yeux. Il hurla :
 
 Froidement, Chazelet répondit :
 
-— Oh ! toute menace est superflue. Ne vous ai‑je pas affirmé que j’offrais ma
+— Oh ! toute menace est superflue. Ne vous ai-je pas affirmé que j’offrais ma
   vie pour refuser une fortune que je ne sens pas mienne ?
 
-— Offrez‑vous aussi la vie de cette jeune fille ?
+— Offrez-vous aussi la vie de cette jeune fille ?
 
 La question tomba brutale, soulignée par le geste menaçant pointé vers
 Linérès. Mais plus prompte que Chazelet, angoissé par le danger soudainement
-révélé, celle‑ci prononça :
+révélé, celle-ci prononça :
 
 — Dans les ruines d’Armencita, j’ai appris à être brave. J’offre ma vie pour
   ce que je crois être l’honneur.
@@ -757,7 +757,7 @@ révélé, celle‑ci prononça :
 — Eh bien ! mais… on pourrait l’accepter…
 
 Sifflante, aiguë, plus terrible mille fois que les éclats de la voix du
-milliardaire, la phrase jaillit des lèvres roses de Rouge‑Fleur.
+milliardaire, la phrase jaillit des lèvres roses de Rouge-Fleur.
 
 Cela était sinistre et déconcertant. Cela disait la volonté impitoyable…
 C’était la cruauté atavique de l’Asie jetant sa menace dans ce conseil de
@@ -766,27 +766,27 @@ blancs.
 Mais El Dieblo se dressa ; un éclat de rire aigrelet fusa de ses lèvres,
 faisant grimacer les lignes bleues de sa peinture rituelle de sorcier.
 
-— La vie, ricana‑t‑il d’une voix acide, douloureuse aux oreilles, le Grand
+— La vie, ricana-t-il d’une voix acide, douloureuse aux oreilles, le Grand
   Esprit seul la donne ou la reprend… Eh ! Eh ! Eh ! les Hommes Rouges
   comptent des sages. Ils se transmettent les mystères de la Pensée. Un sage
   ami vaut mieux qu’une armée de maladroits.
 
-— Eh ! Qui appelles‑tu maladroits ?… Je ne suis pas d’humeur à me prêter à tes
+— Eh ! Qui appelles-tu maladroits ?… Je ne suis pas d’humeur à me prêter à tes
   jongleries.
 
 L’interpellation de Jemkins parut redoubler l’hilarité du sorcier.
 
-— Hommes‑Rouges, Hommes‑Blancs, fit‑il. Tous les mêmes. Tous incrédules,
+— Hommes-Rouges, Hommes-Blancs, fit-il. Tous les mêmes. Tous incrédules,
   jusqu’à l’heure où ils tremblent devant ce qu’ils ne comprennent pas.
 
 — Par le pied fourchu de Satan ! rugit Jemkins exaspéré…
 
 Mais El Dieblo trancha sans façon la fin de la phrase commencée.
 
-— Tais‑toi. L’Esprit parle… Vous êtes dans les ténèbres… J’apporte le
+— Tais-toi. L’Esprit parle… Vous êtes dans les ténèbres… J’apporte le
   flambeau.
 
-Tout en parlant, il pivotait sur lui‑même, saluant de grands gestes les quatre
+Tout en parlant, il pivotait sur lui-même, saluant de grands gestes les quatre
 points cardinaux.
 
 — Ils sont là, les Esprits du Soleil, les Esprits qui se croisent. Ils sont
@@ -794,9 +794,9 @@ points cardinaux.
 
 Jemkins ébranla le plancher d’un formidable coup de talon.
 
-— Trève de parade… ! Crois‑tu nous en imposer par ces mômeries transmises de
+— Trève de parade… ! Crois-tu nous en imposer par ces mômeries transmises de
   génération en génération parmi les anciens des tribus ? Les Aztèques, il y a
-  cinq siècles, évoquaient déjà les esprits de lumière… Le Soleil les a‑t‑il
+  cinq siècles, évoquaient déjà les esprits de lumière… Le Soleil les a-t-il
   sauvés de la destruction ?
 
 — Les guerriers ne croyaient plus aux paroles des sages. Ils sont morts de
@@ -807,7 +807,7 @@ du singulier personnage les impressionnait.
 
 ![Il prononçait à voix basse des paroles que nul n’entendait.](../3-images/part2/page-401.jpg "Il prononçait à voix basse des paroles que nul n’entendait.")
 
-— Mais enfin, que prétends‑tu faire ? murmura Frey Jemkins.
+— Mais enfin, que prétends-tu faire ? murmura Frey Jemkins.
 
 — T’aider avec l’appui du grand Esprit et de Veacatl, le génie à tête de hibou
 (mythologie Aztèque) qui trouble ou éclaire le cerveau des hommes. Ces enfants
@@ -819,7 +819,7 @@ se déconcerter, l’Indien ricana.
 
 — Les oiseaux moqueurs se vantent d’être en sûreté sur les plus hautes
   branches. Il en descendent néanmoins pour se jeter entre les mâchoires du
-  serpent qui les fascine. Ceux‑ci sont les oiseaux moqueurs. Tu veux que
+  serpent qui les fascine. Ceux-ci sont les oiseaux moqueurs. Tu veux que
   demain ils paraissent devant Don Porfiria Raëz.
 
 — Jamais ! jetèrent comme un défi les deux fiancés.
@@ -829,15 +829,15 @@ Le sorcier ne les regarda même pas.
 — Maître, tes désirs vont recevoir satisfaction, si tu permets à ton fidèle
   d’agir à sa guise.
 
-Il y avait chez le Peau‑Rouge une telle conviction que Frey murmura :
+Il y avait chez le Peau-Rouge une telle conviction que Frey murmura :
 
 — Fais comme il te plaira.
 
 Alors, l’étrange personnage parcourut le cercle d’un regard dominateur.
 
-— Écartez‑vous tous… Que ces jeunes gens demeurent isolés.
+— Écartez-vous tous… Que ces jeunes gens demeurent isolés.
 
-Et Jemkins appuyant l’ordre d’un geste vague, tous, Rouge‑Fleur elle‑même,
+Et Jemkins appuyant l’ordre d’un geste vague, tous, Rouge-Fleur elle-même,
 allèrent s’adosser au mur. Les fiancés restèrent au milieu de la pièce.
 
 El Dieblo bondit auprès d’eux, étendait les mains sur leurs têtes, il les
@@ -869,9 +869,9 @@ instant plus tard, on les vit traverser la cour, penchés l’un vers l’autre.
 Alors les langues se délièrent. Un concert d’exclamations, de questions,
 d’éloges bourdonna autour du sorcier.
 
-Rouge‑Fleur, plus impressionnée que les autres, répétait :
+Rouge-Fleur, plus impressionnée que les autres, répétait :
 
-— Mais comment avez‑vous pu modifier leur pensée ?
+— Mais comment avez-vous pu modifier leur pensée ?
 
 Derechef, le sorcier se livra à cette gaieté grinçante qui se vrillait de
 façon presque douloureuse dans l’ouïe de ses auditeurs.
@@ -896,9 +896,9 @@ faux, s’échappant avec effort de leurs gosiers contractés.
 
 Sa voix gutturale vibra dans le silence ainsi qu’un claquement de fouet :
 
-— Jud Allan, lança‑t‑il. Jud Allan.
+— Jud Allan, lança-t-il. Jud Allan.
 
-Tous eurent un sursaut. Rouge‑Fleur répéta comme malgré elle :
+Tous eurent un sursaut. Rouge-Fleur répéta comme malgré elle :
 
 — Jud Allan !
 
@@ -906,7 +906,7 @@ Tandis que Tom et Jetty, avec un accent intraduisible disaient :
 
 — Mort, le pauvre vieux garçon !
 
-Et dans le silence qui suivit, l’organe musical de Rouge‑Fleur s’éleva :
+Et dans le silence qui suivit, l’organe musical de Rouge-Fleur s’éleva :
 
 — Alors, demain, à quelle heure le départ ?
 
@@ -919,28 +919,28 @@ Elle eut un sourire et quitta la salle, suivie des yeux par le sorcier indien,
 qui avait eu un geste de surprise en entendant ses dernières paroles.
 
 Un à un, les associés de Jemkins prirent congé de lui. Le milliardaire demeura
-seul avec El Dieblo. Alors celui‑ci lui toucha l’épaule du doigt.
+seul avec El Dieblo. Alors celui-ci lui toucha l’épaule du doigt.
 
 — Je n’ai pas tout dit en me présentant à toi, tes oreilles seules doivent
   connaître les nouvelles sombres.
 
-— Que veux‑tu dire ?
+— Que veux-tu dire ?
 
-— Près du cadavre de Van Reek, la police a ramassé les diamants volés à New‑
+— Près du cadavre de Van Reek, la police a ramassé les diamants volés à New-
   York et un revolver à air comprimé.
 
 — Pourquoi me rappeler ces choses ?
 
 El Dieblo darda son regard perçant sur son interlocuteur.
 
-— Parce que _El Quotidian_, le journal de San‑Diego, reproduit ensuite par les
+— Parce que _El Quotidian_, le journal de San-Diego, reproduit ensuite par les
   grandes feuilles de l’Union, a rappelé qu’à Paris, lors de ton dernier
   voyage en Europe, le capitaine japonais Anoru fut assassiné à l’aide d’une 
   arme semblable.
 
 Il achevait à peine que Jemkins se dressait tout droit.
 
-— Alors on me soupçonne ? prononca‑t‑il d’un ton rauque.
+— Alors on me soupçonne ? prononca-t-il d’un ton rauque.
 
 El dieblo haussa les épaules, jeta ses mains sur les bras du milliardaire, et
 sans effort apparent, le força à se rasseoir.
@@ -956,7 +956,7 @@ Un ricanement de l’Indien ponctua la phrase.
 
 Puis avec un ricanement aigri :
 
-— Les États‑Unis vont hésiter, se consulter. T’accuser est une chose
+— Les États-Unis vont hésiter, se consulter. T’accuser est une chose
   formidable. Un mois s’écoulera avant que les esprits s’habituent à l’idée. Et
   un mois vaut un siècle pour un guerrier.
 

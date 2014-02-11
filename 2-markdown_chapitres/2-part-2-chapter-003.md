@@ -13,7 +13,7 @@ les populations sentimentales d’Europe, aux crimes ou accidents frappant de
 pauvres diables. Par contre, ils se passionnent à un degré inconnu dans
 l’ancien monde pour les aventures où des millions sont en jeu.
 
-Mais nulle part, effervescence n’atteignit celle qui régnait à Jersey‑Shore.
+Mais nulle part, effervescence n’atteignit celle qui régnait à Jersey-Shore.
 
 Le bourg figure assez bien la charpente osseuse d’un poisson, dont l’épine
 dorsale serait formée par la grande rue et les arêtes par les voies latérales,
@@ -31,11 +31,11 @@ En Amérique, il ne fait pas bon résister à semblable invitation.
 L’inspecteur parla donc.
 
 — Honorables Gentlemen, voici ce que l’enquête a établi. Le train 323 P.C. de
-  Pittsburg à la Côte, est un mixte, c’est‑à‑dire un train spécialement
+  Pittsburg à la Côte, est un mixte, c’est-à-dire un train spécialement
   affecté au transport des marchandises, mais auquel on adjoint une voiture
   comportant des compartiments des différentes classes.
 
-  Il s’arrêta réglementairement en gare de Jersey‑Shore à deux heures quinze du
+  Il s’arrêta réglementairement en gare de Jersey-Shore à deux heures quinze du
   matin. Il y séjourna sept minutes pour procéder à des opérations de
   chargement et de déchargement.
 
@@ -65,7 +65,7 @@ Le policier s’inclina, et la voix onctueuse, le geste arrondi, il continua :
   le jour hier seulement, elles se seraient abîmées plus vite qu’il n’est
   naturel. Mais je reprends. Le train 323 P.C. se remit en marche.
 
-  À quinze cents mètres vers New‑York, on procède à la réfection de la voie.
+  À quinze cents mètres vers New-York, on procède à la réfection de la voie.
 
   Il est donc prescrit aux mécaniciens de ralentir en ce point, et de prendre
   l’allure _d’un homme à pied_, c’est le terme propre du règlement spécial.
@@ -78,7 +78,7 @@ Le policier s’inclina, et la voix onctueuse, le geste arrondi, il continua :
   Thaws le regardait machinalement. Or, ils eurent soudain l’impression qu’en
   arrière d’eux on venait de lancer une boule noire.
 
-  Celle‑ci tomba sur le foyer, et au contact du charbon rouge, se volatilisa,
+  Celle-ci tomba sur le foyer, et au contact du charbon rouge, se volatilisa,
   enveloppant les deux hommes d’un nuage de vapeur brûlante qui leur corroda
   fortement la peau du visage et des mains. Suffoqués par une senteur âcre,
   astringente, ils perdirent connaissance.
@@ -97,10 +97,10 @@ Le policier s’inclina, et la voix onctueuse, le geste arrondi, il continua :
 — Ah ! Ah ! murmurèrent les auditeurs, impressionnés par le récit.
 
 — Dans le fourgon de tête, accroché immédiatement après le tender, avaient été
-  chargées dix‑sept barres d’or, de cent kilogs [^2-03-1] chacune, expédiées
-  par l’Oil Bank à une banque de New‑York.
+  chargées dix-sept barres d’or, de cent kilogs [^2-03-1] chacune, expédiées
+  par l’Oil Bank à une banque de New-York.
 
-— Dix‑sept, cent kilogs chaque, répéta la foule avec une évidente
+— Dix-sept, cent kilogs chaque, répéta la foule avec une évidente
   admiration.
 
 — Comme je vous le dis… Dans ce fourgon, outre le conducteur de train, se
@@ -143,11 +143,11 @@ Le policier s’inclina, et la voix onctueuse, le geste arrondi, il continua :
   stationnaient sur la ligne. Ils ont enlevé les précieux lingots, et leur
   trace a été perdue, dans les bois de Lincolt.
 
-  Et le train stoppe de lui‑même. Quelqu’un a fait fonctionner le frein
+  Et le train stoppe de lui-même. Quelqu’un a fait fonctionner le frein
   automatique. Qui ? Les bandits sans doute, pour descendre sans risquer une
   chute.
 
-  À présent, Gentlemen, vous en savez autant que moi ; laissez‑moi aller à
+  À présent, Gentlemen, vous en savez autant que moi ; laissez-moi aller à
   mes affaires, et retournez aux vôtres, si vous en avez toutefois.
 
 Sur cette péroraison, l’inspecteur sauta à terre, sans que personne s’opposât
@@ -164,7 +164,7 @@ L’homme portait des cheveux blonds bouclés, une barbe soyeuse, dont la coupe
 impeccable trahissait des prétentions au charme, prétentions que narguaient
 une épaule sensiblement plus haute que l’autre et des jambes cagneuses. Les
 lunettes d’or à la fine monture, le complet loutre à rayures de nuance plus
-claire, démontraient son admiration pour les snobs new‑yorkais.
+claire, démontraient son admiration pour les snobs new-yorkais.
 
 Enfin, il était coiffé d’un chapeau gris, à ruban ponceau, et il brandissait
 prétentieusement un jonc d’un jaune éclatant, terminé par une poignée d’or,
@@ -193,7 +193,7 @@ L’homme toussa vivement, puis avec sévérité :
 
 — Je n’oublierai plus, Master Honorable Grey Assford.
 
-— Mais je répète, tu as entendu le récit du crime. Kan‑So a échappé à notre
+— Mais je répète, tu as entendu le récit du crime. Kan-So a échappé à notre
   surveillance. À présent, comment le joindre ?
 
 Tril répondit par une exclamation joyeuse :
@@ -215,7 +215,7 @@ en circulant à travers les groupes occupés à discuter l’affaire des barres
 d’or.
 
 Mais les groupes s’espacèrent peu à peu… les maisons se succédèrent à des
-intervalles de plus en plus grands. Les trois personnages sortaient de Jersey‑
+intervalles de plus en plus grands. Les trois personnages sortaient de Jersey-
 Shore.
 
 Maintenant, ils déambulaient sur la route, bordée de champs cultivés, de
@@ -224,7 +224,7 @@ pépinières, de prairies.
 Ainsi on atteignit la ligne du chemin de fer.
 
 A deux ou trois cents mètres au delà, les promeneurs, traversant la voie,
-distinguèrent les équipes de travailleurs occupés à la réfection de la plate‑
+distinguèrent les équipes de travailleurs occupés à la réfection de la plate-
 forme ; mais cette vision fut aussitôt masquée par un rideau d’arbres.
 
 Ils venaient de pénétrer dans les bois de Lincolt.
@@ -237,7 +237,7 @@ paroles :
 — Je suis l’humble servante de l’honorable Grey Assford et de son jeune
   secrétaire James.
 
-— Kan‑So ? murmura Allan.
+— Kan-So ? murmura Allan.
 
 — Retrouvé… et gardé par les lads d’Ottawa, que Top et Fall n’ont pu mener
   qu’après le crime, vu la distance à parcourir.
@@ -245,39 +245,39 @@ paroles :
 Jud s’était approché, il avait posé les mains sur les épaules de la mignonne,
 et ses regards plongeaient dans ceux de la gentille messagère.
 
-— Des détails ? prononça‑t‑il.
+— Des détails ? prononça-t-il.
 
 — Volontiers ! C’est à mon brave dogue que revient l’honneur d’avoir éventé la
   piste. Nous, nous n’avons eu qu’à la lire.
 
 Et lentement, en personne qui veut être bien comprise, elle expliqua :
 
-— Kan‑So, en arrivant, s’est abouché avec deux _tueurs de campagne_ (bandits
+— Kan-So, en arrivant, s’est abouché avec deux _tueurs de campagne_ (bandits
   opérant contre les fermes et les habitations isolées), récemment évadés des
   mines de l’Oklahoma. Strig et Clock sont leurs noms.
 
 — Je les note, grommela Tril jetant une inscription rapide sur son calepin.
 
 — Grâce à ces forçats en rupture de ban, il réunit, en seize heures, une bande
-  de dix‑huit malandrins. Ils devaient s’échelonner sur la voie, s’emparer des
+  de dix-huit malandrins. Ils devaient s’échelonner sur la voie, s’emparer des
   barres d’or à mesure qu’elles y seraient précipitées, et les porter à un
   endroit déterminé de ce bois de Lincolt, où une charrette stationnerait et
   recevrait le produit du vol ; chacun a reçu pour cela mille dollars. À ce
   prix, ils n’ont demandé ni le nom de qui les employait, ni la valeur réelle
   des lingots enveloppés selon l’usage dans des étuis de forte toile.
 
-Kan‑So, Strig et Clock se réservèrent d’opérer dans le train.
+Kan-So, Strig et Clock se réservèrent d’opérer dans le train.
 
-Tout se passa comme il était convenu. Au rendez‑vous fixé, les trois chefs de
-l’expédition trouvèrent la charrette chargée des dix‑sept barres d’or. Ils
+Tout se passa comme il était convenu. Au rendez-vous fixé, les trois chefs de
+l’expédition trouvèrent la charrette chargée des dix-sept barres d’or. Ils
 soldèrent les services de leurs acolytes, lesquels se dispersèrent dans toutes
 les directions.
 
-— Mais ce camion lourdement chargé, comment personne ne l’a‑t‑il rencontré ?
+— Mais ce camion lourdement chargé, comment personne ne l’a-t-il rencontré ?
 
-— Les inspecteurs de police eux‑mêmes l’ont rencontré et ne lui ont accordé
+— Les inspecteurs de police eux-mêmes l’ont rencontré et ne lui ont accordé
   aucune attention, par la raison toute simple qu’au moment où cela se
-  produisit le chariot roulait à vide, Kan‑So et ses deux lieutenants ayant eu
+  produisit le chariot roulait à vide, Kan-So et ses deux lieutenants ayant eu
   le temps de le décharger et de cacher les lingots dans les carrières de
   plâtre abandonnées au nord du bois de Lincolt. Strig en personne, devenu
   charretier, conduisait le tombereau vers la Susquehannah, où il l’a
@@ -286,11 +286,11 @@ les directions.
 Jud Allan hocha la tête, comme pour approuver les mesures prises par les
 bandits.
 
-— Bien raisonné, fit‑il à mi‑voix. On va poursuivre les lingots dans toutes
+— Bien raisonné, fit-il à mi-voix. On va poursuivre les lingots dans toutes
   les directions. Il ne se présentera à l’esprit de personne qu’ils sont là, à
   deux pas du théâtre du crime.
 
-— Oh ! riposta la fillette. En eût‑on la pensée, qu’on ne les tiendrait pas
+— Oh ! riposta la fillette. En eût-on la pensée, qu’on ne les tiendrait pas
   encore, attendu que l’accès des carrières est très difficile. Des
   éboulements encombrent plusieurs galeries. Puis il existe un assez grand
   nombre d’issues, et sans les indications de deux boys, qui naguère ont un
@@ -307,21 +307,21 @@ Elle reprit :
 
 — Qu’est William Starnegie ?
 
-— Le nom sous lequel Kan‑So s’était fait inscrire à l’hôtel de Jersey‑Shore.
+— Le nom sous lequel Kan-So s’était fait inscrire à l’hôtel de Jersey-Shore.
   Le porteur a compris le subterfuge. Il a trouvé le moyen de différer la
   remise assez longtemps pour prendre cette copie.
 
 En proie à une angoisse extraordinaire, Jud lui arracha presque le papier des
 mains. Et il lut :
 
-> Achats terminés, rendez‑vous n° 5. Extrêmement important. Affaires
+> Achats terminés, rendez-vous n° 5. Extrêmement important. Affaires
   embrouillées nécessitent réunion conseil administration.
 
 Il leva les yeux, interrogeant la fillette du regard. Elle lui tendit un
-second papier, celui‑ci reconnaissable pour un télégramme officiel, ainsi
+second papier, celui-ci reconnaissable pour un télégramme officiel, ainsi
 conçu :
 
-> À Miss Suzan. Cleaver bouse. Jersey‑Shore.
+> À Miss Suzan. Cleaver bouse. Jersey-Shore.
 
 > Pensylvania désert. Départ précipité, nuit réunion lads. Impossible retrouver
   traces…
@@ -329,12 +329,12 @@ conçu :
 Il ne continua pas.
 
 — Tu as raison, Suzan. Jemkins a dépisté nos amis. J’ai perdu sa trace, comme
-  il a perdu la mienne. Mais Kan‑So connaît le rendez‑vous. Il faut qu’il nous
+  il a perdu la mienne. Mais Kan-So connaît le rendez-vous. Il faut qu’il nous
   y conduise !
 
 Le rapport de Suzan était exact de tout point.
 
-A cette heure, le Chinois Kan‑So se tenait dans une « salle de la carrière ».
+A cette heure, le Chinois Kan-So se tenait dans une « salle de la carrière ».
 Une _salle_ est un endroit où aboutissent plusieurs galeries d’exploitation.
 Généralement, le _ciel_ en est plus élevé, et des piliers de maçonnerie en
 assurent la solidité.
@@ -357,7 +357,7 @@ bouteille de gin, des verres, et sur un papier, des tranches de jambon.
 Les deux bandits offraient les mêmes faces ignobles, sur lesquelles le vice et
 les passions mauvaises avaient tracé leurs hideux stigmates.
 
-— Bon, intervint Kan‑So. Quelques jours sont bientôt passés. Après, chacun de
+— Bon, intervint Kan-So. Quelques jours sont bientôt passés. Après, chacun de
   vous emportant une barre d’or de cent kilogrammes, pourra, je pense, se
   procurer de l’agrément.
 
@@ -379,14 +379,14 @@ Clock accueillit la rodomontade par un bruyant éclat de rire.
   Trois cent mille, tu entends… jamais je n’avais rêvé pareille somme dans la
   poche du fils de mon père.
 
-Kan‑So les écoutait distraitement. Il semblait que sa pensée fût absente. À ce
+Kan-So les écoutait distraitement. Il semblait que sa pensée fût absente. À ce
 moment cependant, il étendit le bras vers la bouteille de gin et en versa une
 copieuse rasade à ses complices.
 
 — À ta santé ! clama Strig saisissant son verre, imité en cela par Clock.
 
-— Mais vous ne buvez pas, remarqua ce dernier… Répugneriez‑vous à porter nos
-  santés ? Eh ! Eh ! Prenez‑y garde, je suis susceptible comme un homme de
+— Mais vous ne buvez pas, remarqua ce dernier… Répugneriez-vous à porter nos
+  santés ? Eh ! Eh ! Prenez-y garde, je suis susceptible comme un homme de
   valeur… depuis que je vaux trois cent mille francs !
 
 Le Chinois grimaça un sourire.
@@ -409,9 +409,9 @@ aussi sincère que celle que leur eût procurée une action d’éclat.
 — C’est égal, clamait l’un ; ce qu’ils seraient effarés, les camarades du
   bagne, s’ils savaient qu’on mène de l’ouvrage pareil !
 
-— Dix‑sept cents kilogs d’or pur, sans mélange !
+— Dix-sept cents kilogs d’or pur, sans mélange !
 
-— Dix‑sept fois trois cent quarante mille francs ; dix‑sept fois soixante‑huit
+— Dix-sept fois trois cent quarante mille francs ; dix-sept fois soixante-huit
   mille dollars !
 
 Leurs yeux, que l’alcool faisait flamber, se fixaient sur l’amoncellement de lingots.
@@ -422,7 +422,7 @@ Ils remplirent leurs verres, replaçant sur la pierre la bouteille vide.
 
 — Qui nous a choisis entre tous comme faucheurs d’or !
 
-Les verres s’appliquèrent aux lèvres des bandits. Ceux‑ci burent, mais on eût
+Les verres s’appliquèrent aux lèvres des bandits. Ceux-ci burent, mais on eût
 cru qu’ils avalaient le liquide avec effort.
 
 — C’est du fameux gin, bredouilla Strig d’une voix soudainement devenue
@@ -453,14 +453,14 @@ mains crispées sur le cube de pierre servant de table.
 
 Mais que fait donc le Chinois ?
 
-Il compte à mi‑voix de un à cent. À ce dernier nombre, il s’arrête et murmure :
+Il compte à mi-voix de un à cent. À ce dernier nombre, il s’arrête et murmure :
 
 — C’est fait !
 
 Il se lève, va vers les dormeurs, prend leurs poignets…, tâte le pouls.
 Quelques secondes, il demeure ainsi. Et son sourire s’accentue.
 
-— Eh ! Eh ! ricane‑t‑il, une économie de six cent mille francs…, et leur
+— Eh ! Eh ! ricane-t-il, une économie de six cent mille francs…, et leur
   discrétion assurée.
 
 Il hoche la tête à la façon des « magots » de porcelaine de son pays,
@@ -472,10 +472,10 @@ Le cyanure de potassium, l’acide prussique, comme on le nomme communément. Il
 semble que ce vocable chimique fait passer un gémissement dans l’obscurité des
 galeries adjacentes.
 
-La flamme de la bougie qui éclaire la scène, tremblote. Est‑ce le souffle de
+La flamme de la bougie qui éclaire la scène, tremblote. Est-ce le souffle de
 la mort qui parcourt les galeries de l’exploitation abandonnée ?
 
-Cela peut être. Les paroles de Kan‑So sont claires. Il a supprimé ses
+Cela peut être. Les paroles de Kan-So sont claires. Il a supprimé ses
 complices.
 
 Maintenant, il rit silencieusement, sa face safranée se plissant ainsi que le
@@ -485,7 +485,7 @@ cette formidable et sinistre hilarité.
 Il s’approche du monceau de métal précieux voilé par les enveloppes de toile.
 Ses mains, longues et maigres, en caressent amoureusement les contours.
 
-— Bonne journée grommelle‑t‑il. Excellente journée ! Joli dividende pour
+— Bonne journée grommelle-t-il. Excellente journée ! Joli dividende pour
   l’association… Eh ! Eh ! Jemkins a beau dire : L’or n’est qu’une arme ! Il
   se trompe, l’or est autre chose… Et si la grande entreprise tournait mal, je
   ne serais pas fâché de connaître cette petite réserve… Avec cinq millions,
@@ -494,9 +494,9 @@ Ses mains, longues et maigres, en caressent amoureusement les contours.
 Ses mains semblent ne pouvoir se séparer du métal, dont le froid est
 perceptible à travers la trame des enveloppes.
 
-— Eh ! Eh ! reprends le Chinois, riant toujours. Qu’est‑ce que veut Jemkins ?
+— Eh ! Eh ! reprends le Chinois, riant toujours. Qu’est-ce que veut Jemkins ?
   Distraire l’opinion… Elle a de quoi s’occuper, l’opinion. Un vol audacieux,
-  dans un train en marche…, dix‑sept cents kilogrammes d’or disparus comme la
+  dans un train en marche…, dix-sept cents kilogrammes d’or disparus comme la
   légère muscade dans le gobelet de l’escamoteur. Qu’importe que les cinq
   millions ne se retrouvent pas ?
 
@@ -505,7 +505,7 @@ Les bandits que j’ai réunis les ont emportés… Où ? Je n’en sais rien�
 Et si, à un moment donné, je suis quelque peu lésé dans les partages futurs,
 j’aurai en réserve de quoi me consoler de l’injustice des hommes.
 
-A présent, il s’agit de quitter le pays, et de joindre Jemkins au rendez‑vous
+A présent, il s’agit de quitter le pays, et de joindre Jemkins au rendez-vous
 n° 5, ainsi que l’ordonne sa dépêche. Marquons de l’empressement.
 
 S’il reste tout puissant, inutile de me brouiller avec lui… J’ai pris mes
@@ -526,11 +526,11 @@ perméable, car des flaques boueuses s’étalent par places, scandant la marche
 du Chinois de clapotis sinistres.
 
 Et puis des blocs se sont détachés de la voûte ; des éboulements barrent le
-chemin, obligeant Kan‑So à d’incessants détours. Tantôt, il se jette dans des
+chemin, obligeant Kan-So à d’incessants détours. Tantôt, il se jette dans des
 voies latérales si étroites qu’à peine il s’y peut glisser ; tantôt, il se
 coule à travers des fissures produites par les tassements du terrain.
 
-Bientôt, Kan‑So déboucha dans une galerie plus large. Les restes d’une ligne
+Bientôt, Kan-So déboucha dans une galerie plus large. Les restes d’une ligne
 ferrée d’exploitation à voie étroite se distinguaient sur le sol.
 
 Les rails disjoints, tordus, arrachés par endroits, rappelaient que naguère
@@ -538,11 +538,11 @@ les wagonnets circulaient, emportant au dehors le calcaire extrait.
 
 En avant de lui, le Chinois apercevait une faible lueur.
 
-— La sortie, murmura‑t‑il. Dans cinq minutes, je me promènerai sur la route
+— La sortie, murmura-t-il. Dans cinq minutes, je me promènerai sur la route
   comme un bon bourgeois.
 
-Il souffla sa bougie, accéléra son allure. Peut‑être, en dépit de son âme
-cuirassée contre le remords, éprouvait‑il une satisfaction à quitter les
+Il souffla sa bougie, accéléra son allure. Peut-être, en dépit de son âme
+cuirassée contre le remords, éprouvait-il une satisfaction à quitter les
 ténèbres de la carrière.
 
 Soudain, il s’arrêta net, les pieds rivés au sol, les jarrets subitement
@@ -550,21 +550,21 @@ amollis par l’angoisse. Une voix légère venait de jeter cette question :
 
 — Qui va là ?
 
-Kan‑So chercha à voir celui qui avait parlé. Impossible.
+Kan-So chercha à voir celui qui avait parlé. Impossible.
 
 La régularité des parois avait disparu sous l’action modificatrice du temps et
 des intempéries.
 
-Des fissures, des éboulis avaient créé une série de rentrants et de pointes, entre lesquels il était facile de se dissimuler, Kan‑So ne vit personne.
+Des fissures, des éboulis avaient créé une série de rentrants et de pointes, entre lesquels il était facile de se dissimuler, Kan-So ne vit personne.
 
 Et cependant la voix reprit, sur un ton plus élevé :
 
 — Qui va là ?
 
 Le claquement d’un revolver donna à l’interrogation une tournure menaçante.
-Kan‑So sentit la peur frissonner le long de son échine.
+Kan-So sentit la peur frissonner le long de son échine.
 
-— Qui va là ? cria‑t‑on pour la troisième fois.
+— Qui va là ? cria-t-on pour la troisième fois.
 
 Les mots, résonnant lugubrement sous la voûte, rendirent au Chinois toute son
 agilité. Aussi vite que possible il s’enfonça dans l’obscurité, croyant
@@ -574,8 +574,8 @@ Il ne s’arrêta qu’après s’être introduit dans une fissure, qui lui perm
 mettre entre sa personne et l’ennemi inconnu l’épaisseur d’un massif calcaire.
 Là, il écouta. Rien. Aucun bruit. On ne le poursuivait donc pas.
 
-Il se rassura. Après tout, des vagabonds occupaient peut‑être l’entrée
-principale de la carrière. Ils avaient sans doute été aussi effrayés que lui‑
+Il se rassura. Après tout, des vagabonds occupaient peut-être l’entrée
+principale de la carrière. Ils avaient sans doute été aussi effrayés que lui-
 même.
 
 Rassuré par le raisonnement, il ralluma sa bougie et se remit en marche. Un
@@ -584,27 +584,27 @@ quart d’heure se passa en détours, en escalades d’éboulements. Derechef, i
 
 A l’extrémité d’un corridor étroit, il apercevait un jour verdâtre.
 
-— Ici, on sort en plein fourré, se confia‑t‑il. C’est un vrai terrier de
+— Ici, on sort en plein fourré, se confia-t-il. C’est un vrai terrier de
   renard. Pas de danger que l’on s’y soit installé.
 
 Il achevait à peine, qu’une silhouette se découpa sur l’ouverture.
 
 — Qui va là ?
 
-Kan‑So discerna vaguement le geste menaçant d’un bras qu’il jugea armé d’un
-revolver. Aussi ne prolongea‑t‑il pas son examen et se replongea‑t‑il dans
+Kan-So discerna vaguement le geste menaçant d’un bras qu’il jugea armé d’un
+revolver. Aussi ne prolongea-t-il pas son examen et se replongea-t-il dans
 l’obscurité de toute la vitesse de ses jambes.
 
 Cette fois, une angoisse terrible le tenait.
 
-— Deux issues gardées ! Est‑ce que ce serait une opération de police ?
+— Deux issues gardées ! Est-ce que ce serait une opération de police ?
 
 Toutefois il se raidit contre son trouble. Il tenta de réagir.
 
-— Il faut voir, murmura‑t‑il… Il faut voir… Deux sorties sur cinq, reste à
+— Il faut voir, murmura-t-il… Il faut voir… Deux sorties sur cinq, reste à
   trois.
 
-Sa course dans la nuit recommença. Bientôt Kan‑So parvint à une nouvelle
+Sa course dans la nuit recommença. Bientôt Kan-So parvint à une nouvelle
 ouverture.
 
 Mais rendu circonspect, il étouffa le bruit de ses pas, s’approcha de
@@ -622,9 +622,9 @@ Et sentant le désespoir monter en lui, il reprit sa marche souterraine.
 
 La quatrième issue se trouva gardée comme les précédentes.
 
-Ici, Kan‑So fut près de succomber au découragement. Plus de doute ! Sa
+Ici, Kan-So fut près de succomber au découragement. Plus de doute ! Sa
 présence dans les carrières était connue. Le soin de lui couper toute ligne
-de retraite le démontrait. Est‑ce qu’il allait échouer au port ? Comment ! Il
+de retraite le démontrait. Est-ce qu’il allait échouer au port ? Comment ! Il
 avait combiné avec une adresse infernale les moindres incidents du drame ;
 il s’était défait des complices dangereux, et une inexplicable fatalité lui
 ferait perdre le bénéfice de ses combinaisons !
@@ -632,7 +632,7 @@ ferait perdre le bénéfice de ses combinaisons !
 Et sa pensée surexcitée lui retraçant les diverses étapes du drame, il
 grondait avec rage :
 
-— Rien à critiquer ! Jemkins lui‑même approuverait. Alors, d’où vient
+— Rien à critiquer ! Jemkins lui-même approuverait. Alors, d’où vient
   l’intervention de la police ? Strig et Clock sont morts. Eux seuls savaient
   le gîte… Strig a conduit le tombereau à la rivière, c’est vrai…; il a
   rapporté le gin ; mais il n’avait pas bu… Non, non, il n’était point ivre ;
@@ -645,20 +645,20 @@ L’audace d’un bandit est rarement doublée d’un courage équivalent.
 C’est que l’audace suppose l’espoir de vaincre, et disparaît avec la défaite,
 tandis que le courage subsiste jusqu’au _bien mourir_.
 
-Kan‑So dut appeler à lui toute son énergie pour se rendre à la cinquième et
-dernière issue des carrières. Comme les autres, celle‑ci était surveillée.
+Kan-So dut appeler à lui toute son énergie pour se rendre à la cinquième et
+dernière issue des carrières. Comme les autres, celle-ci était surveillée.
 
 Ses dents claquant sous l’empire d’une terreur incœrcible, ses genoux pliant
 sous lui, le Chinois regagna la salle où il avait laissé ses complices.
 
 La vue des cadavres immobiles redoubla ses transes.
 
-— Oh ! gronda‑t‑il d’une voix affolée. Ils me narguent.
+— Oh ! gronda-t-il d’une voix affolée. Ils me narguent.
 
 Il se dressa, hagard, apostrophant les morts :
 
 — Oh ! ne riez pas ! Ne riez pas…! Ou craignez ma colère… On ne se moque pas
-  impunément de Kan‑So.
+  impunément de Kan-So.
 
 Il se campait en face des cadavres, les bravant du geste. Une teinte rouge
 montait à sa face safranée, ses yeux avaient des lueurs étranges.
@@ -672,7 +672,7 @@ Et affolé, hors de lui, le Chinois se rua sur le mort. Ses poings fermés
 s’abattirent sur le visage livide. Sous la poussée brutale, le corps bascula
 et roula sur le sol avec un bruit mat.
 
-— Assommé ! hurla Kan‑So en proie à un délire soudain… Rien ne me résiste… Je
+— Assommé ! hurla Kan-So en proie à un délire soudain… Rien ne me résiste… Je
   suis fort ! Je suis le plus fort des hommes… Tout se courbe devant moi… J’ai
   de l’or, de l’or, de l’or… Quoi ? Clock, tu veux ta part ! Arrière, chien,
   tout est à moi, à moi seul… Tiens ! Tiens ! Tiens !
@@ -683,12 +683,12 @@ toujours et le jeta à côté de son compagnon.
 Alors, il se prit à danser, à sauter, clamant d’une voix qui s’essoufflait de
 plus en plus :
 
-— Tous vaincus ! Je reste seul. Victoire ! Victoire ! Gloire à Kan‑So !…
+— Tous vaincus ! Je reste seul. Victoire ! Victoire ! Gloire à Kan-So !…
   Salue, peuple, salue mon or.
 
 Il saluait à la ronde gravement, puis reprenait sa danse macabre. Cela dura de
 longues minutes. Enfin, hors d’haleine, à bout de forces, le Chinois tournoya
-sur lui‑même et s’affala tout de son long sur la terre, où il demeura inerte,
+sur lui-même et s’affala tout de son long sur la terre, où il demeura inerte,
 comme privé de sentiment.
 
 La bougie répandait sa lueur tremblotante surles trois corps étendus.
@@ -696,19 +696,19 @@ La bougie répandait sa lueur tremblotante surles trois corps étendus.
 Elle diminua lentement… Enfin, elle grésilla, la mèche carbonisée se renversa
 dans les dernières parcelles de cire fondue, et s’éteignit.
 
-Longtemps après, des lueurs rougeâtres emplirent les galeries circon‑voisines.
+Longtemps après, des lueurs rougeâtres emplirent les galeries circon-voisines.
 Des pas furtifs troublèrent le silence de la carrière. Et enfin, des êtres
 bondirent dans la « salle », brandissant des torches.
 
 — Les voilà ! Les voilà ! Ils sont morts !
 
-— Non, pas celui‑ci, il dort.
+— Non, pas celui-ci, il dort.
 
-— Kan‑So, prononça une voix grave.
+— Kan-So, prononça une voix grave.
 
 Jud Allan, toujours sous son déguisement, venait de parler.
 
-— Nous tenons celui‑ci, enfants. Il nous indiquera ce que je veux savoir.
+— Nous tenons celui-ci, enfants. Il nous indiquera ce que je veux savoir.
 
 L’espoir d’Allan ne devait pas se réaliser. Le surlendemain, les journaux publiaient l’entrefilet suivant :
 
@@ -721,11 +721,11 @@ L’espoir d’Allan ne devait pas se réaliser. Le surlendemain, les journaux p
   du premier policier qu’ils purent joindre.
 
 > Or, le fou, car le personnage est bien réellement fou, ne serait autre que
-  le très honorable Kan‑So, bien connu dans le monde des business‑men, parmi
+  le très honorable Kan-So, bien connu dans le monde des business-men, parmi
   lesquels il occupait une situation enviée.
 
-> Par quelle suite de circonstances l’infortuné gentleman est‑il venu échouer
-  dans notre région ? Comment sa raison a‑t‑elle sombré ?
+> Par quelle suite de circonstances l’infortuné gentleman est-il venu échouer
+  dans notre région ? Comment sa raison a-t-elle sombré ?
 
 > C’est et ce restera probablement un mystère ; car sa folie, du genre
   incurable dit des grandeurs, ne permet point d’espérer le réveil de cette 
@@ -734,7 +734,7 @@ L’espoir d’Allan ne devait pas se réaliser. Le surlendemain, les journaux p
 Les feuilles continuaient ainsi, paraphrasant la note qui, par ordre de Jud
 Allan, avait été remise aux journaux.
 
-Jud n’avait pas jugé opportun de faire établir la participation de Kan‑So à
+Jud n’avait pas jugé opportun de faire établir la participation de Kan-So à
 l’attaque du train de nuit. Toutefois, une dépêche chiffrée avait été expédiée
 au Syndicat des Lads de Washington, pour être communiquée au Président
 Loosevelt.
@@ -743,13 +743,13 @@ Ce soin pris, le professeur, autour de qui s’étaient rassemblés Tril, Top et
 Fall, flanqués de Suzan, escortée de ses compagnons à quatre pattes Storm et
 Zinka, avait dit mélancoliquement :
 
-— Jemkins joue de bonheur. Kan‑So ne nous apprendra point sa retraite. Il faut
+— Jemkins joue de bonheur. Kan-So ne nous apprendra point sa retraite. Il faut
   que Van Reek nous rende ce service.
 
 Les quatre petits avaient enveloppé leur chef d’un regard de surhumaine
 affection, et ils avaient répondu d’une seule voix :
 
-— En route pour New‑York !
+— En route pour New-York !
 
 [^2-03-1]: Orthographe utilisée dans l’édition de 1932 qui a servi pour la
            présente  édition (Note de l’Editeur)

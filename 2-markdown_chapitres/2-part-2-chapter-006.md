@@ -4,11 +4,11 @@
 
 Comme Jud Allan et Tril pénétraient sur les quais de la gare du Southern
 Pacifique, un train composé seulement d’une locomotive, de son tender et d’un
-wagon‑salon, s’ébranlait lentement sur la voie.
+wagon-salon, s’ébranlait lentement sur la voie.
 
 — Il part, fit le gamin d’une voix légère comme un souffle.
 
-— Le rattraperai‑je ? dit en écho le professeur d’un accent étranglé.
+— Le rattraperai-je ? dit en écho le professeur d’un accent étranglé.
 
 Et comme son compagnon le regardait, surpris de sa soudaine émotion.
 
@@ -17,7 +17,7 @@ Et comme son compagnon le regardait, surpris de sa soudaine émotion.
   minutes peut perdre à jamais.
 
 Le train qui emportait Van Reek sortait du vaste hall vitré, et il attaquait
-la voie qui, en dix‑sept heures, l’amènerait à San‑Diego.
+la voie qui, en dix-sept heures, l’amènerait à San-Diego.
 
 Presque aussitôt, sur une voie de raccordement, un train de même composition
 fut refoulé par sa puissante locomotive le long du quai que Van Reek venait de
@@ -33,8 +33,8 @@ de la gare.
 
 Allan, lui, s’approcha de la machine.
 
-— Vous allez conduire le train spécial Grey Assford ? demanda‑t‑il au
-  mécanicien prêt à monter sur la plate‑forme de chauffe.
+— Vous allez conduire le train spécial Grey Assford ? demanda-t-il au
+  mécanicien prêt à monter sur la plate-forme de chauffe.
 
 — Oui, oui, Gentleman, je vois. C’est du moins le nom qui est indiqué.
 
@@ -60,11 +60,11 @@ Il baissa la voix :
   tours de roues de plus par minute… Eh ! Eh ! l’alcool produit le même effet
   sur les moteurs que sur les hommes, ça excite ! ça excite !
 
-Mais se calmant, il désigna le wagon‑salon réservé au voyageur.
+Mais se calmant, il désigna le wagon-salon réservé au voyageur.
 
 — Prenez place, Gentleman ! Comme cela je saurai que vous êtes installé, et à
   la minute même qui m’a été indiquée, j’actionnerai le levier de marche.
-  C’est une demi‑minute de gagnée.
+  C’est une demi-minute de gagnée.
 
 Pour toute réponse, Allan gagna la portière du salon, et se hissa à
 l’intérieur. Sa courte conversation avec le mécanicien lui avait rendu
@@ -75,7 +75,7 @@ le gain d’une course semblable provenait de l’addition de gains partiels
 assurés en cours de route : exactitude au démarrage, accélération de vitesse
 par l’emploi d’un combustible énergique, etc.
 
-A l’instant même où la demi‑heure s’accomplissait, Jud ressentit une secousse
+A l’instant même où la demi-heure s’accomplissait, Jud ressentit une secousse
 légère.
 
 Le mécanicien tenait sa promesse. Le spécial se mettait en marche.
@@ -97,20 +97,20 @@ A ces signes, Jud reconnaissait que l’on marchait à plus de cent kilomètres
 Soudain, le tapotement de l’enregistreur télégraphique disposé dans un angle
 du salon attira son attention.
 
-Qui pouvait lui télégraphier à ce moment ? Ses petits alliés de San‑Francisco
+Qui pouvait lui télégraphier à ce moment ? Ses petits alliés de San-Francisco
 seuls savaient où il se trouvait. C’était donc l’un d’eux.
 
 La bande mobile se déroula un moment, puis les taquets demeurèrent immobiles.
 Allan coupa la bande et la considéra attentivement.
 
-— Oh ! murmura‑t‑il, c’est le chiffre du carnet de Van Reek.
+— Oh ! murmura-t-il, c’est le chiffre du carnet de Van Reek.
 
 En effet, sur le papier s’alignaient les signes suivants :
 
 > — 4 — 819 — 12. — 7 — 10539112. — 7 — 59 — 6.
       1 — 6 — 65 — 12 — 69 — 11 — 12.
 
-Mais il avait la clef de cette écriture chiffrée, aussi lut‑il sans hésiter.
+Mais il avait la clef de cette écriture chiffrée, aussi lut-il sans hésiter.
 
 > Train spécial suit. Attention.
 
@@ -120,25 +120,25 @@ Mais il avait la clef de cette écriture chiffrée, aussi lut‑il sans hésiter
 Durant quelques minutes, il demeura immobile, comme absorbé par ses
 réflexions, puis il haussa brusquement les épaules :
 
-— Après tout, qu’importe ! Grey Assford est méconnaissable. Là‑bas, il aura
+— Après tout, qu’importe ! Grey Assford est méconnaissable. Là-bas, il aura
   son escorte, moi j’aurai les lads prévenus par Tril… Laissons courir.
 
 Et il se jeta sur le siège capitonné qu’il avait quitté un instant plus tôt.
 
-‑‑
+--
 
 Cependant, Van Reek ressentait, à vingt kilomètres en avant, une émotion
 violente. Lui aussi venait de lire la dépêche laconique et sa lecture
 déterminait un accès de rage d’autant plus violent, qu’étant seul dans son
-wagon‑salon, il pouvait s’y abandonner en toute liberté.
+wagon-salon, il pouvait s’y abandonner en toute liberté.
 
-— La peste de l’idiot ! grondait‑il. Train spécial suit. Attention ! Attention
-  à quoi, à qui ? Ce stupide individu ne pouvait‑il inscrire un nom, une
+— La peste de l’idiot ! grondait-il. Train spécial suit. Attention ! Attention
+  à quoi, à qui ? Ce stupide individu ne pouvait-il inscrire un nom, une
   indication qui me mît sur la voie ?
 
 La question amena une pâleur à ses joues.
 
-— La police, fit‑il enfin, d’une voix sourdes.
+— La police, fit-il enfin, d’une voix sourdes.
 
 Et ses lèvres blémies, les dents serrées, il gronda :
 
@@ -148,13 +148,13 @@ Et ses lèvres blémies, les dents serrées, il gronda :
 
 Il marchait de long en large dans le wagon.
 
-— Seulement la police… Là‑bas, je n’ai pas laissé de traces. Ce ne sont donc
+— Seulement la police… Là-bas, je n’ai pas laissé de traces. Ce ne sont donc
   point les diamants qui attirent l’ennemi sur ma piste.
 
 Mais en cherchant, il constata que si la justice avait exploré sa vie, elle
 n’eût eu que l’embarras du choix pour justifier son arrestation.
 
-— Tonnerre ! grommela‑t‑il. Est‑ce pour les squatters d’Oklahoma…? ou pour les
+— Tonnerre ! grommela-t-il. Est-ce pour les squatters d’Oklahoma…? ou pour les
   deux mormons du Grand Lac Salé ? Laquelle de ces affaires ?… Il est vrai
   qu’il y a encore celle du tabacado de Virginie… Et puis celle de la señora
   d’Arizona…
@@ -177,7 +177,7 @@ d’intervalle seulement.
 L’ennemi l’avait gagné de vitesse. Or, en mécanique, comme partout ailleurs,
 l’or produit des accélérations étonnantes.
 
-Au point d’eau de San‑Miguel, le complice de Jemkins eut une courte conférence
+Au point d’eau de San-Miguel, le complice de Jemkins eut une courte conférence
 avec son mécanicien, courte mais précise.
 
 — Il faut forcer la marche, mon vieux garçon.
@@ -188,7 +188,7 @@ avec son mécanicien, courte mais précise.
 
 Quelques pièces passèrent de la main du bandit dans celle de l’employé.
 
-— Si tu réussis, il y en a autant à ton service à San‑Diego.
+— Si tu réussis, il y en a autant à ton service à San-Diego.
 
 Influence des médailles frappées par la Monnaie d’un gouvernement quelconque !
 Le spécial repartit à une vitesse endiablée.
@@ -224,14 +224,14 @@ machine. Il ne pouvait aller au delà.
   l’entrée en gare.
 
 Le Belge laissa échapper un blasphème… Ce train qui le suivait, était là, à
-l’entrée de la station, quand lui‑même n’en était pas encore sorti.
+l’entrée de la station, quand lui-même n’en était pas encore sorti.
 
 Mais il n’y avait point à récriminer. Le complice de Jemkins sauta dans son
-wagon‑salon, tandis qu’en arrière, à cinq cents mètres à peine, il distinguait
+wagon-salon, tandis qu’en arrière, à cinq cents mètres à peine, il distinguait
 l’avant de la machine remorquant le spécial qu’il fuyait.
 
 Peindre sa rage ne saurait être entrepris. Par quels moyens la police
-obtenait‑elle une vitesse de marche qui lui était interdite ? Certaines
+obtenait-elle une vitesse de marche qui lui était interdite ? Certaines
 locomotives rendent plus que d’autres, mais trois fois on avait changé de
 machine ! Il était étrange que ses ennemis eussent toujours la meilleure !
 
@@ -267,9 +267,9 @@ parcourent le rio Gila et ses affluents. Ce nétaient plus que tranchées
 rocheuses, paliers en corniche, viaducs franchissant à grande hauteur des
 ravins, où bondissaient en écumant des cours d’eaux torrentueux.
 
-Dans une heure et demie on arriverait à San‑Diego.
+Dans une heure et demie on arriverait à San-Diego.
 
-Là‑bas, au terminus, des policiers attendraient sur le quai et inviteraient
+Là-bas, au terminus, des policiers attendraient sur le quai et inviteraient
 poliment Van Reek à les suivre là où il ne se souciait pas d’aller.
 
 Oh ! maudite idée de prendre un train spécial, qui, par son caractère même,
@@ -314,7 +314,7 @@ laquelle il avait lutté toute sa vie.
 
 Il était seul dans un train mené par deux agents.
 
-— Deux agents, murmura‑t‑il, peu de chose !
+— Deux agents, murmura-t-il, peu de chose !
 
 Et avec un ricanement.
 
@@ -338,7 +338,7 @@ Tout en monologuant, il avait saisi sa valise, cette valise remarquée naguère
 au Meyer’s Hôtel. À l’aide de courroies, il la fixait sur ses épaules ainsi
 qu’un sac militaire.
 
-D’un second colis, d’un étui‑écrin, il tira l’objet bizarre qu’il avait eu en
+D’un second colis, d’un étui-écrin, il tira l’objet bizarre qu’il avait eu en
 mains la nuit du meurtre des joailliers.
 
 — Le revolver à vent est chargé de quatre projectiles ; cela suffit.
@@ -346,12 +346,12 @@ mains la nuit du meurtre des joailliers.
 A la partie du revolver correspondant à la crosse se trouvait une sorte de
 crochet que le Belge fixa dans l’une des boutonnières de son vêtement.
 
-— Comme ceci, murmura‑t‑il, je porte tout mon bien avec moi et je conserve les
+— Comme ceci, murmura-t-il, je porte tout mon bien avec moi et je conserve les
   mains libres, circonstance très favorable au travail.
 
 Il considèra un instant l’étui dont il avait extrait l’arme perfide, puis par
 la vitre d’une portière il projeta la gaine au loin, et avec des précautions
-extrêmes, se glissa hors du wagon‑salon ; une fois sur le marche‑pied, les
+extrêmes, se glissa hors du wagon-salon ; une fois sur le marche-pied, les
 doigts crispés sur la main courante de cuivre, il referma la portière.
 
 Lentement, il se mit à progresser vers l’avant du train. Bientôt, il atteignit
@@ -366,19 +366,19 @@ tisonnier de fer.
 Le foyer projetait sur les deux agents une teinte rouge, sanglante, d’un effet
 sinistre au milieu des ténèbres.
 
-— Ils ont hâte d’arriver à San‑Diego… Moi je n’y tiens plus du tout. Voilà
+— Ils ont hâte d’arriver à San-Diego… Moi je n’y tiens plus du tout. Voilà
   comment les gens tombent en mésintelligence.
 
 La main de Van Reek armée du revolver à air comprimé, se lève.
 
-— À tout seigneur, tout honneur, dit‑il encore.
+— À tout seigneur, tout honneur, dit-il encore.
 
 Un sifflement ponctue sa phrase. Le mécanicien, atteint en plein crâne,
-s’affaisse sur la plate‑forme.
+s’affaisse sur la plate-forme.
 
 Et comme le chauffeur, surpris par cette chute soudaine, demande :
 
-— Eh ! Vieux ! Qu’est‑ce qu’il te prend ?
+— Eh ! Vieux ! Qu’est-ce qu’il te prend ?
 
 Un second sifflement retentit dans la nuit, et le malheureux roule sur le
 corps de son camarade.
@@ -402,11 +402,11 @@ de huit ou dix mètres le train immobile au fond de la tranchée.
 
 Autour de lui, des buissons épais, quelques arbres clairsemés.
 
-— Parfait ! ricane‑t‑il avec on accent trivial, c’est l’observatoire rêvé.
+— Parfait ! ricane-t-il avec on accent trivial, c’est l’observatoire rêvé.
 
 Un grondement lointain arrive jusqu’à lui.
 
-— Le spécial de dame police, dit‑il… Voilà des gens qui ne s’attendent pas à
+— Le spécial de dame police, dit-il… Voilà des gens qui ne s’attendent pas à
   la surprise que je leur ai ménagée…
 
 Et un rire silencieux contracte son visage.
