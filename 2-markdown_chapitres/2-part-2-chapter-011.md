@@ -195,7 +195,7 @@ s’élancer sur les peones.
 Indiens, lads se pressent autour de Jud, de Lilian, leur faisant un rempart de
 leurs corps. Lilian prononce :
 
-— Linérès, M^me Pariset, M. de Chazelet, victimes comme nous !
+— Linérès, M^me^ Pariset, M. de Chazelet, victimes comme nous !
 
 Elle a été comprise. Ceux qu’elle vient de nommer sont tirés des groupes,
 amenés près de la jeune fille qui, à cet instant effroyable, trouve encore le
@@ -329,7 +329,7 @@ mot qui trahit le secret du chef bien‑aimé des lads, elle clama :
 
 — Roi, Roi, Suzan apporte une communication urgente.
 
-S’appuyant aux murs, elle parvint dans la chambre où, figés en des attitudes de statues, Jud, Lilian, le front caché sur l’épaule de M^me Pariset,
+S’appuyant aux murs, elle parvint dans la chambre où, figés en des attitudes de statues, Jud, Lilian, le front caché sur l’épaule de M^me^ Pariset,
 Chazelet, Linérès et Grace Paterson, livides, l’Indienne Marahi, adossée au
 rocher, comme si elle ne pouvait plus se soutenir, lui apparurent.
 

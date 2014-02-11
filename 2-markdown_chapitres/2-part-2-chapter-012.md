@@ -4,7 +4,7 @@
 
 Suzan redisait les dernières paroles prononcées par Frey Jemkins.
 
-Groupées autour d’elle, Marahi, Lilian, M^me Pariset, Linérès et Grace
+Groupées autour d’elle, Marahi, Lilian, M^me^ Pariset, Linérès et Grace
 écoutaient le visage anxieux, une terreur dans les yeux.
 
 A quelques pas, appuyé à l’un des piliers du temple, le marquis de Chazelet rêvait.
@@ -44,7 +44,7 @@ murmurant :
 
 — Pauvre mère !
 
-Mais M^me Pariset, en quelque sorte poussée par les regards suppliants de
+Mais M^me^ Pariset, en quelque sorte poussée par les regards suppliants de
 Lilian, s’était avancée, tendant les bras, disant avec une inflexion
 caressante, où l’on sentait la reconnaissance éperdue de la malheureuse femme
 pour le sauveur de la jeune fille :
@@ -220,7 +220,7 @@ Soudain, un bruit monte du fond de la vallée. Une course précipitée martèle 
 
 Allan, Lilian ont un tressaillement. Ils abaissent leurs regards.
 
-Marahi, Linérès, Chazelet, Grace, M^me Pariset s’avancent sur la corniche.
+Marahi, Linérès, Chazelet, Grace, M^me^ Pariset s’avancent sur la corniche.
 Lilian, dans un souffle, prononce :
 
 — C’est Storm !
@@ -355,7 +355,7 @@ Lilian, parmi les sanglots qui la secouaient, murmurait :
 
 Lui était devenu horriblement pâle.
 
-Et M^me Pariset, Marahi l’étreignaient à leur tour, avec ces mots bénis :
+Et M^me^ Pariset, Marahi l’étreignaient à leur tour, avec ces mots bénis :
 
 — Mon fils !
 
@@ -487,7 +487,7 @@ qui ravive leur tristesse, la Chinoise reprend :
 — Antidote… acheva gaiement Rouge‑Fleur, que j’avais jeté dans la cruche, où
   votre servante vous apporta l’eau pure destinée à votre repas.
 
-Un quadruple cri poctua la phrase. Lilian, Jud, Marahi, M^me Pariset se
+Un quadruple cri poctua la phrase. Lilian, Jud, Marahi, M^me^ Pariset se
 confondirent en un enlacement éperdu, délirant.
 
 Grace, Linérès, Chazelet, gagnés par la griserie du bonheur inespéré, se

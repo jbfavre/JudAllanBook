@@ -24,7 +24,7 @@ Suivant les conseils apportés si étrangement par le petit singe Zinka, les
 fiancés, de bonne heure, s’étaient laissés hisser sur des chevaux.
 
 Ils avaient docilement suivi la caravane se rendant d’Agua Frida à Presios,
-subi la bruyante gaieté de Frey Jemkins, les compliments hypocrites de M^me de
+subi la bruyante gaieté de Frey Jemkins, les compliments hypocrites de M^me^ de
 Armencita, le voisinage des lieutenants du milliardaire.
 
 Deux personnages seulement avaient attiré leur attention.
@@ -153,7 +153,7 @@ convulsif, criait entre les soubresauts de cette hilarité inexplicable :
 
 Tous demeuraient figés, stupéfaits. L’inattendu se produisait. Les lieutenants
 de Frey courbaient la tête. Nul ne comprenait l’intervention soudaine de
-M^me de Armencita, s’accusant en même temps que Jemkins.
+M^me^ de Armencita, s’accusant en même temps que Jemkins.
 
 Nul ne pouvait soupçonner que la veille dans la nuit, El Dieblo, alias Jud
 Allan, avait pu pénétrer secrètement dans la chambre de la comtesse. Et
@@ -165,7 +165,7 @@ avait dit à voix basse :
 
 — Allez… C’est l’heure.
 
-Aussitôt, dans une inconscience subite, M^me de Armencita avait parlé. A
+Aussitôt, dans une inconscience subite, M^me^ de Armencita avait parlé. A
 présent, elle regardait les assistants, étonnée tout autant que les autres.
 
 Le front de Porfirio Raëz s’était couvert de nuages. Il lui devenait impossible
@@ -176,7 +176,7 @@ Soudain, une voix au timbre harmonieux s’éleva :
 — Une enquête s’impose.
 
 Rouge‑Fleur s’était dressée à son tour. Elle adressa à Frey Jemkins un regard
-d’intelligence, puis se tournant vers M^me Pariset :
+d’intelligence, puis se tournant vers M^me^ Pariset :
 
 — Madame, vous savez sans doute où se trouve celle que vous nommez Lilian.
 
@@ -288,7 +288,7 @@ La fille se figea en une expression ahurie, écarquillant les yeux.
 — Je n’ai jamais vu de jeune fille ici, sauf Miss Grace Paterson : Est‑ce elle
   que vous appelez Lilian ?
 
-Chazelet, Linérès, M^me Pariset restèrent étourdis sous l’affirmation
+Chazelet, Linérès, M^me^ Pariset restèrent étourdis sous l’affirmation
 inattendue.
 
 Et don Porfirio murmurant :
@@ -330,7 +330,7 @@ La domestique reparut sur le seuil annonçant :
 
 La gentille et fantasque élève de l’institution Deffling se montra aussitôt.
 
-C’était bien elle. El Dieblo, M^me Pariset la reconnurent, et une angoisse les
+C’était bien elle. El Dieblo, M^me^ Pariset la reconnurent, et une angoisse les
 étreignit. Leurs ennemis se sentaient donc bien forts qu’ils osassent provoquer
 le témoignage de la jeune fille. Et dans le silence, Grace murmura :
 
@@ -370,7 +370,7 @@ visage égaré.
 
 Sa main se tendait vers Rouge‑Fleur.
 
-— Votre amie ? répéta M^me Pariset abasourdie.
+— Votre amie ? répéta M^me^ Pariset abasourdie.
 
 — Oui, oui, Madame.
 
@@ -649,7 +649,7 @@ Rouge‑Fleur fut secouée par un frisson.
   disparition de Lilian, il prit les mesures utiles pour parer aux difficultés
   susceptibles de surgir.
 
-— Mais la dénonciation de M^me de Armencita, c’est la mise en accusation de
+— Mais la dénonciation de M^me^ de Armencita, c’est la mise en accusation de
   Jemkins.
 
 La Chinoise prononça cette phrase avec un frémissement de tout son être.

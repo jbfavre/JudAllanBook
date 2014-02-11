@@ -340,7 +340,7 @@ Une pâleur vint au visage d’Allan. D’une voix altérée il demanda :
 Se penchant à l’oreille de Pierre, Jud murmura quelques mots qui firent
 tressaillir le jeune homme.
 
-— La chambre de M^me Pariset ! Vous désirez savoir où est la chambre ?
+— La chambre de M^me^ Pariset ! Vous désirez savoir où est la chambre ?
 
 — Confiance pour confiance, M. de Chazelet… Je veux essayer de la voir.
 
@@ -369,7 +369,7 @@ sur lui.
 Ici régnait la solitude, presque le silence. Le _Private_ (appartement privé)
 du milliardaire était scrupuleusement respecté par ses invités.
 
-Au premier, le jeune homme tourna à gauche, suivant l’indication de Chalelet,
+Au premier, le jeune homme tourna à gauche, suivant l’indication de Chazelet,
 se dirigeant vers la porte qu’il apercevait à l’extrémité du couloir. Il en
 était à quelques mètres, quand il se rejeta en arrière. Deux hommes,
 dissimulés jusque‑là par des vitrines, venaient de se dresser devant lui.
@@ -401,8 +401,8 @@ libre. Tom et Jetty gisent à terre, assommés. Seize ans auparavant le
 chevalier vagabond s’était fait fort de les _tomber_, il vient de tenir parole.
 
 Il tourne le bouton de cuivre ciselé. La porte s’ouvre. La veuve est là,
-devant lui. Dans son fauteuil, sous la lueur d’une lampe électrique à l’abat‑
-jour rose, elle prend une physionomie fantastique.
+devant lui. Dans son fauteuil, sous la lueur d’une lampe électrique à
+l’abat‑jour rose, elle prend une physionomie fantastique.
 
 Un instant Jud demeure interdit. Pour la première fois, il se trouve en
 présence de celle qui ignore son dévouement, de cette mère qui, sans doute,
@@ -862,7 +862,7 @@ Aussitôt s’ouvre une allée étroite devant le professeur.
 Sans doute, certains arbustes sont plantés en pots, que des mains invisibles
 ont déplacés.
 
-Jud sengage dans le chemin qui lui est tracé.
+Jud s'engage dans le chemin qui lui est tracé.
 
 Les branches se joignent en berceau au‑dessus de sa tête. Il compte trois fois
 cinquante pas. De nouveau, il est arrêté par un fourré.

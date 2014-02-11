@@ -206,7 +206,7 @@ La Chinoise respira.
 — Oh ! pas de danger de ce côté.
 — En êtes‑vous certaine ?
 
-— M^me de Armencita s’est trop compromise pour reculer.
+— M^me^ de Armencita s’est trop compromise pour reculer.
 
 — Celle‑là, je l’admets ; mais l’autre, l’autre ?
 

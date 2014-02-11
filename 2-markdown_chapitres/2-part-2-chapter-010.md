@@ -2,7 +2,7 @@
 
 ![](../3-images/part2/page-435.jpg)
 
-Huit jours ont passé. Dans une salle du rez‑de‑chaussée de la Maison d’Azur, M^me Pariset et Lilian étaient enlacées.
+Huit jours ont passé. Dans une salle du rez‑de‑chaussée de la Maison d’Azur, M^me^ Pariset et Lilian étaient enlacées.
 
 Une joyeuse stupeur épandue sur ses traits, la veuve écoutait sa fille, son enfant chérie qui parlait ainsi :
 
@@ -246,7 +246,7 @@ de fiançailles.
 
 Sur ce, il franchit le seuil et disparut.
 
-Au salon, il retrouva Rouge‑Fleur et M^me Pariset.
+Au salon, il retrouva Rouge‑Fleur et M^me^ Pariset.
 
 Les deux femmes se tenaient immobiles, silencieuses. Qu’avaient‑elles fait de
 Lilian, en compagnie de qui elles étaient sorties de la Casa Azurea ?
@@ -387,13 +387,13 @@ hésitation, sans effort, son affection à Lilian !
 Linérès se sentit le cœur étreint par une horrible angoisse ; mais humblement
 elle murmura :
 
-— Allons retrouver M^me Pariset.
+— Allons retrouver M^me^ Pariset.
 
 L’apparition des fiancés dans le jardin fut saluée par un redoublement de
 vacarme.
 
 Ils marchaient lentement, Linérès voilée du _rebos_, appuyée au bras de
-Chazelet. À quelques pas en arrière, M^me Pariset suivait, flanquée par Frey
+Chazelet. À quelques pas en arrière, M^me^ Pariset suivait, flanquée par Frey
 Jemkins et ses six lieutenants.
 
 — Oh ! la bellissima, la carissima, (la très belle, la très aimée).
@@ -515,7 +515,7 @@ l’inconnue. C’est d’une voix suppliante qu’il demande :
 Il semble que l’inconnue ait pitié de son angoisse, car très vite, la voix
 abaissée :
 
-— M^me de Armencita, transportée à la frontière, a accusé l’homme… Le
+— M^me^ de Armencita, transportée à la frontière, a accusé l’homme… Le
   télégraphe a joué… Sous deux jours, l’hacienda sera occupée par des forces
   policières… À présent, silence, le danger est partout. Linérès, seule, est à
   l’abri.
@@ -616,7 +616,7 @@ Mais un bourdonnement de conversations s’élèvent, des pas nombreux sonnent s
 les planchers. Jemkins entre, suivi de Jetty, Tom, Zirini, Von Foorberg,
 Todero, Élisalt.
 
-Il conduit M^me Pariset auprès de don Porfirio Raëz ; lui‑même prend place à
+Il conduit M^me^ Pariset auprès de don Porfirio Raëz ; lui‑même prend place à
 côté d’elle. Ses amis choisissent leurs sièges, entourant, comme des gardes du
 corps, et leur chef et le délégué mexicain.
 
@@ -790,7 +790,7 @@ Tout à coup, le notaire se rejette en arrière avec un cri affolé :
 Jemkins, Porfirio Raëz, El Dieblo se dressent, comme mus par un ressort. Rouge‑
 Fleur et Marahi ont un rire silencieux.
 
-Quant à M^me Pariset, elle demeure immobile, les mains jointes, les lèvres
+Quant à M^me^ Pariset, elle demeure immobile, les mains jointes, les lèvres
 agitées d’un frémissement continu. La veuve prie.
 
 Le métis agite les bras, porte les mains à son col comme s’il étouffait. Enfin,
@@ -816,7 +816,7 @@ assourdissant. Jemkins, Porfirio, les lieutenants du bandit hurlent :
 
 — C’est Linérès de Armencita qui doit être écrit.
 
-M^me Pariset est debout à présent. Marahi, Rouge‑Fleur la soutiennent, et les
+M^me^ Pariset est debout à présent. Marahi, Rouge‑Fleur la soutiennent, et les
 voix des trois femmes s’unissent en une clameur aiguë :
 
 — C’est Lilian Allan !
