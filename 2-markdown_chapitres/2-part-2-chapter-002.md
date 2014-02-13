@@ -1029,7 +1029,7 @@ dit ces paroles suppliantes :
 Cela sonne comme une plainte de cristal dans la nuit silencieuse. Une émotion
 poignante étreint les assistants.
 
-Il regardent la fillette mince et frêle, auprès de qui se dresse un groupe
+Ils regardent la fillette mince et frêle, auprès de qui se dresse un groupe
 étrange formé par un petit singe, de l’espèce zaïmziri, juché sur un grand
 chien au poil gris de fer, rude et légèrement frisé.
 
