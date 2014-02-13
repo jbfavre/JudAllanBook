@@ -298,7 +298,7 @@ bandits.
   toujours terrés.
 
 Storm, du reste, se promène aux environs. Je l’ai laissé libre de veiller
-selon instinct de chien de berger.
+selon son instinct de chien de berger.
 
 Elle reprit :
 
@@ -321,9 +321,8 @@ Il leva les yeux, interrogeant la fillette du regard. Elle lui tendit un
 second papier, celui-ci reconnaissable pour un télégramme officiel, ainsi
 conçu :
 
-> À Miss Suzan. Cleaver bouse. Jersey-Shore.
-
-> Pensylvania désert. Départ précipité, nuit réunion lads. Impossible retrouver
+> À Miss Suzan. Cleaver bouse. Jersey-Shore.  
+  Pensylvania désert. Départ précipité, nuit réunion lads. Impossible retrouver
   traces…
 
 Il ne continua pas.
@@ -499,17 +498,13 @@ perceptible à travers la trame des enveloppes.
   dans un train en marche…, dix-sept cents kilogrammes d’or disparus comme la
   légère muscade dans le gobelet de l’escamoteur. Qu’importe que les cinq
   millions ne se retrouvent pas ?
-
-Les bandits que j’ai réunis les ont emportés… Où ? Je n’en sais rien…
-
-Et si, à un moment donné, je suis quelque peu lésé dans les partages futurs,
-j’aurai en réserve de quoi me consoler de l’injustice des hommes.
-
-A présent, il s’agit de quitter le pays, et de joindre Jemkins au rendez-vous
-n° 5, ainsi que l’ordonne sa dépêche. Marquons de l’empressement.
-
-S’il reste tout puissant, inutile de me brouiller avec lui… J’ai pris mes
-précautions au cas où il succomberait.
+  Les bandits que j’ai réunis les ont emportés… Où ? Je n’en sais rien…
+  Et si, à un moment donné, je suis quelque peu lésé dans les partages futurs,
+  j’aurai en réserve de quoi me consoler de l’injustice des hommes.
+  À présent, il s’agit de quitter le pays, et de joindre Jemkins au rendez-vous
+  n° 5, ainsi que l’ordonne sa dépêche. Marquons de l’empressement.
+  S’il reste tout puissant, inutile de me brouiller avec lui… J’ai pris mes
+  précautions au cas où il succomberait.
 
 Il se décide alors à abandonner le monceau de lingots. Il revient à la table
 de pierre, prend la bougie, ricane aux faces immobiles des cadavres.
@@ -714,20 +709,17 @@ L’espoir d’Allan ne devait pas se réaliser. Le surlendemain, les journaux p
 
 > Notre région semble destinée a occuper la plume des chroniqueurs.
 
-> Hier, deux jeunes gens d’0ttawa, au cours d’une partie de canot,
+> Hier, deux jeunes gens d’Ottawa, au cours d’une partie de canot,
   rencontrèrent, sur le rivage de la Susquehannah, un homme qui se livrait
   à des manifestations si hétéroclites, qu’ils le jugèrent privé de raison.
   Ils parvinrent à le prendre dans leur embarcation et le remirent aux mains
   du premier policier qu’ils purent joindre.
-
-> Or, le fou, car le personnage est bien réellement fou, ne serait autre que
+  Or, le fou, car le personnage est bien réellement fou, ne serait autre que
   le très honorable Kan-So, bien connu dans le monde des business-men, parmi
   lesquels il occupait une situation enviée.
-
-> Par quelle suite de circonstances l’infortuné gentleman est-il venu échouer
+  Par quelle suite de circonstances l’infortuné gentleman est-il venu échouer
   dans notre région ? Comment sa raison a-t-elle sombré ?
-
-> C’est et ce restera probablement un mystère ; car sa folie, du genre
+  C’est et ce restera probablement un mystère ; car sa folie, du genre
   incurable dit des grandeurs, ne permet point d’espérer le réveil de cette 
   brillante intelligence.
 
