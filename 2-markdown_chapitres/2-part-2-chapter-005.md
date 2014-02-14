@@ -27,7 +27,7 @@ Juste en face de la Troisième rue, bornant la façade de l’hôtel, une fillet
 avec sur l’épaule un petit singe à la fourrure olivâtre, regardait dans la
 direction du Meyer’s. C’était Suzan.
 
-A l’apparition du professeur de West-Point, elle eut un geste satisfait, puis
+À l’apparition du professeur de West-Point, elle eut un geste satisfait, puis
 ses mains décrivirent plusieurs signes dans l’air.
 
 — Quelque chose à nous communiquer, traduisit Tril. Vous voyez.
@@ -55,7 +55,7 @@ table, sembla inviter le pseudo Assford à le débarrasser de son fardeau.
 Celui-ci ne se méprit pas à la mimique du zaïmziri. Il détacha la ficelle.
 L’objet qu’elle soutenait, était un élégant carnet à fermoir d’or.
 
-A peine le professeur l’eut-il pris, que Zinka bondit sur la barre d’appui et
+À peine le professeur l’eut-il pris, que Zinka bondit sur la barre d’appui et
 disparut à l’extérieur. Jud avait ouvert le carnet. Sur la première feuille,
 quelques lignes au crayon :
 
@@ -351,7 +351,7 @@ une expression impossible à rendre :
 Et à toutes jambes, il s’élança dans une rue transversale, au bout de laquelle
 se distinguait le réseau compliqué de fils d’un bureau télégraphique.
 
-A quatre heures moins un quart, Allan se rencontrait avec Tril et Suzan,
+À quatre heures moins un quart, Allan se rencontrait avec Tril et Suzan,
 cette dernière chargée du fantasque zaïmziri Zinka, sur les quais de la gare
 monumentale du Great Trunk, littéralement du Grand Tronc, la formule
 abrégée sous laquelle les Américains désignent la voie ferrée qui traverse

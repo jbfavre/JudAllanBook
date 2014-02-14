@@ -644,13 +644,13 @@ l’enjeu, s’absorbe dans une rêverie faite d’espérance et de tristesse.
 
 --
 
-A ce moment même, celui dont Jud Allan se préoccupait sortait de la chambre où
+À ce moment même, celui dont Jud Allan se préoccupait sortait de la chambre où
 son _collègue_ lui avait accordé l’hospitalité.
 
 Sous le bras il portait, ainsi qu’une serviette, la valise dégonflée
 maintenant et repliée en accordéon.
 
-A pas de loup, Oakes, alias _Van Reek_, gagna l’escalier de service et parvint
+À pas de loup, Oakes, alias _Van Reek_, gagna l’escalier de service et parvint
 au dernier étage à voyageurs.
 
 Un instant plus tard, il arrivait au palier de la deuxième centaine, c’est-à-

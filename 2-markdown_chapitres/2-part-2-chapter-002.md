@@ -711,7 +711,7 @@ Mais il eut beau aspirer la brise qui annonçait l’approche de la mer ; il
 s’efforça vainement d’admirer les rives pittoresques du fleuve Potomac, dont
 le steamer descendait le courant, il ne put trouver l’apaisement.
 
-A cet instant même, le Crâne échangeait avec ses acolytes les répliques
+À cet instant même, le Crâne échangeait avec ses acolytes les répliques
 suivantes, qui eussent fixé les incertitudes de Pierre, s’il avait été à
 portée de les entendre.
 
@@ -761,7 +761,7 @@ pieds, fit un mouvement à son approche :
 
 — Combien ?
 
-A la question murmurée, le professeur répliqua :
+À la question murmurée, le professeur répliqua :
 
 — Un.
 
@@ -862,7 +862,7 @@ Aussitôt s’ouvre une allée étroite devant le professeur.
 Sans doute, certains arbustes sont plantés en pots, que des mains invisibles
 ont déplacés.
 
-Jud s'engage dans le chemin qui lui est tracé.
+Jud s’engage dans le chemin qui lui est tracé.
 
 Les branches se joignent en berceau au-dessus de sa tête. Il compte trois fois
 cinquante pas. De nouveau, il est arrêté par un fourré.
@@ -882,7 +882,7 @@ familièrement sous la dénomination de _Doll’s Cross_ (Carrefour de la Poupé
 
 Jud va vers le saule et appuie sa main sur l’écorce.
 
-A peine a-t-il esquissé ce geste que le rond-point s’anime ; sur tout son
+À peine a-t-il esquissé ce geste que le rond-point s’anime ; sur tout son
 pourtour les broussailles s’entr’ouvrent, laissant jaillir une nuée de
 garçonnets, de fillettes, qui se rangent en cercle autour de l’arbre.
 

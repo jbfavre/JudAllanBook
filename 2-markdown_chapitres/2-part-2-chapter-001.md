@@ -55,7 +55,7 @@ Lilian maintenant a lu le manuscrit qu’il lui a confié. Elle sait le pauvre
 Et puis une question s’implante dans son cerveau. Comment a-t-elle accueilli
 son aveu ?
 
-A cette heure matinale, il ne saurait se présenter à l’Institution Deffling.
+À cette heure matinale, il ne saurait se présenter à l’Institution Deffling.
 Un frère même, – il sourit tristement en se rappelant qu’il est toujours le
 frère de Lilian pour tout le monde, sauf pour elle et sa jeune amie, Grace
 Paterson, – un frère même ne saurait risquer une visite que l’heure matinale
@@ -86,7 +86,7 @@ résolution.
 
 Sur ces mots, il s’élance à la suite des deux lieutenants de Jemkins.
 
-A quelques pas d’eux, il pénètre dans la station du railway.
+À quelques pas d’eux, il pénètre dans la station du railway.
 
 Selon la coutume américaine, Kan-So et Van Reek se sont munis à l’avance de
 leurs tickets. Ils passent devant les guichets de distribution, gagnent le
@@ -144,7 +144,7 @@ gagnèrent point les quais de départ. Ils s’arrêtèrent simplement dans la s
 de distribution, et l’un d’eux, regagnant l’extérieur, longea les bâtiments de
 la gare jusqu’à la première rue latérale, à l’angle de laquelle il disparut.
 
-A dix mètres de l’individu, une jeune femme, debout au bord du trottoir,
+À dix mètres de l’individu, une jeune femme, debout au bord du trottoir,
 semblait tout entière à la lecture d’une brochure. Sans hésiter cependant,
 l’étrange voyageur s’approcha d’elle.
 
@@ -451,7 +451,7 @@ bizarre allégorie du faisceau d’enfants enroulés de cordes.
 — Il entra, repoussa le battant derrière lui et se trouva dans un vestibule
   étroit, aux murailles revêtues d’un enduit de couleur verte.
 
-A droite et à gauche, des bureaux, où retentissait le tapotement de machines à
+À droite et à gauche, des bureaux, où retentissait le tapotement de machines à
 écrire, communiquaient avec le vestibule.
 
 Sur le seuil de l’un d’eux, se montra Tril, le gamin qu’à plusieurs reprises,
@@ -708,7 +708,7 @@ avait dû être expédiée au moins huit ou dix jours plus tôt.
 
 Il chercha confirmation de ce fait, en consultant les timbres de la poste.
 
-A sa grande surprise, aucun n’avait d’empreinte nette ; les cachets
+À sa grande surprise, aucun n’avait d’empreinte nette ; les cachets
 d’oblitération apparaissaient confus. Les chiffres indiquant les date, les
 numéros de levée, ou bien étaient effacés, ou bien n’avaient point marqué.
 

@@ -59,7 +59,7 @@ Aussi serra-t-il énergiquement la main de Frey Jemkins et doucement celle de
 Rouge-Fleur, qui avait rejoint la cavalcade, en vue de Presios, escortée
 seulement par un serviteur japonais.
 
-A présent, le délégué mexicain s’agitait, frappait dans ses mains, stimulant de
+À présent, le délégué mexicain s’agitait, frappait dans ses mains, stimulant de
 la voix et du geste le zèle de ses gens, réclamant rocking-chaises, tables de
 rotin, rafraîchissements.
 
@@ -908,7 +908,7 @@ sur lui, apeurés et hagards.
 
 — L’épouserez-vous ?
 
-A la question, Pierre tendit ses nerfs, et de toute son énergie :
+À la question, Pierre tendit ses nerfs, et de toute son énergie :
 
 — Accepter serait être complice des criminels…
 

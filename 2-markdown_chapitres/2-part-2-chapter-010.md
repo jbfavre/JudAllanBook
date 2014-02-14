@@ -529,7 +529,7 @@ d’une double haie flamboyante…
 C’est ainsi que Chazelet et sa pseudo-fiancée parvinrent en ce point, où
 naguère Jemkins avait reçu la petite Lilian des mains de la servante Trina.
 
-A droite du sentier se dressait le bouquet d’arbres, à l’abri duquel le Crâne
+À droite du sentier se dressait le bouquet d’arbres, à l’abri duquel le Crâne
 avait attendu. À gauche, les aloès de la pulqueria, sous les éclairs des
 fusées, semblaient palpiter d’une vie monstrueuse.
 
@@ -582,7 +582,7 @@ encore obligatoire en dehors des grandes villes, et le señor Vedinaos sait bien
 qu’aucun haciendero ne prendrait au sérieux un acte signé par lui sous un autre
 costume.
 
-A droite et à gauche de son fauteuil, se voient deux sièges inoccupés. Vedinaos
+À droite et à gauche de son fauteuil, se voient deux sièges inoccupés. Vedinaos
 les désigne aux fiancés.
 
 Ils vont obéir à ce geste, mais Chazelet retient la main de sa compagne.
@@ -924,7 +924,7 @@ poitrine et, dans une voix de rêve, elle avait murmuré :
 
 — Il a fui de Varano. Je l’ai ignoré. Quel est donc le dessein du Grand-Esprit ?
 
-A ce moment, El Dieblo demandait :
+À ce moment, El Dieblo demandait :
 
 — Maître, que désires-tu encore apprendre ?
 
@@ -935,7 +935,7 @@ lui annonçait la ruine de ses combinaisons.
 Si taré que fût le délégué, si avide d’or qu’il se fût montré, il croyait donc
 trop compromettante une association avec l’herculéen brasseur d’affaires.
 
-A quoi se résoudre ? Quel parti prendre ? 
+À quoi se résoudre ? Quel parti prendre ? 
 
 Tous les regards l’interrogeaient, Jemkins comprenait que ses hommes étaient
 encore disposés à lui obéir… Mais il fallait se déterminer instantanément, et,

@@ -7,7 +7,7 @@ Suzan redisait les dernières paroles prononcées par Frey Jemkins.
 Groupées autour d’elle, Marahi, Lilian, M^me^ Pariset, Linérès et Grace
 écoutaient le visage anxieux, une terreur dans les yeux.
 
-A quelques pas, appuyé à l’un des piliers du temple, le marquis de Chazelet rêvait.
+À quelques pas, appuyé à l’un des piliers du temple, le marquis de Chazelet rêvait.
 
 Depuis la veille, le jeune homme vivait dans un songe exquis et douloureux.
 
@@ -179,7 +179,7 @@ De temps à autre, le dogue Storm faisait irruption dans le sanctuaire.
 Avec des gambades joyeuses, il remettait à Jud, sorti de la retraite au bruit, des feuillets sur lesquels les guetteurs avaient consigné au crayon le
 résultat de leurs observations.
 
-A l’hacienda, Frey Jemkins paraissait radieux. Il s’agitait avec une ardeur
+À l’hacienda, Frey Jemkins paraissait radieux. Il s’agitait avec une ardeur
 extrême.
 
 Il avait rassemblé autour de lui ses lieutenants et les peones qui, la veille

@@ -20,7 +20,7 @@ le saisit et disparut dans la feuillée.
 
 El Dieblo se remit en mouvement.
 
-A sa droite s’étendait la pulqueria où Pariset avait trouvé la mort.
+À sa droite s’étendait la pulqueria où Pariset avait trouvé la mort.
 
 El Dieblo va toujours. Il dépasse la pulqueria, prolonge un taillis, se
 rejette dans le parc d’agrément, qui s’étend autour de l’hacienda.
@@ -304,7 +304,7 @@ lèvres de Lilian s’ouvrent :
 Au même instant, à huit ou neuf cents mètres de là, le marquis de Chazelet et
 Linérès erraient à travers le parc.
 
-A l’extrémité d’une branche inclinée sur l’allée, un petit singe, de l’espèce
+À l’extrémité d’une branche inclinée sur l’allée, un petit singe, de l’espèce
 zaïmziri, se balançait, les observant de ses yeux vifs.
 
 — Oh ! le joli animal, s’écria la jeune fille…
@@ -340,7 +340,7 @@ l’aventure, Pierre lut :
 
 --
 
-A trois milles vers l’Est de l’hacienda se creuse le Cañon de Oro.
+À trois milles vers l’Est de l’hacienda se creuse le Cañon de Oro.
 
 C’est une faille profonde que les eaux ont creusée dans les calcaires rouges,
 et dont les défilés du Tarn donnent une idée réduite.

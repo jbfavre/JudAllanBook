@@ -152,7 +152,7 @@ Il est radieux, au moins en apparence. L’excès de ses émotions brise sans do
 Marahi, car elle s’endort d’un sommeil profond. Jemkins se remémore l’infusion
 opiacée qu’il a mêlée au breuvage de la pauvre créature.
 
-A l’aube, elle cherche son enfant.
+À l’aube, elle cherche son enfant.
 
 Il a disparu, et le chef de la police des Claim’s lui répond durement :
 
@@ -248,7 +248,7 @@ Soudain, Tril eut une exclamation :
 Un ahurissement se marqua sur les traits des jeunes gens.
 
 Cependant, les deux personnages signalés avaient continué à s’approcher.
-A présent on discernait les traits de l’athlétique Frey Jemkins, auprès
+À présent on discernait les traits de l’athlétique Frey Jemkins, auprès
 duquel l’Indien qui l’accompagnait, encore que robuste, paraissait frêle.
 
 Le guide de Frey semblait chercher. Un grognement de Storm appela son
@@ -354,7 +354,7 @@ précipitamment sur cette promesse :
 
 — Je le conduirai jusqu’ici.
 
-A présent, dans le réduit, plus aucun bruit. Tous se sentaient comme
+À présent, dans le réduit, plus aucun bruit. Tous se sentaient comme
 emprisonnés dans une chape de glace. Les cerveaux ne pensaient plus; les
 mots mouraient sur les lèvres. Des pas sonnèrent dans la salle principale du
 temple. Allan regarda ses compagnons, et lentement :

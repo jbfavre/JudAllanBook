@@ -75,7 +75,7 @@ le gain d’une course semblable provenait de l’addition de gains partiels
 assurés en cours de route : exactitude au démarrage, accélération de vitesse
 par l’emploi d’un combustible énergique, etc.
 
-A l’instant même où la demi-heure s’accomplissait, Jud ressentit une secousse
+À l’instant même où la demi-heure s’accomplissait, Jud ressentit une secousse
 légère.
 
 Le mécanicien tenait sa promesse. Le spécial se mettait en marche.
@@ -91,7 +91,7 @@ locomotive traversa, ainsi qu’un météore, la campagne ensoleillée.
 Arbres, maisons, poteaux télégraphiques disparaissaient en sens inverse avec
 la vélocité d’éclairs.
 
-A ces signes, Jud reconnaissait que l’on marchait à plus de cent kilomètres
+À ces signes, Jud reconnaissait que l’on marchait à plus de cent kilomètres
 à l’heure.
 
 Soudain, le tapotement de l’enregistreur télégraphique disposé dans un angle
@@ -307,7 +307,7 @@ Van Reek n’était point un coquin vulgaire. Ce titre, encore que peu enviable,
 suppose des qualités de hardiesse, de volonté, dont est dépourvu le commun des
 criminels.
 
-A la prostration succéda le désir de vaincre la police, cette ennemie contre
+À la prostration succéda le désir de vaincre la police, cette ennemie contre
 laquelle il avait lutté toute sa vie.
 
 ![L’allure était terrifiante.](../3-images/part2/page-381.jpg "L’allure était terrifiante.")
@@ -343,7 +343,7 @@ mains la nuit du meurtre des joailliers.
 
 — Le revolver à vent est chargé de quatre projectiles ; cela suffit.
 
-A la partie du revolver correspondant à la crosse se trouvait une sorte de
+À la partie du revolver correspondant à la crosse se trouvait une sorte de
 crochet que le Belge fixa dans l’une des boutonnières de son vêtement.
 
 — Comme ceci, murmura-t-il, je porte tout mon bien avec moi et je conserve les
@@ -359,7 +359,7 @@ le tender.
 
 Là, il parut redoubler de précautions… Cependant il avança encore.
 
-A présent, en tendant un peu le cou, il apercevait le mécanicien debout devant
+À présent, en tendant un peu le cou, il apercevait le mécanicien debout devant
 la roue de réglage, le chauffeur activant la combustion à l’aide du lourd
 tisonnier de fer.
 

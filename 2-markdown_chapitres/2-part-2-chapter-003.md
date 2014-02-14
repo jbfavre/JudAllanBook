@@ -223,7 +223,7 @@ pépinières, de prairies.
 
 Ainsi on atteignit la ligne du chemin de fer.
 
-A deux ou trois cents mètres au delà, les promeneurs, traversant la voie,
+À deux ou trois cents mètres au delà, les promeneurs, traversant la voie,
 distinguèrent les équipes de travailleurs occupés à la réfection de la plate-
 forme ; mais cette vision fut aussitôt masquée par un rideau d’arbres.
 
@@ -333,7 +333,7 @@ Il ne continua pas.
 
 Le rapport de Suzan était exact de tout point.
 
-A cette heure, le Chinois Kan-So se tenait dans une « salle de la carrière ».
+À cette heure, le Chinois Kan-So se tenait dans une « salle de la carrière ».
 Une _salle_ est un endroit où aboutissent plusieurs galeries d’exploitation.
 Généralement, le _ciel_ en est plus élevé, et des piliers de maçonnerie en
 assurent la solidité.
@@ -577,7 +577,7 @@ Rassuré par le raisonnement, il ralluma sa bougie et se remit en marche. Un
 quart d’heure se passa en détours, en escalades d’éboulements. Derechef, il
 éteignit sa lumière.
 
-A l’extrémité d’un corridor étroit, il apercevait un jour verdâtre.
+À l’extrémité d’un corridor étroit, il apercevait un jour verdâtre.
 
 — Ici, on sort en plein fourré, se confia-t-il. C’est un vrai terrier de
   renard. Pas de danger que l’on s’y soit installé.
@@ -605,7 +605,7 @@ ouverture.
 Mais rendu circonspect, il étouffa le bruit de ses pas, s’approcha de
 l’orifice en rampant. Malédiction ! L’issue était encore gardée.
 
-A quelques pas de l’ouverture, des jeunes gens, le revolver au poing se
+À quelques pas de l’ouverture, des jeunes gens, le revolver au poing se
 tenaient en faction.
 
 Sortir sans être vu. Il n’y fallait pas songer. Quant à échapper à la course
