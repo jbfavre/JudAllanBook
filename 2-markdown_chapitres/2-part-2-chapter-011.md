@@ -10,8 +10,10 @@ La Chinoise, persuadée par Marahi, avait pris ses dispositions pour enlever
 Linérès durant la promenade symbolique des fiancés, et pour lui substituer Lilian, véritable héritière de l’immense fortune des Pariset.
 
 Allan, lui, s’était proposé de rendre la signature du contrat impossible, de
-faire perdre à Jemkins deux ou trois journées, on faisant disparaître Linérès
-et en mettant en son lieu et place Grace Paterson, laquelle, totalement étrangère au débat financier, ayant du reste un état civil parfaitement régulier, ne pouvait en aucun cas donner une signature valable.
+faire perdre à Jemkins deux ou trois journées, en faisant disparaître Linérès
+et en mettant en son lieu et place Grace Paterson, laquelle, totalement
+étrangère au débat financier, ayant du reste un état civil parfaitement
+régulier, ne pouvait en aucun cas donner une signature valable.
 
 Et à l’origine du terrible malentendu qui mettait Jud seul, sans secours, en
 face de son ennemi entouré de ses sinistres acolytes, qu’y avait-il ? La défiance d’Allan contre Marahi.
@@ -206,7 +208,7 @@ milieu des défenseurs si inopinément survenus.
 
 Les bandits hésitent. L’indécision de leur chef les paralyse.
 
-Sa main s’étend versl’Indienne ; dans un effort de tout son être, d’un ton
+Sa main s’étend vers l’Indienne ; dans un effort de tout son être, d’un ton
 brisé, surhumain, il dit :
 
 — Marahi…, emmène ceux que tu _devais_ sauver.
@@ -376,14 +378,15 @@ Les deux hommes se considérèrent un moment.
 
 Enfin, Jud Allan rompit le silence.
 
-— Vous avez souhaité me parler. Je  pas cru pouvoir me dérober à une rencontre…
- – il parut chercher un mot et continua : – …douloureuse. Je vous écoute.
+— Vous avez souhaité me parler. Je n'ai pas cru pouvoir me dérober à une
+  rencontre… – il parut chercher un mot et continua : – …douloureuse. Je vous
+  écoute.
 
 La voix vibra calme… trahissant la résolution irrévocablement prise. Elle
 sonna aux oreilles de Jemkins comme un glas. Sur son front passa une ombre.
 Peut-être regretta-t-il d’être venu.
 
-Mais il fallait répondre… Il le fallait a tout prix.
+Mais il fallait répondre… Il le fallait à tout prix.
 
 — Cette nuit… Quand j’ai su… J’ai accepté d’être vaincu, moi…
 
@@ -395,7 +398,7 @@ Il sembla attendre une réponse qui ne vint pas. Il poursuivit :
   qui m’entouraient vous auraient broyés tous… Je pouvais triompher, je pouvais
   tuer… Je ne l’ai pas voulu.
 
-Il s’arrêta, un égarement dan les yeux. Allan répliquait froidement :
+Il s’arrêta, un égarement dans les yeux. Allan répliquait froidement :
 
 — Vous avez eu tort !
 
@@ -457,7 +460,7 @@ L’exclamation fit bondir son interlocuteur.
 
 — Et en quoi cela m’importe-t-il ?
 
-— L’argent est ici dans ce temple des Aztecs… Si Vous n’aviez pas choisi ce
+— L’argent est ici dans ce temple des Aztecs… Si vous n’aviez pas choisi ce
   lieu de retraite, j’aurais disparu sans laisser de traces. Mais vos gens
   gardent les passages, mais vous-même occupez le souterrain. Je ne pouvais
   éviter de vous mettre dans la confidence… Je suis venu, avec la pensée qu’un

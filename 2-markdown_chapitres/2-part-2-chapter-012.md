@@ -22,7 +22,7 @@ C’est que, depuis son entrée dans le souterrain Aztec, il avait appris la
 lutte géante d’Allan contre la bande de Jemkins. Il avait su l’idylle tragique
 de Lilian, sous le couteau des misérables acharnés à sa perte.
 
-Et cette Jeune fille, ce loyal et vaillant Jud, ces deux êtres qui l’avaient
+Et cette jeune fille, ce loyal et vaillant Jud, ces deux êtres qui l’avaient
 sauvé, qui lui avaient rendu Linérès, il les voyait condamnés à la douleur.
 
 Soudain, Pierre ressentit une commotion.
@@ -414,7 +414,7 @@ Un cri étranglé s’échappe de toutes les lèvres.
 Chazelet a poussé la haute porte, dans la baie de laquelle s’encadre un
 tableau qui semble enfanté par une imagination délirante de justicier.
 
-Une vaste table fait le tour dela salle, bordéede chaque côté de convives.
+Une vaste table fait le tour de la salle, bordée de chaque côté de convives.
 Voici Frey Jemkins entouré de ses lieutenants : Jetty, Tom, Elisalt, Todero,
 Zirini…, puis toute la troupe de peones, vaqueros, pulqueros, etc.
 
@@ -485,7 +485,7 @@ qui ravive leur tristesse, la Chinoise reprend :
 — Antidote… acheva gaiement Rouge-Fleur, que j’avais jeté dans la cruche, où
   votre servante vous apporta l’eau pure destinée à votre repas.
 
-Un quadruple cri poctua la phrase. Lilian, Jud, Marahi, M^me^ Pariset se
+Un quadruple cri ponctua la phrase. Lilian, Jud, Marahi, M^me^ Pariset se
 confondirent en un enlacement éperdu, délirant.
 
 Grace, Linérès, Chazelet, gagnés par la griserie du bonheur inespéré, se

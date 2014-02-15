@@ -146,7 +146,7 @@ Suzan siffla légèrement.
 Aussitôt le chien accourut vers elle, faisant toujours bondir dans ses traces
 le sombrero et le manteau, sous lesquels ne se trouvaient ni tête, ni corps.
 
-Et la gardienne avec colère constata qu’elle avrait été jouée.
+Et la gardienne avec colère constata qu’elle avait été jouée.
 
 Les lads l’entraînèrent vers la maison. El Dieblo avait disparu, après avoir
 jeté au petit Tril cet ordre énigmatique :
@@ -236,7 +236,8 @@ homme.
 
 Un serviteur parut, annonçant :
 
-— Les señoras Rouge-Fleur viennent d’arriver. Elles attendent dans le salon.
+— Les señoras Lily Pariset et Rouge-Fleur viennent d’arriver. Elles attendent
+  dans le salon.
 
 Jemkins congédia le domestique, et se dirigeant vers la porte :
 
@@ -780,15 +781,15 @@ Le notaire s’est tourné vers lui :
 — Avant de vous demander votre paraphe, Señor, je vous serai obligé de me
   permettre de remplir les blancs de l’acte et du décret.
 
-— Faites donc, je vous en prie, balbutie le jeune homme que la. tranquillité de
+— Faites donc, je vous en prie, balbutie le jeune homme que la tranquillité de
   la scène plonge dans un état voisin de l’ahurissement.
 
 Tout à coup, le notaire se rejette en arrière avec un cri affolé :
 
 — Qu’est-ce que cela ?
 
-Jemkins, Porfirio Raëz, El Dieblo se dressent, comme mus par un ressort. Rouge-
-Fleur et Marahi ont un rire silencieux.
+Jemkins, Porfirio Raëz, El Dieblo se dressent, comme mus par un ressort.
+Rouge-Fleur et Marahi ont un rire silencieux.
 
 Quant à M^me^ Pariset, elle demeure immobile, les mains jointes, les lèvres
 agitées d’un frémissement continu. La veuve prie.
