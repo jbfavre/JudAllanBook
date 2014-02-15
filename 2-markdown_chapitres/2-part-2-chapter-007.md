@@ -117,10 +117,9 @@ Une curiosité allant jusqu’à l’angoisse les avait alors étreints.
 Dans une heure d’exaspération impuissante, le marquis s’était écrié :
 
 — Ah ! J’aurais dû demeurer à Washington coûte que coûte. Agir autrement
-  _que l’on ne nous y poussait_ eût été le moyen le plus sûr de savoir.
-
-Ne croyez pas à une critique de ma part, ma chère Linérès, mais ne regrettez-
-vous pas de m’avoir écrit ?
+  _que l’on ne nous y poussait_ eût été le moyen le plus sûr de savoir.  
+  Ne croyez pas à une critique de ma part, ma chère Linérès, mais ne
+  regrettez-vous pas de m’avoir écrit ?
 
 — Je vous ai écrit, dites-vous ?… Où ?… Quand ?
 

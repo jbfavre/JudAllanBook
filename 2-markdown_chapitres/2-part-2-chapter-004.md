@@ -360,7 +360,7 @@ laquelle personne ne se montrait.
 
 — Ce soir, a-t-il affirmé.
 
-— Ce soir… Le navire arrive tard, et le temps lui manquerait.
+— Ce soir… Le navire arrive tard, et le temps _lui_ manquerait.
 
 Un mouvement de colère secoua le professeur. Mais il se domina.
 
@@ -651,8 +651,8 @@ maintenant et repliée en accordéon.
 À pas de loup, Oakes, alias _Van Reek_, gagna l’escalier de service et parvint
 au dernier étage à voyageurs.
 
-Un instant plus tard, il arrivait au palier de la deuxième centaine, c’est-à-
-dire à l’étage desservant les chambres numérotées de 101 à 200.
+Un instant plus tard, il arrivait au palier de la deuxième centaine,
+c’est-à-dire à l’étage desservant les chambres numérotées de 101 à 200.
 
 Il semblait glisser plutôt que marcher sur les _chemins de tapisserie_
 couvrant le plancher des couloirs.
@@ -787,7 +787,7 @@ considéra avec un ahurissement absolument sincère.
 — Eh ! Vous me comprenez bien… Ceux qui ont été tirés dans la salle située
   directement au-dessous de celle-ci…
 
-Des coups de feu au 115 ! Allan resta sans Voix. Un instant il pensa que le
+Des coups de feu au 115 ! Allan resta sans voix. Un instant il pensa que le
 policier était atteint d’aliénation mentale.
 
 — Mais je n’ai rien entendu de semblable ! fit-il enfin.

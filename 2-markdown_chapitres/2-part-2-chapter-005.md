@@ -339,7 +339,7 @@ Et Allan se remit en marche.
   carnet ; puis charger une équipe de lads des exploitations électriques
   d’accorder un récepteur identique à celui de notre adversaire au syndicat
   même. Que l’on monte la garde auprès de l’appareil, afin de noter la moindre
-  communication. Ilfaut à Van Reek, comme à nous-mêmes, environ six jours pour
+  communication. Il faut à Van Reek, comme à nous-mêmes, environ six jours pour
   effectuer le parcours New-York-Frisco. Tout doit être prêt lors de son
   arrivée.
 
@@ -449,7 +449,7 @@ Or, à l’angle des rues Kearny et Pacific, s’élevait une maison haute de de
 étages, dominée par une terrasse bordée de balustrades de bois.
 
 C’est dans cette maison que Jud Allan et ses jeunes compagnons avaient été
-conduits. Ils y avaient retrouvé Top, Fall, et le vigoureux matin Storm,
+conduits. Ils y avaient retrouvé Top, Fall, et le vigoureux mâtin Storm,
 arrivés quelques heures auparavant.
 
 En quelques répliques, le professeur avait été mis au courant.
@@ -560,25 +560,25 @@ Le jeune homme regarde le papier que son interlocuteur lui remet.
 Plusieurs lignes. Va-t-il connaître la prison de Lilian ? Et il lit, son cœur
 frappant à grands coups les parois :
 
-> — Il fait froid à Chicago, mais le soleil réchauffe Frisco, a dit le Belge.
+— Il fait froid à Chicago, mais le soleil réchauffe Frisco, a dit le Belge.
 
-> — Le soleil est un brave boy ; mais la lune n’est point méprisable, a-t-on
+— Le soleil est un brave boy ; mais la lune n’est point méprisable, a-t-on
   répondu.
 
 Sans hésiter, le jeune homme s’explique ces phrases.
 
-> — Sans doute, des paroles de reconnaissance convenues.
+— Sans doute, des paroles de reconnaissance convenues.
 
 Et il poursuit, prononçant à mi-voix le dialogue surpris :
 
-> — Allo ! Allo ! C’est moi, Van Reek.
+— Allo ! Allo ! C’est moi, Van Reek.
 
-> — Cela ne fait pas ombre d’hésitation… Votre voix est reconnaissable
+— Cela ne fait pas ombre d’hésitation… Votre voix est reconnaissable
   comme un clairon.
 
-> — Clairon si vous voulez ; j’attends vos ordres, vous savez.
+— Clairon si vous voulez ; j’attends vos ordres, vous savez.
 
-> — Vous n’attendrez pas longtemps. Au plus tôt, partez pour San-Diego. On
+— Vous n’attendrez pas longtemps. Au plus tôt, partez pour San-Diego. On
   vous y attendra pour vous guider vers ma résidence. Défiez-vous de tout, ne
   téléphonez plus, ce serait inutile.
 
@@ -599,7 +599,7 @@ Tril était auprès du lit, clamant avec de grands gestes :
 
 — Van Reek quitte Frisco en ce moment !
 
-— Du coup, Jud fut debout.
+D'un coup, Jud fut debout.
 
 — Raconte.
 
@@ -607,7 +607,7 @@ Tril était auprès du lit, clamant avec de grands gestes :
   une demi-heure, la porte de service s’est ouverte sans bruit. Un homme est
   sorti. Je n’ai pas eu de peine à reconnaître l’individu. Il regarde à droite
   et à gauche, ne m’aperçoit pas naturellement, et se met en route à grandes
-  enjambées. Dans unerue adjacente, il arrête une voiture et se fait conduire à
+  enjambées. Dans une rue adjacente, il arrête une voiture et se fait conduire à
   Southern Pacific Railroad. Pour ne pas me fatiguer, je m’accroche derrière
   le véhicule. Nous arrivons. Un chef de gare est là.
 
