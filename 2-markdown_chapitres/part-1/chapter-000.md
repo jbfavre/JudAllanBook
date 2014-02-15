@@ -1,1 +1,1 @@
-# Idylle en modern‑sorcellerie
+# Idylle en modern-sorcellerie
