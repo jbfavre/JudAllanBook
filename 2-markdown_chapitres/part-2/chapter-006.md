@@ -261,7 +261,7 @@ Tout le jour s’écoula, dans cette chasse passionnante pour l’un, effroyable
 pour l’autre. La nuit fut annoncée par le crépuscule.
 
 La voie pénétrait alors dans la région montagneuse et tourmentée que
-parcourent le rio Gila et ses affluents. Ce n'étaient plus que tranchées
+parcourent le rio Gila et ses affluents. Ce n’étaient plus que tranchées
 rocheuses, paliers en corniche, viaducs franchissant à grande hauteur des
 ravins, où bondissaient en écumant des cours d’eaux torrentueux.
 

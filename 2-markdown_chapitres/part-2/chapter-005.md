@@ -599,7 +599,7 @@ Tril était auprès du lit, clamant avec de grands gestes :
 
 — Van Reek quitte Frisco en ce moment !
 
-D'un coup, Jud fut debout.
+D’un coup, Jud fut debout.
 
 — Raconte.
 

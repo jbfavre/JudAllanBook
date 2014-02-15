@@ -378,7 +378,7 @@ Les deux hommes se considérèrent un moment.
 
 Enfin, Jud Allan rompit le silence.
 
-— Vous avez souhaité me parler. Je n'ai pas cru pouvoir me dérober à une
+— Vous avez souhaité me parler. Je n’ai pas cru pouvoir me dérober à une
   rencontre… – il parut chercher un mot et continua : – …douloureuse. Je vous
   écoute.
 
