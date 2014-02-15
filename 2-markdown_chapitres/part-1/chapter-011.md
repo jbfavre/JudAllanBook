@@ -1,6 +1,6 @@
 ## La voix mystérieuse
 
-![](../3-images/part1/page-174.jpg)
+![](../3-images/part-1/page-174.jpg)
 
 — Le bill sur les trusts est inacceptable !
 
@@ -148,7 +148,7 @@ Il secoue sa tête puissante, lève la main pour réclamer le silence.
   coupable, car je pense que plus les richesses nous conduisent haut, plus
   elles créent de devoirs, notamment le devoir de l’exemple.
 
-![](../3-images/part1/page-177.jpg)
+![](../3-images/part-1/page-177.jpg)
 
 — Hip ! Hip ! bien pensé ! clament les sénateurs, tandis que les tribunes
   applaudissent.
@@ -582,7 +582,7 @@ Sur la pointe des pieds, le Japonais quitte sa cachette.
 Il parvient à hauteur de la porte demeurée ouverte. Alors, il se donne un
 air dégagé et passe avec l’allure paisible d’un flâneur.
 
-![](../3-images/part1/page-185.jpg)
+![](../3-images/part-1/page-185.jpg)
 
 Précaution inutile. Le gamin lui tourne le dos, ce qui permet au guetteur
 d’observer à quelle besogne il s’occupe.
@@ -901,7 +901,7 @@ Ces mots amenèrent un sourire sur les traits de Lilian.
   de moi, je l’entendis murmurer : « Non, pas elle, pas elle ; il ne faut
   pas que sa volonté s’accoutume à être l’esclave de la mienne ! »
  
-![Je m’endormais en le voyant assis, sous la lampe, avec des livres, des cahiers…](../3-images/part1/page-191.jpg
+![Je m’endormais en le voyant assis, sous la lampe, avec des livres, des cahiers…](../3-images/part-1/page-191.jpg
 "Je m’endormais en le voyant assis, sous la lampe, avec des livres, des cahiers…")
 
 — Oh! s’exclama Grace, cela est tout à fait impressionnant… Et tu ne
@@ -1040,7 +1040,7 @@ Lilian sourit à son interlocutrice.
   heureuse, si j’avais vu Jud plus souvent ; mais il ne venait qu’à de
   rares intervalles.
 
-![Je tirai à la carabine](../3-images/part1/page-194.jpg "Je tirai à la carabine")
+![Je tirai à la carabine](../3-images/part-1/page-194.jpg "Je tirai à la carabine")
 
 N’importe, présent ou absent, il était toujours là, dans mon esprit et
 dans mon cœur.

@@ -1,6 +1,6 @@
 ## L’engrenage du merveilleux
 
-![](../3-images/part1/page-020.jpg)
+![](../3-images/part-1/page-020.jpg)
 
 Rêvant, monologuant, tour à tour repoussant ou acceptant les fantastiques
 affirmations de la Gitana, le marquis était rentré à la posada del Cid,
@@ -123,7 +123,7 @@ Du coup, il sursauta :
 
 La posadera se prit à rire, découvrant des dents blanches.
 
-![Vous la connaissez, balbutia-t-il](../3-images/part1/page-022.jpg "Vous la connaissez, balbutia-t-il")
+![Vous la connaissez, balbutia-t-il](../3-images/part-1/page-022.jpg "Vous la connaissez, balbutia-t-il")
 
 — Cela n’a rien de surprenant. J’habite le pays depuis… - elle hésita,
   retenue par une inconsciente coquetterie au moment de prononcer un chiffre -
@@ -348,7 +348,7 @@ Comme il songeait, un chant parvint à ses oreilles.
 C’était un de ces _canzones_ de bergers, lents et doux, comme rythmés sur le
 mouvement paisible des troupeaux au pâturage.
 
-![La chanteuse était assise sur une pierre, dans un angle](../3-images/part1/page-027.jpg "La chanteuse était assise sur une pierre, dans un angle")
+![La chanteuse était assise sur une pierre, dans un angle](../3-images/part-1/page-027.jpg "La chanteuse était assise sur une pierre, dans un angle")
 
 La voix, féminine évidemment, sonnait forte et juste, avec cette ignorance
 charmeuse des règles de l’art musical, particulière aux chants de plein air.
@@ -550,7 +550,7 @@ Il avait soif de la connaître davantage, et il ne songea même pas à
 l’indiscrétion de son acte, lorsqu’il fit basculer le loquet et ouvrit la
 porte.
 
-![À travers les vitres, il essaya de voir à l’intérieur](../3-images/part1/page-031.jpg
+![À travers les vitres, il essaya de voir à l’intérieur](../3-images/part-1/page-031.jpg
 "À travers les vitres, il essaya de voir à l’intérieur")
 
 Le logis était celui de pauvres paysans. Des meubles peu nombreux, de sapin
@@ -1149,7 +1149,7 @@ Après quoi secouant cordialement la main du Français :
 
 — Que les Saints Anges accompagnent ta marche. Adios !
 
-![Droit devant toi. La fonda de Salamanca, dirent-ils](../3-images/part1/page-042.jpg
+![Droit devant toi. La fonda de Salamanca, dirent-ils](../3-images/part-1/page-042.jpg
 "Droit devant toi. La fonda de Salamanca, dirent-ils")
 
 Sans avoir le loisir de répondre, Pierre, entraîné par ses gardiens aussi

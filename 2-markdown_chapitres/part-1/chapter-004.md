@@ -1,6 +1,6 @@
 ## Gamme d’émotions
 
-![](../3-images/part1/page-064.jpg)
+![](../3-images/part-1/page-064.jpg)
 
 Les luxueux salons de la légation d’Espagne resplendissaient de lumières.
 Une foule nombreuse, bigarrée, s’y pressait.
@@ -214,7 +214,7 @@ Von Foorberg attendait toujours.
   point un secret que l’on craigne de voir dévoiler… ; c’est l’x d’un
   problème que l’on doit désirer connaître.
 
-![La voyante est une femme âgée, à la peau rouge-brun](../3-images/part1/page-068.jpg
+![La voyante est une femme âgée, à la peau rouge-brun](../3-images/part-1/page-068.jpg
 "La voyante est une femme âgée, à la peau rouge-brun")
 
 — Moi, j’aurais ce désir.
@@ -470,7 +470,7 @@ s’immobilisa, la figure rêveuse, le regard vague, se berçant des
 confidences inattendues qui venaient de bouleverser l’orientation
 morale de sa vie.
 
-![Oh ! Murmura la jeune fille, quel froid !](../3-images/part1/page-073.jpg
+![Oh ! Murmura la jeune fille, quel froid !](../3-images/part-1/page-073.jpg
 "Oh ! Murmura la jeune fille, quel froid !")
 
 Soudain, Linérès eut l’impresssion qu’un corps opaque s’était interposé

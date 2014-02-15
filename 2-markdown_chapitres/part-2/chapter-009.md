@@ -1,6 +1,6 @@
 ## Les volontés se croisent
 
-![](../3-images/part2/page-415.jpg)
+![](../3-images/part-2/page-415.jpg)
 
 — Par ma foi, rien qu’à voir cette aimable señorita, j’aurais deviné, je pense,
   l’héritière des domaines de Pariset.
@@ -323,7 +323,7 @@ Puis avec un sourire coquet au délégué :
   que le vif désir de sortir d’un imbroglio véritablement trop compliqué pour
   mon goût.
 
-![Elle entraîna le Mexicain.](../3-images/part2/page-421.jpg "Elle entraîna le Mexicain.")
+![Elle entraîna le Mexicain.](../3-images/part-2/page-421.jpg "Elle entraîna le Mexicain.")
 
 La domestique reparut sur le seuil annonçant :
 
@@ -532,7 +532,7 @@ Au moment de se séparer, Frey chuchota avec un ironique respect :
 — Ainsi que je le consignerai moi-même sur le contrat et sur le décret d’envoi
   en possession de l’héritière.
 
-![Ici nous n’aurons à craindre aucune oreille indiscrète.](../3-images/part2/page-425.jpg "Ici nous n’aurons à craindre aucune oreille indiscrète.")
+![Ici nous n’aurons à craindre aucune oreille indiscrète.](../3-images/part-2/page-425.jpg "Ici nous n’aurons à craindre aucune oreille indiscrète.")
 
 Mais parmi les fumées des libations, une idée se fit jour dans la cervelle du
 délégué.
@@ -771,7 +771,7 @@ Tout en marchant, la vieille Indienne chuchotait :
   inutile. Il faut au moins que l’héritière des Pariset rentre en possession de
   ce qui lui appartient.
 
-![D’arbuste en arbuste l’Indienne se glissa.](../3-images/part2/page-431.jpg "D’arbuste en arbuste l’Indienne se glissa.")
+![D’arbuste en arbuste l’Indienne se glissa.](../3-images/part-2/page-431.jpg "D’arbuste en arbuste l’Indienne se glissa.")
 
 La vieille femme traça dans l’air un grand geste tragique.
 

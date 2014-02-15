@@ -1,6 +1,6 @@
 ## L’affaire des barres d’or
 
-![](../3-images/part2/page-327.jpg)
+![](../3-images/part-2/page-327.jpg)
 
 _Audacieux pilleurs de trains. – Cinq millions d’or en barres enlevés. – Deux
 agents agonisent, deux autres blessés_.
@@ -184,7 +184,7 @@ L’homme toussa vivement, puis avec sévérité :
 — Pas ce mot, malheureux ! À quoi bon me déguiser, me rendre méconnaissable,
   si ta langue me trahit.
 
-![Elle les salua…](../3-images/part2/page-331.jpg "Elle les salua…")
+![Elle les salua…](../3-images/part-2/page-331.jpg "Elle les salua…")
 
 — Je vous demande pardon, je me souviendrai à l’avenir que vous êtes…
 
@@ -431,7 +431,7 @@ cru qu’ils avalaient le liquide avec effort.
 
 — Heureusement, on a le temps de dormir dans ce souterrain.
 
-![Les drôles étaient, selon toute apparence, abominablement ivres.](../3-images/part2/page-336.jpg "Les drôles étaient, selon toute apparence, abominablement ivres.")
+![Les drôles étaient, selon toute apparence, abominablement ivres.](../3-images/part-2/page-336.jpg "Les drôles étaient, selon toute apparence, abominablement ivres.")
 
 — Parbleu ! C’est une proposition géniale… Dormir, et rêver qu’on va bientôt
   prendre la clef des champs avec une sacoche de trusteur.

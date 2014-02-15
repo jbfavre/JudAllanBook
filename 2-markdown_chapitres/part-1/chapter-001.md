@@ -1,6 +1,6 @@
 ## La photographie magique
 
-![](../3-images/part1/page-001.jpg)
+![](../3-images/part-1/page-001.jpg)
 
 — J’ai tenu à vous montrer cette lettre de France, afin de vous assurer
   du paiement prochain de ma dette.
@@ -127,7 +127,7 @@ puis, hochant la tête :
 
 Il eut un mouvement d’épaules impatient.
 
-![Là, là, Olinda la faible, Olinda la diaphane](../3-images/part1/page-004.jpg
+![Là, là, Olinda la faible, Olinda la diaphane](../3-images/part-1/page-004.jpg
 "Là, là, Olinda la faible, Olinda la diaphane")
 
 — Oh ! pas de _lamento_, ami Pierre. Ce genre de musique n’est acceptable que
@@ -364,7 +364,7 @@ Elle considère fixement le Français.
 
 Ses lèvres s’agitent comme si elle murmurait une incantation intérieure.
 
-![Riche homme, dit-elle, demande l’avenir à la voyante Ramrah](../3-images/part1/page-009.jpg
+![Riche homme, dit-elle, demande l’avenir à la voyante Ramrah](../3-images/part-1/page-009.jpg
 "Riche homme, dit-elle, demande l’avenir à la voyante Ramrah")
 
 Et sous les rayons noirs jaillissant de ses paupières, le jeune homme
@@ -467,7 +467,7 @@ Un rire grelottant de la gitana coupa la phrase.
   vide de sens, hochet qu’agite follement l’homme, cet éternel enfant, ce jouet
   des volontés mystérieuses de la nature.
 
-![Elle lui prend la main sans qu’il ose résister](../3-images/part1/page-012.jpg
+![Elle lui prend la main sans qu’il ose résister](../3-images/part-1/page-012.jpg
 "Elle lui prend la main sans qu’il ose résister")
 
 Sa voix sonnait étrangement dans le cirque de rochers. Elle prenait des

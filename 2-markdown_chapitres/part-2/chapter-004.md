@@ -1,6 +1,6 @@
 ## L’affaire des diamants
 
-![](../3-images/part2/page-343.jpg)
+![](../3-images/part-2/page-343.jpg)
 
 Appels de sirènes, tintements de cloches, grincements de poulies, halètement
 des grues à vapeur, roulement sourd des trains du Métropolitain aérien,
@@ -212,7 +212,7 @@ Certain désormais de n’être pas dérangé, il ouvrit sa valise, en tira un o
 bizarre aux armatures métalliques, tenant à la fois d’une canne et d’une pipe
 qu’un original eût commandée en acier bruni.
 
-![L’instrument pris la forme d’un V](../3-images/part2/page-347.jpg "L’instrument pris la forme d’un V")
+![L’instrument pris la forme d’un V](../3-images/part-2/page-347.jpg "L’instrument pris la forme d’un V")
 
 Il l’examina longuement, appuya sur les deux extrémités. L’instrument prit la
 forme d’un V, démasquant le double orifice d’un tube intérieur, et exhala un
@@ -302,7 +302,7 @@ Jud tapota amicalement l’épaule du gamin.
   débarcadère, Fall à la maison de la Troisième rue, Suzan à East-River, et
   moi chez Meyer.
 
-![On croirait les voir tous les deux.](../3-images/part2/page-349.jpg "On croirait les voir tous les deux.")
+![On croirait les voir tous les deux.](../3-images/part-2/page-349.jpg "On croirait les voir tous les deux.")
 
 — Je suis content de vous.
 
@@ -607,7 +607,7 @@ Une voix assourdie, déjà dans le lointain du sommeil, bégaya :
 Puis le silence régna dans la chambre avec laquelle Allan se trouvait en
 communication.
 
-![Les sons les plus légers lui parvenaient avec netteté.](../3-images/part2/page-355.jpg "Les sons les plus légers lui parvenaient avec netteté.")
+![Les sons les plus légers lui parvenaient avec netteté.](../3-images/part-2/page-355.jpg "Les sons les plus légers lui parvenaient avec netteté.")
 
 Le professeur apporta sans bruit un fauteuil auprès de l’appareil et s’assit,
 l’oreille à hauteur de la tablette vibrante du renforçateur. Dans cette

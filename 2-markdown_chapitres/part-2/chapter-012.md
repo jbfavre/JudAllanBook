@@ -1,6 +1,6 @@
 ## Le banquet noir
 
-![](../3-images/part2/page-466.jpg)
+![](../3-images/part-2/page-466.jpg)
 
 Suzan redisait les dernières paroles prononcées par Frey Jemkins.
 
@@ -79,7 +79,7 @@ L’Indienne lui toucha le bras.
 
 — De qui parlez-vous, gracieuse Rouge-Fleur ?
 
-![Il le déplia, le secoua au-dessus de la cruche d’eau](../3-images/part2/page-468.jpg "Il le déplia, le secoua au-dessus de la cruche d’eau")
+![Il le déplia, le secoua au-dessus de la cruche d’eau](../3-images/part-2/page-468.jpg "Il le déplia, le secoua au-dessus de la cruche d’eau")
 
 La mignonne créature rougit légèrement, mais presqu’aussitôt redevenue
 maîtresse d’elle-même :
@@ -327,7 +327,7 @@ Il poursuivit :
   nuit, je pense, et peut-être ne vous serait-il pas agréable d’entendre leurs
   appréciations sur mon œuvre.
 
-![Tous sont morts.](../3-images/part2/page-473.jpg "Tous sont morts.")
+![Tous sont morts.](../3-images/part-2/page-473.jpg "Tous sont morts.")
 
 > Aussi je vous presse… Vous pourrez me rendre, avant leur arrivée, un service
   que vous n’oserez pas me refuser.
