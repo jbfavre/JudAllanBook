@@ -224,9 +224,9 @@ Et Rouge-Fleur s’inclina gracieusement sur le cou de son cheval.
 
 Le soleil descendant vers l’horizon indiquait qu’il était environ six heures.
 
-— Après la sieste, comme l’avait promis Porfirio Raëz, tous les personnages
-  présents à Presios avaient enfourché leurs montures et s’étaient mis en route
-  vers Agua Frida.
+Après la sieste, comme l’avait promis Porfirio Raëz, tous les personnages
+présents à Presios avaient enfourché leurs montures et s’étaient mis en route
+vers Agua Frida.
 
 En face des arrivants se dessinait la barrière blanche, que Jud Allan avait
 franchie la veille, l’allée qu’il avait suivie aux côtés de Rouge-Fleur.
@@ -243,11 +243,12 @@ Le milliardaire éclata de rire.
   d’enfant… J’attendrai que mon innocence éclate à tous les regards. Jusque-là
   j’assiste en simple spectateur à tout ce qu’il vous plaira de décider.
 
-L’insouciance de leur égaya les lieutenants de Frey. Les faces s’épanouirent,
-tandis qu’une inquiétude se peignait sur les traits de la veuve et des fiancés.
-Déjà, le délégué mexicain sautait à bas de son cheval. Chazelet l’imita et aida les deux femmes à mettre pied à terre.
+L’insouciance de leur chef égaya les lieutenants de Frey. Les faces
+s’épanouirent, tandis qu’une inquiétude se peignait sur les traits de la veuve
+et des fiancés. Déjà, le délégué mexicain sautait à bas de son cheval. Chazelet
+l’imita et aida les deux femmes à mettre pied à terre.
 
-Puis silencieux, tel une procession. d’ombres, le cortgèe s’ébranla. Profirio
+Puis silencieux, tel une procession d’ombres, le cortège s’ébranla. Profirio
 marchant en tête, avec, auprès de lui, la triste Lily Pariset.
 
 Le jardin ombreux fut traversé. On contourna la volière, on atteignit
@@ -336,7 +337,7 @@ le témoignage de la jeune fille. Et dans le silence, Grace murmura :
 
 — Que me veut-on ? Je ne m’attendais pas à rencontrer tant de monde.
 
-Chose étrange, Ses regards semblaient voilés. On cru qu’ils s’évertuaient à ne
+Chose étrange, ses regards semblaient voilés. On cru qu’ils s’évertuaient à ne
 se poser sur personne.
 
 Mais don Porfirio Raëz, pénétré du désir de palper les piastres promises par
@@ -361,7 +362,7 @@ cet affolement ? Son interlocutrice n’y prit pas garde. Elle continua.
 
 — Voulez-vous dire comment vous fûtes amenée ici avec Lilian ?
 
-La Veuve s’arrêta. La jeune fille chancelait. Il y avait une terreur sur son
+La veuve s’arrêta. La jeune fille chancelait. Il y avait une terreur sur son
 visage égaré.
 
 — Pardonnez-moi, fit-elle, se dominant enfin… L’émotion… Je suis venue ici, sur
@@ -426,8 +427,8 @@ Ce à quoi Jemkins répondit d’un ton pénétré :
   depuis qu’elle connaît cette mère !… Cruauté inconsciente de la folie, une
   mère qui repousse sa fille obstinément !
 
-Mais Frey Jemkins, en homme énergique, ne pouvait longtemps demeurer abattu par
-une douleur, fût-elle aussi violente que celle qu’il exprimait.
+Mais Frey Jemkins, en homme énergique, ne pouvait longtemps demeurer abattu
+par une douleur, fût-elle aussi violente que celle qu’il exprimait.
 
 — Nous n’avons plus rien à faire ici, je pense. Aussi, proposerai-je au señor
   délégué de m’accompagner à l’hacienda, où je m’efforcerai de lui faire
