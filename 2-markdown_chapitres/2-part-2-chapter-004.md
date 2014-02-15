@@ -642,8 +642,6 @@ Pourvu que Fall, Top et Suzan aient relevé les traces du bandit.
 Et Jud, ramené ainsi au duel géant dont la vie, la richesse de Lilian sont
 l’enjeu, s’absorbe dans une rêverie faite d’espérance et de tristesse.
 
---
-
 À ce moment même, celui dont Jud Allan se préoccupait sortait de la chambre où
 son _collègue_ lui avait accordé l’hospitalité.
 

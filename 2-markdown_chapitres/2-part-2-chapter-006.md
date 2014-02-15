@@ -125,8 +125,6 @@ réflexions, puis il haussa brusquement les épaules :
 
 Et il se jeta sur le siège capitonné qu’il avait quitté un instant plus tôt.
 
---
-
 Cependant, Van Reek ressentait, à vingt kilomètres en avant, une émotion
 violente. Lui aussi venait de lire la dépêche laconique et sa lecture
 déterminait un accès de rage d’autant plus violent, qu’étant seul dans son

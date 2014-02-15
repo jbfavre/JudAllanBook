@@ -344,8 +344,6 @@ Il poursuivit :
 
 > FREY JEMKINS.
 
---
-
 Jud avait prononcé les dernières lignes d’une voix sourde. Quand il se tut, les assistants parurent pris de vertige. Ils s’empressèrent joyeux au cou de
 Jud Allan, lui serrant les mains.
 

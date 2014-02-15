@@ -299,8 +299,6 @@ lèvres de Lilian s’ouvrent :
 — C’est lui, mère, c’est lui, lui qui nous a ramenées à la raison, lui qui,
   une fois de plus, joue sa vie pour nous protéger contre Frey Jemkins !
 
---
-
 Au même instant, à huit ou neuf cents mètres de là, le marquis de Chazelet et
 Linérès erraient à travers le parc.
 
@@ -337,8 +335,6 @@ l’aventure, Pierre lut :
 > Ne résistez aucunement demain. Celle qui fut le mensonge, celle qui fut la
   douleur, s’uniront pour proclamer la vérité. Détruisez ce papier de suite ;
   la mort plane.
-
---
 
 À trois milles vers l’Est de l’hacienda se creuse le Cañon de Oro.
 
@@ -435,8 +431,6 @@ Du fond du ravin un sifflement monta. On eût cru entendre la plainte du
 courlis doré du Pacifique. Les causeurs s’interrompirent net.
 
 — Le roi ! firent-ils. Jud Allan !
-
---
 
 Comment Jud Allan n’avait-il pas été broyé près de San Diego, lors de la
 collision de son spécial avec celui de Van Reek ?
