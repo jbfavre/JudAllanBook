@@ -29,10 +29,25 @@ pandoc_config= \
 	@echo "Performing checks"
 	$(eval pandoc_metadata=$(shell /usr/bin/awk -f $(utilsdir)/metadata.awk metadata.txt) )
 	mkdir -p $(outputdir)
-	rm -rf $(outputdir)/$(patsubst %.check,%,$(@))*
+	rm -rf $(outputdir)/*
 
-%-epub2.epub:
-	@echo "EPUB  generation... "
+%-partie-1.epub:
+	@echo "Génération de l'epub de la partie 1... "
+	$(shell $(pandoc_bin) \
+		$(pandoc_config) \
+		-t epub \
+		--toc --toc-depth=2 \
+		--template=$(templates_dir)/template.epub \
+		--epub-stylesheet=$(templates_dir)/epub.stylesheet.css \
+		--epub-metadata=$(make_dir)/epub.metadata.fr.xml \
+		--epub-chapter-level=2 \
+		--epub-cover-image=$(img_dir)/cover.jpg \
+		-o $(outputdir)/$(@) \
+		./metadata.md \
+		$(pages_dir)/2-part-1*.md )
+
+%-partie-2.epub:
+	@echo "Génération de l'epub de la partie 2... "
 	$(shell $(pandoc_bin) \
 		$(pandoc_config) \
 		-t epub \
@@ -46,22 +61,7 @@ pandoc_config= \
 		./metadata.md \
 		$(pages_dir)/2-part-2*.md )
 
-%-epub3.epub:
-	@echo "EPUB3 generation... "
-	$(shell $(pandoc_bin) \
-		$(pandoc_config) \
-		-t epub3 \
-		--toc --toc-depth=2 \
-		--template=$(templates_dir)/template.epub \
-		--epub-stylesheet=$(templates_dir)/epub.stylesheet.css \
-		--epub-metadata=$(make_dir)/epub.metadata.fr.xml \
-		--epub-chapter-level=2 \
-		--epub-cover-image=$(img_dir)/cover.jpg \
-		-o $(outputdir)/$(@) \
-		./metadata.md \
-		$(pages_dir)/2-part-2*.md )
-
-%.all: | %-epub2.epub %-epub3.epub
+%.all: | %-partie-1.epub %-partie-2.epub
 	@true
 
 %: | %.check %.all
