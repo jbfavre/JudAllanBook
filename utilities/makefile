@@ -1,4 +1,4 @@
-VERSION=0.1
+VERSION=0.5
 
 pandoc_bin=/usr/bin/pandoc
 pdfbook_bin=/usr/bin/pdfbook
@@ -26,14 +26,15 @@ pandoc_config= \
 	--no-highlight
 
 %.check:
-	@echo "Performing checks"
-	$(eval pandoc_metadata=$(shell /usr/bin/awk -f $(utilsdir)/metadata.awk metadata.txt) )
-	mkdir -p $(outputdir)
-	rm -rf $(outputdir)/*
+	@echo "Performing checks..."
+	@$(eval pandoc_metadata=$(shell /usr/bin/awk -f $(utilsdir)/metadata.awk metadata.txt) )
+	@echo "Cleaning output dir..."
+	@mkdir -p $(outputdir)
+	@rm -rf $(outputdir)/*
 
 %-partie-1.epub:
 	@echo "Génération de l'epub de la partie 1... "
-	$(shell $(pandoc_bin) \
+	@$(pandoc_bin) \
 		$(pandoc_config) \
 		-t epub \
 		--toc --toc-depth=2 \
@@ -44,11 +45,13 @@ pandoc_config= \
 		--epub-cover-image=$(img_dir)/cover.jpg \
 		-o $(outputdir)/$(@) \
 		./metadata.md \
-		$(pages_dir)/part-1/*.md )
+		$(pages_dir)/part-1/*.md
+	@echo "Extraction de l'epub partie 1..."
+	@unzip -qq -d $(outputdir)/$(patsubst %.epub,%,$(@)) $(outputdir)/$(@) ch*.xhtml images*
 
 %-partie-2.epub:
 	@echo "Génération de l'epub de la partie 2... "
-	$(shell $(pandoc_bin) \
+	@$(pandoc_bin) \
 		$(pandoc_config) \
 		-t epub \
 		--toc --toc-depth=2 \
@@ -59,7 +62,9 @@ pandoc_config= \
 		--epub-cover-image=$(img_dir)/cover.jpg \
 		-o $(outputdir)/$(@) \
 		./metadata.md \
-		$(pages_dir)/part-2/*.md )
+		$(pages_dir)/part-2/*.md
+	@echo "Extraction de l'epub partie 2..."
+	@unzip -qq -d $(outputdir)/$(patsubst %.epub,%,$(@)) $(outputdir)/$(@) ch*.xhtml images*
 
 %.all: | %-partie-1.epub %-partie-2.epub
 	@true
