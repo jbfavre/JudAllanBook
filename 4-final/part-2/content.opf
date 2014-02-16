@@ -71,8 +71,8 @@
   <spine toc="ncx">
     <itemref idref="cover" linear="no" />
     <itemref idref="title_page" linear="yes" />
-    <itemref idref="nav" linear="yes" />
     <itemref idref="preface" />
+    <itemref idref="nav" linear="yes" />
     <itemref idref="ch001" />
     <itemref idref="ch002" />
     <itemref idref="ch003" />
