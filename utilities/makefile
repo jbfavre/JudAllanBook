@@ -1,7 +1,9 @@
 VERSION=0.5
 
+PANDOC := $(shell pandoc --version 2>/dev/null)
+UNZIP :=$(shell unzip -v 2>/dev/null)
 pandoc_bin=/usr/bin/pandoc
-pdfbook_bin=/usr/bin/pdfbook
+unzip_bin=/usr/bin/unzip
 
 fontsize=12pt
 lang=french
@@ -27,9 +29,19 @@ pandoc_config= \
 
 %.check:
 	@echo -n "Recherche de l'utilitaire pandoc... "
+ifdef PANDOC
 	@which pandoc
+else
+	@echo "NOT FOUND"
+	@exit 1
+endif
 	@echo -n "Recherche de l'utilitaire unzip... "
+ifdef UNZIP
 	@which unzip
+else
+	@echo "NOT FOUND"
+	@exit 1
+endif
 	@echo "Préparation du répertoire de sortie..."
 	@mkdir -p $(outputdir)
 	@rm -rf $(outputdir)/*
@@ -50,7 +62,10 @@ pandoc_config= \
 		./metadata.md \
 		$(pages_dir)/part-1/*.md
 	@echo "Extraction de l'epub partie 1..."
-	@unzip -qq -d $(outputdir)/$(patsubst %.epub,%,$(@)) $(outputdir)/$(@) ch*.xhtml images*
+	@$(unzip_bin) -qq \
+		-d $(outputdir)/$(patsubst %.epub,%,$(@)) \
+		$(outputdir)/$(@) \
+		ch*.xhtml images*
 
 %-partie-2.epub:
 	@echo "Génération de l'epub de la partie 2... "
@@ -67,7 +82,10 @@ pandoc_config= \
 		./metadata.md \
 		$(pages_dir)/part-2/*.md
 	@echo "Extraction de l'epub partie 2..."
-	@unzip -qq -d $(outputdir)/$(patsubst %.epub,%,$(@)) $(outputdir)/$(@) ch*.xhtml images*
+	@$(unzip_bin) -qq \
+		-d $(outputdir)/$(patsubst %.epub,%,$(@)) \
+		$(outputdir)/$(@) \
+		ch*.xhtml images*
 
 %.all: | %-partie-1.epub %-partie-2.epub
 	@true
