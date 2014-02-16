@@ -37,19 +37,6 @@
     <item id="ch013" href="ch013.xhtml" media-type="application/xhtml+xml" />
     <item id="ch014" href="ch014.xhtml" media-type="application/xhtml+xml" />
     <item id="ch015" href="ch015.xhtml" media-type="application/xhtml+xml" />
-    <item id="ch016" href="ch016.xhtml" media-type="application/xhtml+xml" />
-    <item id="ch017" href="ch017.xhtml" media-type="application/xhtml+xml" />
-    <item id="ch018" href="ch018.xhtml" media-type="application/xhtml+xml" />
-    <item id="ch019" href="ch019.xhtml" media-type="application/xhtml+xml" />
-    <item id="ch020" href="ch020.xhtml" media-type="application/xhtml+xml" />
-    <item id="ch021" href="ch021.xhtml" media-type="application/xhtml+xml" />
-    <item id="ch022" href="ch022.xhtml" media-type="application/xhtml+xml" />
-    <item id="ch023" href="ch023.xhtml" media-type="application/xhtml+xml" />
-    <item id="ch024" href="ch024.xhtml" media-type="application/xhtml+xml" />
-    <item id="ch025" href="ch025.xhtml" media-type="application/xhtml+xml" />
-    <item id="ch026" href="ch026.xhtml" media-type="application/xhtml+xml" />
-    <item id="ch027" href="ch027.xhtml" media-type="application/xhtml+xml" />
-    <item id="ch028" href="ch028.xhtml" media-type="application/xhtml+xml" />
     <item id="cover-image" href="cover-image.jpg" media-type="image/jpeg" />
     <item id="img0" href="images/img0.jpg" media-type="image/jpeg" />
     <item id="img1" href="images/img1.jpg" media-type="image/jpeg" />
@@ -109,37 +96,10 @@
     <item id="img55" href="images/img55.jpg" media-type="image/jpeg" />
     <item id="img56" href="images/img56.jpg" media-type="image/jpeg" />
     <item id="img57" href="images/img57.jpg" media-type="image/jpeg" />
-    <item id="img58" href="images/img58.JPG" media-type="image/jpeg" />
-    <item id="img59" href="images/img59.JPG" media-type="image/jpeg" />
-    <item id="img60" href="images/img60.JPG" media-type="image/jpeg" />
-    <item id="img61" href="images/img61.JPG" media-type="image/jpeg" />
-    <item id="img62" href="images/img62.JPG" media-type="image/jpeg" />
-    <item id="img63" href="images/img63.JPG" media-type="image/jpeg" />
-    <item id="img64" href="images/img64.JPG" media-type="image/jpeg" />
-    <item id="img65" href="images/img65.JPG" media-type="image/jpeg" />
-    <item id="img66" href="images/img66.JPG" media-type="image/jpeg" />
-    <item id="img67" href="images/img67.JPG" media-type="image/jpeg" />
-    <item id="img68" href="images/img68.JPG" media-type="image/jpeg" />
-    <item id="img69" href="images/img69.JPG" media-type="image/jpeg" />
-    <item id="img70" href="images/img70.JPG" media-type="image/jpeg" />
-    <item id="img71" href="images/img71.JPG" media-type="image/jpeg" />
-    <item id="img72" href="images/img72.JPG" media-type="image/jpeg" />
-    <item id="img73" href="images/img73.JPG" media-type="image/jpeg" />
-    <item id="img74" href="images/img74.JPG" media-type="image/jpeg" />
-    <item id="img75" href="images/img75.JPG" media-type="image/jpeg" />
-    <item id="img76" href="images/img76.JPG" media-type="image/jpeg" />
-    <item id="img77" href="images/img77.JPG" media-type="image/jpeg" />
-    <item id="img78" href="images/img78.JPG" media-type="image/jpeg" />
-    <item id="img79" href="images/img79.JPG" media-type="image/jpeg" />
-    <item id="img80" href="images/img80.JPG" media-type="image/jpeg" />
-    <item id="img81" href="images/img81.JPG" media-type="image/jpeg" />
-    <item id="img82" href="images/img82.JPG" media-type="image/jpeg" />
-    <item id="img83" href="images/img83.JPG" media-type="image/jpeg" />
-    <item id="img84" href="images/img84.JPG" media-type="image/jpeg" />
-    <item id="img85" href="images/img85.JPG" media-type="image/jpeg" />
-    <item id="img86" href="images/img86.JPG" media-type="image/jpeg" />
-    <item id="img87" href="images/img87.JPG" media-type="image/jpeg" />
-    <item id="img88" href="images/img88.JPG" media-type="image/jpeg" />
+    <item id="img58" href="images/img58.jpg" media-type="image/jpeg" />
+    <item id="img59" href="images/img59.jpg" media-type="image/jpeg" />
+    <item id="img60" href="images/img60.jpg" media-type="image/jpeg" />
+    <item id="img61" href="images/img61.jpg" media-type="image/jpeg" />
   </manifest>
   <spine toc="ncx">
     <itemref idref="cover" linear="no" />
@@ -161,19 +121,6 @@
     <itemref idref="ch013" />
     <itemref idref="ch014" />
     <itemref idref="ch015" />
-    <itemref idref="ch016" />
-    <itemref idref="ch017" />
-    <itemref idref="ch018" />
-    <itemref idref="ch019" />
-    <itemref idref="ch020" />
-    <itemref idref="ch021" />
-    <itemref idref="ch022" />
-    <itemref idref="ch023" />
-    <itemref idref="ch024" />
-    <itemref idref="ch025" />
-    <itemref idref="ch026" />
-    <itemref idref="ch027" />
-    <itemref idref="ch028" />
   </spine>
   <guide>
     <reference type="toc" title="Jud Allan, roi des “Lads”, partie 1" href="nav.xhtml" />
