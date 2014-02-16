@@ -26,11 +26,14 @@ pandoc_config= \
 	--no-highlight
 
 %.check:
-	@echo "Performing checks..."
-	@$(eval pandoc_metadata=$(shell /usr/bin/awk -f $(utilsdir)/metadata.awk metadata.txt) )
-	@echo "Cleaning output dir..."
+	@echo -n "Recherche de l'utilitaire pandoc... "
+	@which pandoc
+	@echo -n "Recherche de l'utilitaire unzip... "
+	@which unzip
+	@echo "Préparation du répertoire de sortie..."
 	@mkdir -p $(outputdir)
 	@rm -rf $(outputdir)/*
+	@$(eval pandoc_metadata=$(shell /usr/bin/awk -f $(utilsdir)/metadata.awk metadata.txt) )
 
 %-partie-1.epub:
 	@echo "Génération de l'epub de la partie 1... "
