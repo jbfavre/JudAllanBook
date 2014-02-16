@@ -162,43 +162,6 @@ ponctuation suivants:
 
 En général, on préférera les espaces fines, sauf avant les signes : ou les guillemets où les 2 sont acceptées.
 
-## Commandes particulières
-
-Parfois, le logiciel de reconnaissance de caractères utilise des
-combinaisons particulières, par exemple: « ﬁ » (en un seul caractère) au
-lieu de « fi » (en deux caractères)
-
-Les commandes suivantes peuvent vous aider à effectuer le remplacement plus
-rapidement :
-
-    # French typography helper
-    # Fix Tesseract OCR strange combination
-    sed -i 's/ﬂ/fl/g' texte/1-page-*.md
-    sed -i 's/ﬁ/fi/g' texte/1-page-*.md
-    # French typographic replacement
-    sed -i 's/ ?/ ?/g' texte/1-page-*.md
-    sed -i 's/ !/ !/g' texte/1-page-*.md
-    sed -i 's/ ;/ ;/g' texte/1-page-*.md
-    sed -i 's/ :/ :/g' texte/1-page-*.md
-    sed -i "s/'/’/g" texte/1-page-*.md
-    sed -i 's/‘/’/g' texte/1-page-*.md
-    sed -i 's/oe/œ/g' texte/1-page-*.md
-    sed -i 's/ae/æ/g' texte/1-page-*.md
-    sed -i 's/\.\.\./…/g' texte/1-page-*.md
-    sed -i 's/?\.\./?…/g' texte/1-page-*.md
-    sed -i 's/!\.\./!…/g' texte/1-page-*.md
-    sed -i 's/« /« /g' texte/1-page-*.md
-    sed -i 's/ »/ »/g' texte/1-page-*.md
-    sed -i 's/Mme /M^me /g' texte/1-page-*.md
-    sed -i 's/Mmes /M^mes /g' texte/1-page-*.md
-    sed -i 's/Mlle /M^lle /g' texte/1-page-*.md
-    sed -i 's/Mlles /M^lles /g' texte/1-page-*.md
-    sed -i 's/M\. /M\. /g' texte/1-page-*.md
-    sed -i 's/ A / À /g' texte/1-page-*.md
-
-Attention, n'exécutez ces commandes que sur une page **corrigéé** pour limiter
-au maximum les effets de bord.
-
 [1]: http://www.laquadrature.net/fr
 [2]: https://fr.wikipedia.org/wiki/Paul_d%27Ivoi
 [3]: https://fr.wikipedia.org/wiki/Paul_d%27Ivoi#Les_Voyages_excentriques
