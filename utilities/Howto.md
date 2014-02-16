@@ -1,4 +1,57 @@
-# Correction automatique
+# Préparation
+
+La numérisation achevée, les pages sont réparties dans les répertoires `left` et
+`right` et les images nommées par l'appareil photo.  
+Il faut tout d'abord reconstituer le livre en renommant les pages et en les
+rassemblant.
+
+La numérotation des fichiers doit respecter la numérotation physique.
+Les photos des pages de couverture seront donc appelées `cover-*.JPG`
+et les pages `page-*.JPG`
+
+Les pages de gauche porteront donc les numéros impairs, les pages de droite les
+numéros pairs.
+
+Pour les pages de gauche on utilisera:
+
+        PAGE=1
+        for file in IMG_*.JPG;
+        do
+            mv ${file} page-${PAGE}.JPG
+            PAGE=$((PAGE+2))
+        done
+
+Et pour les pages de droite:
+
+        PAGE=2
+        for file in IMG_*.JPG;
+        do
+            mv ${file} page-${PAGE}.JPG
+            PAGE=$((PAGE+2))
+        done
+
+Une fois les pages renumérotées et rassemblées, il faut encore leur appliquer
+une rotation de 90° vers la droite pour les pages impaires et vers la gauche
+pour les pages paires.
+Ceci est équivalent à une rotation de 90° vers la droite pour les pages impaires
+et de 270° vers la droite pour les pages paires, ce que réalise la bout de script
+suivant:
+
+        for file in page-*.JPG;
+        do
+            PAGE=${file#page-*}
+            PAGE=${PAGE%.JPG}
+            MODULO=$((PAGE % 2))
+            ROTATE=$((270-MODULO*180))
+            convert -rotate ${ROTATE} ${file} ${file%.*}.jpg
+            mv ${file%.*}.jpg ${file}
+        done
+
+# Traitement du texte
+
+## Reconnaissance de caractères
+
+## Correction automatique
 
 Parfois, le logiciel de reconnaissance de caractères utilise des
 combinaisons particulières, par exemple: « ﬁ » (en un seul caractère) au
@@ -32,7 +85,7 @@ rapidement :
 Attention, n'exécutez ces commandes que sur une page **corrigéé** pour limiter
 au maximum les effets de bord.
 
-# Intégration d'images
+# Traitement des images
 
 - Extraire les images des photos originales (avant
   traitement par ScanTailor ou autre)
@@ -41,13 +94,15 @@ au maximum les effets de bord.
 - Redimensionner les images avec le script:
 
         SIZE=480
-        for file in *.jpg; do
+        for file in *.JPG; do
            echo -n Converting ${file}...
           convert -resize ${SIZE}x${SIZE} -quality 60 "$file" "little/${file%.*}.jpg"
            echo done
         done
 
-# Page de couverture
+# Post-production de l'epub
+
+## Page de couverture
 
 Par défaut, l'image de couverture est dans une simple balise `img`
 Pour Jud Allan, j'ai choisi le code suivant, plus universel:
@@ -60,7 +115,7 @@ Pour Jud Allan, j'ai choisi le code suivant, plus universel:
       <image width="428" height="640" xlink:href="cover-image.jpg" />
     </svg>
 
-# Têtes de Chapitres
+## Têtes de Chapitres
 
 Pandoc ne permet malheureusement pas de personnaliser la sortie HTML.  
 Pour Jud Allan, j'ai choisi de remplacer toute les occurrences de:
