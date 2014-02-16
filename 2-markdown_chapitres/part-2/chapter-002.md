@@ -384,7 +384,7 @@ reçu une consigne de leur chef. Ils exécutent.
   vous égare, Gentleman… Les salons sont en bas. Redescendez l’escalier,
   continue Jetty, croyez-moi. Cela sera plus convenable pour vous et pour nous.
 
-![Tom et Jetty gisent à terre assommés.](../3-images/part-2/page-311.jpg "Tom et Jetty gisent à terre assommés.")
+![Tom et Jetty gisent à terre assommés.](../3-images/part-2/page-309.jpg "Tom et Jetty gisent à terre assommés.")
 
 — Ma foi, riposte enfin le professeur en s’approchant insensiblement de son
   interlocuteur, je ne pensais pas commettre une faute en venant présenter mes
