@@ -1,6 +1,6 @@
 ## La course des « chevaux de feu »
 
-![](../3-images/part-2/page-375.jpg)
+![Chapitre 6](../3-images/part-2/page-375.jpg)
 
 Comme Jud Allan et Tril pénétraient sur les quais de la gare du Southern
 Pacifique, un train composé seulement d’une locomotive, de son tender et d’un

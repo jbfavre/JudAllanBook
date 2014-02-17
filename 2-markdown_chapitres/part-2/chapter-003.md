@@ -1,6 +1,6 @@
 ## L’affaire des barres d’or
 
-![](../3-images/part-2/page-327.jpg)
+![Chapitre 3](../3-images/part-2/page-327.jpg)
 
 _Audacieux pilleurs de trains. – Cinq millions d’or en barres enlevés. – Deux
 agents agonisent, deux autres blessés_.

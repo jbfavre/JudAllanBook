@@ -1,6 +1,6 @@
 ## Le banquet noir
 
-![](../3-images/part-2/page-466.jpg)
+![Chapitre 12](../3-images/part-2/page-466.jpg)
 
 Suzan redisait les dernières paroles prononcées par Frey Jemkins.
 

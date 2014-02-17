@@ -1,6 +1,6 @@
 ## Le revolver épargne, le mot tue
 
-![](../3-images/part-2/page-454.jpg)
+![Chapitre 11](../3-images/part-2/page-454.jpg)
 
 Comment Lilian et Linérès étaient-elles tombées au pouvoir des peones, qui venaient de les ramener en face de Frey Jemkins ?
 

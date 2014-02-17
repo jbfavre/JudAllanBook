@@ -1,6 +1,6 @@
 ## Les lads contre les bandits
 
-![](../3-images/part-2/page-303.jpg)
+![Chapitre 2](../3-images/part-2/page-303.jpg)
 
 L’avenue Pensylvania était en rumeur ; voitures, automobiles roulaient,
 grondaient. Les chevaux piaffaient, les moteurs crépitaient.

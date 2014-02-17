@@ -1,6 +1,6 @@
 ## La roche tarpéienne
 
-![](../3-images/part-2/page-287.jpg)
+![Chapitre 1](../3-images/part-2/page-287.jpg)
 
 Non loin de l’habitation de Frey Jemkins se dresse l’hôtel à voyageurs
 New-Villard de Washington.

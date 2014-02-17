@@ -1,6 +1,6 @@
 ## Les volontés se croisent
 
-![](../3-images/part-2/page-415.jpg)
+![Chapitre 9](../3-images/part-2/page-415.jpg)
 
 — Par ma foi, rien qu’à voir cette aimable señorita, j’aurais deviné, je pense,
   l’héritière des domaines de Pariset.
@@ -964,5 +964,5 @@ Marahi attendit quelques instants encore. Enfin rassurée par le silence, elle
 sortit doucement de son abri, et retourna vers la pulqueria.
 
 [^2-09-1]: il s’agit d’une orthographe acceptée du terme, comme indiqué sur
-           [la page Wikipédia du mot véranda](fr.wikipedia.org/wiki/Véranda)
+           [la page Wikipédia du mot véranda](http://fr.wikipedia.org/wiki/Véranda)
            (note de l’éditeur)

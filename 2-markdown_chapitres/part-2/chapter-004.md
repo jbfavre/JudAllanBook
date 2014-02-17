@@ -1,6 +1,6 @@
 ## L’affaire des diamants
 
-![](../3-images/part-2/page-343.jpg)
+![Chapitre 4](../3-images/part-2/page-343.jpg)
 
 Appels de sirènes, tintements de cloches, grincements de poulies, halètement
 des grues à vapeur, roulement sourd des trains du Métropolitain aérien,

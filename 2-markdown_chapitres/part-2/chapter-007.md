@@ -1,6 +1,6 @@
 ## Le sorcier El Dieblo
 
-![](../3-images/part-2/page-386.jpg)
+![Chapitre 7](../3-images/part-2/page-386.jpg)
 
 — Votre existence, mon honneur sont en jeu, Linérès.
 

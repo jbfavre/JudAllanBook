@@ -1,6 +1,6 @@
 ## Le mort vivant
 
-![](../3-images/part-2/page-405.jpg)
+![Chapitre 8](../3-images/part-2/page-405.jpg)
 
 Une heure plus tard, El Dieblo sortait par la petite porte s’ouvrant derrière
 l’hacienda, la même qui, seize ans auparavant, avait livré passage à la

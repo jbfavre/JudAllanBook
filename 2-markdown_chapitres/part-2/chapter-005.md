@@ -1,6 +1,6 @@
 ## La chasse à l’homme
 
-![](../3-images/part-2/page-360.jpg)
+![Chapitre 5](../3-images/part-2/page-360.jpg)
 
 Allan s’aperçut à peine qu’il restait seul. En face du nouveau mystère se
 présentant devant lui, il ressentait une sorte de vertige.
@@ -85,8 +85,8 @@ Et reprenant sa lecture :
 Le jeune homme tourna les pages. Des notes chiffrées appelèrent son attention.
 Elles affectaient cette disposition :
 
-> — 85-<u>10</u>1-85. — 85-4-<u>11</u> <u>12</u>-45-8 . 19-8 . 3-110-10-8905 : <u>11</u>-<u>10</u>-<span style="text-decoration:overline;">10</span>.
-  5<u>12</u>53-6-8-<u>11</u> . 1901-<u>12</u>-6 . — 7<u>12</u>5-3 : <span style="text-decoration:overline;">50</span>.
+> — 85-<span style="text-decoration:underline;">10</span>1-85. — 85-4-<span style="text-decoration:underline;">11</span> <span style="text-decoration:underline;">12</span>-45-8 . 19-8 . 3-110-10-8905 : <span style="text-decoration:underline;">11</span>-<span style="text-decoration:underline;">10</span>-<span style="text-decoration:overline;">10</span>.
+  5<span style="text-decoration:underline;">12</span>53-6-8-<span style="text-decoration:underline;">11</span> . 1901-<span style="text-decoration:underline;">12</span>-6 . — 7<span style="text-decoration:underline;">12</span>5-3 : <span style="text-decoration:overline;">50</span>.
 
 D’autres encore s’étalaient sur divers feuillets ; mais celles-ci,
 relativement courtes, furent l’objet d’un examen plus approfondi de la part de

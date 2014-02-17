@@ -1,6 +1,6 @@
 ## Fiançailles tragiques
 
-![](../3-images/part-2/page-435.jpg)
+![Chapitre 10](../3-images/part-2/page-435.jpg)
 
 Huit jours ont passé. Dans une salle du rez-de-chaussée de la Maison d’Azur, M^me^ Pariset et Lilian étaient enlacées.
 
