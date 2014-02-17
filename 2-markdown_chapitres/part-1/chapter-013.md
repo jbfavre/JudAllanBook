@@ -2113,7 +2113,7 @@ roulant pesamment à travers la ville endormie.
 [^1-13-1]: Un département français a, en moyenne, une superficie de 6.000 kilomètres
            carrés.
 
-[^1-13-2]: Sujets du roi, vassaux. Tiré du latin _leudes_ (NDLR, voir [Wikipédia](http://fr.wikipedia.org/wiki/Leude])
+[^1-13-2]: Sujets du roi, vassaux. Tiré du latin _leudes_ (NDLR, voir [Wikipédia](http://fr.wikipedia.org/wiki/Leude)
 
 [^1-13-3]: À Washington, les avenues rayonnant autour du Capitole ont des noms,
            comme Pensylvania avenue. Les autres sont désignées soit par des
