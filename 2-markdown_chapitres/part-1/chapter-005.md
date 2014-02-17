@@ -1,6 +1,6 @@
 ## Un magicien et un ami
 
-![](../3-images/part-1/page-078.jpg)
+![Chapitre 5](../3-images/part-1/page-078.jpg)
 
 Mais le marquis n’en avait pas fini avec les surprises.
 

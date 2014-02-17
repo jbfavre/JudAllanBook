@@ -1,6 +1,6 @@
 ## Le journal de Jud
 
-![](../3-images/part-1/page-196.jpg)
+![Chapitre 12](../3-images/part-1/page-196.jpg)
 
 Qu’est-ce que Jud ?
 

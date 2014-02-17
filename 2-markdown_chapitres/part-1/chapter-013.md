@@ -1,6 +1,6 @@
 ## Le serment du chevalier vagabond
 
-![](../3-images/part-1/page-221.jpg)
+![Chapitre 13](../3-images/part-1/page-221.jpg)
 
 Ici, Grace fit entendre une exclamation de surprise :
 

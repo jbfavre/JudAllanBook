@@ -1,6 +1,6 @@
 ## Le diable s’en mêle
 
-![](../3-images/part-1/page-044.jpg)
+![Chapitre 3](../3-images/part-1/page-044.jpg)
 
 — Ah ! voici le señor. Que la journée vous soit bonne, señor. Le _coche_
   (voiture) vous attend.

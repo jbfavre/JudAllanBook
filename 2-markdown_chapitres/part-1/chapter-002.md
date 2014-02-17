@@ -1,6 +1,6 @@
 ## L’engrenage du merveilleux
 
-![](../3-images/part-1/page-020.jpg)
+![Chapitre 2](../3-images/part-1/page-020.jpg)
 
 Rêvant, monologuant, tour à tour repoussant ou acceptant les fantastiques
 affirmations de la Gitana, le marquis était rentré à la posada del Cid,

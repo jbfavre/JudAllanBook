@@ -1,6 +1,6 @@
 ## La photographie magique
 
-![](../3-images/part-1/page-001.jpg)
+![Chapitre 1](../3-images/part-1/page-001.jpg)
 
 — J’ai tenu à vous montrer cette lettre de France, afin de vous assurer
   du paiement prochain de ma dette.

@@ -1,6 +1,6 @@
 ## Le septième
 
-![](../3-images/part-1/page-087.jpg)
+![Chapitre 6](../3-images/part-1/page-087.jpg)
 
 — Ah ! enfin ! Voici Lerenaud.
 

@@ -1,6 +1,6 @@
 ## L’autre Lilian
 
-![](../3-images/part-1/page-154.jpg)
+![Chapitre 10](../3-images/part-1/page-154.jpg)
 
 — Oh ! tu as beau marquer de l’impatience, je ne t’en garderai pas
   rancune. Cœur souffrant n’a pas bon caractère… Ainsi, Lilian, sois

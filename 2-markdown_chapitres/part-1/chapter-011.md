@@ -1,6 +1,6 @@
 ## La voix mystérieuse
 
-![](../3-images/part-1/page-174.jpg)
+![Chapitre 11](../3-images/part-1/page-174.jpg)
 
 — Le bill sur les trusts est inacceptable !
 
