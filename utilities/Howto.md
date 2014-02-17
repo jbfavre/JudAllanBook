@@ -125,7 +125,18 @@ Pour Jud Allan, j'ai choisi de remplacer toute les occurrences de:
 par
          class="section level2"><h2 class="chapter"><span class="chapterHeader"><span class="translation">Chapitre</span><span class="count">1</span></span>
 
-Le numéro de chapitre est ensuite manuellement corrigé
+Le numéro de chapitre est ensuite manuellement corrigé.
+
+Pour passer avec succès les tests de epubcheck, il faut également modifier les
+images de têtes de chapitre: la norme impose l'élément alt, mais pandoc en
+profite pour ajouter un titre. Il faut donc ôter le titre en remplaçant:
+
+        alt="Chapitre (\d)+" /><p class="caption">Chapitre \d+</p>
+
+par
+
+        alt="Chapitre" />
+
 
 # Génération du fichier epub
 
