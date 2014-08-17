@@ -16,8 +16,8 @@ vmargin=3.5cm
 # Common options for pandoc's calls
 make_dir=$(shell pwd)
 templates_dir=$(make_dir)/templates.epub
-outputdir=$(make_dir)/output
-epubdir=$(make_dir)/epub
+outputdir=$(make_dir)/../output
+epubdir=$(make_dir)/../epub
 utilsdir=$(make_dir)/templates.epub
 img_dir=$(make_dir)/../images
 pages_dir=$(make_dir)/../bookmd
@@ -78,11 +78,13 @@ endif
 		../metadata.md \
 		$(pages_dir)/part-1/*.md
 	@echo "Extracting part 1 epub..."
+	@mkdir -p $(epubdir)/$(patsubst %.epub,%,$(@))
 	@$(unzip_bin) -qq \
-		-d $(outputdir)/$(patsubst %.epub,%,$(@)) \
+		-d $(epubdir)/$(patsubst %.epub,%,$(@)) \
 		$(outputdir)/$(@)
+	@mkdir -p $(epubdir)/$(patsubst %.epub,%,$(@)).3
 	@$(unzip_bin) -qq \
-		-d {+$(epubdir)/$(patsubst %.epub,%,$(@)).3 \
+		-d $(epubdir)/$(patsubst %.epub,%,$(@)).3 \
 		$(outputdir)/$(patsubst {+%.epub,%,$(@)).3.epub
 	@echo "Applying custom theme..."
 	@./bookscanner_custom_theme.sh $(epubdir)/$(patsubst %.epub,%,$(@))
@@ -119,11 +121,13 @@ endif
 		../metadata.md \
 		$(pages_dir)/part-1/*.md
 	@echo "Extracting part 2 epub..."
+	@mkdir -p $(epubdir)/$(patsubst %.epub,%,$(@))
 	@$(unzip_bin) -qq \
-		-d $(outputdir)/$(patsubst %.epub,%,$(@)) \
-		$(outputdir)/$(@) \
+		-d $(epubdir)/$(patsubst %.epub,%,$(@)) \
+		$(outputdir)/$(@)
+	@mkdir -p $(epubdir)/$(patsubst %.epub,%,$(@)).3
 	@$(unzip_bin) -qq \
-		-d {+$(epubdir)/$(patsubst %.epub,%,$(@)).3 \
+		-d $(epubdir)/$(patsubst %.epub,%,$(@)).3 \
 		$(outputdir)/$(patsubst {+%.epub,%,$(@)).3.epub
 	@echo "Applying custom theme..."
 	@./bookscanner_custom_theme.sh $(epubdir)/$(patsubst %.epub,%,$(@))
