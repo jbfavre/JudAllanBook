@@ -1,4 +1,4 @@
-## L’engrenage du merveilleux
+# L’engrenage du merveilleux
 
 ![Chapitre 2](../images/part-1/page-020.jpg)
 

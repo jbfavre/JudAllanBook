@@ -1,4 +1,4 @@
-## La roche tarpéienne
+# La roche tarpéienne
 
 ![Chapitre 1](../images/part-2/page-287.jpg)
 

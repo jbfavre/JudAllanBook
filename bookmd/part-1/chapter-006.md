@@ -1,4 +1,4 @@
-## Le septième
+# Le septième
 
 ![Chapitre 6](../images/part-1/page-087.jpg)
 

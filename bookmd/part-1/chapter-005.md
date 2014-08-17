@@ -1,4 +1,4 @@
-## Un magicien et un ami
+# Un magicien et un ami
 
 ![Chapitre 5](../images/part-1/page-078.jpg)
 

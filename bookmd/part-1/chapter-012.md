@@ -1,4 +1,4 @@
-## Le journal de Jud
+# Le journal de Jud
 
 ![Chapitre 12](../images/part-1/page-196.jpg)
 

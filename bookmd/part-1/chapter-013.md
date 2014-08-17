@@ -1,4 +1,4 @@
-## Le serment du chevalier vagabond
+# Le serment du chevalier vagabond
 
 ![Chapitre 13](../images/part-1/page-221.jpg)
 

@@ -1,4 +1,4 @@
-## L’autre Lilian
+# L’autre Lilian
 
 ![Chapitre 10](../images/part-1/page-154.jpg)
 

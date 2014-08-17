@@ -1,4 +1,4 @@
-## La voix mystérieuse
+# La voix mystérieuse
 
 ![Chapitre 11](../images/part-1/page-174.jpg)
 

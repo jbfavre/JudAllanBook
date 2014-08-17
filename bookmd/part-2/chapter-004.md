@@ -1,4 +1,4 @@
-## L’affaire des diamants
+# L’affaire des diamants
 
 ![Chapitre 4](../images/part-2/page-343.jpg)
 

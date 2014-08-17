@@ -1,4 +1,4 @@
-## L’affaire des barres d’or
+# L’affaire des barres d’or
 
 ![Chapitre 3](../images/part-2/page-327.jpg)
 

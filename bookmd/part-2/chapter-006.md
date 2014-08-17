@@ -1,4 +1,4 @@
-## La course des « chevaux de feu »
+# La course des « chevaux de feu »
 
 ![Chapitre 6](../images/part-2/page-375.jpg)
 

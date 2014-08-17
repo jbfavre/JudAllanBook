@@ -1,4 +1,4 @@
-## Un milliardaire
+# Un milliardaire
 
 ![Chapitre 7](../images/part-1/page-108.jpg)
 

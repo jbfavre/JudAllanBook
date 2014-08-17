@@ -1,4 +1,4 @@
-## Le mort vivant
+# Le mort vivant
 
 ![Chapitre 8](../images/part-2/page-405.jpg)
 

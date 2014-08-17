@@ -1,4 +1,4 @@
-## Le sorcier El Dieblo
+# Le sorcier El Dieblo
 
 ![Chapitre 7](../images/part-2/page-386.jpg)
 

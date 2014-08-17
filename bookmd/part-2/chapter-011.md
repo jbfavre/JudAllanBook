@@ -1,4 +1,4 @@
-## Le revolver épargne, le mot tue
+# Le revolver épargne, le mot tue
 
 ![Chapitre 11](../images/part-2/page-454.jpg)
 

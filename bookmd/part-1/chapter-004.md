@@ -1,4 +1,4 @@
-## Gamme d’émotions
+# Gamme d’émotions
 
 ![Chapitre 4](../images/part-1/page-064.jpg)
 

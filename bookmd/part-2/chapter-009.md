@@ -1,4 +1,4 @@
-## Les volontés se croisent
+# Les volontés se croisent
 
 ![Chapitre 9](../images/part-2/page-415.jpg)
 

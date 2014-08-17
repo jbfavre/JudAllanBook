@@ -1,4 +1,4 @@
-## Le banquet noir
+# Le banquet noir
 
 ![Chapitre 12](../images/part-2/page-466.jpg)
 

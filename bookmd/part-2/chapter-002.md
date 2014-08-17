@@ -1,4 +1,4 @@
-## Les lads contre les bandits
+# Les lads contre les bandits
 
 ![Chapitre 2](../images/part-2/page-303.jpg)
 

@@ -1,4 +1,4 @@
-## La photographie magique
+# La photographie magique
 
 ![Chapitre 1](../images/part-1/page-001.jpg)
 

@@ -1,4 +1,4 @@
-## La chasse à l’homme
+# La chasse à l’homme
 
 ![Chapitre 5](../images/part-2/page-360.jpg)
 
