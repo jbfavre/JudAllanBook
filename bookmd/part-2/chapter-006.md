@@ -1,6 +1,6 @@
 ## La course des « chevaux de feu »
 
-![Chapitre 6](../3-images/part-2/page-375.jpg)
+![Chapitre 6](../images/part-2/page-375.jpg)
 
 Comme Jud Allan et Tril pénétraient sur les quais de la gare du Southern
 Pacifique, un train composé seulement d’une locomotive, de son tender et d’un
@@ -308,7 +308,7 @@ criminels.
 À la prostration succéda le désir de vaincre la police, cette ennemie contre
 laquelle il avait lutté toute sa vie.
 
-![L’allure était terrifiante.](../3-images/part-2/page-381.jpg "L’allure était terrifiante.")
+![L’allure était terrifiante.](../images/part-2/page-381.jpg "L’allure était terrifiante.")
 
 Il était seul dans un train mené par deux agents.
 
@@ -388,7 +388,7 @@ par les sinuosités du remblai.
 Lentement Van Reek actionne les freins. Les roues patinent sur les rails, la
 vitesse décroît. Quelques tours de roues et la locomotive s’arrête.
 
-![Lentement, il se mit à progresser vers l’avant du train.](../3-images/part-2/page-384.jpg "Lentement, il se mit à progresser vers l’avant du train.")
+![Lentement, il se mit à progresser vers l’avant du train.](../images/part-2/page-384.jpg "Lentement, il se mit à progresser vers l’avant du train.")
 
 Sans perdre une seconde, le lieutenant de Frey Jemkins saute sur le ballast.
 Il court aussi vite qu’il le peut en avant de la locomotive. Il a un cri de

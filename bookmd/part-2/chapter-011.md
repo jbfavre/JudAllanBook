@@ -1,6 +1,6 @@
 ## Le revolver épargne, le mot tue
 
-![Chapitre 11](../3-images/part-2/page-454.jpg)
+![Chapitre 11](../images/part-2/page-454.jpg)
 
 Comment Lilian et Linérès étaient-elles tombées au pouvoir des peones, qui venaient de les ramener en face de Frey Jemkins ?
 
@@ -476,7 +476,7 @@ Et, pressant :
 — L’or est dans l’une des salles de méditation du temple… en banknotes
   anglaises, ayant cours partout… Puis-je les prendre et sortir librement… ?
 
-![Jud se prit la tête à deux mains.](../3-images/part-2/page-463.jpg "Jud se prit la tête à deux mains.")
+![Jud se prit la tête à deux mains.](../images/part-2/page-463.jpg "Jud se prit la tête à deux mains.")
 
 Une lividité spectrale s’étendit sur les traits d’Allan.
 

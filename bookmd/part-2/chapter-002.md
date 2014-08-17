@@ -1,6 +1,6 @@
 ## Les lads contre les bandits
 
-![Chapitre 2](../3-images/part-2/page-303.jpg)
+![Chapitre 2](../images/part-2/page-303.jpg)
 
 L’avenue Pensylvania était en rumeur ; voitures, automobiles roulaient,
 grondaient. Les chevaux piaffaient, les moteurs crépitaient.
@@ -194,7 +194,7 @@ Jud chancela sous le coup. Lilian chez Jemkins, chez l’assassin de Pariset. Et
 dans le désarroi de sa pensée, il sentait peser sur lui le regard cruellement
 narquois de son ennemi. Celui-ci continuait imperturbablement:
 
-![Il tira une feuille de papier de son portefeuille et la tendant à Allan :](../3-images/part-2/page-307.jpg "Il tira une feuille de papier de son portefeuille et la tendant à Allan :")
+![Il tira une feuille de papier de son portefeuille et la tendant à Allan :](../images/part-2/page-307.jpg "Il tira une feuille de papier de son portefeuille et la tendant à Allan :")
 
 — Comment cette jeune dame a été aménée ici, je ne l’ai pu découvrir…
   Toutefois, je n’ai pas songé un moment à la rendre responsable d’une
@@ -384,7 +384,7 @@ reçu une consigne de leur chef. Ils exécutent.
   vous égare, Gentleman… Les salons sont en bas. Redescendez l’escalier,
   continue Jetty, croyez-moi. Cela sera plus convenable pour vous et pour nous.
 
-![Tom et Jetty gisent à terre assommés.](../3-images/part-2/page-309.jpg "Tom et Jetty gisent à terre assommés.")
+![Tom et Jetty gisent à terre assommés.](../images/part-2/page-309.jpg "Tom et Jetty gisent à terre assommés.")
 
 — Ma foi, riposte enfin le professeur en s’approchant insensiblement de son
   interlocuteur, je ne pensais pas commettre une faute en venant présenter mes
@@ -577,7 +577,7 @@ Soudain, Pierre se dressa sur son séant, avec un cri :
   passage au soleil… Et cette couchette étroite… Est-ce que les diableries
   continuent ?
 
-![D’un bond, le jeune homme fut auprès du hublot, l’ouvrit et demeura médusé](../3-images/part-2/page-315.jpg "D’un bond, le jeune homme fut auprès du hublot, l’ouvrit et demeura médusé")
+![D’un bond, le jeune homme fut auprès du hublot, l’ouvrit et demeura médusé](../images/part-2/page-315.jpg "D’un bond, le jeune homme fut auprès du hublot, l’ouvrit et demeura médusé")
 
 D’un bond, le jeune homme fut auprès du hublot, l’ouvrit et demeura médusé. Au
 dehors, il apercevait une large rivière, sur laquelle flottait un bâtiment
@@ -782,7 +782,7 @@ sous les arches duquel roulaient les ondes avec des remous scintillants.
 Jud s’arrêta à l’endroit où la petite rivière appelée Rock-Creek vient se
 perdre dans le Potomac.
 
-![Pille, Storm ! Pille !](../3-images/part-2/page-319.jpg "Pille, Storm ! Pille !")
+![Pille, Storm ! Pille !](../images/part-2/page-319.jpg "Pille, Storm ! Pille !")
 
 Une voiture stationnait en ce point, attelée d’un vigoureux cheval.
 
@@ -867,7 +867,7 @@ Jud s’engage dans le chemin qui lui est tracé.
 Les branches se joignent en berceau au-dessus de sa tête. Il compte trois fois
 cinquante pas. De nouveau, il est arrêté par un fourré.
 
-![Mais Allan leva la main, tous redevinrent muets.](../3-images/part-2/page-321.jpg "Mais Allan leva la main, tous redevinrent muets.")
+![Mais Allan leva la main, tous redevinrent muets.](../images/part-2/page-321.jpg "Mais Allan leva la main, tous redevinrent muets.")
 
 Mais Allan prononce d’un ton ferme
 

@@ -1,6 +1,6 @@
 ## Le diable s’en mêle
 
-![Chapitre 3](../3-images/part-1/page-044.jpg)
+![Chapitre 3](../images/part-1/page-044.jpg)
 
 — Ah ! voici le señor. Que la journée vous soit bonne, señor. Le _coche_
   (voiture) vous attend.
@@ -106,7 +106,7 @@ entourée d’une ceinture de forêts.
 À travers les chênes, les érables, les pins ou les landes couvertes de
 bruyères, le _coche_ gagna la gare située à plus d’un kilomètre de la cité.
 
-![Mais il y eut à peine porté les yeux qu’il pâlit](../3-images/part-1/page-046.jpg
+![Mais il y eut à peine porté les yeux qu’il pâlit](../images/part-1/page-046.jpg
 "Mais il y eut à peine porté les yeux qu’il pâlit")
 
 Là, Pierre, s’étant séparé de son voiturier, apprit que le train pour la
@@ -453,7 +453,7 @@ Et, par contre-coup, les fumées de légende qui obscurcissaient les
 aventures d’Espagne, se dissipaient, ses idées se clarifiaient en
 quelque sorte.
 
-![Dix mille deux cent vingt et un francs, soixante-dix centimes. Les voici](../3-images/part-1/page-053.jpg
+![Dix mille deux cent vingt et un francs, soixante-dix centimes. Les voici](../images/part-1/page-053.jpg
 "Dix mille deux cent vingt et un francs, soixante-dix centimes. Les voici")
  
 — Je vais faire appeler une voiture, proposa Morand.
@@ -674,7 +674,7 @@ Allan s’exprimait avec aisance, en excellent français, qu’agrémentaient
 sans le déparer quelques inflexions gutturales, et de-ci, de-là, un
 américanisme.
 
-![Il ne resta près du socle de pierre que trois gamins dépenaillés](../3-images/part-1/page-057.jpg
+![Il ne resta près du socle de pierre que trois gamins dépenaillés](../images/part-1/page-057.jpg
 "Il ne resta près du socle de pierre que trois gamins dépenaillés")
 
 Mais c’était l’homme lui-même que le marquis, en épris d’art, considérait.
@@ -751,7 +751,7 @@ plaquettes 7, 16, 21 et 25 se rabattent.
 Les réponses ne laissèrent aucun doute. Les cohéreurs _non accordés_
 n’avaient point signalé le passage des ondes sans fil.
 
-![Messieurs, si vous 1e permettez, nous allons commencer les expériences](../3-images/part-1/page-059.jpg
+![Messieurs, si vous 1e permettez, nous allons commencer les expériences](../images/part-1/page-059.jpg
 "Messieurs, si vous 1e permettez, nous allons commencer les expériences")
 
 Très intéressés, les assistants répétaient l’expérience, chacun

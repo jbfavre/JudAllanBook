@@ -1,6 +1,6 @@
 ## La roche tarpéienne
 
-![Chapitre 1](../3-images/part-2/page-287.jpg)
+![Chapitre 1](../images/part-2/page-287.jpg)
 
 Non loin de l’habitation de Frey Jemkins se dresse l’hôtel à voyageurs
 New-Villard de Washington.
@@ -232,7 +232,7 @@ Il domine ses nerfs par un effort surhumain dont tout son être frissonne.
   qui m’est parvenue ce matin, m’a causé les plus vives alarmes. On m’annonce
   que ma sœur a quitté la pension.
 
-![Lilian ! Où est Lilian ? Laissez‐moi passer !](../3-images/part-2/page-292.jpg "Lilian ! Où est Lilian ? Laissez‐moi passer !")
+![Lilian ! Où est Lilian ? Laissez‐moi passer !](../images/part-2/page-292.jpg "Lilian ! Où est Lilian ? Laissez‐moi passer !")
 
 Miss Deffling a un sourire dédaigneux. Elle jette en avant ses mains osseuses
 en un geste de dénégation.
@@ -430,7 +430,7 @@ animation.
 — Je n’aperçois que ces deux causeurs, murmura-t-il… Eux m’aperçoivent aussi.
   Sont-ce des espions ? Nous allons bien le voir.
 
-![Sont-ce des espions ? Nous allons bien le voir.](../3-images/part-2/page-296.jpg "Sont-ce des espions ? Nous allons bien le voir.")
+![Sont-ce des espions ? Nous allons bien le voir.](../images/part-2/page-296.jpg "Sont-ce des espions ? Nous allons bien le voir.")
 
 Et sa douleur brusquement apaisée par la volupté de l’action :
 
@@ -625,7 +625,7 @@ Elle fit une légère pause, comme pour triompher d’une dernière hésitation.
 — Tril m’a glissé à l’oreille que le moment était venu où l’on pourrait se
   dévouer pour toi.
 
-![C’est moi, Roi, fit-elle d’une voix douce.](../3-images/part-2/page-300.jpg "C’est moi, Roi, fit-elle d’une voix douce.")
+![C’est moi, Roi, fit-elle d’une voix douce.](../images/part-2/page-300.jpg "C’est moi, Roi, fit-elle d’une voix douce.")
 
 — Tril est un affreux bavard, je le gronderai à la première occasion.
 

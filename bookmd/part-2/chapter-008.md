@@ -1,6 +1,6 @@
 ## Le mort vivant
 
-![Chapitre 8](../3-images/part-2/page-405.jpg)
+![Chapitre 8](../images/part-2/page-405.jpg)
 
 Une heure plus tard, El Dieblo sortait par la petite porte s’ouvrant derrière
 l’hacienda, la même qui, seize ans auparavant, avait livré passage à la
@@ -274,7 +274,7 @@ Et la veuve a répondu sans hésiter :
 
 — Je dirai tout mon cœur.
 
-![Demain, pauvre mère, direz-vous toute la vérité ?](../3-images/part-2/page-410.jpg "Demain, pauvre mère, direz-vous toute la vérité ?")
+![Demain, pauvre mère, direz-vous toute la vérité ?](../images/part-2/page-410.jpg "Demain, pauvre mère, direz-vous toute la vérité ?")
 
 Rouge-Fleur ne peut soupçonner cela ; mais elle s’inquiète vaguement de
 l’animation soudaine des traits des recluses. L’Indien la rassure aussitôt :
@@ -411,7 +411,7 @@ Le singe et le dogue étaient là devant eux, quémandant des caresses.
 
 — Seuls !… et Suzan ? murmura Tril d’une voix étranglée.
 
-![Il avait été recueilli blessé par l’indienne Marahi.](../3-images/part-2/page-413.jpg "Il avait été recueilli blessé par l’indienne Marahi.")
+![Il avait été recueilli blessé par l’indienne Marahi.](../images/part-2/page-413.jpg "Il avait été recueilli blessé par l’indienne Marahi.")
 
 — Me voici, me voici ! répondit l’organe essoufflé de la fillette, qui,
   presque aussitôt, rejoignait le groupe.

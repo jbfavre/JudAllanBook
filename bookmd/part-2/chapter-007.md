@@ -1,6 +1,6 @@
 ## Le sorcier El Dieblo
 
-![Chapitre 7](../3-images/part-2/page-386.jpg)
+![Chapitre 7](../images/part-2/page-386.jpg)
 
 — Votre existence, mon honneur sont en jeu, Linérès.
 
@@ -135,7 +135,7 @@ La lettre était donc fausse…
 
 Une terreur mêlée de colère avait envahi les fiancés.
 
-![Un serviteur armé avait couru sus aux visiteurs.](../3-images/part-2/page-389.jpg "Un serviteur armé avait couru sus aux visiteurs.")
+![Un serviteur armé avait couru sus aux visiteurs.](../images/part-2/page-389.jpg "Un serviteur armé avait couru sus aux visiteurs.")
 
 Le lugubre avertissement, jeté par Allan dans la nuit de fête de Jemkins
 House, n’avait plus cessé de sonner aux oreilles des infortunés.
@@ -804,7 +804,7 @@ Jemkins ébranla le plancher d’un formidable coup de talon.
 Quoiqu’ils en eussent, les bandits garderont le silence. L’accent prophétique
 du singulier personnage les impressionnait.
 
-![Il prononçait à voix basse des paroles que nul n’entendait.](../3-images/part-2/page-401.jpg "Il prononçait à voix basse des paroles que nul n’entendait.")
+![Il prononçait à voix basse des paroles que nul n’entendait.](../images/part-2/page-401.jpg "Il prononçait à voix basse des paroles que nul n’entendait.")
 
 — Mais enfin, que prétends-tu faire ? murmura Frey Jemkins.
 

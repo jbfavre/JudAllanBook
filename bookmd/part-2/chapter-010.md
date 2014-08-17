@@ -1,6 +1,6 @@
 ## Fiançailles tragiques
 
-![Chapitre 10](../3-images/part-2/page-435.jpg)
+![Chapitre 10](../images/part-2/page-435.jpg)
 
 Huit jours ont passé. Dans une salle du rez-de-chaussée de la Maison d’Azur, M^me^ Pariset et Lilian étaient enlacées.
 
@@ -39,7 +39,7 @@ La veste, la jupe de soie blanche aux broderies bleu et argent, les petits
 souliers de satin adornés de même et laissant apercevoir les bas soyeux d’un
 bleu pâle.
 
-![Lilian était ravissante dans ce costume mexicain.](../3-images/part-2/page-436.jpg "Lilian était ravissante dans ce costume mexicain.")
+![Lilian était ravissante dans ce costume mexicain.](../images/part-2/page-436.jpg "Lilian était ravissante dans ce costume mexicain.")
 
 Un petit coup léger fut frappé à la porte, et la Chinoise Rouge-Fleur se montra
 presque aussitôt.
@@ -540,7 +540,7 @@ ruée, une bousculade, des cris effarés.
 
 — Le feu ! le feu !
 
-![Une salve retentit stridente.](../3-images/part-2/page-445.jpg "Une salve retentit stridente.")
+![Une salve retentit stridente.](../images/part-2/page-445.jpg "Une salve retentit stridente.")
 
 Les jeunes gens sont séparés, entraînés par des courants humains. Affolé,
 étourdi, Pierre se trouve transporté à vingt pas de là.
@@ -679,7 +679,7 @@ Le délégué approuve du geste, puis il ajoute :
   cohue des invités, qui, à l’heure présente, sont tout à la dégustation du
   banquet que l’on vient de leur servir.
 
-![Entre les parties contractantes…](../3-images/part-2/page-448.jpg "Entre les parties contractantes…")
+![Entre les parties contractantes…](../images/part-2/page-448.jpg "Entre les parties contractantes…")
 
 Cette fois, Chazelet tressaille avec raison. Les précautions prises l’isolent
 du reste du monde. Il est entouré de créatures à la solde de Frey Jemkins, et

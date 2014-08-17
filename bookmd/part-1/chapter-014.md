@@ -1,6 +1,6 @@
 ## Le Diable semble rentrer en scène
 
-![Chapitre 14](../3-images/part-1/page-267.jpg)
+![Chapitre 14](../images/part-1/page-267.jpg)
 
 — Ah ! enfin, le jour !
 
@@ -212,7 +212,7 @@ Du coup, Pierre se prit la tête à deux mains. Et elle continuait :
   puisque je me réveille complètement vêtue… Mais par quel prodige suis-je
   ici, dans cette maison que je ne connais pas… ?
 
-![Elle le regardait, une crainte dans ses grands yeux](../3-images/part-1/page-271.jpg
+![Elle le regardait, une crainte dans ses grands yeux](../images/part-1/page-271.jpg
 "Elle le regardait, une crainte dans ses grands yeux")
 
 Et comme frappée par ces derniers mots, elle reprit :
@@ -305,7 +305,7 @@ cacher son trouble, elle prononça :
 Tous sursautèrent et se tournèrent brusquement vers la porte. Dans
 l’encadrement Frey Jemkins se tenait debout.
 
-![L’effet de cette confidence fut foudroyant](../3-images/part-1/page-273.jpg
+![L’effet de cette confidence fut foudroyant](../images/part-1/page-273.jpg
 "L’effet de cette confidence fut foudroyant")
 
 Et en phrases hachées, avec une expression de crainte dont Chazelet
@@ -623,7 +623,7 @@ Et avec une révérence que n’eût pas désavouée une reine de l’élégance
 
 — Vous avez au moins une certaine audace de me le dire.
 
-![Je voulais vous parler seul à seul, persifla-t-elle](../3-images/part-1/page-279.jpg
+![Je voulais vous parler seul à seul, persifla-t-elle](../images/part-1/page-279.jpg
 "Je voulais vous parler seul à seul, persifla-t-elle")
 
 — Cette audace vous démontre, honorable Sénateur, que je suis parvenue à

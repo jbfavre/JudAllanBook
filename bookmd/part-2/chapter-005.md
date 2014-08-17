@@ -1,6 +1,6 @@
 ## La chasse à l’homme
 
-![Chapitre 5](../3-images/part-2/page-360.jpg)
+![Chapitre 5](../images/part-2/page-360.jpg)
 
 Allan s’aperçut à peine qu’il restait seul. En face du nouveau mystère se
 présentant devant lui, il ressentait une sorte de vertige.
@@ -161,7 +161,7 @@ Le petit chasseur eut un cri de joie.
 
 — Sa préférence instinctive irait au flamand, moins répandu que le français.
 
-![Et pensif le professeur continua.](../3-images/part-2/page-363.jpg "Et pensif le professeur continua.")
+![Et pensif le professeur continua.](../images/part-2/page-363.jpg "Et pensif le professeur continua.")
 
 — Alors, vous concluez que ce vilain personnage a employé cette langue.
 
@@ -366,7 +366,7 @@ _traveller_ peut télégraphier où bon lui semble.
 
 Les compagnies américaines ont, en effet, adopté récemment l’appareil d’un inventeur français qui permet d’utiliser les rails pour la transmission des communications électriques.
 
-![Cette dernière chargée du fantasque zaïmziri Zinka.](../3-images/part-2/page-367.jpg "Cette dernière chargée du fantasque zaïmziri Zinka.")
+![Cette dernière chargée du fantasque zaïmziri Zinka.](../images/part-2/page-367.jpg "Cette dernière chargée du fantasque zaïmziri Zinka.")
 
 Jud Allan dans un pulmann, où avaient également pris place Tril, Suzan et le zaïmziri, roulèrent durant six jours, lurent, prirent leurs repas, dormirent, reçurent diverses dépêches chiffrées, tant de Top et de Fall emportés à quelques heures d’intervalle par le même train que Van Reek, que des lads de San-Francisco, mettant Tril au courant de leurs recherches.
 
@@ -435,7 +435,7 @@ naguère groupés.
 — Et le roi accepte, s’écria le professeur en secouant cordialement la main de
   l’envoyé.
 
-![C’est dans cette maison que Jud Allan et ses jeunes compagnons avaient été conduits.](../3-images/part-2/page-369.jpg "C’est dans cette maison que Jud Allan et ses jeunes compagnons avaient été conduits.")
+![C’est dans cette maison que Jud Allan et ses jeunes compagnons avaient été conduits.](../images/part-2/page-369.jpg "C’est dans cette maison que Jud Allan et ses jeunes compagnons avaient été conduits.")
 
 L’une des curiosités de San-Francisco est sans contredit son quartier
 chinois. C’est un quadrilatère, borné par les rues Stockton, Sacramento,
