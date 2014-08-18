@@ -14,14 +14,12 @@ $if(date)$
 $endif$
 
 <!-- Custom metadata -->
-$if(Publisher)$
-  <meta name="generator" content="$Publisher$" />
+  <meta name="generator" content="Tooptee Publisher" />
+$if(tags)$
+  <meta name="keywords" content="$for(tags)$$tags$$sep$,$endfor$" />
 $endif$
-$if(Tags)$
-  <meta name="keywords" content="$for(Tags)$$Tags$$sep$,$endfor$" />
-$endif$
-$if(Summary)$
-  <meta name="description" content="$Summary$" />
+$if(description)$
+  <meta name="description" content="$description$" />
 $endif$
 
 $for(css)$
@@ -32,11 +30,12 @@ $endfor$
 <body>
 $if(titlepage)$
   <h1 class="title">$title$</h1>
+  <h1 class="subtitle">$subtitle$</h1>
 $for(author)$
   <h2 class="author">$author$</h2>
 $endfor$
-$if(Date)$
-  <h3 class="date">$Date$</h3>
+$if(date)$
+  <h3 class="date">$date$</h3>
 $endif$
 $else$
 $body$

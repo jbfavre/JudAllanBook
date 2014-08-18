@@ -4,8 +4,6 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
   <meta http-equiv="Content-Style-Type" content="text/css" />
-
-<!-- Basic metadata -->
   <title>$title$</title>
 $for(author)$
   <meta name="author" content="$author$" />
@@ -13,37 +11,21 @@ $endfor$
 $if(date)$
   <meta name="date" content="$date$" />
 $endif$
-
-<!-- Custom metadata -->
-$if(Publisher)$
-  <meta name="generator" content="$Publisher$" />
+  <meta name="generator" content="Tooptee Publisher" />
+  <meta name="keywords" content="$for(tags)$$tags$$sep$,$endfor$" />
+$if(description)$
+  <meta name="description" content="$description$" />
 $endif$
-$if(Tags)$
-  <meta name="keywords" content="$for(Tags)$$Tags$$sep$,$endfor$" />
-$endif$
-$if(Summary)$
-  <meta name="description" content="$Summary$" />
-$endif$
-
 $for(css)$
   <link rel="stylesheet" type="text/css" href="$css$" />
 $endfor$
-
 </head>
 <body>
 $if(titlepage)$
-  $for(title)$
-  <h1 class="title">$title.text$</h1>
-  $endfor$
-$if(subtitle)$
-  <h2 class="subtitle">$subtitle$</h2>
-$endif$
-$for(author)$
-  <h3 class="author">$author$</h3>
-$endfor$
-$if(date)$
-  <h4 class="date">$date$</h4>
-$endif$
+  <h1 class="title">$title$</h1>
+  <h1 class="subtitle">$subtitle$</h1>
+  <h2 class="author">$author$</h2>
+  <h3 class="date">$date$</h3>
 $else$
   $body$
 $endif$

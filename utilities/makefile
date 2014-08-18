@@ -92,8 +92,6 @@ endif
 
 
 %-partie-2.epub:
-	@$(eval pandoc_metadata=$(shell /usr/bin/awk -f $(utilsdir)/metadata.awk $(pages_dir)/part-2/metadata.txt) )
-	@echo "Generating part 1 epub... "
 	@echo "Generating part 2 epub... "
 	@$(pandoc_bin) \
 		$(pandoc_config) \
@@ -101,7 +99,6 @@ endif
 		--toc --toc-depth=2 \
 		--template=$(templates_dir)/template.epub \
 		--epub-stylesheet=$(templates_dir)/epub.stylesheet.css \
-		--epub-metadata=$(pages_dir)/part-2/metadata.fr.epub \
 		--epub-chapter-level=2 \
 		--epub-cover-image=$(img_dir)/cover.jpg \
 		-o $(outputdir)/$(@) \
@@ -113,7 +110,6 @@ endif
 		--toc --toc-depth=2 \
 		--template=$(templates_dir)/template.epub3 \
 		--epub-stylesheet=$(templates_dir)/epub.stylesheet.css \
-		--epub-metadata=$(pages_dir)/part-2/metadata.fr.epub \
 		--epub-chapter-level=2 \
 		--epub-cover-image=$(img_dir)/cover.jpg \
 		-o $(outputdir)/$(@).3.epub \

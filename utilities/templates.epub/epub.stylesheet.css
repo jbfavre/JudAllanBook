@@ -18,7 +18,8 @@ code{font-family:monospace;white-space:pre-wrap;}
 h1{text-align:center;margin-top:0em;font-size:2.5em;}
 h2{text-align:left;margin-top:0em;font-size:2em;}
 h3{text-align:left;margin-top:0em;font-size:1.5em;}
-h1.title{text-align:center;margin-top:2em;font-size:2em;}
+h1.title{text-align:center;margin-top:2em;}
+h1.subtitle{font-family:italic;text-align:center;margin-top:0.5em;font-size:2.3em;}
 h2.author{text-align:center;margin-top:2em;}
 h3.date {text-align:center;margin-top:2em;}
 p{margin-top:1em;}
