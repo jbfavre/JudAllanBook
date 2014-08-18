@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta name="dtb:uid" content="ISBN" />
+    <meta name="dtb:depth" content="1" />
+    <meta name="dtb:totalPageCount" content="0" />
+    <meta name="dtb:maxPageNumber" content="0" />
+    <meta name="cover" content="cover-image" />
+  </head>
+  <docTitle>
+    <text>Jud Allan, roi des “Lads”</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-0">
+      <navLabel>
+        <text>Jud Allan, roi des “Lads”</text>
+      </navLabel>
+      <content src="title_page.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>La photographie magique</text>
+      </navLabel>
+      <content src="ch001.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>L’engrenage du merveilleux</text>
+      </navLabel>
+      <content src="ch002.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Le diable s’en mêle</text>
+      </navLabel>
+      <content src="ch003.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Gamme d’émotions</text>
+      </navLabel>
+      <content src="ch004.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Un magicien et un ami</text>
+      </navLabel>
+      <content src="ch005.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>Le septième</text>
+      </navLabel>
+      <content src="ch006.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>Un milliardaire</text>
+      </navLabel>
+      <content src="ch007.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>Passez Marquis ! Passez muscade !</text>
+      </navLabel>
+      <content src="ch008.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>Washington-city</text>
+      </navLabel>
+      <content src="ch009.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>L’autre Lilian</text>
+      </navLabel>
+      <content src="ch010.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>La voix mystérieuse</text>
+      </navLabel>
+      <content src="ch011.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>Le journal de Jud</text>
+      </navLabel>
+      <content src="ch012.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>Le serment du chevalier vagabond</text>
+      </navLabel>
+      <content src="ch013.xhtml" />
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>Le Diable semble rentrer en scène</text>
+      </navLabel>
+      <content src="ch014.xhtml" />
+    </navPoint>
+  </navMap>
+</ncx>
