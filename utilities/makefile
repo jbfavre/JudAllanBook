@@ -49,7 +49,6 @@ endif
 	@mkdir -p $(epubdir)
 	@rm -rf $(outputdir)/*
 	@rm -rf $(epubdir)/*
-	@$(eval pandoc_metadata=$(shell /usr/bin/awk -f $(utilsdir)/metadata.awk ../metadata.txt) )
 
 %-partie-1.epub:
 	@echo "Generating part 1 epub... "
@@ -59,24 +58,22 @@ endif
 		--toc --toc-depth=2 \
 		--template=$(templates_dir)/template.epub \
 		--epub-stylesheet=$(templates_dir)/epub.stylesheet.css \
-		--epub-metadata=$(make_dir)/../metadata.fr.epub \
 		--epub-chapter-level=2 \
 		--epub-cover-image=$(img_dir)/cover.jpg \
 		-o $(outputdir)/$(@) \
-		../metadata.md \
-		$(pages_dir)/part-1/*.md
+		$(pages_dir)/part-1/metadata.md \
+		$(pages_dir)/part-1/chapter-*.md
 	@$(pandoc_bin) \
 		$(pandoc_config) \
 		-t epub3 \
 		--toc --toc-depth=2 \
 		--template=$(templates_dir)/template.epub3 \
 		--epub-stylesheet=$(templates_dir)/epub.stylesheet.css \
-		--epub-metadata=$(make_dir)/../metadata.fr.epub \
 		--epub-chapter-level=2 \
 		--epub-cover-image=$(img_dir)/cover.jpg \
 		-o $(outputdir)/$(@).3.epub \
-		../metadata.md \
-		$(pages_dir)/part-1/*.md
+		$(pages_dir)/part-1/metadata.md \
+		$(pages_dir)/part-1/chapter-*.md
 	@echo "Extracting part 1 epub..."
 	@mkdir -p $(epubdir)/$(patsubst %.epub,%,$(@))
 	@$(unzip_bin) -qq \
@@ -95,6 +92,8 @@ endif
 
 
 %-partie-2.epub:
+	@$(eval pandoc_metadata=$(shell /usr/bin/awk -f $(utilsdir)/metadata.awk $(pages_dir)/part-2/metadata.txt) )
+	@echo "Generating part 1 epub... "
 	@echo "Generating part 2 epub... "
 	@$(pandoc_bin) \
 		$(pandoc_config) \
@@ -102,24 +101,24 @@ endif
 		--toc --toc-depth=2 \
 		--template=$(templates_dir)/template.epub \
 		--epub-stylesheet=$(templates_dir)/epub.stylesheet.css \
-		--epub-metadata=$(make_dir)/../metadata.fr.epub \
+		--epub-metadata=$(pages_dir)/part-2/metadata.fr.epub \
 		--epub-chapter-level=2 \
 		--epub-cover-image=$(img_dir)/cover.jpg \
 		-o $(outputdir)/$(@) \
-		../metadata.md \
-		$(pages_dir)/part-2/*.md
+		$(pages_dir)/part-2/metadata.md \
+		$(pages_dir)/part-2/chapter-*.md
 	@$(pandoc_bin) \
 		$(pandoc_config) \
 		-t epub3 \
 		--toc --toc-depth=2 \
 		--template=$(templates_dir)/template.epub3 \
 		--epub-stylesheet=$(templates_dir)/epub.stylesheet.css \
-		--epub-metadata=$(make_dir)/../metadata.fr.epub \
+		--epub-metadata=$(pages_dir)/part-2/metadata.fr.epub \
 		--epub-chapter-level=2 \
 		--epub-cover-image=$(img_dir)/cover.jpg \
 		-o $(outputdir)/$(@).3.epub \
-		../metadata.md \
-		$(pages_dir)/part-1/*.md
+		$(pages_dir)/part-2/metadata.md \
+		$(pages_dir)/part-2/chapter-*.md
 	@echo "Extracting part 2 epub..."
 	@mkdir -p $(epubdir)/$(patsubst %.epub,%,$(@))
 	@$(unzip_bin) -qq \

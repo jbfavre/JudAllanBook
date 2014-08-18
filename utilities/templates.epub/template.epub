@@ -32,13 +32,18 @@ $endfor$
 </head>
 <body>
 $if(titlepage)$
-  <h1 class="title">$title$</h1>
-  $for(author)$
-    <h2 class="author">$author$</h2>
+  $for(title)$
+  <h1 class="title">$title.text$</h1>
   $endfor$
-  $if(Date)$
-    <h3 class="date">$Date$</h3>
-  $endif$
+$if(subtitle)$
+  <h2 class="subtitle">$subtitle$</h2>
+$endif$
+$for(author)$
+  <h3 class="author">$author$</h3>
+$endfor$
+$if(date)$
+  <h4 class="date">$date$</h4>
+$endif$
 $else$
   $body$
 $endif$
