@@ -33,14 +33,13 @@
     <dc:subject>fiction</dc:subject>
     <dc:description>Orphelin devenu chef du syndicat des enfants aux États-Unis, Jud Allan
 doit affronter Frey Jemkins, chef du gang de brigands le plus puissant
-d’Amérique, mais également richissime homme politique et sénateur
-influent.  
+d’Amérique, mais également sénateur influent.  
 De Paris à New York, de l’Espagne au Mexique, une lutte acharnée du bien
 contre le mal.</dc:description>
     <dc:publisher>Tooptee Edition</dc:publisher>
     <dc:rights>© 2014 Tooptee Edition, Public Domain</dc:rights>
     <meta name="cover" content="cover-image" />
-    <meta property="dcterms:modified">2014-08-18T17:24:39Z</meta>
+    <meta property="dcterms:modified">2014-08-18T20:33:18Z</meta>
   </metadata>
   <manifest>
     <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml" />
@@ -60,8 +59,6 @@ contre le mal.</dc:description>
     <item id="ch010_xhtml" href="ch010.xhtml" media-type="application/xhtml+xml" />
     <item id="ch011_xhtml" href="ch011.xhtml" media-type="application/xhtml+xml" />
     <item id="ch012_xhtml" href="ch012.xhtml" media-type="application/xhtml+xml" />
-    <item id="ch013_xhtml" href="ch013.xhtml" media-type="application/xhtml+xml" />
-    <item id="ch014_xhtml" href="ch014.xhtml" media-type="application/xhtml+xml" />
     <item properties="cover-image" id="cover-image_jpg" href="cover-image.jpg" media-type="image/jpeg" />
     <item id="file0_jpg" href="media/file0.jpg" media-type="image/jpeg" />
     <item id="file1_jpg" href="media/file1.jpg" media-type="image/jpeg" />
@@ -106,25 +103,6 @@ contre le mal.</dc:description>
     <item id="file40_jpg" href="media/file40.jpg" media-type="image/jpeg" />
     <item id="file41_jpg" href="media/file41.jpg" media-type="image/jpeg" />
     <item id="file42_jpg" href="media/file42.jpg" media-type="image/jpeg" />
-    <item id="file43_jpg" href="media/file43.jpg" media-type="image/jpeg" />
-    <item id="file44_jpg" href="media/file44.jpg" media-type="image/jpeg" />
-    <item id="file45_jpg" href="media/file45.jpg" media-type="image/jpeg" />
-    <item id="file46_jpg" href="media/file46.jpg" media-type="image/jpeg" />
-    <item id="file47_jpg" href="media/file47.jpg" media-type="image/jpeg" />
-    <item id="file48_jpg" href="media/file48.jpg" media-type="image/jpeg" />
-    <item id="file49_jpg" href="media/file49.jpg" media-type="image/jpeg" />
-    <item id="file50_jpg" href="media/file50.jpg" media-type="image/jpeg" />
-    <item id="file51_jpg" href="media/file51.jpg" media-type="image/jpeg" />
-    <item id="file52_jpg" href="media/file52.jpg" media-type="image/jpeg" />
-    <item id="file53_jpg" href="media/file53.jpg" media-type="image/jpeg" />
-    <item id="file54_jpg" href="media/file54.jpg" media-type="image/jpeg" />
-    <item id="file55_jpg" href="media/file55.jpg" media-type="image/jpeg" />
-    <item id="file56_jpg" href="media/file56.jpg" media-type="image/jpeg" />
-    <item id="file57_jpg" href="media/file57.jpg" media-type="image/jpeg" />
-    <item id="file58_jpg" href="media/file58.jpg" media-type="image/jpeg" />
-    <item id="file59_jpg" href="media/file59.jpg" media-type="image/jpeg" />
-    <item id="file60_jpg" href="media/file60.jpg" media-type="image/jpeg" />
-    <item id="file61_jpg" href="media/file61.jpg" media-type="image/jpeg" />
   </manifest>
   <spine toc="ncx">
     <itemref idref="cover_xhtml" linear="no" />
@@ -142,8 +120,6 @@ contre le mal.</dc:description>
     <itemref idref="ch010_xhtml" />
     <itemref idref="ch011_xhtml" />
     <itemref idref="ch012_xhtml" />
-    <itemref idref="ch013_xhtml" />
-    <itemref idref="ch014_xhtml" />
   </spine>
   <guide>
     <reference type="toc" title="Jud Allan, roi des “Lads”" href="nav.xhtml" />

@@ -1,21 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<package version="2.0" xmlns="http://www.idpf.org/2007/opf" unique-identifier="epub-id-1">
+<package version="3.0" xmlns="http://www.idpf.org/2007/opf" unique-identifier="epub-id-1">
   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
-    <dc:identifier id="epub-id-1" opf:scheme="ISBN-13">ISBN</dc:identifier>
+    <dc:identifier id="epub-id-1">ISBN</dc:identifier>
+    <meta refines="#epub-id-1" property="identifier-type" scheme="onix:codelist5">15</meta>
     <dc:title id="epub-title-1">Jud Allan, roi des “Lads”</dc:title>
+    <meta refines="#epub-title-1" property="title-type">main</meta>
+    <dc:title id="epub-title-2"></dc:title>
+    <dc:title id="epub-title-3">Idylle en modern-sorcellerie</dc:title>
+    <meta refines="#epub-title-3" property="title-type">subtitle</meta>
+    <dc:title id="epub-title-4"></dc:title>
+    <dc:title id="epub-title-5">Voyages extraordinaires</dc:title>
+    <meta refines="#epub-title-5" property="title-type">collection</meta>
     <dc:date>1909</dc:date>
     <dc:language>fr-FR</dc:language>
-    <dc:creator id="epub-creator-1" opf:role="aut">Paul d’Ivoi</dc:creator>
-    <dc:creator id="epub-creator-2" opf:role="aut">Paul d’Ivoi</dc:creator>
-    <dc:creator id="epub-creator-3" opf:role="ill">Louis Bombled</dc:creator>
-    <dc:creator id="epub-creator-4" opf:role="edt">Jean Baptiste Favre</dc:creator>
-    <dc:contributor id="epub-contributor-1" opf:role="fac">Benjamin Sonntag</dc:contributor>
-    <dc:contributor id="epub-contributor-2" opf:role="fac">Jean Baptiste Favre</dc:contributor>
-    <dc:contributor id="epub-contributor-3" opf:role="bkd">Jean Baptiste Favre</dc:contributor>
-    <dc:contributor id="epub-contributor-4" opf:role="tyg">Jean Baptiste Favre</dc:contributor>
-    <dc:contributor id="epub-contributor-5" opf:role="acp">Jean Baptiste Favre</dc:contributor>
-    <dc:contributor id="epub-contributor-6" opf:role="pfr">Jean Baptiste Favre</dc:contributor>
-    <dc:contributor id="epub-contributor-7" opf:role="pfr">@agnes_europe</dc:contributor>
+    <dc:creator id="epub-creator-1">Paul d’Ivoi</dc:creator>
+    <meta refines="#epub-creator-1" property="role" scheme="marc:relators">aut</meta>
+    <dc:creator id="epub-creator-2">Louis Bombled</dc:creator>
+    <meta refines="#epub-creator-2" property="role" scheme="marc:relators">ill</meta>
+    <dc:creator id="epub-creator-3">Jean Baptiste Favre</dc:creator>
+    <meta refines="#epub-creator-3" property="role" scheme="marc:relators">edt</meta>
+    <dc:contributor id="epub-contributor-1">Benjamin Sonntag</dc:contributor>
+    <meta refines="#epub-contributor-1" property="role" scheme="marc:relators">fac</meta>
+    <dc:contributor id="epub-contributor-2">Jean Baptiste Favre</dc:contributor>
+    <meta refines="#epub-contributor-2" property="role" scheme="marc:relators">fac</meta>
+    <dc:contributor id="epub-contributor-3">Jean Baptiste Favre</dc:contributor>
+    <meta refines="#epub-contributor-3" property="role" scheme="marc:relators">bkd</meta>
+    <dc:contributor id="epub-contributor-4">Jean Baptiste Favre</dc:contributor>
+    <meta refines="#epub-contributor-4" property="role" scheme="marc:relators">tyg</meta>
+    <dc:contributor id="epub-contributor-5">Jean Baptiste Favre</dc:contributor>
+    <meta refines="#epub-contributor-5" property="role" scheme="marc:relators">acp</meta>
+    <dc:contributor id="epub-contributor-6">Jean Baptiste Favre</dc:contributor>
+    <meta refines="#epub-contributor-6" property="role" scheme="marc:relators">pfr</meta>
+    <dc:contributor id="epub-contributor-7">@agnes_europe</dc:contributor>
+    <meta refines="#epub-contributor-7" property="role" scheme="marc:relators">pfr</meta>
     <dc:subject>aventure</dc:subject>
     <dc:subject>action</dc:subject>
     <dc:subject>fiction</dc:subject>
@@ -28,11 +45,12 @@ contre le mal.</dc:description>
     <dc:publisher>Tooptee Edition</dc:publisher>
     <dc:rights>© 2014 Tooptee Edition, Public Domain</dc:rights>
     <meta name="cover" content="cover-image" />
+    <meta property="dcterms:modified">2014-08-18T20:33:16Z</meta>
   </metadata>
   <manifest>
     <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml" />
     <item id="style" href="stylesheet.css" media-type="text/css" />
-    <item id="nav" href="nav.xhtml" media-type="application/xhtml+xml" />
+    <item id="nav" href="nav.xhtml" media-type="application/xhtml+xml" properties="nav" />
     <item id="cover_xhtml" href="cover.xhtml" media-type="application/xhtml+xml" />
     <item id="title_page_xhtml" href="title_page.xhtml" media-type="application/xhtml+xml" />
     <item id="ch001_xhtml" href="ch001.xhtml" media-type="application/xhtml+xml" />
@@ -49,7 +67,7 @@ contre le mal.</dc:description>
     <item id="ch012_xhtml" href="ch012.xhtml" media-type="application/xhtml+xml" />
     <item id="ch013_xhtml" href="ch013.xhtml" media-type="application/xhtml+xml" />
     <item id="ch014_xhtml" href="ch014.xhtml" media-type="application/xhtml+xml" />
-    <item id="cover-image_jpg" href="cover-image.jpg" media-type="image/jpeg" />
+    <item properties="cover-image" id="cover-image_jpg" href="cover-image.jpg" media-type="image/jpeg" />
     <item id="file0_jpg" href="media/file0.jpg" media-type="image/jpeg" />
     <item id="file1_jpg" href="media/file1.jpg" media-type="image/jpeg" />
     <item id="file2_jpg" href="media/file2.jpg" media-type="image/jpeg" />
@@ -115,7 +133,7 @@ contre le mal.</dc:description>
   </manifest>
   <spine toc="ncx">
     <itemref idref="cover_xhtml" linear="no" />
-    <itemref idref="title_page_xhtml" linear="yes" />
+    <itemref idref="title_page_xhtml" linear="no" />
     <itemref idref="nav" linear="yes" />
     <itemref idref="ch001_xhtml" />
     <itemref idref="ch002_xhtml" />
