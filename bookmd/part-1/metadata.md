@@ -1,3 +1,7 @@
+% Jud Allan, roi des “Lads”
+% Paul d’Ivoi
+% 1909
+
 ---
 title:
 - type: main
@@ -6,28 +10,42 @@ title:
   text: Idylle en modern-sorcellerie
 - type: collection
   text: Voyages extraordinaires
+subtitle: Idylle en modern-sorcellerie
 date: 1909
-subject: Les aventures de Jud Allan
 language: fr-FR
+tags: [voyages excentriques, paul d’ivoi]
+subject: [aventure, action, fiction]
 creator:
 - role: author
   text: Paul d’Ivoi
-- role: illustrator
+- role: Illustrator
   text: Louis Bombled
-- role: editor
+- role: Editor
   text: Jean Baptiste Favre
 contributor:
-- role: bkd
+- role: Facsimilist
+  text: Benjamin Sonntag
+- role: Facsimilist
   text: Jean Baptiste Favre
-- role: crr
+- role: Book designer
+  text: Jean Baptiste Favre
+- role: Typographer
+  text: Jean Baptiste Favre
+- role: Art copyist
+  text: Jean Baptiste Favre
+- role: Proofreader
+  text: Jean Baptiste Favre
+- role: Proofreader
   text: "@agnes_europe"
-- role: crr
-  text: Jean Baptiste Favre
-- role: tyg
-  text: Jean Baptiste Favre
 identifier:
 - scheme: ISBN-13
   text: ISBN
 publisher: Tooptee Edition
 rights: © 2014 Tooptee Edition, Public Domain
+description: |
+  Orphelin devenu chef du syndicat des enfants aux États-Unis, Jud Allan doit
+  affronter Frey Jemkins, chef du gang de brigands le plus puissant d’Amérique,
+  mais également richissime homme politique et sénateur influent.  
+  De Paris à New York, de l’Espagne au Mexique, une lutte acharnée du bien
+  contre le mal.
 ---
