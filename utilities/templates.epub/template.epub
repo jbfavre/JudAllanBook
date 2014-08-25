@@ -22,10 +22,42 @@ $endfor$
 </head>
 <body>
 $if(titlepage)$
-  <h1 class="title">$title$</h1>
-  <h1 class="subtitle">$subtitle$</h1>
-  <h2 class="author">$author$</h2>
-  <h3 class="date">$date$</h3>
+  <h1 class="title">
+  $for(title)$
+  $if(title.is_title)$
+    $title.text$
+  $endif$
+  $if(title.is_subtitle)$
+    <br/>-<br/><span class="subtitle">$title.text$</span>
+  $endif$
+  $endfor$
+  </h1>
+
+  $for(creator)$
+  $if(creator.is_author)$
+  <h2 class="author">$creator.text$</h2>
+  $endif$
+  $if(creator.is_illustrator)$
+  <p class="illustrator">Illustrations de<br/><em>$creator.text$</em></p>
+  $endif$
+  $endfor$
+
+  $for(date)$
+  $if(date.first_edition)$
+  <h3 class="date">$date.text$</h3>
+  $endif$
+  $endfor$
+  $for(creator)$
+  $if(creator.is_editor)$
+  <p class="editor">Édité par<br/><em>$creator.text$</em></p>
+  $endif$
+  $endfor$
+  $for(title)$
+  $if(title.is_collection)$
+  <p class="collection">Dans la collection<br/><em>$title.text$</em></p>
+  $endif$
+  $endfor$
+
 $else$
   $body$
 $endif$
