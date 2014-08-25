@@ -1,4 +1,4 @@
-## Preface
+# Preface
 
 Prenez :
 
@@ -10,7 +10,7 @@ Prenez :
 
 Vous obtiendrez deux epub, gratuits naturellement, et je l’espère parfaits !
 
-### 2 mois
+## 2 mois
 
 Cela aura été la durée, estimée, nécessaire pour reconstituer l’ouvrage après
 numérisation par le bookscanner.
@@ -28,7 +28,7 @@ pages en quelques heures.
 En fait, en un peu moins d’une heure, le livre était numérisé, je n’avais plus
 qu’à me mettre au travail.  
 
-### 2 séances
+## 2 séances
 
 Il aura aussi fallu une séance de rattrapage : la première avait mis en évidence
 un bug dans le logiciel.
@@ -48,7 +48,7 @@ Il s’agit également d’extraire les images d’illustration du livre origina
 en trouvant un compromis entre définition de l’image et poids final du livre
 en version numérique.
 
-### 2 moines copistes
+## 2 moines copistes
 
 C’est ce travail de reconstitution qui a été le plus long bien entendu. Fait de
 tests, essais et tâtonnements pour trouver *la* bonne méthode.  
@@ -60,7 +60,7 @@ Heureusement pour nous, et contrairement aux moines copistes,
 l’informatique et notamment le logiciel libre apporte son lot d’outils
 permettant cela.
 
-### 2 epub
+## 2 epub
 
 C’est ce travail qui est à présent disponible gratuitement.
 Le livre original a été séparé en 2, pour conserver une taille de fichier
