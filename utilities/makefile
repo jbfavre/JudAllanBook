@@ -68,6 +68,9 @@ endif
 	@$(unzip_bin) -qq \
 		-d $(epubdir)/$(patsubst %.epub,%,$(@)).3 \
 		$(outputdir)/$(patsubst %.epub,%,$(@)).3.epub
+	@echo "Adding preface"
+	@$(pandoc_bin) \
+		-s $(pages_dir)/preface.md > $(epubdir)/$(patsubst %.epub,%,$(@)).3/preface.xhtml
 	@echo "Customizing epub..."
 	@./bookscanner_customize_ebook.sh $(epubdir)/$(patsubst %.epub,%,$(@)).3
 	@echo "Rebuilding epub..."
@@ -92,6 +95,9 @@ endif
 	@$(unzip_bin) -qq \
 		-d $(epubdir)/$(patsubst %.epub,%,$(@)).3 \
 		$(outputdir)/$(patsubst %.epub,%,$(@)).3.epub
+	@echo "Adding preface"
+	@$(pandoc_bin) \
+		-s $(pages_dir)/preface.md > $(epubdir)/$(patsubst %.epub,%,$(@)).3/preface.xhtml
 	@echo "Customizing epub..."
 	@./bookscanner_customize_ebook.sh $(epubdir)/$(patsubst %.epub,%,$(@)).3
 	@echo "Rebuilding epub..."
