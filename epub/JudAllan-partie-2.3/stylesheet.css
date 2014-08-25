@@ -15,13 +15,14 @@ label, legend, table, caption, tbody, tfoot, thead, tr, th, td {
 
 /* This defines styles and classes used in the book */
 code{font-family:monospace;white-space:pre-wrap;}
-h1{text-align:center;margin-top:0em;font-size:2.5em;}
-h2{text-align:left;margin-top:0em;font-size:2em;}
-h3{text-align:left;margin-top:0em;font-size:1.5em;}
-h1.title{text-align:center;margin-top:2em;}
-h1.subtitle{font-family:italic;text-align:center;margin-top:0.5em;font-size:2.3em;}
-h2.author{text-align:center;margin-top:2em;}
-h3.date {text-align:center;margin-top:2em;}
+h1{text-align:center;margin-top:0em;font-size:1.5em;}
+h2{text-align:left;margin-top:0em;font-size:1.3em;}
+h3{text-align:left;margin-top:0em;font-size:1.1em;}
+h1.title{text-align:center;margin-top:0em;font-size:2em;}
+span.subtitle{font-family:italic;text-align:center;margin-top:0em;}
+h2.author{text-align:center;margin-top:0.5em;font-size:1.8em;}
+.illustrator, .date{text-align:center;margin-top:1em;font-size:1.6em;}
+.editor, .collection{text-align:center;margin-top:1em;font-size:1.4em;}
 p{margin-top:1em;}
 
 body {
@@ -29,46 +30,32 @@ body {
   text-align:justify;}
 #toc-title{
   font-size: 2em;}
-.chapter {
-  padding-top:0;
-  display:block;
-  text-align:left;}
 .chapterHeader {
-  height:60px;
+  height:80px;
   border:1px solid #000;
   display:block;
   margin-bottom:20px;
   background-color:#FFF;}
-.chapterHeader .translation {
-  float:left;
-  font-weight:normal;
-  margin-top:38px;
-  margin-left:-8px;
-  margin-bottom:0px;
-  padding-right: 16px;
-  padding-left: 5px ;
-  padding-bottom: 0px;
-  padding-top: 0px;
-  font-size:26px;
-  background-color:#FFF;}
 .chapterHeader .count {
-  line-height:100%;
+  line-height:99%;
   font-style:normal;
   font-weight:normal;
   text-transform:uppercase;
-  font-size:94px;
+  font-size:90px;
   margin-right:18px;
-  margin-top:-14px;
-  margin-bottom:-20px;
   float:left;
-  padding:0em;
-  background-color:#FFF;}
+  padding:0em;}
+.chapterHeader .chapter {
+  margin-right:18px;
+  display:block;
+  text-align:right;}
 @page {
   margin-top:1em;
   margin-bottom:1em;}
 figure, .figure {
   display:block;
   width:100%;
+  margin: auto;
   text-align:center;}
 figcaption, .caption {
   display:block;

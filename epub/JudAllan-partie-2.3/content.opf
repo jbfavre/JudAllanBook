@@ -4,16 +4,19 @@
     <dc:identifier id="epub-id-1">ISBN</dc:identifier>
     <meta refines="#epub-id-1" property="identifier-type" scheme="onix:codelist5">15</meta>
     <dc:title id="epub-title-1">Jud Allan, roi des “Lads”</dc:title>
-    <dc:date>1909</dc:date>
+    <meta refines="#epub-title-1" property="title-type">main</meta>
+    <dc:title id="epub-title-2">Lads’s king, le Roi des gamins</dc:title>
+    <meta refines="#epub-title-2" property="title-type">subtitle</meta>
+    <dc:title id="epub-title-3">Voyages extraordinaires</dc:title>
+    <meta refines="#epub-title-3" property="title-type">collection</meta>
+    <dc:date>2014-08-25T14:10:20Z</dc:date>
     <dc:language>fr-FR</dc:language>
     <dc:creator id="epub-creator-1">Paul d’Ivoi</dc:creator>
     <meta refines="#epub-creator-1" property="role" scheme="marc:relators">aut</meta>
-    <dc:creator id="epub-creator-2">Paul d’Ivoi</dc:creator>
-    <meta refines="#epub-creator-2" property="role" scheme="marc:relators">aut</meta>
-    <dc:creator id="epub-creator-3">Louis Bombled</dc:creator>
-    <meta refines="#epub-creator-3" property="role" scheme="marc:relators">ill</meta>
-    <dc:creator id="epub-creator-4">Jean Baptiste Favre</dc:creator>
-    <meta refines="#epub-creator-4" property="role" scheme="marc:relators">edt</meta>
+    <dc:creator id="epub-creator-2">Louis Bombled</dc:creator>
+    <meta refines="#epub-creator-2" property="role" scheme="marc:relators">ill</meta>
+    <dc:creator id="epub-creator-3">Boivin et Cie</dc:creator>
+    <meta refines="#epub-creator-3" property="role" scheme="marc:relators">edt</meta>
     <dc:contributor id="epub-contributor-1">Benjamin Sonntag</dc:contributor>
     <meta refines="#epub-contributor-1" property="role" scheme="marc:relators">fac</meta>
     <dc:contributor id="epub-contributor-2">Jean Baptiste Favre</dc:contributor>
@@ -33,19 +36,18 @@
     <dc:subject>fiction</dc:subject>
     <dc:description>Orphelin devenu chef du syndicat des enfants aux États-Unis, Jud Allan
 doit affronter Frey Jemkins, chef du gang de brigands le plus puissant
-d’Amérique, mais également sénateur influent.  
-De Paris à New York, de l’Espagne au Mexique, une lutte acharnée du bien
-contre le mal.</dc:description>
+d’Amérique, mais également sénateur influent. De Paris à New York, de
+l’Espagne au Mexique, une lutte acharnée du bien contre le mal.</dc:description>
     <dc:publisher>Tooptee Edition</dc:publisher>
     <dc:rights>© 2014 Tooptee Edition, Public Domain</dc:rights>
     <meta name="cover" content="cover-image" />
-    <meta property="dcterms:modified">2014-08-18T20:33:18Z</meta>
+    <meta property="dcterms:modified">2014-08-25T14:10:20Z</meta>
   </metadata>
   <manifest>
     <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml" />
     <item id="style" href="stylesheet.css" media-type="text/css" />
     <item id="nav" href="nav.xhtml" media-type="application/xhtml+xml" properties="nav" />
-    <item id="cover_xhtml" href="cover.xhtml" media-type="application/xhtml+xml" />
+    <item id="cover_xhtml" href="cover.xhtml" media-type="application/xhtml+xml" properties="svg" />
     <item id="title_page_xhtml" href="title_page.xhtml" media-type="application/xhtml+xml" />
     <item id="ch001_xhtml" href="ch001.xhtml" media-type="application/xhtml+xml" />
     <item id="ch002_xhtml" href="ch002.xhtml" media-type="application/xhtml+xml" />

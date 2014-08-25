@@ -61,7 +61,7 @@
     </navPoint>
     <navPoint id="navPoint-8" playOrder="8">
       <navLabel>
-        <text>Passez Marquis ! Passez muscade !</text>
+        <text>Passez Marquis ! Passez muscade !</text>
       </navLabel>
       <content src="ch008.xhtml" />
     </navPoint>

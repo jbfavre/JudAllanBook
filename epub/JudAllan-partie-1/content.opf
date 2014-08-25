@@ -3,15 +3,13 @@
   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
     <dc:identifier id="epub-id-1" opf:scheme="ISBN-13">ISBN</dc:identifier>
     <dc:title id="epub-title-1" opf:title-type="main">Jud Allan, roi des “Lads”</dc:title>
-    <dc:title id="epub-title-2"></dc:title>
-    <dc:title id="epub-title-3" opf:title-type="subtitle">Idylle en modern-sorcellerie</dc:title>
-    <dc:title id="epub-title-4"></dc:title>
-    <dc:title id="epub-title-5" opf:title-type="collection">Voyages extraordinaires</dc:title>
-    <dc:date>1909</dc:date>
+    <dc:title id="epub-title-2" opf:title-type="subtitle">Idylle en modern-sorcellerie</dc:title>
+    <dc:title id="epub-title-3" opf:title-type="collection">Voyages extraordinaires</dc:title>
+    <dc:date>2014-08-25T14:10:17Z</dc:date>
     <dc:language>fr-FR</dc:language>
     <dc:creator id="epub-creator-1" opf:role="aut">Paul d’Ivoi</dc:creator>
     <dc:creator id="epub-creator-2" opf:role="ill">Louis Bombled</dc:creator>
-    <dc:creator id="epub-creator-3" opf:role="edt">Jean Baptiste Favre</dc:creator>
+    <dc:creator id="epub-creator-3" opf:role="edt">Boivin et Cie</dc:creator>
     <dc:contributor id="epub-contributor-1" opf:role="fac">Benjamin Sonntag</dc:contributor>
     <dc:contributor id="epub-contributor-2" opf:role="fac">Jean Baptiste Favre</dc:contributor>
     <dc:contributor id="epub-contributor-3" opf:role="bkd">Jean Baptiste Favre</dc:contributor>
@@ -25,9 +23,8 @@
     <dc:description>Orphelin devenu chef du syndicat des enfants aux États-Unis, Jud Allan
 doit affronter Frey Jemkins, chef du gang de brigands le plus puissant
 d’Amérique, mais également richissime homme politique et sénateur
-influent.  
-De Paris à New York, de l’Espagne au Mexique, une lutte acharnée du bien
-contre le mal.</dc:description>
+influent. De Paris à New York, de l’Espagne au Mexique, une lutte
+acharnée du bien contre le mal.</dc:description>
     <dc:publisher>Tooptee Edition</dc:publisher>
     <dc:rights>© 2014 Tooptee Edition, Public Domain</dc:rights>
     <meta name="cover" content="cover-image" />
@@ -36,7 +33,7 @@ contre le mal.</dc:description>
     <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml" />
     <item id="style" href="stylesheet.css" media-type="text/css" />
     <item id="nav" href="nav.xhtml" media-type="application/xhtml+xml" />
-    <item id="cover_xhtml" href="cover.xhtml" media-type="application/xhtml+xml" />
+    <item id="cover_xhtml" href="cover.xhtml" media-type="application/xhtml+xml" properties="svg" />
     <item id="title_page_xhtml" href="title_page.xhtml" media-type="application/xhtml+xml" />
     <item id="ch001_xhtml" href="ch001.xhtml" media-type="application/xhtml+xml" />
     <item id="ch002_xhtml" href="ch002.xhtml" media-type="application/xhtml+xml" />
@@ -118,7 +115,7 @@ contre le mal.</dc:description>
   </manifest>
   <spine toc="ncx">
     <itemref idref="cover_xhtml" linear="no" />
-    <itemref idref="title_page_xhtml" linear="no" />
+    <itemref idref="title_page_xhtml" linear="yes" />
     <itemref idref="nav" linear="yes" />
     <itemref idref="ch001_xhtml" />
     <itemref idref="ch002_xhtml" />
