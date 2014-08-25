@@ -54,27 +54,6 @@ endif
 	@echo "Generating part 1 epub... "
 	@$(pandoc_bin) \
 		$(pandoc_config) \
-		-t epub \
-		--toc --toc-depth=2 \
-		--template=$(templates_dir)/template.epub \
-		--epub-stylesheet=$(templates_dir)/epub.stylesheet.css \
-		--epub-chapter-level=2 \
-		--epub-cover-image=$(img_dir)/cover.jpg \
-		-o $(outputdir)/$(@) \
-		$(pages_dir)/part-1/metadata.md \
-		$(pages_dir)/part-1/chapter-*.md
-	@echo "Extracting part 1 epub..."
-	@mkdir -p $(epubdir)/$(patsubst %.epub,%,$(@))
-	@$(unzip_bin) -qq \
-		-d $(epubdir)/$(patsubst %.epub,%,$(@)) \
-		$(outputdir)/$(@)
-	@echo "Applying custom theme epub..."
-	@./bookscanner_customize_ebook.sh $(epubdir)/$(patsubst %.epub,%,$(@))
-	@echo "Rebuilding epub..."
-	@./bookscanner_regenerate_epub.sh $(epubdir)/$(patsubst %.epub,%,$(@)) $(outputdir)/$(@)
-	@echo "Generating part 1 epub3... "
-	@$(pandoc_bin) \
-		$(pandoc_config) \
 		-t epub3 \
 		--toc --toc-depth=2 \
 		--template=$(templates_dir)/template.epub3 \
@@ -84,30 +63,19 @@ endif
 		-o $(outputdir)/$(patsubst %.epub,%,$(@)).3.epub \
 		$(pages_dir)/part-1/metadata.md \
 		$(pages_dir)/part-1/chapter-*.md
-	@echo "Extracting part 1 epub3..."
+	@echo "Extracting part 1 epub..."
 	@mkdir -p $(epubdir)/$(patsubst %.epub,%,$(@)).3
 	@$(unzip_bin) -qq \
 		-d $(epubdir)/$(patsubst %.epub,%,$(@)).3 \
 		$(outputdir)/$(patsubst %.epub,%,$(@)).3.epub
-	@echo "Applying custom theme epub3..."
+	@echo "Customizing epub..."
 	@./bookscanner_customize_ebook.sh $(epubdir)/$(patsubst %.epub,%,$(@)).3
-	@echo "Rebuilding epub3..."
+	@echo "Rebuilding epub..."
 	@./bookscanner_regenerate_epub.sh $(epubdir)/$(patsubst %.epub,%,$(@)).3 $(outputdir)/$(patsubst %.epub,%,$(@)).3.epub
 
 
 %-partie-2.epub:
 	@echo "Generating part 2 epub... "
-	@$(pandoc_bin) \
-		$(pandoc_config) \
-		-t epub \
-		--toc --toc-depth=2 \
-		--template=$(templates_dir)/template.epub \
-		--epub-stylesheet=$(templates_dir)/epub.stylesheet.css \
-		--epub-chapter-level=2 \
-		--epub-cover-image=$(img_dir)/cover.jpg \
-		-o $(outputdir)/$(@) \
-		$(pages_dir)/part-2/metadata.md \
-		$(pages_dir)/part-2/chapter-*.md
 	@$(pandoc_bin) \
 		$(pandoc_config) \
 		-t epub3 \
@@ -120,19 +88,13 @@ endif
 		$(pages_dir)/part-2/metadata.md \
 		$(pages_dir)/part-2/chapter-*.md
 	@echo "Extracting part 2 epub..."
-	@mkdir -p $(epubdir)/$(patsubst %.epub,%,$(@))
-	@$(unzip_bin) -qq \
-		-d $(epubdir)/$(patsubst %.epub,%,$(@)) \
-		$(outputdir)/$(@)
 	@mkdir -p $(epubdir)/$(patsubst %.epub,%,$(@)).3
 	@$(unzip_bin) -qq \
 		-d $(epubdir)/$(patsubst %.epub,%,$(@)).3 \
 		$(outputdir)/$(patsubst %.epub,%,$(@)).3.epub
-	@echo "Applying custom theme..."
-	@./bookscanner_customize_ebook.sh $(epubdir)/$(patsubst %.epub,%,$(@))
+	@echo "Customizing epub..."
 	@./bookscanner_customize_ebook.sh $(epubdir)/$(patsubst %.epub,%,$(@)).3
 	@echo "Rebuilding epub..."
-	@./bookscanner_regenerate_epub.sh $(epubdir)/$(patsubst %.epub,%,$(@)) $(outputdir)/$(@)
 	@./bookscanner_regenerate_epub.sh $(epubdir)/$(patsubst %.epub,%,$(@)).3 $(outputdir)/$(patsubst %.epub,%,$(@)).3.epub
 
 %.all: | %-partie-1.epub %-partie-2.epub
