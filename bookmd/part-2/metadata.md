@@ -1,51 +1,56 @@
-% Jud Allan, roi des “Lads”
-% Paul d’Ivoi
-% 1909
-
 ---
 title:
 - type: main
   text: Jud Allan, roi des “Lads”
+  is_title: yes
 - type: subtitle
   text: Lads’s king, le Roi des gamins
+  is_subtitle: yes
 - type: collection
   text: Voyages extraordinaires
+  is_collection: yes
 subtitle: Lads’s king, le Roi des gamins
-date: 1909
+date:
+- first_edition: yes
+  text: 1909
+- this_edition: yes
+  text: 2014
 language: fr-FR
 tags: [voyages excentriques, paul d’ivoi]
 subject: [aventure, action, fiction]
 creator:
 - role: Author
   text: Paul d’Ivoi
+  is_author: yes
 - role: Illustrator
   text: Louis Bombled
+  is_illustrator: yes
 - role: Editor
-  text: Jean Baptiste Favre
+  text: Boivin et C^ie^
+  is_editor: yes
 contributor:
-- role: Facsimilist
+- role: facsimilist
   text: Benjamin Sonntag
-- role: Facsimilist
+- role: facsimilist
   text: Jean Baptiste Favre
-- role: Book designer
+- role: book designer
   text: Jean Baptiste Favre
-- role: Typographer
+- role: typographer
   text: Jean Baptiste Favre
-- role: Art copyist
+- role: art copyist
   text: Jean Baptiste Favre
-- role: Proofreader
+- role: proofreader
   text: Jean Baptiste Favre
-- role: Proofreader
+- role: proofreader
   text: "@agnes_europe"
 identifier:
 - scheme: ISBN-13
   text: ISBN
 publisher: Tooptee Edition
 rights: © 2014 Tooptee Edition, Public Domain
-description: |
-  Orphelin devenu chef du syndicat des enfants aux États-Unis, Jud Allan doit
-  affronter Frey Jemkins, chef du gang de brigands le plus puissant d’Amérique,
-  mais également sénateur influent.  
-  De Paris à New York, de l’Espagne au Mexique, une lutte acharnée du bien
-  contre le mal.
+description: Orphelin devenu chef du syndicat des enfants aux États-Unis, Jud Allan doit
+             affronter Frey Jemkins, chef du gang de brigands le plus puissant d’Amérique,
+             mais également sénateur influent.
+             De Paris à New York, de l’Espagne au Mexique, une lutte acharnée du bien
+             contre le mal.
 ---

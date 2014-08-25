@@ -1,10 +1,10 @@
 # La voix mystérieuse
 
-![Chapitre 11](../images/part-1/page-174.jpg)
+![](../images/part-1/page-174.jpg)
 
-— Le bill sur les trusts est inacceptable !
+— Le bill sur les trusts est inacceptable !
 
-— Je demande le pardon. Il faut soutenir la motion du Président !
+— Je demande le pardon. Il faut soutenir la motion du Président !
 
 — Non, vous dis-je.
 
@@ -20,7 +20,7 @@ elles promènent autour d’elles des regards curieux, vaguement inquiets.
 C’est qu’elles pénètrent pour la première fois dans le sanctuaire où
 s’élaborent les lois qui régissent la grande république transatlantique.
 
-Et puis leur arrivée ! Un boy portant la casquette du _Senate_ les
+Et puis leur arrivée ! Un boy portant la casquette du _Senate_ les
 attendait devant les portes de bronze aux bas-reliefs de Crawford.
 
 Le gamin les a guidées. Il leur a fait monter l’escalier accédant aux
@@ -79,13 +79,13 @@ et une jeune personne exquisemént jolie.
 
 Mais, avec la fantaisie de son esprit mobile, Grace murmure :
 
-— Oh ! oh ! Voilà un sénateur qui doit représenter les hercules de
+— Oh ! oh ! Voilà un sénateur qui doit représenter les hercules de
   l’Union.
 
 Et Lilian, suivant la direction de ses regards, aperçoit un homme aux
 formes athlétiques, qui gagne péniblement son siège de sénateur.
 
-Oh ! ce personnage est très connu. Toutes les mains se tendent vers lui au
+Oh ! ce personnage est très connu. Toutes les mains se tendent vers lui au
 passage. Il les serre avec des mouvements amicaux de la tête.
 
 — Vraiment, reprend Grace, voilà un bel échantillon des saxons de l’ouest.
@@ -109,7 +109,7 @@ assis.
 Il salue à la ronde, dominant l’assemblée de sa haute stature, puis d’une
 voix sonore :
 
-— Je regrette d’interrompre un instant les travaux du Sénat ; mais j’ai un
+— Je regrette d’interrompre un instant les travaux du Sénat ; mais j’ai un
   grand intérêt à prendre la parole pour une question personnelle.
 
 De toutes parts, on répond :
@@ -127,8 +127,8 @@ distinctement aux élèves de Miss Deffling :
 Lilian Pariset. Nom qui provoque chez la compagne de Grace un trouble
 inexplicable.
 
-Lilian ! Elle aussi s’appelle ainsi… Mais que prouve cela ? A-t-elle
-jamais cru qu’elle fût seule à porter ce nom ?
+Lilian ! Elle aussi s’appelle ainsi… Mais que prouve cela ? A-t-elle
+jamais cru qu’elle fût seule à porter ce nom ?
 
 Frey Jemkins parle cependant :
 
@@ -137,7 +137,7 @@ Frey Jemkins parle cependant :
   crois de mon devoir de m’en excuser auprès de mes respectés collègues et
   de leur fournir mes explications.
 
-— Inutile ! Inutile ! interrompt-on de toutes parts. On vous connaît,
+— Inutile ! Inutile ! interrompt-on de toutes parts. On vous connaît,
   Jemkins.
 
 Il secoue sa tête puissante, lève la main pour réclamer le silence.
@@ -150,7 +150,7 @@ Il secoue sa tête puissante, lève la main pour réclamer le silence.
 
 ![Frey Jemkins parle au Sénat](../images/part-1/page-177.jpg)
 
-— Hip ! Hip ! bien pensé ! clament les sénateurs, tandis que les tribunes
+— Hip ! Hip ! bien pensé ! clament les sénateurs, tandis que les tribunes
   applaudissent.
 
 — Il s’exprime bien, mon futur cousin, plaisante le marquis.
@@ -163,7 +163,7 @@ Mais sa raillerie n’a point d’écho.
 Il prend un temps, puis désignant Linérès rougissante à ce geste imprévu :
 
 — Voici mon motif… Cette jeune personne de dix-huit ans. Regardez-la, et
-  dites si la raison n’est pas suffisante !
+  dites si la raison n’est pas suffisante !
 
 Et comme la jeune fille confuse se rejette en arrière, il l’interpelle
 affectueusement :
@@ -184,7 +184,7 @@ Il esquisse le geste d’essuyer une larme absente :
 
 — Vous comprenez, module-t-il d’un organe attendri. Des renseignements
   circonstanciés, relatant des coïncidences qui ne permettaient pas de
-  croire à un caprice du hasard ; au surplus, jugez-en… cette enfant, sans
+  croire à un caprice du hasard ; au surplus, jugez-en… cette enfant, sans
   doute jetée à la mer par ses ravisseurs, a été recueillie, le jour même
   du crime, sur la côte de la mer Vermeille, en face des trois pics de las
   Virgines, c’est-à-dire à quelques kilomètres de la demeure des victimes,
@@ -199,10 +199,10 @@ agence avec laquelle j’étais depuis longtemps en rapports, me fit part de
 ces diverses particularités… et je suis parti, oubliant tout ce qui
 n’était pas la fillette si douloureusement regrettée.
 
-— All right (très bien) !
+— All right (très bien) !
 
-— Be quite well, Jemkins, you are a right man ! (Soyez tranquille,
-  Jemkins, vous êtes un brave homme !)
+— Be quite well, Jemkins, you are a right man ! (Soyez tranquille,
+  Jemkins, vous êtes un brave homme !)
 
 Ces interjections se croisèrent dans la salle.
 
@@ -212,7 +212,7 @@ si simplement exprimé le souci de toute sa vie.
 Et Chazelet, serrant la main de Linérès dans les siennes, murmurait ravi,
 transporté :
 
-— Que pourrait-on répondre à cela ?
+— Que pourrait-on répondre à cela ?
 
 Quand soudain, comme une réplique à cette question du jeune homme,
 une voix singulière, aigrelette et puissante, domina le tumulte des
@@ -220,9 +220,9 @@ approbations.
 
 — Quel signe, Frey Jemkins, vous a fait reconnaître avec certitude
 l’enfant enlevé à deux ans dans cette charmante jeune fille, qui ne
-saurait en rien rappeler le babys ?
+saurait en rien rappeler le babys ?
 
-Qui a parlé ? La voix a semblé partir des rangs des sénateurs.
+Qui a parlé ? La voix a semblé partir des rangs des sénateurs.
 
 D’un œil, où un éclair de colère a brillé, Jemkins passe en revue ses
 collègues. Il cherche à découvrir l’interrupteur. Tous ont une attitude
@@ -257,10 +257,10 @@ Et ramenant le sourire sur ses lèvres contractées :
 
 — Tant mieux, riposte la voix mystérieuse.
 
-Bizarre ! Cette fois elle semble sortir de la chaire même du Speaker,
+Bizarre ! Cette fois elle semble sortir de la chaire même du Speaker,
 lequel, stupéfait, inquiet, regarde autour de lui d’un air déconcerté.
 
-Certains sourient à cette vue ; d’autres considèrent Frey Jemkins sur les
+Certains sourient à cette vue ; d’autres considèrent Frey Jemkins sur les
 traits de qui la surprise et la colère se peignent tour à tour.
 
 Puis il y a un long silence, où passe un chuchotement que l’on jugerait
@@ -269,12 +269,12 @@ Puis il y a un long silence, où passe un chuchotement que l’on jugerait
 L’un des voisins de Linérès a murmuré à l’audition de l’organe
 mystérieux :
 
-— Par ma foi ! C’est le diable !
+— Par ma foi ! C’est le diable !
 
 Et la jeune fille a sursauté, sentant comme un grand coup au cœur.
 
-— Le diable ! a-t-elle gémi douloureusement… Est-ce qu’ici encore je vais
-  être la fiancée du diable ?
+— Le diable ! a-t-elle gémi douloureusement… Est-ce qu’ici encore je vais
+  être la fiancée du diable ?
 
 Toutes les souffrances morales endurées à Paris se sont réveillées à ces
 mots malencontreux. Et Chazelet s’efforce vainement de la rassurer.
@@ -292,10 +292,10 @@ Linérès se rassure. Le marquis sent renaître sa confiance. Frey continue
 ses explications.
 
 Mais ni Lilian, ni Grace ne comprennent pourquoi Jud Allan les a fait
-venir au Sénat. En quoi tout cela peut-il intéresser Lilian ? C’est ce
+venir au Sénat. En quoi tout cela peut-il intéresser Lilian ? C’est ce
 qu’elle susurre à l’oreille de son amie.
 
-— Tu devines, toi, Grace ?
+— Tu devines, toi, Grace ?
 
 — Pas le moins du monde.
 
@@ -322,7 +322,7 @@ coutume des Hommes Rouges.
 
 Et en signe de cette dignité, chaque nouveau-né de la famille est confié
 au _tatoueur_ de la tribu qui lui imprime, sur la face interne du bras
-gauche, le tatouage des mayos ; celle que je présente comme ma cousine
+gauche, le tatouage des mayos ; celle que je présente comme ma cousine
 porte ce signe : la fleur de l’aloès chiriquite.
 
 Un léger cri passe dans l’air. C’est Lilian qui n’a pu le retenir. 
@@ -354,8 +354,8 @@ Et avec la présence d’esprit inhérente à son caractère insouciant, elle se
 dresse, masque son amie aux regards, prononçant assez haut pour être
 entendue de tous :
 
-— Oh ! chère belle, vous vous êtes piquée… Quelle idée aussi de porter ces
-  épingles sur vous !
+— Oh ! chère belle, vous vous êtes piquée… Quelle idée aussi de porter ces
+  épingles sur vous !
 
 Puis, un nouvel incident rappelle les regards de l’assistance ailleurs.
 
@@ -364,7 +364,7 @@ que son organe descend de la coupole.
 
 — Miss Linérès a le tatouage, Jemkins, c’est vrai.
 
-— Ah ! tu le reconnais, gronde le milliardaire affolé comme le taureau
+— Ah ! tu le reconnais, gronde le milliardaire affolé comme le taureau
 harcelé par un essaim de guêpes.
 
 Mais l’invisible riposte :
@@ -378,17 +378,17 @@ Mais l’invisible riposte :
 et il dira : La jeune fille n’a point été marquée cacique par moi. La
 tribu ne lui doit pas obéissance.
 
-Oh ! maintenant Lilian écoute de tout son être.
+Oh ! maintenant Lilian écoute de tout son être.
 
 Il lui semble qu’un voile se lève devant ses yeux… Le signe, le signe dont
 le sens lui échappait, elle le possède… Est-elle celle qui fut marquée par
-le sorcier mayo ?
+le sorcier mayo ?
 
 Et cependant Frey, mis hors de lui par l’inexplicable intervention, hurle
 et tempête.
 
-— Tonnerre et sang ! Ma respectabilité sera-t-elle le jouet d’un lâche
-  adversaire ?
+— Tonnerre et sang ! Ma respectabilité sera-t-elle le jouet d’un lâche
+  adversaire ?
 
 — Ta respectabilité est démasquée, brave garçon. 
 
@@ -405,10 +405,10 @@ déclare :
 — L’heure n’est point venue. Mais je supplie le Sénat de ne point répondre
   à l’orateur.
 
-— Ne point me répondre ! tonitrue Jemkins.
+— Ne point me répondre ! tonitrue Jemkins.
 
-— Tais-toi. Si tu as raison, que t’importe ? Les tribunaux ne te
-  donneront-ils pas gain de cause ? Mais une réplique de cette honorable
+— Tais-toi. Si tu as raison, que t’importe ? Les tribunaux ne te
+  donneront-ils pas gain de cause ? Mais une réplique de cette honorable
   assemblée figurerait au procès-verbal et constituerait une pièce quasi
   officielle de nature à influencer les fonctionnaires et magistrats,
   chargés d’assurer l’envoi en possession de l’héritière de Pariset
@@ -464,8 +464,8 @@ son siège, épouvanté par l’inexplicable qui vient de l’effleurer de son
 aile, tandis que Chazelet et la comtesse de Armencita entraînent, hors de
 la salle, Linérès en larmes, laquelle répète, au milieu de sanglots :
 
-— Notre mariage reculé… reculé pour toujours peut-être… Ah ! la fiancée du
-  diable ! la fiancée du diable !
+— Notre mariage reculé… reculé pour toujours peut-être… Ah ! la fiancée du
+  diable ! la fiancée du diable !
 
 Les sénateurs, à présent, avaient repris la délibération un instant
 interrompue.
@@ -485,7 +485,7 @@ debout auprès d’elle.
 — Miss, dit-il à voix basse… C’est dans le jardin, près de la palmeraie
 que celui qui vous a envoyée vous rejoindra tout à l’heure.
 
-— Faut-il m’y rendre de suite ?
+— Faut-il m’y rendre de suite ?
 
 — Je le pense, Miss.
 
@@ -502,9 +502,9 @@ Puis elle regagne le couloir, l’escalier, les jardins avec Grace
 Paterson qui, une fois à l’air libre, donne carrière à son exubérance
 naturelle et s’écrit :
 
-— Eh bien, chérie, que dis-tu de tout cela ? Cette voix qui se promène…
+— Eh bien, chérie, que dis-tu de tout cela ? Cette voix qui se promène…
 Et puis, et puis, ce que je n’ai pas compris du tout. Pourquoi as-tu
-crié ?
+crié ?
 
 Aussitôt que Frey Jemkins eut constaté lui-même son échec, en réclamant
 de l’assemblée l’ordre du jour pur et simple, le vieillard dont la
@@ -536,7 +536,7 @@ descend au jardin du Capitole, le vieillard s’engagea dans le large
 corridor, sur lequel s’ouvrent les bureaux des comités (Senate Committee
 Rooms) déserts en ce moment.
 
-Qu’allait-il chercher de ce côté ?
+Qu’allait-il chercher de ce côté ?
 
 Sans doute, l’espion attaché à ses pas se fit cette question, car un
 sourire crispa sa face safranée, et il serra de près le mur, se
@@ -555,7 +555,7 @@ Dix minutes apràs, elle se rouvrit avec un léger grincement.
 Le boy reparut, inspecta la galerie d’un regard rapide, puis se
 retournant vers l’intérieur, prononça distinctement :
 
-— Personne !
+— Personne !
 
 Un homme s’élance aussitôt dans le couloir.
 
@@ -566,8 +566,8 @@ Un homme s’élance aussitôt dans le couloir.
 Et le personnage s’éloigne.
 
 — C’est bien lui, grommelle le Japonais… Comment a-t-il pu porter sa voix
-partout au Sénat ? Bah ! cela est trop fort pour moi. À Rouge-Fleur de
-l’expliquer !
+partout au Sénat ? Bah ! cela est trop fort pour moi. À Rouge-Fleur de
+l’expliquer !
 
 Celui dont il parle est Jud Allan qui, ayant repris son apparence
 ordinaire, se dirige rapidement vers la sortie.
@@ -582,14 +582,14 @@ Sur la pointe des pieds, le Japonais quitte sa cachette.
 Il parvient à hauteur de la porte demeurée ouverte. Alors, il se donne un
 air dégagé et passe avec l’allure paisible d’un flâneur.
 
-![Comment a-t-il pu porter sa voix partout au Sénat ?](../images/part-1/page-185.jpg)
+![Comment a-t-il pu porter sa voix partout au Sénat ?](../images/part-1/page-185.jpg)
 
 Précaution inutile. Le gamin lui tourne le dos, ce qui permet au guetteur
 d’observer à quelle besogne il s’occupe.
 
 Ce dernier ricane :
 
-— Ah ! oui, le déguisement du vieillard… Un paquet que l’on emportera et
+— Ah ! oui, le déguisement du vieillard… Un paquet que l’on emportera et
 plus de traces… Plus de traces, si Rouge-Fleur ne m’avait mis sur la
 piste.
 
@@ -598,7 +598,7 @@ accède au parc du Capitole.
 
 Un instant, il inspecte les environs de ses yeux vifs.
 
-Allan est à cent mètres déjà ; il va avec la tranquillité de l’homme qui
+Allan est à cent mètres déjà ; il va avec la tranquillité de l’homme qui
 ne se croit point épié.
 
 Mais une autre personne attire l’attention de l’espion.
@@ -613,25 +613,25 @@ Un dernier regard vers Allan. Le professeur est hors de vue. Alors le
 guetteur descend précipitamment, court à la promeneuse, avec les signes
 du plus profond respect.
 
-— Eh bien ? fait-elle de sa voix musicale.
+— Eh bien ? fait-elle de sa voix musicale.
 
 Il veut raconter ce qu’il a vu au Sénat. Elle l’interrompt.
 
 — Inutile, j’ai entendu.
 
-— Ah !
+— Ah !
 
 L’exclamation trahit la surprise de son interlocuteur.
 
-— Alors, dit-il d’un ton boudeur, que voulez-vous que je vous raconte ?
+— Alors, dit-il d’un ton boudeur, que voulez-vous que je vous raconte ?
 
-— As-tu découvert le possesseur de la voix mystérieuse ?
+— As-tu découvert le possesseur de la voix mystérieuse ?
 
 — Oui.
 
 Elle a un geste satisfait :
 
-— Qui ?
+— Qui ?
 
 — Le vieillard placé dans la tribune auprès de moi. Puisque vous avez
   entendu, vous avez pu le voir.
@@ -650,17 +650,17 @@ chose à celle qui l’interroge.
 — Je ne me trompe pas. Je l’ai suivi jusqu’au bureau du rez-de-chaussée,
   où il a repris sa forme naturelle.
 
-— Étrange ! Il faudra savoir son procédé… Mais ceci à plus tard. À
-  présent ?
+— Étrange ! Il faudra savoir son procédé… Mais ceci à plus tard. À
+  présent ?
 
 — Il va rejoindre les jeunes filles à la palmeraie.
 
 — Bien, je me charge d’elles. Tu es libre… Seulement que l’on ne perde
   pas de vue l’hôtel de New-Villard…
 
-— Qu’habite le professeur ?
+— Qu’habite le professeur ?
 
-— Oui, va. Je suis contente de toi. Tu es un fils aimé du Japon !
+— Oui, va. Je suis contente de toi. Tu es un fils aimé du Japon !
 
 On croirait que l’espion va se prosterner, tant sa face exprime de joie à
 ces simples paroles, tant il s’incline devant la jeune femme.
@@ -670,13 +670,13 @@ parc.
 
 Rouge-Fleur est demeurée à la même place.
 
-— Elles retourneront à Kendall-Green, cela est certain ; mais l’attaque
+— Elles retourneront à Kendall-Green, cela est certain ; mais l’attaque
   d’aujourd’hui indique que le temps presse… Il faut que, ce soir même,
   j’aie tous les atouts en main.
 
 Et avec un sourire :
 
-— Oh ! bonne mère Marahi, comme tu m’as bien renseignée ! Rouge-Fleur se
+— Oh ! bonne mère Marahi, comme tu m’as bien renseignée ! Rouge-Fleur se
   souviendra de la femme rouge qui aura assuré le triomphe des fils
   d’Asie.
 
@@ -695,14 +695,14 @@ précipitamment à sa vue.
 Et Lilian, en hâte, trahissant ainsi la pensée qui l’obsède :
 
 — La fleur, la fleur de l’aloès chiriquite, Jud… Que signifie ce
-  tatouage que, moi aussi, je porte au bras ?
+  tatouage que, moi aussi, je porte au bras ?
 
 Elle lui a pris les mains, mais il se dégage doucement.
 
 — Miss Lilian, souvenez-vous de la promesse de votre serviteur.
 
 — Serviteur, répèta-t-elle mutine… Pourquoi prendre sans cesse ce titre
-  impossible ?
+  impossible ?
 
 — Parce que seul il convient. Mais laissons cela, je vous en prie. Ce
   matin, je vous ai dit : après la séance au Sénat, Miss, je vous
@@ -714,9 +714,9 @@ et serrée.
 
 — Voici ce journal, Miss.
 
-— Oh ! il ne changera rien à mes sentiments, Allan, je vous en préviens !
+— Oh ! il ne changera rien à mes sentiments, Allan, je vous en préviens !
 
-Elle s’arrêta. Il avait un sourire si désespéré qu’elle eut peur ; mais
+Elle s’arrêta. Il avait un sourire si désespéré qu’elle eut peur ; mais
 il coupa les phrases prêtes à jaillir sur ses lèvres.
 
 — Lisez d’abord, lisez.
@@ -732,14 +732,14 @@ entretien incompréhensible pour elle :
 Il s’arrêta un instant comme si l’haleine lui manquait. Mais il domina
 son émotion et acheva avec une douce fermeté :
 
-— Apprenez-lui comment pense le monde ; hélas ! je ne pouvais, moi, lui
+— Apprenez-lui comment pense le monde ; hélas ! je ne pouvais, moi, lui
 donner cette science si nécessaire de la vie sociale. Apprenez-lui ce que
 l’on doit à certaines situations, ce que l’on se doit à soi-même… Qu’une
 obstination d’enfant ne ternisse pas un dévoué…
 
 — Ternir, balbutia Lilian stupéfiée par le mot inattendu.
 
-— Ternir, oui. Miss Grace comprendra, et au besoin, M. Paterson, lors de
+— Ternir, oui. Miss Grace comprendra, et au besoin, M. Paterson, lors de
   son retour, ne vous refusera pas ses conseils. C’est un homme droit, un
   homme d’un grand sens, écoutez-le, Miss Lilian.
 
@@ -771,14 +771,14 @@ Le hansom emportait les deux jeunes filles, pelotonnées sur les coussins.
 — Voyons, fit tendrement Grace après un instant, voyons, Lilian. Tu ne
   vas pas conserver ce visage terrifié.
 
-— Ah ! je sens qu’autour de moi s’agite un mystère dont j’ai peur.
+— Ah ! je sens qu’autour de moi s’agite un mystère dont j’ai peur.
 
-— Bah ! on se fait souvent des idées. Peut-être qu’après avoir lu ces
-  papiers de M. Allan, tu te trouveras bien folle de t’être inquiétée
+— Bah ! on se fait souvent des idées. Peut-être qu’après avoir lu ces
+  papiers de M. Allan, tu te trouveras bien folle de t’être inquiétée
   ainsi.
 
 — Tais-toi… Écoute… J’ai hâte de savoir, et je voudrais ne lire jamais
-  le secret… Ah ! Tu ne connais pas Allan ! Il n’a jamais craint, il n’a
+  le secret… Ah ! Tu ne connais pas Allan ! Il n’a jamais craint, il n’a
   jamais tremblé que pour moi. Et je devinais ses craintes, car il les
   cachait à la petite sœur qu’elles eussent pu effrayer. Et depuis ce
   matin, son attitude, ses discours me remplissent de douleur et
@@ -786,15 +786,15 @@ Le hansom emportait les deux jeunes filles, pelotonnées sur les coussins.
   voix tremble, il faut qu’une fatalité surhumaine s’étende sur nous.
 
 — Tu parles de sa force d’âme, de son courage… Avez-vous donc connu des
-  dangers ?
+  dangers ?
 
 — Je le crois.
 
 La pétulante miss Paterson tressauta :
 
-— Comment, tu le crois, tu n’en es pas sûre ?
+— Comment, tu le crois, tu n’en es pas sûre ?
 
-— Hélas non !
+— Hélas non !
 
 Et d’une voix hésitante, comme si elle cherchait à condenser d’imprécis
 souvenirs, Lilian parla :
@@ -808,21 +808,21 @@ Mais la jeune fille secoua la tête.
 
 — Non pas en toi, mais en moi-même.
 
-— Voilà qui est fort !
+— Voilà qui est fort !
 
 — Écoute-moi sans m’interrompre, Toi, tu as une famille, ton existence a
   été claire, simple, droite. Moi, d’aussi loin que je me souvienne, il y
   a de l’obscurité dans ma vie.
 
 — De l’obscurité, redit Grace plus impressionnée qu’elle ne voulait le
-  laisser paraître ?
+  laisser paraître ?
 
 — Oui… J’aime Jud Allan, et rien au monde ne m’empêchera de l’aimer… Mais
   sais-tu pourquoi cette affection est née, comment elle a grandi,
-  comment elle est mon existence même… ? C’est parce que je suis certaine
+  comment elle est mon existence même… ? C’est parce que je suis certaine
   qu’il a dévoué sa vie à me protéger, à me défendre…
 
-— Contre qui ? Contre quoi ?
+— Contre qui ? Contre quoi ?
 
 Lilian étendit désespérément les bras.
 
@@ -845,14 +845,14 @@ Puis caressante, elle susurra affectueusement :
 
 — Le Mexique peut-être.
 
-— Pourquoi le Mexique ?
+— Pourquoi le Mexique ?
 
 — À cause de ce que nous avons entendu au Sénat… la Californie, les
   indiens mayos…, le tatouage dont tu es ornée…
 
 Lilian eut un haussement d’épaules.
 
-— Cela est confus, trop confus… Et puis quelle apparence…! Non… Ma
+— Cela est confus, trop confus… Et puis quelle apparence… ! Non… Ma
   première impression nette date du moment où je devais avoir huit ans
   environ.
 
@@ -860,11 +860,11 @@ Lilian eut un haussement d’épaules.
 
 — Nous étions à Cincinnati, la ville marchande.
 
-— Tu es certaine de cela ?
+— Tu es certaine de cela ?
 
 — Certaine. Nous sommes restés longtemps dans cette cité. Allan avait
   loué le premier étage d’une maison dont le rez-de-chaussée était occupé
-  par la propriétaire, une grosse femme, veuve, du nom de Tamirath !
+  par la propriétaire, une grosse femme, veuve, du nom de Tamirath !
   Tout cela est très précis.
 
 — Va toujours.
@@ -873,39 +873,39 @@ Lilian eut un haussement d’épaules.
   J’ai compris depuis qu’il donnait des leçons d’escrime et de boxe dans
   un gymnase, afin de gagner notre vie.
 
-— Ah !
+— Ah !
 
 — Le soir, il rentrait. Je m’endormais en le voyant assis, sous la lampe,
   avec des livres, des cahiers… Parfois, à mon réveil, il m’apparaissait
   dans la même position. Il travaillait, il voulait s’instruire, il
   passait des examens.
 
-— Des examens ?
+— Des examens ?
 
 — Oui, Grace.
 
-— Mais sais-tu que cela est tout à fait estimable ?
+— Mais sais-tu que cela est tout à fait estimable ?
 
 Ces mots amenèrent un sourire sur les traits de Lilian.
 
-— Oh ! Allan n’est point un homme ordinaire, va… Mais attends, j’arrive à
+— Oh ! Allan n’est point un homme ordinaire, va… Mais attends, j’arrive à
   la chose terrible… Un soir, il rentra à la maison. Il semblait bouleversé,
   les vêtements en désordre, et le bras enveloppé de bandages sanglants.
 
-— Oh ! que me dis-tu là ?
+— Oh ! que me dis-tu là ?
 
-— La vérité. Il vint à moi, toute interdite de le voir en cet état ; il
+— La vérité. Il vint à moi, toute interdite de le voir en cet état ; il
   me regarda fixement, les yeux dans les yeux… Et moi, je sentais un
   trouble m’envahir, il me semblait que je tombais doucement dans un
   sommeil hypnotique invincible… Mais brusquement, il détourna son regard
-  de moi, je l’entendis murmurer : « Non, pas elle, pas elle ; il ne faut
-  pas que sa volonté s’accoutume à être l’esclave de la mienne ! »
+  de moi, je l’entendis murmurer : « Non, pas elle, pas elle ; il ne faut
+  pas que sa volonté s’accoutume à être l’esclave de la mienne ! »
  
 ![Je m’endormais en le voyant assis, sous la lampe, avec des livres, des cahiers…](../images/part-1/page-191.jpg
 "Je m’endormais en le voyant assis, sous la lampe, avec des livres, des cahiers…")
 
-— Oh! s’exclama Grace, cela est tout à fait impressionnant… Et tu ne
-  rêvais pas ?
+— Oh ! s’exclama Grace, cela est tout à fait impressionnant… Et tu ne
+  rêvais pas ?
 
 Lilian affirma avec énergie :
 
@@ -922,9 +922,9 @@ adresse Allan.
 
 Les gestes seuls sont bien restés en ma mémoire. Les mots se sont
 effacés, sauf quelques-uns. Peut-être étais-je trop jeune pour les
-comprendre : Gildow… mort… le Crâne… la police !
+comprendre : Gildow… mort… le Crâne… la police !
 
-Que signifiait cela ? Mystère… Je m’endormis !…
+Que signifiait cela ? Mystère… Je m’endormis !…
 
 Quand je m’éveillai, nous avions quitté Cincinnati. Le chemin de fer nous
 emportait à travers un pays inconnu.
@@ -933,7 +933,7 @@ Jud Allan cachait mal son inquiétude.
 
 Aux stations, il observait les voyageurs montant ou descendant du train.
 
-Mais rien ne sembla donner raison à ses appréhensions inavouées ; sans
+Mais rien ne sembla donner raison à ses appréhensions inavouées ; sans
 encombre nous arrivâmes dans une grande ville où la température était
 beaucoup plus élevée qu’à Cincinnati. Je voyais des palmiers dans les
 jardins, des arbres que je ne connaissais pas et qui cependant ne
@@ -952,8 +952,8 @@ passaient sans qu’il parût.
 
 Trois ans s’écoulèrent ainsi.
 
-— Trois ans, soupira Grace ! Pauvre chère, combien cela dût te sembler
-long !
+— Trois ans, soupira Grace ! Pauvre chère, combien cela dût te sembler
+long !
 
 — Non… Je travaillais beaucoup, parce que lorsque j’avais de bonnes
   notes, Jud se montrait heureux. Son visage, toujours soucieux,
@@ -974,7 +974,7 @@ réflexions dont je te présente les résultats.
 
 Le voici enfin. Il m’emmène avec mon petit bagage d’écolière.
 
-La maîtresse de la pension m’embrasse avec effusion ; elle a une larme
+La maîtresse de la pension m’embrasse avec effusion ; elle a une larme
 qui tremblotte au bord de sa paupière, mais elle ne dit rien qui puisse
 m’expliquer cette émotion.
 
@@ -986,7 +986,7 @@ Nouvelle-Orléans. Je connais bien le chemin et je m’étonne.
 Jud me répond avec embarras que des raisons impérieuses l’obligent à se
 rendre avec moi bien loin de la Nouvelle-Orléans.
 
-— Alors, dis-je, je ne retournerai plus à la pension ?
+— Alors, dis-je, je ne retournerai plus à la pension ?
 
 — Non. On t’attend dans une autre, petite sœur.
 
@@ -996,7 +996,7 @@ Et puis, il ajoute :
 tutoyer, même entre proches parents. Prenez dès ce moment l’habitude de
 me dire vous.
 
-— Oh ! s’écria Grace, je comprends ; il savait n’être pas ton frère, lui.
+— Oh ! s’écria Grace, je comprends ; il savait n’être pas ton frère, lui.
   Et il se servait de ce prétexte pour substituer au tutoiement la forme
   de conversation la plus convenable.
 
@@ -1021,12 +1021,12 @@ poursuivi, traqué, qui cherche à croiser ses traces.
 
 C’est en Floride que ce voyage bizarre prit fin.
 
-— En Floride ?
+— En Floride ?
 
 — Oui, ma bonne Grace, en Floride. J’y devais rester jusque vers ma
   dix-septième année.
 
-— Moment où tu entras chez Miss Deffling ?
+— Moment où tu entras chez Miss Deffling ?
 
 — Précisément.
 
@@ -1037,7 +1037,7 @@ Lilian sourit à son interlocutrice.
 
 — Non, je ne pense pas. Je vécus de onze à dix-sept ans, dans une
   ravissante hacienda, transformée en maison d’éducation. J’aurais été
-  heureuse, si j’avais vu Jud plus souvent ; mais il ne venait qu’à de
+  heureuse, si j’avais vu Jud plus souvent ; mais il ne venait qu’à de
   rares intervalles.
 
 ![Je tirai à la carabine](../images/part-1/page-194.jpg "Je tirai à la carabine")
@@ -1069,7 +1069,7 @@ dit :
 
 — Demain, nous partions ensemble.
 
-— Oh ! m’écriai-je, je vais donc vivre près de vous.
+— Oh ! m’écriai-je, je vais donc vivre près de vous.
 
 — Non, Lilian. Mais vous entrerez dans votre dernière pension. Ne me
 questionnez pas. Dites-vous que je veux votre bonheur de toute mon âme,
@@ -1096,19 +1096,19 @@ de son corsage, où elle les avait glissés.
 
 Elle voulut lire. Impossible. Les lettres dansaient devant ses yeux.
 
-— Eh bien, liras-tu ? chuchota la curieuse Grace, impatientée par le
+— Eh bien, liras-tu ? chuchota la curieuse Grace, impatientée par le
   silence prolongé de son amie.
 
 Puis, se faisant câline, elle proposa doucement :
 
-— Veux-tu que je sois ta lectrice ?
+— Veux-tu que je sois ta lectrice ?
 
 Pour toute réponse, son interlocutrice lui présenta les feuillets.
 
 D’une voix claire, bien qu’abaissée, Miss Paterson commença la lecture de
 ce qui suit.
 
-[^1-11-1]: Cette description est absolument exacte. Si l’on ajoute qu’il
+[^1-11-1] : Cette description est absolument exacte. Si l’on ajoute qu’il
            n’existe point de tribune, que les sénateurs parlent de leur place,
            on se rendra compte de la différence complète entre une assemblée de
            France et une assemblée américaine.

@@ -1,6 +1,6 @@
 # L’engrenage du merveilleux
 
-![Chapitre 2](../images/part-1/page-020.jpg)
+![](../images/part-1/page-020.jpg)
 
 Rêvant, monologuant, tour à tour repoussant ou acceptant les fantastiques
 affirmations de la Gitana, le marquis était rentré à la posada del Cid,
@@ -17,34 +17,34 @@ En effet, les paroles bizarres, les discours de Ramrah perdaient beaucoup de
 leur valeur, à présent que la bohémienne n’était plus là.
 
 S’il ne lui fût resté de sa rencontre que ce souvenir verbal, Pierre l’eût
-prestement chassé ; mais il y avait autre chose.
+prestement chassé ; mais il y avait autre chose.
 
 Une chose inexplicable et précise cependant.
 
 Cette plaquette de métal sur laquelle se dessinait l’exquis visage d’une
 inconnue.
 
-On plaisante les mots, on nie les pensées ; mais un disque métallique,
+On plaisante les mots, on nie les pensées ; mais un disque métallique,
 une photographie sont des faits contre lesquels tout l’arsenal des négations
 vient se briser.
 
 Le jeune homme s’assit près de la fenêtre, tournant le dos à la pesante
-Olinda qui dressait le couvert. 0h ! bien simple le couvert. Pas de nappe ; ce
+Olinda qui dressait le couvert. 0h ! bien simple le couvert. Pas de nappe ; ce
 luxe est inconnu dans les posadas… Des assiettes grossières, un plat de
 terre brune où nageait un ragoût de viande noirâtre avec des quartiers de
 tomate, des fèves et des poivrons (piments verts relativement doux). Enfin,
 un flacon de vin épais que son transport dans des outres de peau de bouc
-avait agrémenté d’un « bouquet » peu recommandable.
+avait agrémenté d’un « bouquet » peu recommandable.
 
 Et cependant, la forte commère paraissait ravie de ses préparatifs quand
-elle annonça de sa voix la plus melliflue ^[mielleuse]:
+elle annonça de sa voix la plus melliflue ^[mielleuse] :
 
 — El señor est servi… Dans un instant, je lui apporterai un fromage
   de Cambroseda (fromage de chèvre) dont les Saints Anges feraient régal, et
   aussi des pommes que le voiturier Marcolo m’a rapportées de Béjar.
 
 L’opulente personne ne consentit à quitter la chambre qu’après avoir vu
-son « client » prendre place devant ce dîner, bien grossier pour un
+son « client » prendre place devant ce dîner, bien grossier pour un
 Parisien, mais somptueux dans une posada espagnole, où l’on ne trouve en
 général rien à se mettre sous la dent.
 
@@ -55,7 +55,7 @@ Soudain il s’arrêta, porta la main à sa poche, la ramena sur la taille,
 puis avec un sourire contraint :
 
 — Après tout, j’ai promis à cette bohémienne… Cela ne peut évidemment donner
-  aucun résultat… ; mais une promesse, même ridicule, doit être tenue.
+  aucun résultat… ; mais une promesse, même ridicule, doit être tenue.
 
 Il affectait un ton plaisant, bien que la gaieté sonnât faux dans sa voix.
 On eût pensé, en l’entendant, qu’il attendait un effet imprévu de l’acte tout
@@ -69,23 +69,23 @@ La plaquette de métal posée sur le bois, Pierre se reprit à manger, non
 sans parcourir la chambre d’un regard circulaire, empreint d’une certaine
 méfiance.
 
-Qu’espérait-il ? Que craignait-il ? Le marquis n’eût su le dire lui-même.
+Qu’espérait-il ? Que craignait-il ? Le marquis n’eût su le dire lui-même.
 Mais au certain, il avait pensé qu’un phénomène quelconque suivrait
 l’accomplissement de son geste, et ce lui fut une désillusion de constater que
 rien d’anormal ne se produisait.
 
 Une crispation agacée courut sur ses traits.
 
-— Oh ! c’est trop niais, grommela-t-il… Je rencontre une de ces pythonisses
+— Oh ! c’est trop niais, grommela-t-il… Je rencontre une de ces pythonisses
   foraines comme il en existe par milliers, et je verse dans la crédulité du
-  plus arriéré des badauds. Ah ! Chazelet mon ami, tu te déprimes !
+  plus arriéré des badauds. Ah ! Chazelet mon ami, tu te déprimes !
 
 Puis tournant la tête :
 
 — C’est ce diable de portrait aussi.. Une aussi charmante personne suffirait
   à expliquer que l’on perde la tête… si on la connaissait. Seulement, on ne
   devient pas maniaque pour une simple image… Pygmalion, je sais bien, fut
-  épris d’une statue… Voilà à quoi servent les études ! L’antiquité fourmille
+  épris d’une statue… Voilà à quoi servent les études ! L’antiquité fourmille
   d’exemples, grâce auxquels on peut excuser toutes les idioties.
 
 Et fixant son regard sur la plaquette de nickel :
@@ -107,12 +107,12 @@ corbeille emplie de pommes d’une coloration particulière.
 — Voici le dessert du señor Français, susurra la commère en minaudant. Que le
   señor ne se dérange pas, je vais simplement le poser devant lui. Une section
   de miquelets [^miquelets] va passer la nuit à la posada… Quel travail pour la
-  faiblesse d’une femme !
+  faiblesse d’une femme !
 
 Tout en parlant, elle disposait fromage et fruits devant le marquis de
 Chazelet.
 
-— Ah ! fit-elle tout à coup, que voilà un portrait ressemblant !
+— Ah ! fit-elle tout à coup, que voilà un portrait ressemblant !
 
 Son index se tendait vers la plaquette qui préoccupait si fort le jeune homme.
 
@@ -129,40 +129,40 @@ La posadera se prit à rire, découvrant des dents blanches.
   retenue par une inconsciente coquetterie au moment de prononcer un chiffre -
   depuis longtemps, acheva-t-elle enfin.
 
-— Le pays ! elle habite donc aux environs?
+— Le pays ! elle habite donc aux environs ?
  
 — Si l’on veut… Sa demeure est de l’autre côté de Bejar dans la montagne… Il
   y a bien dix à douze kilomètres d’ici. Mais tous les ans, à la grande foire
   de Béjar, je la vois avec sa vieille maman, la Comtesse.
 
-Comtesse ! le mot sonna en cloche dans le crâne de Chazelet. Est-ce que
-décidément, la gitana était douée d’une lucidité inexplicable ?
+Comtesse ! le mot sonna en cloche dans le crâne de Chazelet. Est-ce que
+décidément, la gitana était douée d’une lucidité inexplicable ?
 
 Mais il voulait savoir… Il reprit :
 
-— Vous savez son nom ?
+— Vous savez son nom ?
 
-— Ah ! señor, qui pourrait ignorer le nom de pareille madone ?
+— Ah ! señor, qui pourrait ignorer le nom de pareille madone ?
 
-— Et ce nom, c’est… ?
+— Et ce nom, c’est… ?
 
 — Linérès.
 
 Le mot tomba dans l’entendement du jeune homme avec une harmonie cristalline.
 
-Linérès ! Il lui sembla qu’il eût été impossible d’imaginer une autre
+Linérès ! Il lui sembla qu’il eût été impossible d’imaginer une autre
 appellation pour la charmante inconnue, si étrangement entrée dans sa vie.
 
 — La señorita Linérès de Armencita, continua Olinda.
 
-— De Armencita, redit Pierre, une noble et riche famille ?
+— De Armencita, redit Pierre, une noble et riche famille ?
 
 Son interlocutrice eut un haussement d’épaules.
 
-— Noble, oui, et parmi les plus nobles d’Espagne ; mais riche, c’est autre
+— Noble, oui, et parmi les plus nobles d’Espagne ; mais riche, c’est autre
   chose.
 
-— Ah !
+— Ah !
 
 Cette exclamation de Chazelet exprimait la satisfaction. Il lui plaisait que
 la prédiction de la bohémienne se trouvât en défaut sur ce point. Mais
@@ -170,7 +170,7 @@ presque aussitôt, il esquissa un geste dépité. En toute conscience, il devait
 reconnaître que Ramrah ne lui avait rien affirmé quant à la fortune de la
 belle inconnue.
 
-— Sur quoi vous basez-vous pour la croire pauvre ?
+— Sur quoi vous basez-vous pour la croire pauvre ?
 
 — Sur ce que tout le pays vous répondra comme moi, señor. La maman et la
   jeune fille habitent leur vieux château, aux trois quarts ruiné…
@@ -187,20 +187,20 @@ Chazelet en ressentit un plaisir dont il s’étonna lui-même. Est-ce que cette
 enfant, ignorée quelques heures plus tôt, cette jolie personne à lui
 présentée de façon si bizarre, occupait déjà une place importante dans son
 esprit, qu’il se réjouit d’apprendre sa situation de fortune si conforme à la
-sienne propre ?
+sienne propre ?
 
 Et tout en se gourmandant tout bas, il demanda pourtant, affectant
 l’indifférence :
 
-— Est-elle aussi jolie que cette miniature ?
+— Est-elle aussi jolie que cette miniature ?
 
 La posadera leva les yeux au ciel.
 
-— Plus, señor, cent fois plus. C’est une madone, une véritable divine madone !
+— Plus, señor, cent fois plus. C’est une madone, une véritable divine madone !
 
 Puis, comme frappée d’une idée :
 
-— Au fait ! Puisque le señor aime les points de vue de nos montagnes, cela
+— Au fait ! Puisque le señor aime les points de vue de nos montagnes, cela
   lui ferait une promenade intéressante.
 
 Et Chazelet l’interrogeant du regard.
@@ -224,7 +224,7 @@ Puis insinuante, appelant sur sa face charnue toute l’amabilité dont elle
 
 — Mais, continua-t-elle abaissant la voix, comme il faudra déjeuner à Béjar
   et que la route est longue au retour… Si le señor veut permettre à sa
-  servante de lui avancer quelques pesetas… Oh ! se récria-t-elle vivement,
+  servante de lui avancer quelques pesetas… Oh ! se récria-t-elle vivement,
   je les porterai sur la note, en toute confiance… Heureuse de prouver ainsi
   que l’humble posadera sait reconnaître un vrai gentilhomme d’au delà des
   monts.
@@ -265,7 +265,7 @@ Quelques pièces d’or de vingt-cinq pesetas (vingt-cinq francs) glissèrent
 de la main du caporal dans celle de la posadera, dont les yeux s’allumèrent
 de convoitise.
 
-— Vous m’assurez au moins que vous ne _lui_ voulez pas de mal ?
+— Vous m’assurez au moins que vous ne _lui_ voulez pas de mal ?
   demanda-t-elle cependant.
 
 — Les miquelets répriment le mal, mais ne le font pas, répliqua
@@ -319,7 +319,7 @@ s’écroulaient, devenaient non plus un phénomène psychique troublant, mais
 une simple et adroite supercherie.
 
 ll y avait bien encore la question du portrait à élucider. Seulement le
-mot « supercherie » est si élastique ; il prend des proportions tellement
+mot « supercherie » est si élastique ; il prend des proportions tellement
 étendues dans l’esprit de qui l’applique, que Pierre avait tout
 naturellement formulé cet avis :
 
@@ -331,9 +331,9 @@ Donc, devant le portail du castel ruiné, il s’arrêta, considérant avec une
 mélancolie respectueuse les pierres descellées, branlantes, qui conservaient
 néanmoins quelque chose de riche et d’éclatant.
 
-Nos ruines du Nord sont grises, sombres ; elles semblent avoir revêtu le
+Nos ruines du Nord sont grises, sombres ; elles semblent avoir revêtu le
 deuil des splendeurs disparues. Là-bas, sous le ciel ibérique, elles restent
-lumineuses. Chez nous, ce sont des astres éteints ; en Espagne, elles sont
+lumineuses. Chez nous, ce sont des astres éteints ; en Espagne, elles sont
 des fragments de soleils brisés, mais ces fragments rayonnent encore.
 
 Dès longtemps, le pont-levis qui, en se relevant, fermait le portail, avait
@@ -381,15 +381,15 @@ Il s’approche en souriant.
 
 — Vous êtes la Lourença, dit-il pour apprivoiser la sauvage créature.
 
-— Qui vous l’a dit ? fait-elle entre ses dents.
+— Qui vous l’a dit ? fait-elle entre ses dents.
 
-— Qui ? Mais la señora Olinda, de la posada del Cid, de l’autre côté de
+— Qui ? Mais la señora Olinda, de la posada del Cid, de l’autre côté de
   Béjar.
 
 Les traits de la chevrière se détendent un peu. Le nom d’une personne
 connue met toujours le campagnard en confiance.
 
-— C’est une bonne femme, Olinda… ; à la dernière fête, elle m’a donné
+— C’est une bonne femme, Olinda… ; à la dernière fête, elle m’a donné
   un ruban.
 
 — Oui, une bonne femme, vous dites bien. Comme j’avais désir de voir le
@@ -398,32 +398,32 @@ connue met toujours le campagnard en confiance.
   Armencita et la señorita Linérès.
 
 Pourquoi la voix du Français trembla-t-elle un peu en prononçant ces
-dernières paroles ? Au vrai, il n’eût su le dire.
+dernières paroles ? Au vrai, il n’eût su le dire.
 
 Du reste, son interlocutrice ne lui laissa point le temps de s’interroger à
-cet égard ; elle reprit :
+cet égard ; elle reprit :
 
-— Oh ! pour visiter le château, vous le pouvez… _Rien n’est fermé là où il
+— Oh ! pour visiter le château, vous le pouvez… _Rien n’est fermé là où il
   n’y a rien à prendre_. Mais pour ce qui est de parler aux señoras, cela
   sera impossible.
 
-— Elles refuseraient de me recevoir ?
+— Elles refuseraient de me recevoir ?
 
-— Oh ! les pauvres bonnes créatures… Elles n’ont jamais fermé leur porte
+— Oh ! les pauvres bonnes créatures… Elles n’ont jamais fermé leur porte
   à personne.
 
-— Alors… Elles sont donc sorties ?
+— Alors… Elles sont donc sorties ?
 
 La fille secoua la tête :
 
 — Pas sorties…, parties.
 
-— Vous dites ?
+— Vous dites ?
 
 — Parties…, depuis trois mois… Un homme de loi est venu de Madrid, la grande
   ville, et il les a emmenées.
 
-— Vous ne voulez pas exprimer qu’elles sont prisonnières?
+— Vous ne voulez pas exprimer qu’elles sont prisonnières ?
 
 À cette question, la Lourença se dérida. Toute sa personne frétilla d’un
 rire inextinguible. Elle parvint enfin à bredouiller :
@@ -451,7 +451,7 @@ paysanne, on a évidemment une situation plus qu’aisée. Et Paris n’est-il
 point le phare vers lequel convergent tous ceux à qui Plutus sourit.
 
 — Allez comme et où vous voudrez, acheva la Lourença. Le château, ce n’est
-  que des vieilles pierres ; mais El Rios, qui a étudié, prétend que cela
+  que des vieilles pierres ; mais El Rios, qui a étudié, prétend que cela
   intéresse les _ricos hombres_… Allez, personne ne vous arrêtera.
 
 Et lui, ne paraissant pas comprendre l’invitation, elle ajouta :
@@ -494,7 +494,7 @@ souvenirs de richesse, de chevalerie, de joie.
 Maintenant, des monceaux de gravats recouvraient le sol, effaçant les
 traces des seigneurs aux costumes brillants, des aïeules élégantes et
 gracieuses. Là, sans doute, plus d’une noble dame avait remis son écharpe de
-soie au guerrier vaillant se rendant à la croisade contre les Maures ; là,
+soie au guerrier vaillant se rendant à la croisade contre les Maures ; là,
 les violes des troubadours avaient accompagné les chants de gloire et
 de tendresse.
 
@@ -526,20 +526,20 @@ D’un geste inconscient le jeune homme tira de sa poche la plaquette de la
 bohémienne. Il lui sourit et prononça doucement :
 
 — Je vous comprends, señorita. Vos beaux yeux sont rieurs, vos lèvres disent
-  la mélancolie. Vos yeux sont votre jeunesse ; vos lèvres sont tout ceci !
+  la mélancolie. Vos yeux sont votre jeunesse ; vos lèvres sont tout ceci !
 
 Il avait étendu le bras, entourant d’un cercle imaginaire toutes les
 tristesses de ce présent, enclos dans ce passé.
 
 Et puis, presque tremblant d’un émoi inexplicable, il marcha vers la
-cabane ; à travers les vitres, il essaya de voir à l’intérieur, mais les
+cabane ; à travers les vitres, il essaya de voir à l’intérieur, mais les
 rideaux arrêtèrent sa vue.
 
 En se portant de fenêtre en fenêtre, il arriva devant la porte.
 
 Pas de serrure, un loquet.
 
-Ce simple détail est éloquent… La serrure est la précaution de qui possède ;
+Ce simple détail est éloquent… La serrure est la précaution de qui possède ;
 le loquet est la confiance de qui n’a rien.
 
 Était-ce rapprochement avec sa situation présente, mais Chazelet se sentait
@@ -578,11 +578,11 @@ On se rendait compte qu’à l’époque où Linérès vivait là, cette chambre
 devait être gaie et charmante.
 
 Un peu de dentelle et des fleurs, n’est-ce point là ce qui fait sœurs les
-chambres de jeunes filles ?
+chambres de jeunes filles ?
 
 En regardant mieux, Pierre discerna une sorte de commode à tiroirs.
 
-Oh ! celle-ci n’appartenait pas à un mobilier de paysan. Le bois précieux,
+Oh ! celle-ci n’appartenait pas à un mobilier de paysan. Le bois précieux,
 les vieux cuivres l’encerclant de leurs arabesques mauresques, prouvaient
 son antique origine. Et cette épave du passé, demeurée dans les mains des
 dernières représentantes d’une riche famille, jetait une note troublante,
@@ -598,11 +598,11 @@ Elle était partie comme on s’évade, sans regarder derrière elle.
 Pierre les regardait ces tiroirs. Ils avaient contenu les pauvres parures de
 la jeune fille. Ils avaient perçu les soupirs de la jeunesse, de la beauté,
 aux prises avec la misère. Pourquoi l’homme ne peut-il exprimer des choses
-les mouvements d’âme qui les ont frôlées ?
+les mouvements d’âme qui les ont frôlées ?
 
-Que disait-elle seule dans cette chambre ? À quoi rêvait-elle ? Quel
-découragement traçait, au coin de ses lèvres, le pli des tristesses ? Quels
-espoirs maintenaient en ses yeux l’audace du rire ?
+Que disait-elle seule dans cette chambre ? À quoi rêvait-elle ? Quel
+découragement traçait, au coin de ses lèvres, le pli des tristesses ? Quels
+espoirs maintenaient en ses yeux l’audace du rire ?
 
 Et brusquement, Pierre eut une exclamation étouffée, se pencha, glissa sa
 main dans l’un des tiroirs et la ramena à lui.
@@ -610,21 +610,21 @@ main dans l’un des tiroirs et la ramena à lui.
 Entre les doigts, il tenait un petit carnet à la couverture bleue. Sur cette
 couverture, une ligne d’une écriture décidée :
 
-> « Linérès de Armencita  »
+> « Linérès de Armencita »
 
 Il tremblait. Ces trois mots furent sûrement tracés par celle dont la plaque
 magique de la gitana lui révéla l’image.
 
-Que contenait le petit carnet ?
+Que contenait le petit carnet ?
 Rien de bien intéressant selon l’apparence, puisqu’il avait été oublié à
 l’heure du départ.
 
-Cette pensée que Pierre formula pour lui-même, était-elle bien sincère ? Ne
+Cette pensée que Pierre formula pour lui-même, était-elle bien sincère ? Ne
 cherchait-il à s’encourager à tourner la feuille de couverture, à  plonger
-son regard curieux dans les pages où la jeune fille avait dû écrire ?
+son regard curieux dans les pages où la jeune fille avait dû écrire ?
 
-Écrire quoi ? Des détails infimes de sa vie : comptes de dépenses ou autres.
-Documents négligeables, diront les esprits légers ou indifférents ! Erreur !
+Écrire quoi ? Des détails infimes de sa vie : comptes de dépenses ou autres.
+Documents négligeables, diront les esprits légers ou indifférents ! Erreur !
 Pour l’observateur, rien n’est petit, rien n’est à dédaigner. Et il a
 raison. Les conséquences sont souvent disproportionnées avec les faits qui
 les produisent.
@@ -638,31 +638,31 @@ Chazelet soulève la couverture, tourne quelques feuillets au hasard. Son
 regard se fixe enfin sur l’une des dernières pages, et son cœur battant à
 grands coups, il lit ces phrases troublantes :
 
-> Non, décidément, ma mère ne m’aime pas. Qu’ai-je fait ?
-  Pourquoi m’a-t-elle écarté de son cœur ?
+> Non, décidément, ma mère ne m’aime pas. Qu’ai-je fait ?
+  Pourquoi m’a-t-elle écarté de son cœur ?
 
 Cette plainte, qu’une âme douloureuse a confiée au papier, pénètre avec une
 acuité déchirante dans l’âme du jeune homme.
 
-Ah ! lèvres mélancoliques du portrait, vous venez de parler. Vous avez
+Ah ! lèvres mélancoliques du portrait, vous venez de parler. Vous avez
 murmuré votre secret à l’oreille de Chazelet.
 
 Il continue :
 
 > Quel est cet homme, qui, chaque année, paraît à la maison. Il s’enferme
   avec ma mère…, après une demi-heure, il repart. En voilà de nouveau pour un
-  an. Cette fois, il me semble que la comtesse est joyeuse. Pourquoi ?
-  Pourquoi ne me met-elle pas de moitié dans sa joie ?
+  an. Cette fois, il me semble que la comtesse est joyeuse. Pourquoi ?
+  Pourquoi ne me met-elle pas de moitié dans sa joie ?
 
 Pierre se sent les yeux humides. D’une pichenette, il fait sauter une larme.
 Une phrase entr’aperçue lui cause un éblouissement.
 
-> D’où vient ce papier ? a écrit la jeune fille. Hier, dans la plaine, j’étais
+> D’où vient ce papier ? a écrit la jeune fille. Hier, dans la plaine, j’étais
   seule à l’ombre des Trois Chênes… J’étais triste, j’ai pleuré… Je pensais
   combien je suis asseulée, et je me demandais si je ne connaîtrais jamais la
   douceur d’être aimée … Ce matin, dans le cadre de ma glace, j’ai trouvé ce
-  billet, réponse à ma pensée : « Ne pleure plus. Bientôt, à Paris, tu
-  verras qui t’aimera… comme si pauvres allaient à Paris !
+  billet, réponse à ma pensée : « Ne pleure plus. Bientôt, à Paris, tu
+  verras qui t’aimera… comme si pauvres allaient à Paris !
 
 Un frissonnement agita tout l’être du marquis. Paris, indiqué à Linérès
 comme à lui-même… Paris, où des volontés mystérieuses semblaient vouloir
@@ -680,7 +680,7 @@ Le premier explique le départ des habitantes de Armencita. Le voici :
   que nous sommes ses plus proches parentes. Son exécuteur testamentaire
   nous mande à Madrid, pour nous mettre en possession d’une grande fortune.
   Le meilleur est que ma mère rêve d’aller promener notre richesse à Paris…
-  Paris, cette ville bénie où je devrai rencontrer qui m’aimera !
+  Paris, cette ville bénie où je devrai rencontrer qui m’aimera !
 
 Le deuxième paragraphe explique l’abandon du carnet que tient le marquis.
 Linérès a tracé ces mots :
@@ -688,9 +688,9 @@ Linérès a tracé ces mots :
 > Bartolomea, la femme du ranchero Lapaz, m’a prêté le livre de chevalerie. La
   belle Gwendolina oublie son journal de jeune fille au palais qu’elle
   quitte. Le vaillant Rinaldo le trouve et il l’aime… Moi aussi, je veux
-  abandonner ces pages… C’est insensé ! J’en ris… Non, je ne ris pas, je
+  abandonner ces pages… C’est insensé ! J’en ris… Non, je ne ris pas, je
   pleure de me sentir si seule, si privée d’affection que j’agis comme une
-  folle !
+  folle !
 
 Cette fois, l’émoi de Pierre de Chazelet atteignit à son comble.
 
@@ -716,11 +716,11 @@ Le marquis éprouvait maintenant la sensation délicieuse d’étre _engagé_,
 selon la claire expression anglaise, avec cette enfant qui l’avait pressenti
 en songe sans soupçonner son existence.
 
-Elle était riche à présent… Cela eût dû éloigner Pierre…; mais une
+Elle était riche à présent… Cela eût dû éloigner Pierre… ; mais une
 irrésistible attraction l’emportait déjà.
 
 Combien de temps le jeune homme demeura-t-il en tête-à-tête avec ses
-réflexions ? Longtemps certes, car le jour baissant le rappela seul à lui-même.
+réflexions ? Longtemps certes, car le jour baissant le rappela seul à lui-même.
 
 Il sortit de la chaumière. Déjà l’obscurité envahissait la cour du donjon.
 Il eut peine à retrouver son chemin dans le dédale des ruines, mais après
@@ -751,12 +751,12 @@ cachaient le sol.
 
 Et mi-riant, mi-grave :
 
-— Ce satané sentier m’a paru difficile en plein jour; qu’est-ce que cela
-  va être maintenant ?
+— Ce satané sentier m’a paru difficile en plein jour ; qu’est-ce que cela
+  va être maintenant ?
 
 Mais haussant les épaules :
 
-— Bah ! qui _pioche_ la route, risque toujours la _pelle_. Allons-y.
+— Bah ! qui _pioche_ la route, risque toujours la _pelle_. Allons-y.
 
 Résolument il sengagea sur le premier lacet.
 
@@ -768,7 +768,7 @@ rouler dans le vide.
 
 Il se rattrapa à temps, non sans bougonner :
 
-— Je disais un aveugle… ; il aurait son chien pour le conduire. Il _verrait_
+— Je disais un aveugle… ; il aurait son chien pour le conduire. Il _verrait_
   mieux que moi.
 
 Cependant il poursuivit sa marche, mais avec une circonspection croissante.
@@ -787,7 +787,7 @@ point aperçues, tant elles se confondaient avec la nuit.
 Mais il s’interrompit brusquement, pour lancer cette interrogation
 angoissée :
 
-— Qu’est-ce que c’est que cela ?
+— Qu’est-ce que c’est que cela ?
 
 Le buisson avait des mains. Le buisson l’avait saisi.
 
@@ -795,7 +795,7 @@ Il achevait à peine sa question, qu’il se sentit brusquement tiré en arrièr
 Son bras demeuré libre fut à son tour happé par une poigne solide, et un
 voile enveloppa sa tête.
 
-Il tenta de résister ; une voix rude sonna à son oreille.
+Il tenta de résister ; une voix rude sonna à son oreille.
 
 — Si vous n’êtes pas très doux, très obéissant,… une simple poussée vous
   renverra dans la plaine de Armencita… Elle est à trois cents mètres
@@ -829,7 +829,7 @@ Tranquillisé sur les suites de l’aventure,… quand on a la bourse légère,
 on prend vite son parti d’être arrêté par des bandits, et Pierre ne doutait
 pas qu’il se trouvait en pareille posture, tranquillisé donc, il demanda :
 
-— Où me conduisez-vous ?
+— Où me conduisez-vous ?
 
 Celui qui déjà lui avait adressé la parole, répliqua :
 
@@ -847,7 +847,7 @@ Une branche, qui frôla le crâne du prisonnier, lui démontra l’opportunité
 de l’avertissement.
 
 Ses conducteurs le guidaient à présent à travers un bois. À l’odeur
-balsamique flottant dans l’air, Pierre reconnut la nature des arbres ;
+balsamique flottant dans l’air, Pierre reconnut la nature des arbres ;
 c’étaient des sapins.
 
 Le sol devenait presque plat. Les aiguilles des pins l’avaient recouvert
@@ -874,12 +874,12 @@ debout en face du prisonnier.
 Il le considéra une minute en silence.
  
 Et cette minute parut interminable au marquis. Quelles pensées s’agitaient
-dans la cervelle du bandit ? À quelle résolution allaient-elles aboutir ?
+dans la cervelle du bandit ? À quelle résolution allaient-elles aboutir ?
 
 Interrogations quelque peu angoissantes, quand on est la victime qui
 devra subir la loi de l’adversaire.
 
-— À quelle sauce serai-je mangé ? se demanda le jeune homme.
+— À quelle sauce serai-je mangé ? se demanda le jeune homme.
 
 Il n’allait pas tarder à être fixé, car le personnage s’approcha d’un pas et
 se désignant du geste :
@@ -893,11 +893,11 @@ se désignant du geste :
 Les assistants avaient tourné la tête vers le captif. Ils eurent un léger
 murmure approbatif pour son attitude dégagée.
 
-Mais le Seigneur de la nuit leva la main ; tout se tut. Il reprit :
+Mais le Seigneur de la nuit leva la main ; tout se tut. Il reprit :
 
 — Je ne serai pas volé, comme tu le dis.
 
-L’affirmation ne fit pas bondir Pierre ; une remarque, en cet instant, 
+L’affirmation ne fit pas bondir Pierre ; une remarque, en cet instant, 
 captivait toute son attention.
 
 Le bandit espagnol parlait avec un accent allemand, très reconnaissable
@@ -908,7 +908,7 @@ Celui-ci continuait d’ailleurs :
 — Je ne serai pas volé, car je te savais démuni d’argent, lorsque j’ai
   chargé mes _braves_ de t’amener vers moi.
 
-— Vous désiriez une visite de politesse?
+— Vous désiriez une visite de politesse ?
 
 — Non. Je voulais t’associer à une œuvre courageuse et bonne.
 
@@ -943,11 +943,11 @@ Décidément la police des bandits était bien faite en Espagne.
 
 — Tu es brave, énergique, continua l’homme sans paraître remarquer
   l’ahurissement de son prisonnier. Au lieu de te laisser abattre par la
-  mauvaise fortune, tu as décidé que tu reconquerrais la richesse ; cela
+  mauvaise fortune, tu as décidé que tu reconquerrais la richesse ; cela
   m’a fait plaisir, car j’ai pensé que la Fleur de Armencita trouverait en
   toi le défenseur, dont la pauvrette a grand besoin.
 
-— La fleur de Armencita, répéta Chazelet. Qui appelez-vous ainsi ?
+— La fleur de Armencita, répéta Chazelet. Qui appelez-vous ainsi ?
 
 — Celle que les habitants de la vallée appelaient la madone Linérès.
 
@@ -965,7 +965,7 @@ Et presque malgré lui, le jeune homme bredouilla :
 
 Puis, par réflexion :
 
-— Et puis comment, pourquoi vous préoccupez-vous de la señorita?
+— Et puis comment, pourquoi vous préoccupez-vous de la señorita ?
 
 L’interpellé hocha gravement la tête.
 
@@ -977,13 +977,13 @@ L’interpellé hocha gravement la tête.
   que je guettais les voyageurs rentrant de _Bânos_, sa douce voix apportée
   par le vent, me charmait durant l’affût monotone.
 
-— Ah ! balbutia seulement le marquis décontenancé par les allégations
+— Ah ! balbutia seulement le marquis décontenancé par les allégations
   de cet étrange bandit.
 
 Et la voix de l’homme masqué tinta de nouveau à ses oreilles.
 
 — Jamais, disait ce dernier, la señorita n’a su quels gentils compagnons
-  ses chants étaient pour Sélénitès ; jamais elle ne m’a aperçu sur sa route.
+  ses chants étaient pour Sélénitès ; jamais elle ne m’a aperçu sur sa route.
   Jamais la vieille comtesse n’a soupçonné que le poulet tendre, les pastéques
   à la pulpe rose, que des paysans lui offraient parfois, avaient été payés par
   le bandit. Elles étaient pauvres, et je soldais la poésie que cette enfant
@@ -996,11 +996,11 @@ Mais changeant soudain de ton :
 
 — Vers Paris, s’exclama Pierre retrouvant la voix à cette affirmation.
 
-— Oui… Cela te surprend ?
+— Oui… Cela te surprend ?
 
 — Non, non, continuez.
 
-Le jeune homme s’efforçait au calme ; mais son cœur battait à coups redoublés…
+Le jeune homme s’efforçait au calme ; mais son cœur battait à coups redoublés…
 
 Linérès habitait Paris… Paris, où la bohémienne lui avait affirmé qu’il la
 rencontrerait.
@@ -1020,7 +1020,7 @@ Et pourtant, depuis sa visite aux ruines de Armencita, il se sentait
 tellement attaché à la jolie inconnue qu’il n’hésita pas.
 
 — Ma foi, mon cher Seigneur de la nuit, je suis ruiné, vous le savez. Je n’ai
-  que ma vie à mettre au service de la señorita… C’est fait! Maintenant,
+  que ma vie à mettre au service de la señorita… C’est fait ! Maintenant,
   éclairez-moi un peu sur les dangers qu’elle court.
 
 Le bandit eut un geste de satisfaction, puis reprenant son attitude raide :
@@ -1029,12 +1029,12 @@ Le bandit eut un geste de satisfaction, puis reprenant son attitude raide :
 
 — C’est peu…
 
-— Cela t’effraie… ?
+— Cela t’effraie… ?
 
 Pierre eût un haut-le-corps, et avec une ardeur juvénile :
 
 — Ce n’est pas cela… Je trouve cette absence de renseignements ennuyeuse,
-  voilà tout ! Vous me dites : Il est un ennemi qui veut frapper, mais cet
+  voilà tout ! Vous me dites : Il est un ennemi qui veut frapper, mais cet
   ennemi je ne le connais pas. Alors, se défier de tout le monde…
 
 — Oui, de tout le monde. Il convient d’être le défenseur, sans allié, sans
@@ -1043,14 +1043,14 @@ Pierre eût un haut-le-corps, et avec une ardeur juvénile :
 — Allons, de plus en plus commode.
 
 — Pauvre, la jeune fille ne courait aucun risque. Le péril est né de la
-  fortune ; voilà tout ce que j’ai pu apprendre.
+  fortune ; voilà tout ce que j’ai pu apprendre.
 
 Étrangeté nouvelle au milieu des choses étranges qui s’abattaient sur
 son existence, Pierre en arrivait à converser avec le señor Sélénitès, comme
 avec un camarade. Tout au fond de lui-même, il devait s’avouer que le
 bandit lui devenait absolument sympathique.
 
-Ah ! si jusque-là sa vie s’était déroulée un peu plate, un peu terne, il se
+Ah ! si jusque-là sa vie s’était déroulée un peu plate, un peu terne, il se
 rattrapait joliment.
 
 Depuis deux jours, il vivait un conte de fées. Tout ce qui lui advenait,
@@ -1064,23 +1064,23 @@ Son interlocuteur prononça lentement :
 
 — S’il ne dépendait que de moi, s’écria le jeune homme.
 
-— Que ferais-tu ?
+— Que ferais-tu ?
  
 — Je partirais dès demain.
 
-— Qui t’en empêche ?
+— Qui t’en empêche ?
 
-— Eh ! mon brave Seigneur de nuit, vous ne l’avez pas oublié. Je suis sans
+— Eh ! mon brave Seigneur de nuit, vous ne l’avez pas oublié. Je suis sans
   argent et j’attends celui que l’on m’a promis de France.
 
 — Il est aisé de lever l’obstacle.
 
-— Ah ! vous trouvez ?
+— Ah ! vous trouvez ?
 
 — Mais oui, expliqua l’homme masqué. Tu attends dix mille francs, n’est-ce
   pas… je vais te les avancer…
 
-— Me les avancer, vous ?
+— Me les avancer, vous ?
 
 De Chazelet fut pris de fou rire.
 
@@ -1094,10 +1094,10 @@ interlocuteur, car il dit tranquillement :
 — Cela ne devrait pas te surprendre. Je sais que ma créance sera fidèlement
   remboursée.
 
-— Oh ! sans nul doute… Ce sont les voies et moyens qui ne m’apparaissent pas
+— Oh ! sans nul doute… Ce sont les voies et moyens qui ne m’apparaissent pas
   très clairement.
 
-— Nous allons nous en occuper. Je te remets dix mille francs ; au change
+— Nous allons nous en occuper. Je te remets dix mille francs ; au change
   c’est dix mille huit cents pesetas, car je ne veux point te faire tort d’un
   _centimo_.
 
@@ -1106,11 +1106,11 @@ Le marquis salua en homme appréciant la délicatesse du procédé.
 Et le singulier coupeur de bourses lui tendant une liasse de billets, il la
 prit sans se faire prier et la glissa dans sa poche.
 
-— Tu ne comptes pas ? murmura le bandit.
+— Tu ne comptes pas ? murmura le bandit.
 
 — Non, j’ai confiance en mon… associé.
 
-— Je t’en remercie… La confiance est réciproque… Tu partiras demain ?
+— Je t’en remercie… La confiance est réciproque… Tu partiras demain ?
 
 — Oui… Mais la question de remboursement
 
@@ -1118,7 +1118,7 @@ prit sans se faire prier et la glissa dans sa poche.
   dans une feuille de papier, et place-la sur la tablette de la cheminée de
   la chambre d’hôtel que tu occuperas.
 
-— Bon, après ?
+— Bon, après ?
 
 — Rien de plus. Elle me parviendra.
 
@@ -1147,7 +1147,7 @@ comment le chef les avait désignés.
 
 Après quoi secouant cordialement la main du Français :
 
-— Que les Saints Anges accompagnent ta marche. Adios !
+— Que les Saints Anges accompagnent ta marche. Adios !
 
 ![Droit devant toi. La fonda de Salamanca, dirent-ils](../images/part-1/page-042.jpg
 "Droit devant toi. La fonda de Salamanca, dirent-ils")
@@ -1162,7 +1162,7 @@ rapide. De nouveau, le jeune homme franchit le Cuerpo de Hombre.
 
 Là, ses guides le quittèrent avec ces seuls mots :
 
-— Droit devant toi. La fonda de Salamanca !
+— Droit devant toi. La fonda de Salamanca !
 
 Et telles des omnbres, ils s’enfoncèrent dans la nuit.
 
@@ -1191,14 +1191,14 @@ conduite.
 
 — Il faut toujours désirer plus.
 
-— Je m’en souviendrai, M. Von Foorberg.
+— Je m’en souviendrai, M. Von Foorberg.
 
-— Chut ! pas de noms propres.
+— Chut ! pas de noms propres.
 
-Était-ce une illusion ? On eût cru que le voyageur parlait avec le méme
+Était-ce une illusion ? On eût cru que le voyageur parlait avec le méme
 organe que le señor bandit Sélénitès, et que son interlocuteur possédait une
 voix ressemblant étrangement à celle du guide mystérieux qui, durant son
-Odyssée nocturne, avait seul adressé la parole au marquis Pierre de Chazelet !
+Odyssée nocturne, avait seul adressé la parole au marquis Pierre de Chazelet !
 
 Un roulement de tonnerre, des coups de sifflet, un crissement de freins. C’est
 le rapide qui entre en gare.
@@ -1206,7 +1206,7 @@ le rapide qui entre en gare.
 Le touriste allemand se précipite vers un wagon de première classe, s’y
 engouffre.
 
-Son compagnon le salue. De nouveau la machine siffle ; la file des wagons
+Son compagnon le salue. De nouveau la machine siffle ; la file des wagons
 s’ébranle, s’éloigne.
 
-[^miquelets]: Les miquelets sont des miliciens provinciaux concourant avec la gendarmerie à maintenir l’ordre.
+[^miquelets] : Les miquelets sont des miliciens provinciaux concourant avec la gendarmerie à maintenir l’ordre.

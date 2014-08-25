@@ -1,15 +1,15 @@
-# Passez Marquis ! Passez muscade !
+# Passez Marquis ! Passez muscade !
 
-![Chapitre 8](../images/part-1/page-125.jpg)
+![](../images/part-1/page-125.jpg)
 
 À huit heures du matin, Pierre de Chazelet était debout, habillé, prêt à
-sortir. Où voulait-il aller ? Nulle part.
+sortir. Où voulait-il aller ? Nulle part.
 
 Mais après une nuit pendant laquelle l’insomnie avait torturé son esprit
 et son corps, il s’était levé vers six heures, brisé, une vague migraine
 l’étreignant aux tempes.
 
-Six heures ! Il ne pouvait se permettre d’aller sitôt trouver Allan.
+Six heures ! Il ne pouvait se permettre d’aller sitôt trouver Allan.
 
 Alors, pour employer le temps, il avait procédé à une toilette minutieuse,
 puis il avait essayé de lire, d’écrire.
@@ -24,7 +24,7 @@ disparition du cercle militaire, et le brave médecin concluait :
   l’indépendance. Je t’avertis charitablement, qu’à Paris, ces façons
   d’être te feront juger fou.
 
-> Rappelle cependant ta sagesse en fuite ; cuirasse ton cœur d’un triple
+> Rappelle cependant ta sagesse en fuite ; cuirasse ton cœur d’un triple
   airain afin de te souvenir que, ce soir, je compte te prendre vers cinq
   heures, au sortir de mon service au Val-de-Grâce.
 
@@ -53,45 +53,45 @@ Il eut un sourire navré :
 
 Dans un soupir, il acheva :
 
-— Linérès ! Allan !
+— Linérès ! Allan !
 
 Mais d’un geste brusque, comme furieux du désarroi de ses pensées, il
 sonna. Au garçon accouru, il jeta cet ordre :
 
-— Voyez si M. Allan peut me recevoir.
+— Voyez si M. Allan peut me recevoir.
 
 D’un ton tellement impérieux, que l’employé se précipita au pas gymnastique.
 
 Pierre parcourait sa chambre d’un pas impatient. Deux, trois, cinq minutes
 s’écoulent. Le garçon ne reparaît pas. Enfin le voici.
 
-— Est-il en état de me recevoir ? demande le jeune homme se dirigeant déjà
+— Est-il en état de me recevoir ? demande le jeune homme se dirigeant déjà
   vers la porte.
 
 — Non, Monsieur, bredouille l’homme.
 
-— Pas levé, à huit heures et demie ?
+— Pas levé, à huit heures et demie ?
 
 — Si, si, Monsieur, il est levé.
 
-— Alors ?
+— Alors ?
 
 — Alors, il a quitté l’hôtel.
 
 C’est un rugissement qui monte aux lèvres du marquis.
 
-— Quitté l’hôtel, sans un mot… Mais quand ? Comment ? Qu’est-il arrivé?
+— Quitté l’hôtel, sans un mot… Mais quand ? Comment ? Qu’est-il arrivé ?
 
 Il gesticule devant le serviteur effaré par sa nervosité.
 
 — Parti cette nuit.
 
-— Cette nuit ?
+— Cette nuit ?
 
 — Rentré à une heure… À réglé sa note…, fait porter ses bagages sur une
   voiture qu’il avait amenée.
 
-— Et l’on ne sait où cette voiture l’a conduit ?
+— Et l’on ne sait où cette voiture l’a conduit ?
 
 — Non, Monsieur. La maison n’a pas l’habitude de surveiller ses clients.
 
@@ -104,16 +104,16 @@ s’est évanoui.
 
 Le contre-temps prend pour lui les proportions d’un malheur.
 
-Que faire ? Que décider ? Ah ! Morand, Morand ! Insoucieux garçon, toi qui,
+Que faire ? Que décider ? Ah ! Morand, Morand ! Insoucieux garçon, toi qui,
 à cette heure sans doute, te promènes, docte et important, dans les salles
 du Val-de-Grâce, tu ne te doutes pas que de toutes ces souffrances que tu
 soignes, que tu combats, aucune n’est comparable à celles qui déchirent
-ton pauvre ami Chazelet !
+ton pauvre ami Chazelet !
 
 Pierre vient de gémir cela, quand on heurte à sa porte. Instinctivement il
 répond :
 
-— Entrez !
+— Entrez !
 
 ![Je gage que vous m’avez pris pour le vieux Nick](../images/part-1/page-127.jpg
 "Je gage que vous m’avez pris pour le vieux Nick")
@@ -138,21 +138,21 @@ bouffée bleuâtre vers le plafond :
 Il s’arrête là. Aucun mot ne vient à ses lèvres.
 
 — Bon, la présentation n’a pas été _droite_ hier au soir, reprend Jemkins…
-  Et vous êtes sans doute pour le formalisme !… Moi pas, mais c’est égal,
+  Et vous êtes sans doute pour le formalisme !… Moi pas, mais c’est égal,
   je ne contrarierai pas pour si peu. Je vous connais, vous êtes le
-  marquis Pierre de Chazelet… Très bien ! Moi, je suis Frey Jemkins, de
+  marquis Pierre de Chazelet… Très bien ! Moi, je suis Frey Jemkins, de
   San-Francisco…
   L’Amérique me connaît comme Rockefeller, Carnegie ou Morgan… Vous aussi,
   je pense. Au surplus, cela n’est rien… J’intéresserai davantage votre
   cervelle en vous apprenant que je suis le propre cousin d’une jeune
   lady, connue sous le nom de señorita Linérès de Armencita.
 
-— Linérès ! murmure Chazelet en fermant les yeux.
+— Linérès ! murmure Chazelet en fermant les yeux.
 
 — Ne coupez pas le discours, je prie. Depuis hier, cette jeune lady est ma
   petite cousine, et elle s’appelle Pariset, comme ses père et mère.
 
-— Pariset !
+— Pariset !
 
 Chazelet répéta ce nom avec un regard fou. Il se passa la main sur le
 front, avec l’impression que son crâne allait éclater.
@@ -160,7 +160,7 @@ front, avec l’impression que son crâne allait éclater.
 — Et c’est comme cousin, chef de la famille, que je viens ici, acheva
   l’Américain.
 
-— Qu’est-ce que tout cela signifie ?
+— Qu’est-ce que tout cela signifie ?
 
 La question échappa au marquis plutôt qu’il ne la formula de propos
 délibéré. Frey y répondit néanmoins.
@@ -174,7 +174,7 @@ délibéré. Frey y répondit néanmoins.
 
 Pierre était devenu fort pâle.
 
-— Je comprends, Monsieur, fit-il d’une voix tremblante ; elle a en vous un
+— Je comprends, Monsieur, fit-il d’une voix tremblante ; elle a en vous un
   protecteur suffisant, elle n’a plus besoin d’en avoir d’autre…
 
 Il ne continua point. Jemkins s’était renversé en arrière, faisait
@@ -188,13 +188,13 @@ trembler les vitres d’un formidable éclat de rire.
 
 Du coup, Chazelet ouvrit des yeux énormes :
 
-— Un engagement ?
+— Un engagement ?
 
-— Eh oui ! il paraît que vous voulez marier Linérès.
+— Eh oui ! il paraît que vous voulez marier Linérès.
 
 — Oh Monsieur, ne raillez pas.
 
-— Qui vous parle de railler ? Linérès trouve que cela est bien ainsi, et
+— Qui vous parle de railler ? Linérès trouve que cela est bien ainsi, et
   comme je suis son parent depuis trop peu de temps pour la contrarier, je
   pense aussi comme elle.
 
@@ -203,7 +203,7 @@ se troublèrent et, d’une voix déchirante, il clama :
 
 — Par grâce, Monsieur, expliquez-vous clairement.
 
-— Bon, voilà ! Vous êtes un marquis authentique, _all right_ ; Linérès est
+— Bon, voilà ! Vous êtes un marquis authentique, _all right_ ; Linérès est
 une multimillionnaire très authentique aussi. Faisons affaire. Mettez le
 nom sur les millions.
 
@@ -218,9 +218,9 @@ d’affaires l’avait blessé au plus délicat de son être.
 
 L’hilarité de l’Américain redoubla.
 
-— Eh ! cher garçon, je le sais bien.
+— Eh ! cher garçon, je le sais bien.
 
-— Comment, vous le savez ?
+— Comment, vous le savez ?
 
 — Et tenez, j’ai sur moi des papiers… Signez-les en blanc, je les remplirai
   par des renonciations en bonne et due forme aux biens de ma cousine.
@@ -246,7 +246,7 @@ Après quoi, Jemkins lui secoua vigoureusement la main.
 — Vous serez discret, pour que l’on ne vous fasse pas de plaisanteries
   macabres comme aux autres, vous savez, les sept.
 
-— Oh ! pour elle…
+— Oh ! pour elle…
 
 — Il est mieux de vivre en bonne santé, cher vieux garçon… Et si, dans une
   quinzaine plus loin, vous êtes toujours dans les mêmes dispositions, vous
@@ -255,12 +255,12 @@ Après quoi, Jemkins lui secoua vigoureusement la main.
 Le marquis avait joint les mains, exprimant par ce geste sa reconnaissance.
 
 L’oracle de la gitana s’accomplissait de point en point. Chazelet allait se
-diriger vers l’Amérique, après avoir passé par Paris ; il était agréé par
+diriger vers l’Amérique, après avoir passé par Paris ; il était agréé par
 Linérès… L’idylle mystérieuse s’achevait en apothéose.
 
 Et cependant, tandis qu’il cherchait son chapeau, ses gants, Frey Jemkins
 le suivait d’un regard narquois, et il mâchonnait ironiquement, trop bas
 pour que l’intéressé pût l’entendre : 
 
-— Il a sauté, le marquis ! J’ai sa signature… Il sera responsable de tout…
-  et les millions japonais seront à moi !
+— Il a sauté, le marquis ! J’ai sa signature… Il sera responsable de tout…
+  et les millions japonais seront à moi !

@@ -1,12 +1,12 @@
 # L’autre Lilian
 
-![Chapitre 10](../images/part-1/page-154.jpg)
+![](../images/part-1/page-154.jpg)
 
-— Oh ! tu as beau marquer de l’impatience, je ne t’en garderai pas
+— Oh ! tu as beau marquer de l’impatience, je ne t’en garderai pas
   rancune. Cœur souffrant n’a pas bon caractère… Ainsi, Lilian, sois
   méchante tout à ton aise.
 
-— Que veux-tu dire, Grace ?
+— Que veux-tu dire, Grace ?
 
 — Demande à ton miroir pourquoi tu as rougi.
 
@@ -27,14 +27,14 @@ peine les larmes prêtes à s’échapper.
 Ainsi que la joyeuse Grace, elle porte l’uniforme de la pension Deffling :
 la simple robe bleue avec le col et les poignets blancs.
 
-— Ah ! fait-elle à mi-voix, Grace, tu es cruelle. Si tu songeais à te
+— Ah ! fait-elle à mi-voix, Grace, tu es cruelle. Si tu songeais à te
   moquer, pourquoi ne m’as-tu pas laissée seule dans ma chambre de
   pensionnaire, où du moins je puis songer à ma tristesse, sans provoquer
-  les questions de nos répétitrices et de nos camarades ?
+  les questions de nos répétitrices et de nos camarades ?
 
 La phrase coupe l’hilarité de l’interpellée.
 
-D’un bond, Grace est auprès de son amie ; elle lui jette les bras autour du
+D’un bond, Grace est auprès de son amie ; elle lui jette les bras autour du
 cou, l’étreint, fait sonner sur ses joues des baisers sonores.
 
 Et cependant elle parle vite, vite, avec une petite voix douce comme un
@@ -44,9 +44,9 @@ gazouillis d’oiseau.
   puis non, là, ce n’est pas cela… Je voulais te forcer à la confidence
   que tu refuses…
 
-— Moi ?
+— Moi ?
 
-— Oh ! ne dis pas le contraire… Je ne suis pas un _prodige_ comme toi…
+— Oh ! ne dis pas le contraire… Je ne suis pas un _prodige_ comme toi…
   Certainement non, je n’en suis pas un. Miss Deffling se charge de me le
   répéter à satiété.
 
@@ -58,19 +58,19 @@ Et d’un ton burlesque, imitant la directrice du pensionnat, elle continue :
 
 Revenant à sa voix naturelle, l’espiègle créature poursuivit :
 
-— Te prendre pour modèle, je veux bien ; seulement c’est un conseil
+— Te prendre pour modèle, je veux bien ; seulement c’est un conseil
   absurde, un conseil de vieille fille qui doit priser en cachette… Est-ce
   qu’il suffit de prendre Raphaël, Van Dyck, Quentin Matsis ou Hutchinson
-  comme modèle, pour devenir un grand artiste…! Seulement je t’aime, ma
+  comme modèle, pour devenir un grand artiste… ! Seulement je t’aime, ma
   Lilian, je t’aime de tout mon cœur. Voilà pourquoi j’ai reconnu que ton
-  cœur n’était pas à moi ; pourquoi je t’ai taquinée, afin que tu m’avoues
+  cœur n’était pas à moi ; pourquoi je t’ai taquinée, afin que tu m’avoues
   tout.
 
 — Je n’ai rien à avouer, chère folle.
 
 — Ta, ta, ta, si tu te figures que tu vas m’en imposer.
 
-— Oh ! je ne me permettrais pas de douter de ta perspicacité.
+— Oh ! je ne me permettrais pas de douter de ta perspicacité.
 
 — Et tu fais bien, car je sais tout… Oui, ma belle Lilian, tout, tout, ce qui
   s’appelle tout. Si tu ne veux pas me le raconter, je me chargerai du
@@ -97,15 +97,15 @@ En dépit de sa tristesse réelle, Lilian ne put s’empêcher de sourire.
 
 — Donc, reprit la mutine Grace, je commence.
 
-— À quoi bon ? soupira son interlocutrice.
+— À quoi bon ? soupira son interlocutrice.
 
 — À te démontrer que je suis ton amie véritable, puisque je lis dans ton
   esprit et que je souhaite partager avec toi ta tristesse.
 
-— De quelle tristesse parles-tu, ma chère folle ?
+— De quelle tristesse parles-tu, ma chère folle ?
 
 — Si tu m’interromps toujours, je n’arriverai jamais à placer les résultats
-  de mon enquête… ; oui, Mademoiselle, de mon enquête. Soyez respectueuse,
+  de mon enquête… ; oui, Mademoiselle, de mon enquête. Soyez respectueuse,
   je me suis faite le détective de votre âme, afin de vous démontrer ma
   tendresse. Mais assez de paroles inutiles, c’est du _chewing gum avant
   dîner_, inutile [^1-10-1].
@@ -114,7 +114,7 @@ Elle prit les mains de Lilian et mirant son regard dans celui de son amie :
 
 — Pauvre chère chose aimée, fit-elle d’un ton caressant. La folle Grace
   est bien affectionnée pour la sérieuse Lilian. Aussi cette dernière va
-  l’écouter sagement… Que risque-t-elle après tout ? De ne plus se
+  l’écouter sagement… Que risque-t-elle après tout ? De ne plus se
   débattre toute seule avec sa pensée.
 
 Puis vivement :
@@ -124,7 +124,7 @@ Puis vivement :
   de Miss Deffling, que je lui restitue honnêtement. Donc, il y a environ
   deux mois, ton frère vint te voir, ma chérie. C’était une visite
   d’adieu. Il se rendait en Europe dans un but dont il parlait
-  mystérieusement. Est-ce bien cela ?
+  mystérieusement. Est-ce bien cela ?
 
 Lilian essaya de plaisanter :
 
@@ -135,31 +135,31 @@ Lilian essaya de plaisanter :
   surtout. L’absence de Master Allan avait _pour but de préparer une lutte
   de géants qui modifierait ta situation._
 
-— Hélas !
+— Hélas !
 
-— Non pas hélas !… Une lutte suppose toujours un changement de situation dans
-  le sens de l’amélioration ; par suite il faut s’en réjouir.
+— Non pas hélas !… Une lutte suppose toujours un changement de situation dans
+  le sens de l’amélioration ; par suite il faut s’en réjouir.
 
-— Je ne puis pas… ; le ton, l’air de Jud m’ont fait peur.
+— Je ne puis pas… ; le ton, l’air de Jud m’ont fait peur.
 
 — Effet du mystère. Toutes les fois que l’on parle mystérieusement, on
   obtient un résultat analogue. Si tu savais ce qu’est la lutte en
-  question, peut-être en rirais-tu!
+  question, peut-être en rirais-tu !
 
 Lilian secoua la tête.
 
 — Je suis certaine que non.
 
-— Et pourquoi, s’il te plaît?
+— Et pourquoi, s’il te plaît ?
 
 — Parce que j’ai conscience, la conscience vague d’avoir couru bien des
   dangers avec Jud. Quels dangers, je ne saurais le définir, car jamais il
   ne m’a donné une explication, mais je ne me souviens pas d’avoir vu dans
   son regard pareille tristesse.
 
-— Es-tu donc si sûre de bien lire dans ses yeux ?
+— Es-tu donc si sûre de bien lire dans ses yeux ?
 
-— Oh oui ! s’écria Lilian qui baissa aussitôt la tête, comme honteuse de cet
+— Oh oui ! s’écria Lilian qui baissa aussitôt la tête, comme honteuse de cet
   élan.
 
 ![En l’enlaçant, se faisant douce comme une mère](../images/part-1/page-157.jpg
@@ -174,7 +174,7 @@ Toute la personne de Miss Lilian fut secouée par un frisson.
 Une rougeur ardente couvrit son visage, et d’une voix tremblante, elle
 balbutia :
 
-— Que prétends-tu exprimer ainsi ?
+— Que prétends-tu exprimer ainsi ?
 
 Doucement, Grace attira la tète de son amie sur son épaule, et baisant ses
 paupières baissées :
@@ -184,7 +184,7 @@ paupières baissées :
 
 Et la jeune fille interrogeant d’un accent défaillant :
 
-— Quelle phrase, je ne me souviens plus ?
+— Quelle phrase, je ne me souviens plus ?
 
 — Je me la rappelle, moi. La voici. Il te dit : Soyez prudente, Lilian. Le 
   danger rôde autour de vous. Quoiqu’il arrive, croyez que j’ai agi du mieux
@@ -205,7 +205,7 @@ Puis vivement :
 — Depuis ce jour, ma chère Lilian se demande si celui qu’_elle a appelé
   son frère_, est bien son frère.
 
-— Eh ! Qui à ma place n’aurait cette pensée ?
+— Eh ! Qui à ma place n’aurait cette pensée ?
 
 — Tout le monde l’aurait, ma Lilian, mais peut-être tout le monde n’y
   aurait-il pas trouvé à la fois joie et douleur.
@@ -213,7 +213,7 @@ Puis vivement :
 La jeune fille fixa sur son amie un regard éperdu.
 
 — Ma chère Lilian, je t’en prie, ne me considère pas ainsi… Je te jure
-  que si je me suis inquiétée de te voir songeuse, absorbée ; si j’ai noté
+  que si je me suis inquiétée de te voir songeuse, absorbée ; si j’ai noté
   certaines exclamations, certains gestes de toi, c’est que je sentais en
   toi une souffrance.
 
@@ -228,23 +228,23 @@ gentille créature acheva :
 À cette brusque conclusion, Lilian cacha son visage sur l’épaule de son
 amie, et dans un sanglot, elle murmura :
 
-— Oh ! tais-toi ! tais-toi !
+— Oh ! tais-toi ! tais-toi !
 
 Mais Grace l’arrêta :
 
-— Et pourquoi ? Puisqu’il n’est pas ton frère, qui trouverait à redire à ton
-  affection ?
+— Et pourquoi ? Puisqu’il n’est pas ton frère, qui trouverait à redire à ton
+  affection ?
 
-— Malheureuse ! c’est une supposition, une simple supposition.
+— Malheureuse ! c’est une supposition, une simple supposition.
 
 — Non, chérie, c’est une certitude.
 
-— Comment ?
+— Comment ?
 
 La jeune fille s’était dressée brusquement, interrogeant son amie d’un regard
 aigu.
 
-— Comment, répéta-t-elle, comment oses-tu affirmer cela ?
+— Comment, répéta-t-elle, comment oses-tu affirmer cela ?
 
 Grace la contraignit à se rasseoir.
 
@@ -273,19 +273,19 @@ Lilian eut un geste de doute. Alors Grace s’échauffa :
   dénotent chez toi la race celte, avec quelques touches ibéres…, tandis
   que Master Allan…
 
-— Eh bien ? interrogea son interlocutrice, intéressée malgré elle.
+— Eh bien ? interrogea son interlocutrice, intéressée malgré elle.
 
 — Master Allan, lui, a comme prédominance, les caractères ethniques du saxon,
   affinés en quelque sorte par ceux d’une race rouge supérieure.
 
-— Qu’entends-tu par la race rouge ?
+— Qu’entends-tu par la race rouge ?
 
 — La race indienne, ma Lilian.
 
-— Lui, allons donc !
+— Lui, allons donc !
 
-— Il n’y a pas d’allons donc, chère chose ; quand mon père viendra me voir,
-  veux-tu que, sans lui rien dévoiler, je le prie de donner son avis ? Je
+— Il n’y a pas d’allons donc, chère chose ; quand mon père viendra me voir,
+  veux-tu que, sans lui rien dévoiler, je le prie de donner son avis ? Je
   t’affirme qu’il te dira les mêmes choses, bien mieux que moi encore, car
   il sait voir plus nettement.
 
@@ -294,20 +294,20 @@ Lilian ne répondit pas.
 — En tout cas, reprit la pétulante Grace, désormais nous serons deux pour
   songer à tout cela. Et puis, et puis, vois-tu, si j’étais à ta place…
 
-— Que ferais-tu ?
+— Que ferais-tu ?
 
 — J’attendrais bien paisiblement que Master Allan daignât revenir de voyage,
   et alors… 
 
-— Alors ?
+— Alors ?
 
 — La première fois que je le reverrais…
 
-— Tu l’interrogerais, ah ! tu as raison…
+— Tu l’interrogerais, ah ! tu as raison…
 
 Mais Grace appliqua sa main potelée sur les lèvres de son amie.
 
-— Veux-tu bien te taire ? L’interroger…! Mais, pauvre chérie, s’il ne s’est
+— Veux-tu bien te taire ? L’interroger… ! Mais, pauvre chérie, s’il ne s’est
   pas encore expliqué, c’est qu’il existe des motifs pour lesquels il
   croit devoir garder le silence.
 
@@ -323,7 +323,7 @@ Mais Grace appliqua sa main potelée sur les lèvres de son amie.
   chose toute naturelle, et je suis certaine, et tout à fait certaine que
   je l’embarrasserais tellement…
 
-— Toi, une gamine, embarrasser Allan !
+— Toi, une gamine, embarrasser Allan !
 
 La fillette se prit à rire, et sans se formaliser de l’épithète :
 
@@ -336,7 +336,7 @@ Un bruit sourd parvint aux oreilles des jeunes filles.
 
 Comme mue par un ressort, Lilian se dressa toute droite.
 
-— Qu’as-tu? questionna sa compagne… C’est le marteau du portail.
+— Qu’as-tu ? questionna sa compagne… C’est le marteau du portail.
 
 Mais son amie ne l’écoutait plus. Elle s’était approchée de la fenêtre et
 regardait au dehors.
@@ -351,7 +351,7 @@ farouche de l’assaut.
 
 Elle eut un cri :
 
-— Lui !
+— Lui !
 
 Qui attira son amie auprès d’elle.
 
@@ -360,19 +360,19 @@ Qui attira son amie auprès d’elle.
 
 Et Lilian, la considérant d’un air indécis :
 
-— Oh! cela n’exige pas des efforts surhumains. Veux-tu que je te dise ce que
-  je ferais, moi ? Tiens, Miss Deffling l’arrête…, on a le temps… Veux-tu ?
+— Oh ! cela n’exige pas des efforts surhumains. Veux-tu que je te dise ce que
+  je ferais, moi ? Tiens, Miss Deffling l’arrête…, on a le temps… Veux-tu ?
 
 Avec un sourire navré, son interlocutrice murmura :
 
-— À quoi bon ?
+— À quoi bon ?
 
 Mais sans doute Grace vit en cette formule dubitative un acquiescement
 suffisant, car elle se pencha à l’oreille de son amie et se prit à chuchoter.
 
 Maigre, sèche d’allure et de formes, Miss Deffling était néanmoins une très
 honorable personne, ayant tout le respect d’elle-même inhérent à sa fonction
-de Directrice d’école ; _directrice d’âmes de jeunes brebis_, disait-elle,
+de Directrice d’école ; _directrice d’âmes de jeunes brebis_, disait-elle,
 et tout le respect désirable pour les autres, sous la seule condition que
 les termes de la pension fussent payés régulièrement.
 
@@ -388,12 +388,12 @@ s’y soustraire, il les subit durant cinq bonnes minutes.
 
 Jugeant alors avoir suffisamment souffert pour les convenances, il demanda :
 
-— Pourrai-je voir ma sœur Lilian ?
+— Pourrai-je voir ma sœur Lilian ?
 
 — Mais certainement. La chère enfant est dans sa chambre, elle travaille
 comme toujours. C’est véritablement une élève exceptionnelle. Dans ma
 longue carrière, je ne vois qu’un _sujet_ digne de lui être comparé… C’était
-la jeune Ida Clifford, de Cliffordhouse, vous savez de qui je parle ; son
+la jeune Ida Clifford, de Cliffordhouse, vous savez de qui je parle ; son
 excellente éducation la fit remarquer du marquis de Montealbin… Elle est
 marquise.
 
@@ -414,7 +414,7 @@ Sur ce, Miss Deffling accompagna le visiteur jusqu’au seuil de son cabinet
 où elle pénétra dignement, le laissant libre de gagner la chambre occupée
 par Lilian.
 
-![Pourrai-je voir ma sœur ?](../images/part-1/page-162.jpg "Pourrai-je voir ma sœur ?")
+![Pourrai-je voir ma sœur ?](../images/part-1/page-162.jpg "Pourrai-je voir ma sœur ?")
 
 Alors le professeur de West-Point s’essuya le front que mouillaient des
 gouttelettes de sueur, puis, d’un pas décidé, il gravit l’escalier accédant
@@ -428,11 +428,11 @@ Il prêta l’oreille. Aucun bruit ne parvint jusqu’à lui. Il eut un sourire
 douloureux, et murmura :
 
 — Oui, oui… Elle travaille. Celle qui fut élevée par Jud sera digne de son
-  rang… L’homme aura tenu le serment du gamin !
+  rang… L’homme aura tenu le serment du gamin !
 
 Et il frappa doucement. Une voix douce, comme assourdie, prononça :
 
-— Entrez !
+— Entrez !
 
 On eût dit que tout l’être du jeune homme se raidissait dans une suprême
 résistance, mais cela n’eut que la durée de l’éclair.
@@ -441,12 +441,12 @@ Allan ouvrit la porte, pénétra dans la chambre, et, repoussa le battant
 derrière lui, tandis que d’un accent, où l’on sentait les palpitations de
 son cœur, il disait :
 
-— Bonjour, Lilian!
+— Bonjour, Lilian !
 
 Mais il demeura stupéfait. Un organe, qui n’était pas celui de sa sœur, lui
 avait répondu :
 
-— Je vous salue, Maître Allan !
+— Je vous salue, Maître Allan !
 
 Grace Paterson était devant lui, souriante, avec une crânerie inaccoutumée
 dans le regard.
@@ -457,7 +457,7 @@ quelque peu surpris de l’absence de la jeune fille…
 — On a pu vous le dire, répliqua paisiblement son interlocutrice, car elle
   était ici, il n’y a encore qu’un instant.
 
-— Ah ! elle va revenir.
+— Ah ! elle va revenir.
 
 — Je ne le pense pas.
 
@@ -466,7 +466,7 @@ Et Allan ayant un soubresaut, la fillette continua gravement :
 — Elle vous a aperçu causant avec Miss Deflling, et elle s’est retirée
   aussitôt.
 
-— Elle m’a vu et elle s’est retirée ! Vraiment je ne conçois pas le sens de
+— Elle m’a vu et elle s’est retirée ! Vraiment je ne conçois pas le sens de
   cela…, à moins que ce ne soit un jeu, auquel le caractère de Lilian ne m’a
   point habitué.
 
@@ -476,7 +476,7 @@ Encore qu’elle se contraignit à la gravité, la mutine Grace semblait préte
 à succomber à un accès d’hilarité. Les efforts qu’elle faisait pour se
 contenir amenaient à ses joues une coloration plus vive.
 
-— Pas un jeu !
+— Pas un jeu !
 
 Allan répéta ces trois syllabes comme un homme qui renonce à déchiffrer un
 rébus.
@@ -487,7 +487,7 @@ respectabilité.
 Et le professeur la considérant d’un air ébahi, elle reprit
 imperturbablement :
 
-— Sans doute ! Lilian ne croit pas pouvoir recevoir en solitude un gentleman
+— Sans doute ! Lilian ne croit pas pouvoir recevoir en solitude un gentleman
   qui n’est pas sont frère.
 
 Prêcher le faux pour savoir le vrai. Eternel piège où tombent les esprits
@@ -495,17 +495,17 @@ les plus maîtres d’eux-mêmes.
 
 Allan eut un cri :
 
-— Qui le lui a dit ?
+— Qui le lui a dit ?
 
-— Mais vous-même qui venez de vous trahir ; avant, elle n’avait qu’un doute.
+— Mais vous-même qui venez de vous trahir ; avant, elle n’avait qu’un doute.
 
 Et Grace partit d’un de ces rires sans fin dont elle était coutumière.
 
 Pourtant sa gaîté se glaça en voyant son interlocuteur devenir très pâle,
 en l’entendant balbutier avec une détresse profonde :
 
-— Ah ! Mademoiselle, vous avez cru faire une plaisanterie… Peut-être
-avez-vous appelé le malheur sur Lilian !
+— Ah ! Mademoiselle, vous avez cru faire une plaisanterie… Peut-être
+avez-vous appelé le malheur sur Lilian !
 
 Mais obstinée, elle secoua sa jolie tête, et cependant avec une nuance
 d’embarras :
@@ -514,7 +514,7 @@ d’embarras :
 
 Et en hâte, comme quelqu’un qui craint une interruption :
 
-— Elle est dans ma chambre, elle entend… Elle souffrait du doute ; elle
+— Elle est dans ma chambre, elle entend… Elle souffrait du doute ; elle
   m’a permis l’expérience… À présent je dirai tout, même ce qu’elle me
   défendrait de dire… Et vous verrez le bonheur au bout de tout cela. Et
   vous ne m’accuserez plus…
@@ -550,7 +550,7 @@ l’ennemi, le professeur se redressa.
 — Miss Lilian, et vous, Miss Grace, dit-il.
 
 — Miss, s’écrièrent les amies, pourquoi nous parler ainsi qu’un inférieur
-doit seul le faire [^1-10-2] ?
+doit seul le faire [^1-10-2] ?
 
 — Parce qu’il convient que je m’exprime ainsi.
 
@@ -558,7 +558,7 @@ Et ses interlocutrices demeurant muettes devant cette affirmation.
 
 — Je dois vous adresser une prière. Oubliez l’aveu que vous avez surpris.
 
-— L’oublier, gémit Lilian, le pourrais-je ?
+— L’oublier, gémit Lilian, le pourrais-je ?
 
 — Il le faut, Miss Lilian, ou si l’oubli vous paraît trop difficile, que vos
   lèvres ne le confient à personne. À vous, Miss Grace, je fais la même
@@ -600,7 +600,7 @@ souflrance, puis il reprit :
 
 — Oui, Miss, je préviendrai Miss Deffling, pour laquelle je dois, - il appuya
   sur ce verbe, - jusqu’à nouvel ordre rester votre frère comme pour tout
-  le monde ; je la préviendrai, dis-je, que _j’autorise cette sortie_.
+  le monde ; je la préviendrai, dis-je, que _j’autorise cette sortie_.
 
 Sa voix sonna déchirante sur ces dernières syllabes.
 
@@ -613,7 +613,7 @@ Allan s’inclina gravement.
 — Vous la soutiendrez, Miss, car elle entendra au Sénat des choses qui
   peut-être lui causeront une émotion.
 
-— Mais quelles choses ?
+— Mais quelles choses ?
 
 — Permettez-moi de garder le silence. Des voix plus autorisées que la mienne,
   des voix qui sont les premières dans l’État, diront les mots qui doivent
@@ -646,7 +646,7 @@ Ses grands yeux ne quittaient point ceux de Jud.
 
 Et au fond de ses prunelles d’or, se lisait une reconnaissance infinie.
 
-— Me suis-je bien fait comprendre ? questionna le jeune homme.
+— Me suis-je bien fait comprendre ? questionna le jeune homme.
 
 — Sans aucun doute, commença la pétulante Grace…
 
@@ -674,7 +674,7 @@ Elle lui tendait la main. Il ne la prit pas.
 Alors, elle vint à lui, et d’une voix tremblante, où perçait néanmoins
 une indomptable volonté :
 
-— Vous avez tenu à me donner de la « miss », alors que je me considère
+— Vous avez tenu à me donner de la « miss », alors que je me considère
   comme votre obligée, eh bien, je veux savoir qui _vous êtes_, Jud Allan,
   car seule je sais qui _vous fûtes_, et seule je dois juger entre vos
   scrupules et mon cœur.
@@ -684,31 +684,31 @@ triste sourire :
 
 — Alors, je resterai ignorante, et de vous, et de moi.
 
-— Que voulez-vous dire ?
+— Que voulez-vous dire ?
 
 — Que je ne me rendrai pas au Sénat.
 
 — Je vous supplie, Miss.
 
 — Inutile. J’obéirai si vous obéissez, je vous l’affirme sur mon honneur,
-  sur l’honneur de celle qui fut votre sœur Lilian !
+  sur l’honneur de celle qui fut votre sœur Lilian !
 
 Il n’y avait pas à s’y méprendre. La décision de la jeune fille était
 irrévocable. Jud le comprit. Il courba la tête, et tristement :
 
 — La noble Lilian veut, en connaissance de cause, mépriser Jud Allan. Qu’il
   soit fait selon son désir. Périsse Allan pour que l’œuvre de sa vie
-  s’accomplisse ! Miss, aujourd’hui même vous saurez l’histoire de Jud.
+  s’accomplisse ! Miss, aujourd’hui même vous saurez l’histoire de Jud.
 
-— Pourquoi pas de suite ?
+— Pourquoi pas de suite ?
 
 — Le récit est long et les heures à notre disposition brèves. Après la séance
   du Sénat, descendez dans les jardins du Capitole, je vous y rejoindrai
   et vous remettrai ce que vous souhaitez.
 
-— Vous le promettez sincèrement, Jud Allan ?
+— Vous le promettez sincèrement, Jud Allan ?
 
-— Vous ai-je jamais menti, Miss ?
+— Vous ai-je jamais menti, Miss ?
 
 Elle le regarda un instant avec une émotion inexprimable. Puis elle murmura :
 
@@ -747,13 +747,13 @@ la Maison Blanche fut encore remaniée et agrandie durant les années 1901 à
 Elle se subdivise en deux parties : publique et privée.
 
 La première comporte la galerie des _Présidentes_, ornée de portraits des
-compagnes des premiers magistrats de la République;  l’East Room (ou salle
+compagnes des premiers magistrats de la République ;  l’East Room (ou salle
 de l’Est), les salles de Réception (Reception Rooms) où sont les portraits
 des _Présidents_. Même en peinture, la pudibonderie américaine semble
 s’exercer ici, en séparant les images des ladies et des gentlemen.
 
 Le reste de l’édifice constitue la résidence privée du premier magistrat des
-Etats-Unis ; les bureaux, chambres des séances du Conseil, etc., étant
+Etats-Unis ; les bureaux, chambres des séances du Conseil, etc., étant
 relégués dans une annexe à l’Ouest.
 
 C’est dans le _private_ que Jud Allan pénétra.
@@ -767,10 +767,10 @@ Il était évidemment connu du personnel, car nul ne l’arrêta quand il entra
 dans le jardin réservé de l’habitation présidentielle, puis dans le logis.
 
 Et, chose peu ordinaire, il lui suffit de demander à l’un des domestiques du
-service privé du Président : - M. Loosevelt peut-il me recevoir ? pour être
+service privé du Président : - M. Loosevelt peut-il me recevoir ? pour être
 introduit presque aussitôt dans le cabinet du grand politique américain.
 
-M. Loosevelt était d’une stature au-dessus de la moyenne. Ses épaules larges,
+M. Loosevelt était d’une stature au-dessus de la moyenne. Ses épaules larges,
 ses mouvements souples décelaient l’homme adonné aux sports, tandis que son
 visage énergique et ouvert expliquait en quelque sorte la mentalité du
 président.
@@ -778,16 +778,16 @@ président.
 C’était l’Américain dans toute sa puissance réelle, fils d’un pays neuf, dont
 la cérébralité ne traînait point l’embarras atavique de la tradition. Dans
 ses rapports avec ses concitoyens, comme dans ses échanges d’observations
-avec les gouvernements étrangers, M. Loosevelt parlait, non le langage
+avec les gouvernements étrangers, M. Loosevelt parlait, non le langage
 diplomatique, mais le langage humain.
 
-Dernièrement encore, sa correspondance avec M. Lerenaud, le chef de la
+Dernièrement encore, sa correspondance avec M. Lerenaud, le chef de la
 Sûreté à Paris, avait donné la mesure de son indépendance en matière de
 relations internationales.
 
-M. Loosevelt tendit la main à Allan.
+M. Loosevelt tendit la main à Allan.
 
-— Bonjour, comment va ?
+— Bonjour, comment va ?
 
 Allan serra la main tendue.
 
@@ -799,7 +799,7 @@ Puis il s’assit sans cérémonie auprès de son interlocuteur.
 
 — Et ce matin à Washington.
 
-— Ah ! Eh bien ?
+— Ah ! Eh bien ?
 
 Les deux hommes échangèrent un regard. Après quoi, Jud murmura :
 
@@ -831,12 +831,12 @@ Allan s’inclina avec respect.
 — J’étais certain que vous n’auriez point oublié. Je vous suis cependant
   reconnaissant de me l’affirmer.
 
-Un sourire distendit les lèvres de M. Loosevelt. En homme d’honneur, il
+Un sourire distendit les lèvres de M. Loosevelt. En homme d’honneur, il
 était sensible aux paroles de son interlocuteur. Et d’un ton amical :
 
-— Alors, que désirez-vous aujourd’hui ?
+— Alors, que désirez-vous aujourd’hui ?
 
-— Me permettez-vous de résumer notre entretien d’il y a deux mois ?
+— Me permettez-vous de résumer notre entretien d’il y a deux mois ?
 
 Sans hésiter, le Président répondit :
 
@@ -854,7 +854,7 @@ Quand je vous eus conté l’histoire de la fortune des Pariset, nous avons
 — Si Jemkins présente Linérès comme sa cousine Lilian, il commettra sa
   première faute. Car Linérès ne peut pas être Lilian.
 
-— Pour une raison péremptoire, continua M. Loosevelt, pour la raison que
+— Pour une raison péremptoire, continua M. Loosevelt, pour la raison que
   vous-même avez sauvé cette Lilian et l’avez élevée.
 
 — Oui, oui, c’est bien cela, et ma reconnaissance vous fut acquise, car vous
@@ -873,13 +873,13 @@ Allan inclina la tête.
 Et lentement :
 
 — Je vous ai d’ailleurs répondu qu’une enquête directe, même justifiée,
-  serait dangereuse ; que ce serait faire le jeu de Jemkins et mettre en
+  serait dangereuse ; que ce serait faire le jeu de Jemkins et mettre en
   péril Lilian.
 
 — C’est encore vrai.
 
 — Je conclus en vous disant : Ce que j’espère de vous, c’est une enquête
-  _à côté_, telle que Frey se trompe sur son but réel ; c’estl’intrusion
+  _à côté_, telle que Frey se trompe sur son but réel ; c’estl’intrusion
   de la justice dans ses affaires, sans qu’il soupçonne qu’on le veuille
   démasquer. C’est là ce que je sollicitais de vous.
 
@@ -893,33 +893,33 @@ La voix du jeune homme tremblait légèrement quand il continua :
 
 — Je vous apporte ce point initial, puisque telle est votre expression.
 
-Le visage de M. Loosevelt exprima une joie sincère.
+Le visage de M. Loosevelt exprima une joie sincère.
 
-— Vraiment, j’en suis tout à fait content. Et ce point ?
+— Vraiment, j’en suis tout à fait content. Et ce point ?
 
 — Ne m’interrogez pas, marquez-moi une fois encore la confiance qui m’a donné
   le courage.
 
 — Je ne saurais vous la retirer, quand même je le voudrais.
 
-— Tout à l’heure, vous assisterez à la séance du Sénat ?
+— Tout à l’heure, vous assisterez à la séance du Sénat ?
 
 — Sans aucun doute. Vous savez que je me fais un devoir de n’y point manquer.
 
 — Eh bien, il se produira un incident qui vous permettra d’entourer Frey
   Jemkins de policiers, sous couleur de le protéger.
 
-— De le protéger ? répéta l’homme d’État avec une évidente surprise.
+— De le protéger ? répéta l’homme d’État avec une évidente surprise.
 
 — Oui, de le protéger. Il ne pourra, de la sorte, supposer que cette
   protection est l’avant-coureur d’une accusation.
 
-— Mais ne m’expliquerez-vous pas… ? grommela M. Loosevelt dont la curiosité
+— Mais ne m’expliquerez-vous pas… ? grommela M. Loosevelt dont la curiosité
   sembla surexcitée.
 
 — Je vous en prie, ne me pressez pas. Vous verrez, vous entendrez.
 
-— Soit ! Je me résigne, mais une recommandation, soyez prudent.
+— Soit ! Je me résigne, mais une recommandation, soyez prudent.
 
 — Je le serai.
 
@@ -935,7 +935,7 @@ Il secoua la main du professeur.
 
 Un instant, Jud Allan demeura devant le chef de la République Américaine.
 Une émotion profonde lui rendait impossible d’exprimer la gratitude dont le
-remplissait la sympathie de M. Loosevelt.
+remplissait la sympathie de M. Loosevelt.
 
 Ses doigts se crispèrent nerveusement sur ceux de l’homme qui, si noblement,
 si sincèrement, s’associait à ses douleurs.
@@ -944,7 +944,7 @@ Puis d’une voix sourde, comme enrouée par l’excès de ses sentiments :
 
 — Au Sénat donc, dit-il, et soyez remercié.
   
-M. Loosevelt murmura :
+M. Loosevelt murmura :
 
 — Au Sénat, c’est entendu.
 
@@ -965,7 +965,7 @@ sa façade une singulière peinture à la détrempe, laquelle représentait
 une sorte de faisceau de jeunes garçons et de jeunes filles attachés en
 botte par un cordeau.
 
-Que signifiait cette allégorie ?
+Que signifiait cette allégorie ?
 
 Quelques minutes plus tard la porte se rouvrit.
 
@@ -984,14 +984,14 @@ d’un blanc gris.
 Au moment de s’éloigner, il se penche vers le gamin et lui adresse cette
 question :
 
-— Tout marchera bien… Tu m’en réponds ?
+— Tout marchera bien… Tu m’en réponds ?
 
-— J’en réponds, Roi !
+— J’en réponds, Roi !
 
 Le vieillard a un geste mécontent. Vite le gamin s’excuse :
 
-— Oh ! Vous m’avez défendu de dire : roi, en public. Mais ici, qui pourrait
-  entendre ?
+— Oh ! Vous m’avez défendu de dire : roi, en public. Mais ici, qui pourrait
+  entendre ?
 
 — C’est égal, redoublons de précautions.
 
@@ -1009,12 +1009,12 @@ Un signe de reconnaissance sans doute est échangé entre les deux causeurs,
 et Allan, que nul ne reconnaîtrait, reprend le chemin des jardins de
 l’Exécutif.
 
-[^1-10-1]: Beaucoup d’Américains ont l’habitude, après le repas, de mâcher une
+[^1-10-1] : Beaucoup d’Américains ont l’habitude, après le repas, de mâcher une
            substance analogue à la gomme à claquer de nos écoliers. C’est le
            _chewing gum_. Ils prétendent activer ainsi la salivation et
            faciliter par suite la digestion.
 
-[^1-10-2]: Alors qu’en français il serait incorrect de ne pas faire précéder le
+[^1-10-2] : Alors qu’en français il serait incorrect de ne pas faire précéder le
            nom d’une jeune fille du mot _Mademoiselle_, en anglais le mot _Miss_
            n’est employé que par les serviteurs, fournisseurs ou autres. Si
            l’on n’est pas assez familier pour user du prénom tout court, on le

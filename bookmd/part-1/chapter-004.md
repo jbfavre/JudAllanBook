@@ -1,6 +1,6 @@
 # Gamme d’émotions
 
-![Chapitre 4](../images/part-1/page-064.jpg)
+![](../images/part-1/page-064.jpg)
 
 Les luxueux salons de la légation d’Espagne resplendissaient de lumières.
 Une foule nombreuse, bigarrée, s’y pressait.
@@ -24,7 +24,7 @@ onze heures du soir, tous les visages exprimaient l’attente. Rien d’anxieux
 au demeurant, mais simplement une curiosité aiguë.
 
 Une séance d’hypnotisme avait été annoncée, en termes si suggestifs, que
-l’on s’attendait à des incidents inédits, à un « je ne sais quoi »
+l’on s’attendait à des incidents inédits, à un « je ne sais quoi »
 d’inhabituel, qui secouerait les âmes blasées de ces riches oisifs, de ces
 poètes, politiques, financiers.
 
@@ -47,7 +47,7 @@ Ce puissant manieur d’argent ne s’abaisserait point au rôle de bateleur.
 Et la confiance en lui s’étendait à la peau-rouge Marahi.
 
 Introduite par un homme aussi sérieux, la voyante apparaissait sérieuse.
-Qu’allait-elle dire durant son sommeil hypnotique ?
+Qu’allait-elle dire durant son sommeil hypnotique ?
 
 Des attachés de la légation, adroitement interrogés, avaient conté à vingt
 personnes, sous le sceau du secret, que la voyante et son introducteur
@@ -69,7 +69,7 @@ Cela indiquait, ou un grand courage, ou une inconscience coupable.
 
 Six morts ou blessés, six fiancés hors de combat en peu de semaines, cela
 équivalait bien à un veuvage, avaient affirmé les fanatiques de
-« convenabilité ».
+« convenabilité ».
 
 Ce à quoi les personnes plus tolérantes avaient répondu, en faisant
 remarquer que les victimes s’étaient proclamées elles-mêmes fiancés de
@@ -103,31 +103,31 @@ citant cette phrase du poème héroïque des olympes septentrionaux :
   guerrier.
 
 À cette heure, la vaillance de la jeune fille se trahissait par le
-geste inconsciemment protecteur dont elle soutenait sa mère ; le visage
+geste inconsciemment protecteur dont elle soutenait sa mère ; le visage
 de celle-ci, accentué et dur, exprimait une gêne, un trouble qu’elle
 s’efforçait vainement de cacher.
 
 — Du courage, mère, murmura la jeune fille.
 
-— J’en ai, j’en ai, Linérès ; mais tout cela est si mystérieux.
+— J’en ai, j’en ai, Linérès ; mais tout cela est si mystérieux.
 
 — Mystérieux, il vous plaît à dire… Vous qui viviez si bravement dans
   les ruines sinistres de Armencita, vous vous troublez pour une lettre…
 
-— Une lettre, sans doute, ce n’est qu’une lettre, mais si bizarre !
+— Une lettre, sans doute, ce n’est qu’une lettre, mais si bizarre !
 
 Et comme récitant de souvenir, la comtesse prononça lentement :
 
-— « Allez, ce soir, à la Légation d’Espagne. Il le faut pour le bonheur de
-  Linérès. Désobéir serait renoncer au bonheur. » Pas de signature.
+— « Allez, ce soir, à la Légation d’Espagne. Il le faut pour le bonheur de
+  Linérès. Désobéir serait renoncer au bonheur. » Pas de signature.
 
 — Comme la mienne du reste.
 
 À son tour, la jeune fille récita :
 
-— « La señorita doit surmonter l’ennui que lui cause la campagne de
+— « La señorita doit surmonter l’ennui que lui cause la campagne de
   presse menée contre elle. Les tristesses prendront fin ce soir, à la
-  Légation…  »
+  Légation… »
 
 Puis d’un ton résolu :
 
@@ -137,7 +137,7 @@ Puis d’un ton résolu :
 — Oui, oui, murmura la comtesse d’un ton indéfinissable, j’ai cédé…
   parce que l’on parlait de ton bonheur.
 
-— Vous m’aimez donc un peu ? fit étourdiment Linérès.
+— Vous m’aimez donc un peu ? fit étourdiment Linérès.
 
 Puis, comme fâchée d’avoir exprimé le doute, naguère confié au carnet
 bleu, elle ajouta vivement :
@@ -184,7 +184,7 @@ intonations allemandes lui échappent parfois, il dit :
   croyait jusqu’ici appartenir seulement à quelques brahmes hindous.
   Elle lit la pensée à travers la boîte du crâne. Elle lit ce qui,
   prétend-elle, dort dans la pensée sans être perceptible à notre
-  intelligence. Cela semble fou, n’est-ce pas ? Je n’y comprends rien
+  intelligence. Cela semble fou, n’est-ce pas ? Je n’y comprends rien
   pour ma part, mais elle m’a stupéfié. J’en ai parlé un jour à notre
   hôte actuel. Il a pensé que Marahi apporterait une attraction plus
   grande à cette soirée. La voici. Éprouvez son talent, et je crois
@@ -198,20 +198,20 @@ disposé à croire.
 
 Seulement, quand Herr Von Foorberg demanda :
 
-— Qui désire entendre Marahi interroger sa pensée ?
+— Qui désire entendre Marahi interroger sa pensée ?
 
 Tout le monde se regarda, mais personne ne se présenta pour subir
 l’expérience. Toute cervelle humaine renferme des secrets que l’on ne
 se soucie pas de voir apparaître au grand jour.
 
-Il y eut des chuchotements, des sourires médisants ; rien de plus.
+Il y eut des chuchotements, des sourires médisants ; rien de plus.
 
 Von Foorberg attendait toujours.
 
 — Voyons, reprit-il, n’est-il personne ici qui souhaite le mot d’une
-  énigme de la vie ? Marahi ne lira rien d’autre. Il arrive, à chaque
+  énigme de la vie ? Marahi ne lira rien d’autre. Il arrive, à chaque
   instant, une chose inexplicable pour qui en est atteint. Ceci n’est
-  point un secret que l’on craigne de voir dévoiler… ; c’est l’x d’un
+  point un secret que l’on craigne de voir dévoiler… ; c’est l’x d’un
   problème que l’on doit désirer connaître.
 
 ![La voyante est une femme âgée, à la peau rouge-brun](../images/part-1/page-068.jpg
@@ -230,15 +230,15 @@ Linérès, assise, la considérait avec stupeur.
 
 — La comtesse de Armencita, chuchotèrent des voix curieuses.
 
-— Vous, Madame ? interrogea von Foorberg.
+— Vous, Madame ? interrogea von Foorberg.
 
 L’interpellée fit oui de la tête, puis avec peine, comme si ses lèvres
 desséchées se refusaient à laisser passer les paroles :
 
 — Depuis notre arrivée à Paris, un mystère menaçant entoure ma fille et
 moi. Des journaux se sont emparés de nos personnes, nous devenons des
-faits divers vivants. Qu’est-ce que cela signifie ? Pourquoi ces choses
-que nous ne comprenons pas ? Que devons-nous faire ?
+faits divers vivants. Qu’est-ce que cela signifie ? Pourquoi ces choses
+que nous ne comprenons pas ? Que devons-nous faire ?
 
 On ne respirait plus.
 
@@ -248,14 +248,14 @@ Le mystère environnant les dames de Armencita, ce mystère qui depuis
 quelques semaines s’imposait aux préoccupations parisiennes, se
 dressait soudain au milieu de cette fête mondaine.
 
-Ah ! maintenant, personne n’était plus tenté de reprocher aux dames de
+Ah ! maintenant, personne n’était plus tenté de reprocher aux dames de
 Armencita de s’être rendues à la Légation.
 
 La question même de la comtesse émouvait. Comme elle avait dû souffrir
-pour clamer ainsi sa peine devant tous !
+pour clamer ainsi sa peine devant tous !
 
 Et puis, si par hasard la liseuse de pensées déchirait le problème…
-quelle satisfaction d’être renseignés avant le reste du monde ! Quel
+quelle satisfaction d’être renseignés avant le reste du monde ! Quel
 triomphe de pouvoir dire aux amis absents :
 
 — J’étais là. J’ai vu. J’ai entendu.
@@ -271,7 +271,7 @@ restant individuellement inutiles.
 Mais les réflexions s’interrompirent net. Von Foorberg demandait à
 l’Indienne :
 
-— Marahi a entendu. Peut-elle ce que l’on réclame de son pouvoir ?
+— Marahi a entendu. Peut-elle ce que l’on réclame de son pouvoir ?
 
 La voyante haussa les épaules d’un air de doute, puis lentement elle
 s’approcha de la comtesse et appliqua la main sur son front.
@@ -296,13 +296,13 @@ Mais la stupeur fut à son comble quand Marahi murmura d’un ton pensif :
 
 Un cri vibra :
 
-— Adoptée !
+— Adoptée !
 
 Linérès était debout, bouleversée :
 
-— Adoptée ? redit-elle.
+— Adoptée ? redit-elle.
 
-— Tu ne le savais pas ? jeune fille, questionna la voyante.
+— Tu ne le savais pas ? jeune fille, questionna la voyante.
 
 Ce fut la comtesse qui répondit :
 
@@ -321,7 +321,7 @@ Elle avait lu dans l’esprit de M^me^ de Armencita le secret ignoré de tous.
 Marahi a prononcé cela d’une voix lente, monotone. L’attention redouble.
 
 — Jeune fille, reprend-elle, consens-tu à ce que la femme rouge sonde les
-  profondeurs de ta pensée, où tu n’as jamais pénétré toi-même ?
+  profondeurs de ta pensée, où tu n’as jamais pénétré toi-même ?
 
 Il y eut un instant de lourd silence. Les regards convergeaient sur
 Linérès qui, très pâle, le visage contracté, semblait en proie à une
@@ -337,11 +337,11 @@ rapprocher des interlocutrices.
 
 Von Foorberg seul présentait une face rayonnante.
 
-Son « attraction » obtenait un succès expliquant sa satisfaction.
+Son « attraction » obtenait un succès expliquant sa satisfaction.
 
 Marahi avait appliqué la main sur le front de Linérès.
 
-— Oh ! murmura la jeune fille, quel froid !…
+— Oh ! murmura la jeune fille, quel froid !…
 
 La vieille femme se pencha vers elle, et remuant à peine les lèvres, si
 bas que personne autre ne put saisir ses paroles.
@@ -352,10 +352,10 @@ Puis élevant la voix :
 
 — Tu n’es pas Espagnole, dit-elle.
 
-— Pas Espagnole ! répéta Linérès abasourdie de se voir, en quelques
+— Pas Espagnole ! répéta Linérès abasourdie de se voir, en quelques
   répliques dépouiller d’une mère et d’une nationalité.
 
-— Pas Espagnole ! susurrèrent les auditeurs.
+— Pas Espagnole ! susurrèrent les auditeurs.
 
 — Non, reprit Marahi, tu es née bien loin, dans les pays du soleil. Ton
   père était de race franque, ta mère était la parente pauvre d’un
@@ -370,12 +370,12 @@ Mais l’ironie n’éveilla aucun écho. Marahi continuait :
   aveuglante, entre deux mers, s’étendant plus vastes que dix départements
   de ce pays de France.
 
-— Mais ces parents dont vous parlez ? s’écria la jeune fille, oubliant
+— Mais ces parents dont vous parlez ? s’écria la jeune fille, oubliant
   que deux cents yeux se fixaient sur elle.
 
 — Ta mère vit…, auprès de son cousin, le riche Américain.
 
-— Elle vit… mais mon père…? 
+— Elle vit… mais mon père… ? 
 
 — Il est mort, assassiné par ceux qui t’arrachèrent tout enfant à ta
   famille, qui te poursuivent encore à cette heure.
@@ -391,7 +391,7 @@ Le feuilleton le plus audacieux était dépassé.
 Et l’héroïne de ce roman apparaissait auréolée par une douleur surhumaine,
 adorable et touchante.
 
-— Je reverrai ma mère ? balbutia-t-elle d’une voix éteinte.
+— Je reverrai ma mère ? balbutia-t-elle d’une voix éteinte.
 
 On eût entendu une mouche voler. Chacun retenait sa respiration pour
 percevoir la réponse de la voyante.
@@ -420,7 +420,7 @@ et sur cette plaque se dessinait le visage d’un jeune homme.
 Elle ne chercha point à comprendre comment ce phénomène s’était produit.
 Emportée par la situation, elle prononça seulement :
 
-— Je le verrai ?
+— Je le verrai ?
 
 — Ce soir, acheva la voyante d’une voix légère comme un souffle.
 
@@ -434,8 +434,8 @@ Von Foorberg la reçut dans ses bras.
 
 Aux personnes les plus proches qui s’empressaient, il dit très vite :
 
-— Une crise… ! Marahi y est sujette après ses périodes de « lecture de
-pensées ». Je vais la ramener chez elle… Du repos, voilà tout ce dont
+— Une crise… ! Marahi y est sujette après ses périodes de « lecture de
+pensées ». Je vais la ramener chez elle… Du repos, voilà tout ce dont
 elle a besoin.
 
 Repoussant les curieux du geste, il enleva dans ses bras, sans effort
@@ -451,7 +451,7 @@ La comtesse de Armencita, Linérès étaient elles-mêmes oubliées,
 absorbées en quelque sorte par l’intérêt qu’accaparait la voyante.
 
 Les problèmes déconcertants, soupçonnés par les grands maîtres du
-Psychisme, étaient-ils réels ?
+Psychisme, étaient-ils réels ?
 
 Linéres cependant reprenait peu à peu possession de son sang-froid.
 
@@ -462,7 +462,7 @@ l’entrée du petit salon où elle pénétra.
 Mais la jolie pièce était maintenant déserte. Von Foorberg et Marahi
 avaient disparu.
 
-— Oh ! murmura la jeune Espagnole, j’aurais voulu savoir davantage… Ma
+— Oh ! murmura la jeune Espagnole, j’aurais voulu savoir davantage… Ma
 mère… Cette Indienne…
 
 Et avec un geste de dépit, elle se laissa choir dans un fauteuil, où elle
@@ -470,8 +470,8 @@ s’immobilisa, la figure rêveuse, le regard vague, se berçant des
 confidences inattendues qui venaient de bouleverser l’orientation
 morale de sa vie.
 
-![Oh ! Murmura la jeune fille, quel froid !](../images/part-1/page-073.jpg
-"Oh ! Murmura la jeune fille, quel froid !")
+![Oh ! Murmura la jeune fille, quel froid !](../images/part-1/page-073.jpg
+"Oh ! Murmura la jeune fille, quel froid !")
 
 Soudain, Linérès eut l’impresssion qu’un corps opaque s’était interposé
 entre elle et les objets environnants.
@@ -480,7 +480,7 @@ Le rêve se dissipa. Ses yeux regardèrent.
 
 Et ses lèvres s’ouvrirent sur ce monosyllabe stupéfait :
 
-— Vous ?
+— Vous ?
 
 Debout en face d’elle, respectueux et ému, se tenait l’inconnu dont
 l’lndienne Marahi lui avait tout à l’heure montré le portrait sur la
@@ -488,33 +488,33 @@ plaque métallique :
 
 Pierre de Chazelet.
 
-— Vous me connaissez ? fit-il d’une voix tremblante, tandis qu’une pâleur
+— Vous me connaissez ? fit-il d’une voix tremblante, tandis qu’une pâleur
 s’abaissait sur ses traits.
 
 Et elle, encouragée par le trouble où elle le voyait, répondit :
 
-— Oui mais vous ?
+— Oui mais vous ?
 
 Il lui présenta à son tour, un disque de métal sur lequel la jeune fille
 reconnu son image.
 
-— Mon portrait ? Comment ?
+— Mon portrait ? Comment ?
 
 — Je ne saurais expliquer. J’étais au milieu de l’Espagne, près de
   Armencita.
 
-— Ah !
+— Ah !
 
 — Une gitana m’a remis ceci.
 
-— Une gitana ?… Et moi, c’est une sorte de voyante, de liseuse d’avenir
+— Une gitana ?… Et moi, c’est une sorte de voyante, de liseuse d’avenir
   qui m’a montré votre visage…
 
-— Étrange !
+— Étrange !
 
 — Mais, continuez… Je m’étonne que ma mère - Linéres prononça ce mot avec
   une douloureuse inflexion - que ma mère ne se soit pas encore
-  inquiétée de mon absence…; continuez.
+  inquiétée de mon absence… ; continuez.
 
 Il s’inclina, puis doucement :
 
@@ -528,7 +528,7 @@ en avant comme pour repousser sa pensée.
   vouloir m’épouser… Voyez, l’on en meurt…
 
 — Cela n’est pas pour m’effrayer… Qui sait, répliqua doucement Pierre, je
-  serai entre vous et le malheur ; entre vous et le crime… Qui a voulu
+  serai entre vous et le malheur ; entre vous et le crime… Qui a voulu
   cela, je l’ignore… Il m’importe peu. Amie ou ennemie, je remercie la
   volonté qui m’a conduit.
 
@@ -543,13 +543,13 @@ La comtesse, entourée par plusieurs personnes, apparaissait sur le seuil.
 
 Il fallait répondre sans retard, le loisir de la discussion n’existait pas.
 
-— Demain soir, fit-elle dans un murmure, nous serons seules ; nous vous
+— Demain soir, fit-elle dans un murmure, nous serons seules ; nous vous
   attendrons.
 
 Puis courant à M^me^ de Armencita :
 
-— Ah ! sécria-t-elle, toute la fantasmagorie de ce soir m’a brisée, et je
-  me serais endormie, je crois, si M. le marquis de Chazelet n’avait
+— Ah ! sécria-t-elle, toute la fantasmagorie de ce soir m’a brisée, et je
+  me serais endormie, je crois, si M. le marquis de Chazelet n’avait
   réussi à m’intéresser à une histoire de gitana qu’il rapporte d’Espagne.
 
 C’était une présentation indirecte.
