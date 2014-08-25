@@ -9,7 +9,7 @@
     <meta refines="#epub-title-2" property="title-type">subtitle</meta>
     <dc:title id="epub-title-3">Voyages extraordinaires</dc:title>
     <meta refines="#epub-title-3" property="title-type">collection</meta>
-    <dc:date>2014-08-25T14:10:18Z</dc:date>
+    <dc:date>2014-08-25T14:27:52Z</dc:date>
     <dc:language>fr-FR</dc:language>
     <dc:creator id="epub-creator-1">Paul d’Ivoi</dc:creator>
     <meta refines="#epub-creator-1" property="role" scheme="marc:relators">aut</meta>
@@ -42,7 +42,7 @@ acharnée du bien contre le mal.</dc:description>
     <dc:publisher>Tooptee Edition</dc:publisher>
     <dc:rights>© 2014 Tooptee Edition, Public Domain</dc:rights>
     <meta name="cover" content="cover-image" />
-    <meta property="dcterms:modified">2014-08-25T14:10:18Z</meta>
+    <meta property="dcterms:modified">2014-08-25T14:27:52Z</meta>
   </metadata>
   <manifest>
     <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml" />
