@@ -464,7 +464,7 @@ quelque sorte.
 — Marchons donc.
 
 Les deux amis quittèrent le palais d’Orsay, et suivant les quais,
-déambulèrent en flâneurs dans 1a direction du pont de la Concorde.
+déambulèrent en flâneurs dans la direction du pont de la Concorde.
 
 Morand racontait à son ami les détails de la vie de Paris, durant son
 absence. Il ne manquait pas d’esprit, son récit s’émaillait de
@@ -502,7 +502,7 @@ puis un article des échos mondains.
 
 La manchette disait :
 
-> La série noire continue. -- Encore la Fiancée du Diable !
+> La série noire continue. Encore la Fiancée du Diable !
 
 L’article, assaisonné de commentaires spirituels ou émus, relatait que le
 millionnaire Garavaud, peintre, journaliste, etc., lequel, par bravade,
@@ -751,8 +751,8 @@ plaquettes 7, 16, 21 et 25 se rabattent.
 Les réponses ne laissèrent aucun doute. Les cohéreurs _non accordés_
 n’avaient point signalé le passage des ondes sans fil.
 
-![Messieurs, si vous 1e permettez, nous allons commencer les expériences](../images/part-1/page-059.jpg
-"Messieurs, si vous 1e permettez, nous allons commencer les expériences")
+![Messieurs, si vous le permettez, nous allons commencer les expériences](../images/part-1/page-059.jpg
+"Messieurs, si vous le permettez, nous allons commencer les expériences")
 
 Très intéressés, les assistants répétaient l’expérience, chacun
 s’amusant à la manipulation des appareils, guidés par les sapeurs

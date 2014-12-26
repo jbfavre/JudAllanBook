@@ -285,7 +285,7 @@ La voix sonna autoritaire, tel un appel de clairon.
 
 Tous avaient tressailli. Ils regardaient le groupe formé par les deux
 femmes si différentes de race, de condition, surpris de constater que
-la peau- rouge semblait dominer la grande dame. Peut-être quelques-uns,
+la peau-rouge semblait dominer la grande dame. Peut-être quelques-uns,
 à cette heure, avaient-ils la vague intuition que la noblesse ne tient
 pas à une particule.
 
