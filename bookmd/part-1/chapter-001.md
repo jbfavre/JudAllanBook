@@ -746,7 +746,7 @@ et ses lèvres, agitées de palpitations rapides, semblaient livrer passage
 Le marquis ne songeait plus à rien.
 
 Il se sentait envahi par un trouble inexprimable. Le paysage désolé,
-éblouissant sous 1’or du soleil, cette marmite bourdonnant sur le feu ainsi
+éblouissant sous l’or du soleil, cette marmite bourdonnant sur le feu ainsi
 qu’un insecte géant, et surtout cette Gitane majestueuse sous ses haillons,
 tout cela revêtait une apparence fantastique qui devait nécessairement
 impressionner l’organisation nerveuse, affinée du jeune homme.
@@ -814,7 +814,7 @@ De nouveau, la vieille femme fit entendre son rire grelottant :
 — Je ne t’interroge pas, prononça-t-elle après cette manifestation
   railleuse, je ne me soucie pas de tes projets, je t’enseigne ce qui sera.
   Tu iras en Amérique, oui, mais en passant par Paris, non par Cadix. Et
-  c’est fort heureux, car c’est 1à que les lignes de rencontre indiquent
+  c’est fort heureux, car c’est là que les lignes de rencontre indiquent
   que tu te trouveras en présence de la personne chère à ton esprit.
 
 Puis, arrêtant net toute nouvelle question :
@@ -853,7 +853,7 @@ avec lui.
 Ramrah le ramassa vite, et le pétrissant dans ses mains :
 
 — Stupides, s’écria-t-elle, stupides ces hommes au visage pâle. Celui-ci
-  s’en va, convaincu par un simple tour d’escamotage… Et 1’autre, 1’autre
+  s’en va, convaincu par un simple tour d’escamotage… Et l’autre, l’autre
   qui pense que je le sers, alors que je fournis au vengeur l’arme dont il
   a besoin…
 
