@@ -379,7 +379,7 @@ Frey Jemkins la considéra avec complaisance, puis doucement:
 — Ne m’en veuillez pas, ma cousine, de vous arracher à votre agréable
   occupation. L’heure est venue d’effectuer la promenade symbolique des fiancés…
   Je vous en aurais volontiers dispensée, mais les gens du pays… Donc, si vous
-  n’y voyez pas dînconvénient, nous rejoindrons au salon votre mère, Lily
+  n’y voyez pas d'inconvénient, nous rejoindrons au salon votre mère, Lily
   Pariset, qui vous attend pour vous accompagner.
 
 Sa mère, cette femme infortunée qui l’avait repoussée, qui avait donné sans

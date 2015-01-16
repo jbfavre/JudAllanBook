@@ -146,7 +146,7 @@ Celui-ci montra Oruki debout à quelques pas.
 Les dernières défiances de la Chinoise s’effacèrent à ces paroles.
 
 Elle franchit la barrière, suivie par l’Indien, tandis que le factionnaire
-Oruki, enchanté d’en être quiite à si bon marché, rammassait sa carabine et
+Oruki, enchanté d’en être quitte à si bon marché, rammassait sa carabine et
 reprenait son monotone va et vient.
 
 Quelques minutes après, Rouge-Fleur et le messager se trouvaient dans une
